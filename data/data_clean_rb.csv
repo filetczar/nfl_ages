@@ -1,0 +1,1301 @@
+Rk,Player,Year,Age,Draft,Tm,Lg,G,GS,Att,Yds,Y/A,TD,Y/G,name,key,Round,Pick,ageGroup
+1,Larry Johnson\JohnLa00,2006,27,1-27,KAN,NFL,16,16,416,1789,4.3,17,111.8,Larry Johnson,LarryJohnson27KAN2006,1,106,25-28
+2,Eddie George\GeorEd00,2000,27,1-14,TEN,NFL,16,16,403,1509,3.74,14,94.3,Eddie George,EddieGeorge27TEN2000,1,38,25-28
+3,DeMarco Murray\MurrDe00,2014,26,3-71,DAL,NFL,16,16,392,1845,4.71,13,115.3,DeMarco Murray,DeMarcoMurray26DAL2014,3,146,25-28
+4,Ricky Williams\WillRi00,2003,26,1-5,MIA,NFL,16,16,392,1372,3.5,9,85.8,Ricky Williams,RickyWilliams26MIA2003,1,127,25-28
+5,Edgerrin James\JameEd00,2000,22,1-4,IND,NFL,16,16,387,1709,4.42,13,106.8,Edgerrin James,EdgerrinJames22IND2000,1,118,< 24
+6,Jamal Lewis\LewiJa00,2003,24,1-5,BAL,NFL,16,16,387,2066,5.34,14,129.1,Jamal Lewis,JamalLewis24BAL2003,1,127,< 24
+7,Ricky Williams\WillRi00,2002,25,1-5,MIA,NFL,16,16,383,1853,4.84,16,115.8,Ricky Williams,RickyWilliams25MIA2002,1,127,25-28
+8,Michael Turner\TurnMi00,2008,26,5-154,ATL,NFL,16,16,376,1699,4.52,17,106.2,Michael Turner,MichaelTurner26ATL2008,5,49,25-28
+9,LaDainian Tomlinson*\TomlLa00,2002,23,1-5,SDG,NFL,16,16,372,1683,4.52,14,105.2,LaDainian Tomlinson*,LaDainianTomlinson*23SDG2002,1,127,< 24
+10,Curtis Martin*\MartCu00,2004,31,3-74,NYJ,NFL,16,16,371,1697,4.57,12,106.1,Curtis Martin*,CurtisMartin*31NYJ2004,3,148,29-32
+11,Shaun Alexander\AlexSh00,2005,28,1-19,SEA,NFL,16,16,370,1880,5.08,27,117.5,Shaun Alexander,ShaunAlexander28SEA2005,1,71,25-28
+12,Adrian Peterson\PeteAd01,2008,23,1-7,MIN,NFL,16,15,363,1760,4.85,10,110,Adrian Peterson,AdrianPeterson23MIN2008,1,145,< 24
+13,Rudi Johnson\JohnRu00,2004,25,4-100,CIN,NFL,16,16,361,1454,4.03,12,90.9,Rudi Johnson,RudiJohnson25CIN2004,4,3,25-28
+14,Edgerrin James\JameEd00,2005,27,1-4,IND,NFL,15,15,360,1506,4.18,13,100.4,Edgerrin James,EdgerrinJames27IND2005,1,118,25-28
+15,Chris Johnson\JohnCh04,2009,24,1-24,TEN,NFL,16,16,358,2006,5.6,14,125.4,Chris Johnson,ChrisJohnson24TEN2009,1,96,< 24
+16,Tiki Barber\BarbTi00,2005,30,2-36,NYG,NFL,16,16,357,1860,5.21,9,116.3,Tiki Barber,TikiBarber30NYG2005,2,114,29-32
+17,Stephen Davis\DaviSt00,2001,27,4-102,WAS,NFL,16,16,356,1432,4.02,5,89.5,Stephen Davis,StephenDavis27WAS2001,4,5,25-28
+18,Jerome Bettis*\BettJe00,2000,28,1-10,PIT,NFL,16,16,355,1341,3.78,8,83.8,Jerome Bettis*,JeromeBettis*28PIT2000,1,2,25-28
+19,Ahman Green\GreeAh00,2003,26,3-76,GNB,NFL,16,16,355,1883,5.3,15,117.7,Ahman Green,AhmanGreen26GNB2003,3,150,25-28
+20,Shaun Alexander\AlexSh00,2004,27,1-19,SEA,NFL,16,16,353,1696,4.8,16,106,Shaun Alexander,ShaunAlexander27SEA2004,1,71,25-28
+21,Clinton Portis\PortCl00,2005,24,2-51,WAS,NFL,16,16,352,1516,4.31,11,94.8,Clinton Portis,ClintonPortis24WAS2005,2,128,< 24
+22,Arian Foster\FostAr00,2012,26,NA,HOU,NFL,16,16,351,1424,4.06,15,89,Arian Foster,ArianFoster26HOU2012,Undrafted,Undrafted,25-28
+23,Deuce McAllister\McAlDe00,2003,25,1-23,NOR,NFL,16,16,351,1641,4.68,8,102.6,Deuce McAllister,DeuceMcAllister25NOR2003,1,90,25-28
+24,Adrian Peterson\PeteAd01,2012,27,1-7,MIN,NFL,16,16,348,2097,6.03,12,131.1,Adrian Peterson,AdrianPeterson27MIN2012,1,145,25-28
+25,LaDainian Tomlinson*\TomlLa00,2006,27,1-5,SDG,NFL,16,16,348,1815,5.22,28,113.4,LaDainian Tomlinson*,LaDainianTomlinson*27SDG2006,1,127,25-28
+26,Steven Jackson\JackSt00,2006,23,1-24,STL,NFL,16,16,346,1528,4.42,13,95.5,Steven Jackson,StevenJackson23STL2006,1,96,< 24
+27,Corey Dillon\DillCo00,2004,30,2-43,NWE,NFL,15,14,345,1635,4.74,12,109,Corey Dillon,CoreyDillon30NWE2004,2,121,29-32
+28,Fred Taylor\TaylFr00,2003,27,1-9,JAX,NFL,16,16,345,1572,4.56,6,98.3,Fred Taylor,FredTaylor27JAX2003,1,162,25-28
+29,Eddie George\GeorEd00,2002,29,1-14,TEN,NFL,16,16,343,1165,3.4,12,72.8,Eddie George,EddieGeorge29TEN2002,1,38,29-32
+30,Maurice Jones-Drew\DrewMa00,2011,26,2-60,JAX,NFL,16,16,343,1606,4.68,8,100.4,Maurice Jones-Drew,MauriceJones-Drew26JAX2011,2,137,25-28
+31,Clinton Portis\PortCl00,2004,23,2-51,WAS,NFL,15,15,343,1315,3.83,5,87.7,Clinton Portis,ClintonPortis23WAS2004,2,128,< 24
+32,Clinton Portis\PortCl00,2008,27,2-51,WAS,NFL,16,16,342,1487,4.35,9,92.9,Clinton Portis,ClintonPortis27WAS2008,2,128,25-28
+33,Rudi Johnson\JohnRu00,2006,27,4-100,CIN,NFL,16,15,341,1309,3.84,12,81.8,Rudi Johnson,RudiJohnson27CIN2006,4,3,25-28
+34,Corey Dillon\DillCo00,2001,27,2-43,CIN,NFL,16,16,340,1315,3.87,10,82.2,Corey Dillon,CoreyDillon27CIN2001,2,121,25-28
+35,James Stewart\StewJa00,2000,29,1-19,DET,NFL,16,16,339,1184,3.49,10,74,James Stewart,JamesStewart29DET2000,1,71,29-32
+36,LaDainian Tomlinson*\TomlLa00,2004,25,1-5,SDG,NFL,15,15,339,1335,3.94,17,89,LaDainian Tomlinson*,LaDainianTomlinson*25SDG2004,1,127,25-28
+37,LaDainian Tomlinson*\TomlLa00,2005,26,1-5,SDG,NFL,16,16,339,1462,4.31,18,91.4,LaDainian Tomlinson*,LaDainianTomlinson*26SDG2005,1,127,25-28
+38,LaDainian Tomlinson*\TomlLa00,2001,22,1-5,SDG,NFL,16,16,339,1236,3.65,10,77.3,LaDainian Tomlinson*,LaDainianTomlinson*22SDG2001,1,127,< 24
+39,Edgerrin James\JameEd00,2006,28,1-4,ARI,NFL,16,16,337,1159,3.44,6,72.4,Edgerrin James,EdgerrinJames28ARI2006,1,118,25-28
+40,Rudi Johnson\JohnRu00,2005,26,4-100,CIN,NFL,16,14,337,1458,4.33,12,91.1,Rudi Johnson,RudiJohnson26CIN2005,4,3,25-28
+41,Willie Parker\ParkWi00,2006,26,NA,PIT,NFL,16,16,337,1494,4.43,13,93.4,Willie Parker,WillieParker26PIT2006,Undrafted,Undrafted,25-28
+42,Larry Johnson\JohnLa00,2005,26,1-27,KAN,NFL,16,9,336,1750,5.21,20,109.4,Larry Johnson,LarryJohnson26KAN2005,1,106,25-28
+43,Alfred Morris\MorrAl00,2012,24,6-173,WAS,NFL,16,16,335,1613,4.81,13,100.8,Alfred Morris,AlfredMorris24WAS2012,6,59,< 24
+44,Edgerrin James\JameEd00,2004,26,1-4,IND,NFL,16,16,334,1548,4.63,9,96.8,Edgerrin James,EdgerrinJames26IND2004,1,118,25-28
+45,Michael Turner\TurnMi00,2010,28,5-154,ATL,NFL,16,15,334,1371,4.1,12,85.7,Michael Turner,MichaelTurner28ATL2010,5,49,25-28
+46,Curtis Martin*\MartCu00,2001,28,3-74,NYJ,NFL,16,16,333,1513,4.54,10,94.6,Curtis Martin*,CurtisMartin*28NYJ2001,3,148,25-28
+47,Stephen Davis\DaviSt00,2000,26,4-102,WAS,NFL,15,15,332,1318,3.97,11,87.9,Stephen Davis,StephenDavis26WAS2000,4,5,25-28
+48,Travis Henry\HenrTr00,2003,25,2-58,BUF,NFL,15,15,331,1356,4.1,10,90.4,Travis Henry,TravisHenry25BUF2003,2,135,25-28
+49,Thomas Jones\JoneTh00,2009,31,1-7,NYJ,NFL,16,16,331,1402,4.24,14,87.6,Thomas Jones,ThomasJones31NYJ2009,1,145,29-32
+50,Steven Jackson\JackSt00,2010,27,1-24,STL,NFL,16,16,330,1241,3.76,6,77.6,Steven Jackson,StevenJackson27STL2010,1,96,25-28
+51,Tiki Barber\BarbTi00,2006,31,2-36,NYG,NFL,16,16,327,1662,5.08,5,103.9,Tiki Barber,TikiBarber31NYG2006,2,114,29-32
+52,Arian Foster\FostAr00,2010,24,NA,HOU,NFL,16,13,327,1616,4.94,16,101,Arian Foster,ArianFoster24HOU2010,Undrafted,Undrafted,< 24
+53,Priest Holmes\HolmPr00,2001,28,NA,KAN,NFL,16,16,327,1555,4.76,8,97.2,Priest Holmes,PriestHolmes28KAN2001,Undrafted,Undrafted,25-28
+54,Adrian Peterson\PeteAd01,2015,30,1-7,MIN,NFL,16,16,327,1485,4.54,11,92.8,Adrian Peterson,AdrianPeterson30MIN2015,1,145,29-32
+55,Shaun Alexander\AlexSh00,2003,26,1-19,SEA,NFL,16,15,326,1435,4.4,14,89.7,Shaun Alexander,ShaunAlexander26SEA2003,1,71,25-28
+56,Travis Henry\HenrTr00,2002,24,2-58,BUF,NFL,16,16,325,1438,4.42,13,89.9,Travis Henry,TravisHenry24BUF2002,2,135,< 24
+57,Deuce McAllister\McAlDe00,2002,24,1-23,NOR,NFL,15,15,325,1388,4.27,13,92.5,Deuce McAllister,DeuceMcAllister24NOR2002,1,90,< 24
+58,Willis McGahee\McGaWi00,2005,24,1-23,BUF,NFL,16,15,325,1247,3.84,5,77.9,Willis McGahee,WillisMcGahee24BUF2005,1,90,< 24
+59,Clinton Portis\PortCl00,2007,26,2-51,WAS,NFL,16,16,325,1262,3.88,11,78.9,Clinton Portis,ClintonPortis26WAS2007,2,128,25-28
+60,Steven Jackson\JackSt00,2009,26,1-24,STL,NFL,15,15,324,1416,4.37,4,94.4,Steven Jackson,StevenJackson26STL2009,1,96,25-28
+61,Edgerrin James\JameEd00,2007,29,1-4,ARI,NFL,16,16,324,1222,3.77,7,76.4,Edgerrin James,EdgerrinJames29ARI2007,1,118,29-32
+62,Rashard Mendenhall\MendRa00,2010,23,1-23,PIT,NFL,16,16,324,1273,3.93,13,79.6,Rashard Mendenhall,RashardMendenhall23PIT2010,1,90,< 24
+63,Curtis Martin*\MartCu00,2003,30,3-74,NYJ,NFL,16,16,323,1308,4.05,2,81.8,Curtis Martin*,CurtisMartin*30NYJ2003,3,148,29-32
+64,Tiki Barber\BarbTi00,2004,29,2-36,NYG,NFL,16,14,322,1518,4.71,13,94.9,Tiki Barber,TikiBarber29NYG2004,2,114,29-32
+65,Ezekiel Elliott\ElliEz00,2016,21,1-4,DAL,NFL,15,15,322,1631,5.07,15,108.7,Ezekiel Elliott,EzekielElliott21DAL2016,1,118,< 24
+66,Le'Veon Bell\BellLe00,2017,25,2-48,PIT,NFL,15,15,321,1291,4.02,9,86.1,Le'Veon Bell,Le'VeonBell25PIT2017,2,125,25-28
+67,Cedric Benson\BensCe00,2010,28,1-4,CIN,NFL,16,16,321,1111,3.46,7,69.4,Cedric Benson,CedricBenson28CIN2010,1,118,25-28
+68,Willie Parker\ParkWi00,2007,27,NA,PIT,NFL,15,15,321,1316,4.1,2,87.7,Willie Parker,WillieParker27PIT2007,Undrafted,Undrafted,25-28
+69,Priest Holmes\HolmPr00,2003,30,NA,KAN,NFL,16,16,320,1420,4.44,27,88.8,Priest Holmes,PriestHolmes30KAN2003,Undrafted,Undrafted,29-32
+70,Doug Martin\MartDo00,2012,23,1-31,TAM,NFL,16,16,319,1454,4.56,11,90.9,Doug Martin,DougMartin23TAM2012,1,110,< 24
+71,Stephen Davis\DaviSt00,2003,29,4-102,CAR,NFL,14,14,318,1444,4.54,8,103.1,Stephen Davis,StephenDavis29CAR2003,4,5,29-32
+72,Matt Forte\FortMa00,2008,23,2-44,CHI,NFL,16,16,316,1238,3.92,8,77.4,Matt Forte,MattForte23CHI2008,2,122,< 24
+73,Chris Johnson\JohnCh04,2010,25,1-24,TEN,NFL,16,16,316,1364,4.32,11,85.3,Chris Johnson,ChrisJohnson25TEN2010,1,96,25-28
+74,Curtis Martin*\MartCu00,2000,27,3-74,NYJ,NFL,16,16,316,1204,3.81,9,75.3,Curtis Martin*,CurtisMartin*27NYJ2000,3,148,25-28
+75,Corey Dillon\DillCo00,2000,26,2-43,CIN,NFL,16,16,315,1435,4.56,7,89.7,Corey Dillon,CoreyDillon26CIN2000,2,121,25-28
+76,Eddie George\GeorEd00,2001,28,1-14,TEN,NFL,16,16,315,939,2.98,5,58.7,Eddie George,EddieGeorge28TEN2001,1,38,25-28
+77,Marshawn Lynch\LyncMa00,2012,26,1-12,SEA,NFL,16,15,315,1590,5.05,11,99.4,Marshawn Lynch,MarshawnLynch26SEA2012,1,22,25-28
+78,LaDainian Tomlinson*\TomlLa00,2007,28,1-5,SDG,NFL,16,16,315,1474,4.68,15,92.1,LaDainian Tomlinson*,LaDainianTomlinson*28SDG2007,1,127,25-28
+79,Corey Dillon\DillCo00,2002,28,2-43,CIN,NFL,16,16,314,1311,4.18,7,81.9,Corey Dillon,CoreyDillon28CIN2002,2,121,25-28
+80,Thomas Jones\JoneTh00,2005,27,1-7,CHI,NFL,15,15,314,1335,4.25,9,89,Thomas Jones,ThomasJones27CHI2005,1,145,25-28
+81,Jamal Lewis\LewiJa00,2006,27,1-5,BAL,NFL,16,16,314,1132,3.61,9,70.8,Jamal Lewis,JamalLewis27BAL2006,1,127,25-28
+82,LeSean McCoy\McCoLe01,2013,25,2-53,PHI,NFL,16,16,314,1607,5.12,9,100.4,LeSean McCoy,LeSeanMcCoy25PHI2013,2,130,25-28
+83,Adrian Peterson\PeteAd01,2009,24,1-7,MIN,NFL,16,15,314,1383,4.4,18,86.4,Adrian Peterson,AdrianPeterson24MIN2009,1,145,< 24
+84,Priest Holmes\HolmPr00,2002,29,NA,KAN,NFL,14,14,313,1615,5.16,21,115.4,Priest Holmes,PriestHolmes29KAN2002,Undrafted,Undrafted,29-32
+85,Lamar Smith\SmitLa00,2001,31,3-73,MIA,NFL,16,16,313,968,3.09,6,60.5,Lamar Smith,LamarSmith31MIA2001,3,147,29-32
+86,LaDainian Tomlinson*\TomlLa00,2003,24,1-5,SDG,NFL,16,16,313,1645,5.26,13,102.8,LaDainian Tomlinson*,LaDainianTomlinson*24SDG2003,1,127,< 24
+87,Ricky Williams\WillRi00,2001,24,1-5,NOR,NFL,16,16,313,1245,3.98,6,77.8,Ricky Williams,RickyWilliams24NOR2001,1,127,< 24
+88,Eddie George\GeorEd00,2003,30,1-14,TEN,NFL,16,16,312,1031,3.3,5,64.4,Eddie George,EddieGeorge30TEN2003,1,38,29-32
+89,Frank Gore\GoreFr00,2006,23,3-65,SFO,NFL,16,16,312,1695,5.43,8,105.9,Frank Gore,FrankGore23SFO2006,3,142,< 24
+90,Ryan Grant\GranRy00,2008,26,NA,GNB,NFL,16,14,312,1203,3.86,4,75.2,Ryan Grant,RyanGrant26GNB2008,Undrafted,Undrafted,25-28
+91,Maurice Jones-Drew\DrewMa00,2009,24,2-60,JAX,NFL,16,16,312,1391,4.46,15,86.9,Maurice Jones-Drew,MauriceJones-Drew24JAX2009,2,137,< 24
+92,LeSean McCoy\McCoLe01,2014,26,2-53,PHI,NFL,16,16,312,1319,4.23,5,82.4,LeSean McCoy,LeSeanMcCoy26PHI2014,2,130,25-28
+93,Edgerrin James\JameEd00,2003,25,1-4,IND,NFL,13,13,310,1259,4.06,11,96.8,Edgerrin James,EdgerrinJames25IND2003,1,118,25-28
+94,Thomas Jones\JoneTh00,2007,29,1-7,NYJ,NFL,16,14,310,1119,3.61,1,69.9,Thomas Jones,ThomasJones29NYJ2007,1,145,29-32
+95,Shaun Alexander\AlexSh00,2001,24,1-19,SEA,NFL,16,12,309,1318,4.27,14,82.4,Shaun Alexander,ShaunAlexander24SEA2001,1,71,< 24
+96,Reuben Droughns\DrouRe00,2005,27,3-81,CLE,NFL,16,16,309,1232,3.99,2,77,Reuben Droughns,ReubenDroughns27CLE2005,3,155,25-28
+97,Jamal Lewis\LewiJa00,2000,21,1-5,BAL,NFL,16,13,309,1364,4.41,6,85.3,Jamal Lewis,JamalLewis21BAL2000,1,127,< 24
+98,Lamar Smith\SmitLa00,2000,30,3-73,MIA,NFL,15,15,309,1139,3.69,14,75.9,Lamar Smith,LamarSmith30MIA2000,3,147,29-32
+99,Jamal Lewis\LewiJa00,2002,23,1-5,BAL,NFL,16,15,308,1327,4.31,6,82.9,Jamal Lewis,JamalLewis23BAL2002,1,127,< 24
+100,Ray Rice\RiceRa00,2010,23,2-55,BAL,NFL,16,14,307,1220,3.97,5,76.3,Ray Rice,RayRice23BAL2010,2,132,< 24
+101,Tiki Barber\BarbTi00,2002,27,2-36,NYG,NFL,16,15,304,1387,4.56,11,86.7,Tiki Barber,TikiBarber27NYG2002,2,114,25-28
+102,Ahman Green\GreeAh00,2001,24,3-76,GNB,NFL,16,16,304,1387,4.56,9,86.7,Ahman Green,AhmanGreen24GNB2001,3,150,< 24
+103,Chester Taylor\TaylCh01,2006,27,6-207,MIN,NFL,15,15,303,1216,4.01,6,81.1,Chester Taylor,ChesterTaylor27MIN2006,6,82,25-28
+104,LenDale White\WhitLe01,2007,23,2-45,TEN,NFL,16,16,303,1110,3.66,7,69.4,LenDale White,LenDaleWhite23TEN2007,2,123,< 24
+105,Domanick Williams\DaviDo01,2004,24,4-101,HOU,NFL,15,15,302,1188,3.93,13,79.2,Domanick Williams,DomanickWilliams24HOU2004,4,4,< 24
+106,Cedric Benson\BensCe00,2009,27,1-4,CIN,NFL,13,13,301,1251,4.16,6,96.2,Cedric Benson,CedricBenson27CIN2009,1,118,25-28
+107,Marshawn Lynch\LyncMa00,2013,27,1-12,SEA,NFL,16,16,301,1257,4.18,12,78.6,Marshawn Lynch,MarshawnLynch27SEA2013,1,22,25-28
+108,Michael Turner\TurnMi00,2011,29,5-154,ATL,NFL,16,15,301,1340,4.45,11,83.8,Michael Turner,MichaelTurner29ATL2011,5,49,29-32
+109,LeGarrette Blount\BlouLe00,2016,30,NA,NWE,NFL,16,8,299,1161,3.88,18,72.6,LeGarrette Blount,LeGarretteBlount30NWE2016,Undrafted,Undrafted,29-32
+110,Maurice Jones-Drew\DrewMa00,2010,25,2-60,JAX,NFL,14,14,299,1324,4.43,5,94.6,Maurice Jones-Drew,MauriceJones-Drew25JAX2010,2,137,25-28
+111,Jamal Lewis\LewiJa00,2007,28,1-5,CLE,NFL,15,15,298,1304,4.38,9,86.9,Jamal Lewis,JamalLewis28CLE2007,1,127,25-28
+112,Mike Anderson\AndeMi00,2000,27,6-189,DEN,NFL,16,12,297,1487,5.01,15,92.9,Mike Anderson,MikeAnderson27DEN2000,6,70,25-28
+113,Thomas Jones\JoneTh00,2006,28,1-7,CHI,NFL,16,16,296,1210,4.09,6,75.6,Thomas Jones,ThomasJones28CHI2006,1,145,25-28
+114,Shaun Alexander\AlexSh00,2002,25,1-19,SEA,NFL,16,16,295,1175,3.98,16,73.4,Shaun Alexander,ShaunAlexander25SEA2002,1,71,25-28
+115,Robert Smith\SmitRo00,2000,28,1-21,MIN,NFL,16,16,295,1521,5.16,7,95.1,Robert Smith,RobertSmith28MIN2000,1,84,25-28
+116,Willis McGahee\McGaWi00,2007,26,1-23,BAL,NFL,15,15,294,1207,4.11,7,80.5,Willis McGahee,WillisMcGahee26BAL2007,1,90,25-28
+117,Emmitt Smith*\SmitEm00,2000,31,1-17,DAL,NFL,16,16,294,1203,4.09,9,75.2,Emmitt Smith*,EmmittSmith*31DAL2000,1,56,29-32
+118,David Johnson\JohnDa08,2016,25,3-86,ARI,NFL,16,16,293,1239,4.23,16,77.4,David Johnson,DavidJohnson25ARI2016,3,159,25-28
+119,DeMarco Murray\MurrDe00,2016,28,3-71,TEN,NFL,16,16,293,1287,4.39,9,80.4,DeMarco Murray,DeMarcoMurray28TEN2016,3,146,25-28
+120,Fred Taylor\TaylFr00,2000,24,1-9,JAX,NFL,13,13,292,1399,4.79,12,107.6,Fred Taylor,FredTaylor24JAX2000,1,162,< 24
+121,LaDainian Tomlinson*\TomlLa00,2008,29,1-5,SDG,NFL,16,16,292,1110,3.8,11,69.4,LaDainian Tomlinson*,LaDainianTomlinson*29SDG2008,1,127,29-32
+122,Ray Rice\RiceRa00,2011,24,2-55,BAL,NFL,16,16,291,1364,4.69,12,85.3,Ray Rice,RayRice24BAL2011,2,132,< 24
+123,James Allen\AlleJa00,2000,25,NA,CHI,NFL,16,15,290,1120,3.86,2,70,James Allen,JamesAllen25CHI2000,Undrafted,Undrafted,25-28
+124,Le'Veon Bell\BellLe00,2014,22,2-48,PIT,NFL,16,16,290,1361,4.69,8,85.1,Le'Veon Bell,Le'VeonBell22PIT2014,2,125,< 24
+125,Thomas Jones\JoneTh00,2008,30,1-7,NYJ,NFL,16,14,290,1312,4.52,13,82,Thomas Jones,ThomasJones30NYJ2008,1,145,29-32
+126,Clinton Portis\PortCl00,2003,22,2-51,DEN,NFL,13,13,290,1591,5.49,14,122.4,Clinton Portis,ClintonPortis22DEN2003,2,128,< 24
+127,Stevan Ridley\RidlSt00,2012,23,3-73,NWE,NFL,16,12,290,1263,4.36,12,78.9,Stevan Ridley,StevanRidley23NWE2012,3,147,< 24
+128,Cadillac Williams\WillCa02,2005,23,1-5,TAM,NFL,14,14,290,1178,4.06,6,84.1,Cadillac Williams,CadillacWilliams23TAM2005,1,127,< 24
+129,Matt Forte\FortMa00,2013,28,2-44,CHI,NFL,16,16,289,1339,4.63,9,83.7,Matt Forte,MattForte28CHI2013,2,122,25-28
+130,Doug Martin\MartDo00,2015,26,1-31,TAM,NFL,16,16,288,1402,4.87,6,87.6,Doug Martin,DougMartin26TAM2015,1,110,25-28
+131,LeSean McCoy\McCoLe01,2017,29,2-53,BUF,NFL,16,16,287,1138,3.97,6,71.1,LeSean McCoy,LeSeanMcCoy29BUF2017,2,130,29-32
+132,Antowain Smith\SmitAn00,2001,29,1-23,NWE,NFL,16,15,287,1157,4.03,12,72.3,Antowain Smith,AntowainSmith29NWE2001,1,90,29-32
+133,Fred Taylor\TaylFr00,2002,26,1-9,JAX,NFL,16,16,287,1314,4.58,8,82.1,Fred Taylor,FredTaylor26JAX2002,1,162,25-28
+134,Warrick Dunn\DunnWa00,2006,31,1-12,ATL,NFL,16,16,286,1140,3.99,4,71.3,Warrick Dunn,WarrickDunn31ATL2006,1,22,29-32
+135,Ahman Green\GreeAh00,2002,25,3-76,GNB,NFL,14,14,286,1240,4.34,7,88.6,Ahman Green,AhmanGreen25GNB2002,3,150,25-28
+136,Jamaal Charles\CharJa00,2012,26,3-73,KAN,NFL,16,15,285,1509,5.29,5,94.3,Jamaal Charles,JamaalCharles26KAN2012,3,147,25-28
+137,Marshawn Lynch\LyncMa00,2011,25,1-12,SEA,NFL,15,15,285,1204,4.22,12,80.3,Marshawn Lynch,MarshawnLynch25SEA2011,1,22,25-28
+138,Ryan Mathews\MathRy00,2013,26,1-12,SDG,NFL,16,14,285,1255,4.4,6,78.4,Ryan Mathews,RyanMathews26SDG2013,1,22,25-28
+139,Melvin Gordon\GordMe00,2017,24,1-15,LAC,NFL,16,16,284,1105,3.89,8,69.1,Melvin Gordon,MelvinGordon24LAC2017,1,45,< 24
+140,Eddie Lacy\LacyEd00,2013,23,2-61,GNB,NFL,15,15,284,1178,4.15,11,78.5,Eddie Lacy,EddieLacy23GNB2013,2,138,< 24
+141,Willis McGahee\McGaWi00,2004,23,1-23,BUF,NFL,16,11,284,1128,3.97,13,70.5,Willis McGahee,WillisMcGahee23BUF2004,1,90,< 24
+142,Adrian Peterson\PeteAd01,2010,25,1-7,MIN,NFL,15,15,283,1298,4.59,12,86.5,Adrian Peterson,AdrianPeterson25MIN2010,1,145,25-28
+143,Jamal Anderson\AndeJa00,2000,28,7-201,ATL,NFL,16,16,282,1024,3.63,6,64,Jamal Anderson,JamalAnderson28ATL2000,7,80,25-28
+144,Frank Gore\GoreFr00,2011,28,3-65,SFO,NFL,16,15,282,1211,4.29,8,75.7,Frank Gore,FrankGore28SFO2011,3,142,25-28
+145,Ryan Grant\GranRy00,2009,27,NA,GNB,NFL,16,16,282,1253,4.44,11,78.3,Ryan Grant,RyanGrant27GNB2009,Undrafted,Undrafted,25-28
+146,Warrick Dunn\DunnWa00,2005,30,1-12,ATL,NFL,16,16,280,1416,5.06,3,88.5,Warrick Dunn,WarrickDunn30ATL2005,1,22,29-32
+147,Marshawn Lynch\LyncMa00,2014,28,1-12,SEA,NFL,16,14,280,1306,4.66,13,81.6,Marshawn Lynch,MarshawnLynch28SEA2014,1,22,25-28
+148,Marshawn Lynch\LyncMa00,2007,21,1-12,BUF,NFL,13,13,280,1115,3.98,7,85.8,Marshawn Lynch,MarshawnLynch21BUF2007,1,22,< 24
+149,Todd Gurley\GurlTo01,2017,23,1-10,LAR,NFL,15,15,279,1305,4.68,13,87,Todd Gurley,ToddGurley23LAR2017,1,2,< 24
+150,Chris Johnson\JohnCh04,2013,28,1-24,TEN,NFL,16,16,279,1077,3.86,6,67.3,Chris Johnson,ChrisJohnson28TEN2013,1,96,25-28
+151,Jamal Lewis\LewiJa00,2008,29,1-5,CLE,NFL,16,16,279,1002,3.59,4,62.6,Jamal Lewis,JamalLewis29CLE2008,1,127,29-32
+152,Adrian Peterson\PeteAd01,2013,28,1-7,MIN,NFL,14,14,279,1266,4.54,10,90.4,Adrian Peterson,AdrianPeterson28MIN2013,1,145,25-28
+153,Tiki Barber\BarbTi00,2003,28,2-36,NYG,NFL,16,16,278,1216,4.37,2,76,Tiki Barber,TikiBarber28NYG2003,2,114,25-28
+154,Arian Foster\FostAr00,2011,25,NA,HOU,NFL,13,13,278,1224,4.4,10,94.2,Arian Foster,ArianFoster25HOU2011,Undrafted,Undrafted,25-28
+155,BenJarvus Green-Ellis\GreeBe00,2012,27,NA,CIN,NFL,15,15,278,1094,3.94,6,72.9,BenJarvus Green-Ellis,BenJarvusGreen-Ellis27CIN2012,Undrafted,Undrafted,25-28
+156,Todd Gurley\GurlTo01,2016,22,1-10,LAR,NFL,16,16,278,885,3.18,6,55.3,Todd Gurley,ToddGurley22LAR2016,1,2,< 24
+157,Anthony Thomas\ThomAn01,2001,24,2-38,CHI,NFL,14,10,278,1183,4.26,7,84.5,Anthony Thomas,AnthonyThomas24CHI2001,2,116,< 24
+158,Ricky Watters\WattRi00,2000,31,2-45,SEA,NFL,16,16,278,1242,4.47,7,77.6,Ricky Watters,RickyWatters31SEA2000,2,123,29-32
+159,Brian Westbrook\WestBr00,2007,28,3-91,PHI,NFL,15,15,278,1333,4.79,7,88.9,Brian Westbrook,BrianWestbrook28PHI2007,3,163,25-28
+160,Edgerrin James\JameEd00,2002,24,1-4,IND,NFL,14,14,277,989,3.57,2,70.6,Edgerrin James,EdgerrinJames24IND2002,1,118,< 24
+161,Ahmad Bradshaw\BradAh00,2010,24,7-250,NYG,NFL,16,11,276,1235,4.47,8,77.2,Ahmad Bradshaw,AhmadBradshaw24NYG2010,7,102,< 24
+162,Frank Gore\GoreFr00,2013,30,3-65,SFO,NFL,16,16,276,1128,4.09,9,70.5,Frank Gore,FrankGore30SFO2013,3,142,29-32
+163,Shonn Greene\GreeSh00,2012,27,3-65,NYJ,NFL,16,14,276,1063,3.85,8,66.4,Shonn Greene,ShonnGreene27NYJ2012,3,142,25-28
+164,Jordan Howard\HowaJo00,2017,23,5-150,CHI,NFL,16,16,276,1122,4.07,9,70.1,Jordan Howard,JordanHoward23CHI2017,5,46,< 24
+165,Chris Johnson\JohnCh04,2012,27,1-24,TEN,NFL,16,15,276,1243,4.5,6,77.7,Chris Johnson,ChrisJohnson27TEN2012,1,96,25-28
+166,Alfred Morris\MorrAl00,2013,25,6-173,WAS,NFL,16,16,276,1275,4.62,7,79.7,Alfred Morris,AlfredMorris25WAS2013,6,59,25-28
+167,Reuben Droughns\DrouRe00,2004,26,3-81,DEN,NFL,16,15,275,1240,4.51,6,77.5,Reuben Droughns,ReubenDroughns26DEN2004,3,155,25-28
+168,Troy Hambrick\HambTr00,2003,27,NA,DAL,NFL,16,16,275,972,3.53,5,60.8,Troy Hambrick,TroyHambrick27DAL2003,Undrafted,Undrafted,25-28
+169,Cedric Benson\BensCe00,2011,29,1-4,CIN,NFL,15,15,273,1067,3.91,6,71.1,Cedric Benson,CedricBenson29CIN2011,1,118,29-32
+170,LeSean McCoy\McCoLe01,2011,23,2-53,PHI,NFL,15,15,273,1309,4.79,17,87.3,LeSean McCoy,LeSeanMcCoy23PHI2011,2,130,< 24
+171,Clinton Portis\PortCl00,2002,21,2-51,DEN,NFL,16,12,273,1508,5.52,15,94.3,Clinton Portis,ClintonPortis21DEN2002,2,128,< 24
+172,DeAngelo Williams\WillDe02,2008,25,1-27,CAR,NFL,16,16,273,1515,5.55,18,94.7,DeAngelo Williams,DeAngeloWilliams25CAR2008,1,106,25-28
+173,Kareem Hunt\HuntKa00,2017,22,3-86,KAN,NFL,16,16,272,1327,4.88,8,82.9,Kareem Hunt,KareemHunt22KAN2017,3,159,< 24
+174,LaMont Jordan\JordLa00,2005,27,2-49,OAK,NFL,14,14,272,1025,3.77,9,73.2,LaMont Jordan,LaMontJordan27OAK2005,2,126,25-28
+175,Travis Henry\HenrTr00,2006,28,2-58,TEN,NFL,14,13,270,1211,4.49,7,86.5,Travis Henry,TravisHenry28TEN2006,2,135,25-28
+176,Peyton Hillis\HillPe00,2010,24,7-227,CLE,NFL,16,14,270,1177,4.36,11,73.6,Peyton Hillis,PeytonHillis24CLE2010,7,87,< 24
+177,Jamal Lewis\LewiJa00,2005,26,1-5,BAL,NFL,15,15,269,906,3.37,3,60.4,Jamal Lewis,JamalLewis26BAL2005,1,127,25-28
+178,Deuce McAllister\McAlDe00,2004,26,1-23,NOR,NFL,14,14,269,1074,3.99,9,76.7,Deuce McAllister,DeuceMcAllister26NOR2004,1,90,25-28
+179,Duce Staley\StalDu00,2002,27,3-71,PHI,NFL,16,16,269,1029,3.83,5,64.3,Duce Staley,DuceStaley27PHI2002,3,146,25-28
+180,Leonard Fournette\FourLe00,2017,22,1-4,JAX,NFL,13,13,268,1040,3.88,9,80,Leonard Fournette,LeonardFournette22JAX2017,1,118,< 24
+181,Lamar Miller\MillLa01,2016,25,4-97,HOU,NFL,14,14,268,1073,4,5,76.6,Lamar Miller,LamarMiller25HOU2016,4,168,25-28
+182,Steve Slaton\SlatSt00,2008,22,3-89,HOU,NFL,16,15,268,1282,4.78,9,80.1,Steve Slaton,SteveSlaton22HOU2008,3,161,< 24
+183,Julius Jones\JoneJu01,2006,25,2-43,DAL,NFL,16,16,267,1084,4.06,4,67.8,Julius Jones,JuliusJones25DAL2006,2,121,25-28
+184,Trent Richardson\RichTr00,2012,22,1-3,CLE,NFL,15,15,267,950,3.56,11,63.3,Trent Richardson,TrentRichardson22CLE2012,1,108,< 24
+185,Emmitt Smith*\SmitEm00,2004,35,1-17,ARI,NFL,15,15,267,937,3.51,9,62.5,Emmitt Smith*,EmmittSmith*35ARI2004,1,56,32+
+186,Matt Forte\FortMa00,2014,29,2-44,CHI,NFL,16,16,266,1038,3.9,6,64.9,Matt Forte,MattForte29CHI2014,2,122,29-32
+187,Ahman Green\GreeAh00,2006,29,3-76,GNB,NFL,14,14,266,1059,3.98,5,75.6,Ahman Green,AhmanGreen29GNB2006,3,150,29-32
+188,Latavius Murray\MurrLa00,2015,25,6-181,OAK,NFL,16,16,266,1066,4.01,6,66.6,Latavius Murray,LataviusMurray25OAK2015,6,65,25-28
+189,Warrick Dunn\DunnWa00,2004,29,1-12,ATL,NFL,16,16,265,1106,4.17,9,69.1,Warrick Dunn,WarrickDunn29ATL2004,1,22,29-32
+190,Devonta Freeman\FreeDe00,2015,23,4-103,ATL,NFL,15,13,265,1056,3.98,11,70.4,Devonta Freeman,DevontaFreeman23ATL2015,4,6,< 24
+191,Alfred Morris\MorrAl00,2014,26,6-173,WAS,NFL,16,16,265,1074,4.05,8,67.1,Alfred Morris,AlfredMorris26WAS2014,6,59,25-28
+192,Frank Gore\GoreFr00,2016,33,3-65,IND,NFL,16,16,263,1025,3.9,4,64.1,Frank Gore,FrankGore33IND2016,3,142,32+
+193,Ahman Green\GreeAh00,2000,23,3-76,GNB,NFL,16,11,263,1175,4.47,10,73.4,Ahman Green,AhmanGreen23GNB2000,3,150,< 24
+194,Chris Johnson\JohnCh04,2011,26,1-24,TEN,NFL,16,16,262,1047,4,4,65.4,Chris Johnson,ChrisJohnson26TEN2011,1,96,25-28
+195,Joseph Addai\AddaJo00,2007,24,1-30,IND,NFL,15,15,261,1072,4.11,12,71.5,Joseph Addai,JosephAddai24IND2007,1,109,< 24
+196,Le'Veon Bell\BellLe00,2016,24,2-48,PIT,NFL,12,12,261,1268,4.86,7,105.7,Le'Veon Bell,Le'VeonBell24PIT2016,2,125,< 24
+197,Frank Gore\GoreFr00,2017,34,3-65,IND,NFL,16,16,261,961,3.68,3,60.1,Frank Gore,FrankGore34IND2017,3,142,32+
+198,Curtis Martin*\MartCu00,2002,29,3-74,NYJ,NFL,16,16,261,1094,4.19,7,68.4,Curtis Martin*,CurtisMartin*29NYJ2002,3,148,29-32
+199,Emmitt Smith*\SmitEm00,2001,32,1-17,DAL,NFL,14,14,261,1021,3.91,3,72.9,Emmitt Smith*,EmmittSmith*32DAL2001,1,56,29-32
+200,Jay Ajayi\AjayJa00,2016,23,5-149,MIA,NFL,15,12,260,1272,4.89,8,84.8,Jay Ajayi,JayAjayi23MIA2016,5,44,< 24
+201,Marshall Faulk*\FaulMa00,2001,28,1-2,STL,NFL,14,14,260,1382,5.32,12,98.7,Marshall Faulk*,MarshallFaulk*28STL2001,1,79,25-28
+202,Arian Foster\FostAr00,2014,28,NA,HOU,NFL,13,13,260,1246,4.79,8,95.8,Arian Foster,ArianFoster28HOU2014,Undrafted,Undrafted,25-28
+203,Frank Gore\GoreFr00,2007,24,3-65,SFO,NFL,15,15,260,1102,4.24,5,73.5,Frank Gore,FrankGore24SFO2007,3,142,< 24
+204,Frank Gore\GoreFr00,2015,32,3-65,IND,NFL,16,16,260,967,3.72,6,60.4,Frank Gore,FrankGore32IND2015,3,142,29-32
+205,Steven Jackson\JackSt00,2011,28,1-24,STL,NFL,15,15,260,1145,4.4,5,76.3,Steven Jackson,StevenJackson28STL2011,1,96,25-28
+206,Fred Taylor\TaylFr00,2004,28,1-9,JAX,NFL,14,14,260,1224,4.71,2,87.4,Fred Taylor,FredTaylor28JAX2004,1,162,25-28
+207,Jamaal Charles\CharJa00,2013,27,3-73,KAN,NFL,15,15,259,1287,4.97,12,85.8,Jamaal Charles,JamaalCharles27KAN2013,3,147,25-28
+208,Ahman Green\GreeAh00,2004,27,3-76,GNB,NFL,15,15,259,1163,4.49,7,77.5,Ahman Green,AhmanGreen27GNB2004,3,150,25-28
+209,Willis McGahee\McGaWi00,2006,25,1-23,BUF,NFL,14,14,259,990,3.82,6,70.7,Willis McGahee,WillisMcGahee25BUF2006,1,90,25-28
+210,Matt Forte\FortMa00,2009,24,2-44,CHI,NFL,16,16,258,929,3.6,4,58.1,Matt Forte,MattForte24CHI2009,2,122,< 24
+211,Charlie Garner\GarnCh00,2000,28,2-42,SFO,NFL,16,15,258,1142,4.43,7,71.4,Charlie Garner,CharlieGarner28SFO2000,2,120,25-28
+212,Frank Gore\GoreFr00,2012,29,3-65,SFO,NFL,16,16,258,1214,4.71,8,75.9,Frank Gore,FrankGore29SFO2012,3,142,29-32
+213,Steven Jackson\JackSt00,2012,29,1-24,STL,NFL,16,16,258,1045,4.05,4,65.3,Steven Jackson,StevenJackson29STL2012,1,96,29-32
+214,Julius Jones\JoneJu01,2005,24,2-43,DAL,NFL,13,12,257,993,3.86,5,76.4,Julius Jones,JuliusJones24DAL2005,2,121,< 24
+215,Ray Rice\RiceRa00,2012,25,2-55,BAL,NFL,16,16,257,1143,4.45,9,71.4,Ray Rice,RayRice25BAL2012,2,132,25-28
+216,Michael Bush\BushMi00,2011,27,4-100,OAK,NFL,16,9,256,977,3.82,7,61.1,Michael Bush,MichaelBush27OAK2011,4,3,25-28
+217,Michael Bennett\BennMi00,2002,24,1-27,MIN,NFL,16,16,255,1296,5.08,5,81,Michael Bennett,MichaelBennett24MIN2002,1,106,< 24
+218,Frank Gore\GoreFr00,2014,31,3-65,SFO,NFL,16,16,255,1106,4.34,4,69.1,Frank Gore,FrankGore31SFO2014,3,142,29-32
+219,Willie Parker\ParkWi00,2005,25,NA,PIT,NFL,15,15,255,1202,4.71,4,80.1,Willie Parker,WillieParker25PIT2005,Undrafted,Undrafted,25-28
+220,Melvin Gordon\GordMe00,2016,23,1-15,SDG,NFL,13,11,254,997,3.93,10,76.7,Melvin Gordon,MelvinGordon23SDG2016,1,45,< 24
+221,Steven Jackson\JackSt00,2005,22,1-24,STL,NFL,15,15,254,1046,4.12,8,69.7,Steven Jackson,StevenJackson22STL2005,1,96,< 24
+222,Ray Rice\RiceRa00,2009,22,2-55,BAL,NFL,16,15,254,1339,5.27,7,83.7,Ray Rice,RayRice22BAL2009,2,132,< 24
+223,Emmitt Smith*\SmitEm00,2002,33,1-17,DAL,NFL,16,16,254,975,3.84,5,60.9,Emmitt Smith*,EmmittSmith*33DAL2002,1,56,32+
+224,Marshall Faulk*\FaulMa00,2000,27,1-2,STL,NFL,14,14,253,1359,5.37,18,97.1,Marshall Faulk*,MarshallFaulk*27STL2000,1,79,25-28
+225,Shonn Greene\GreeSh00,2011,26,3-65,NYJ,NFL,16,15,253,1054,4.17,6,65.9,Shonn Greene,ShonnGreene26NYJ2011,3,142,25-28
+226,Steven Jackson\JackSt00,2008,25,1-24,STL,NFL,12,11,253,1042,4.12,7,86.8,Steven Jackson,StevenJackson25STL2008,1,96,25-28
+227,Shaun Alexander\AlexSh00,2006,29,1-19,SEA,NFL,10,10,252,896,3.56,7,89.6,Shaun Alexander,ShaunAlexander29SEA2006,1,71,29-32
+228,Garrison Hearst\HearGa00,2001,30,1-3,SFO,NFL,16,16,252,1206,4.79,4,75.4,Garrison Hearst,GarrisonHearst30SFO2001,1,108,29-32
+229,Jordan Howard\HowaJo00,2016,22,5-150,CHI,NFL,15,13,252,1313,5.21,6,87.5,Jordan Howard,JordanHoward22CHI2016,5,46,< 24
+230,Antowain Smith\SmitAn00,2002,30,1-23,NWE,NFL,16,15,252,982,3.9,6,61.4,Antowain Smith,AntowainSmith30NWE2002,1,90,29-32
+231,Chris Johnson\JohnCh04,2008,23,1-24,TEN,NFL,15,14,251,1228,4.89,9,81.9,Chris Johnson,ChrisJohnson23TEN2008,1,96,< 24
+232,Jerome Bettis*\BettJe00,2004,32,1-10,PIT,NFL,15,6,250,941,3.76,13,62.7,Jerome Bettis*,JeromeBettis*32PIT2004,1,2,29-32
+233,Marshawn Lynch\LyncMa00,2008,22,1-12,BUF,NFL,15,15,250,1036,4.14,8,69.1,Marshawn Lynch,MarshawnLynch22BUF2008,1,22,< 24
+234,Zac Stacy\StacZa00,2013,22,5-160,STL,NFL,14,12,250,973,3.89,7,69.5,Zac Stacy,ZacStacy22STL2013,5,53,< 24
+235,Willis McGahee\McGaWi00,2011,30,1-23,DEN,NFL,15,14,249,1199,4.82,4,79.9,Willis McGahee,WillisMcGahee30DEN2011,1,90,29-32
+236,Warrick Dunn\DunnWa00,2000,25,1-12,TAM,NFL,16,14,248,1133,4.57,8,70.8,Warrick Dunn,WarrickDunn25TAM2000,1,22,25-28
+237,Matt Forte\FortMa00,2012,27,2-44,CHI,NFL,15,15,248,1094,4.41,5,72.9,Matt Forte,MattForte27CHI2012,2,122,25-28
+238,Ricky Williams\WillRi00,2000,23,1-5,NOR,NFL,10,10,248,1000,4.03,8,100,Ricky Williams,RickyWilliams23NOR2000,1,127,< 24
+239,DeShaun Foster\FostDe00,2007,27,2-34,CAR,NFL,16,16,247,876,3.55,3,54.8,DeShaun Foster,DeShaunFoster27CAR2007,2,112,25-28
+240,Chris Ivory\IvorCh00,2015,27,NA,NYJ,NFL,15,14,247,1070,4.33,7,71.3,Chris Ivory,ChrisIvory27NYJ2015,Undrafted,Undrafted,25-28
+241,Knowshon Moreno\MoreKn00,2009,22,1-12,DEN,NFL,16,9,247,947,3.83,7,59.2,Knowshon Moreno,KnowshonMoreno22DEN2009,1,22,< 24
+242,Jerome Bettis*\BettJe00,2003,31,1-10,PIT,NFL,16,10,246,811,3.3,7,50.7,Jerome Bettis*,JeromeBettis*31PIT2003,1,2,29-32
+243,Eddie Lacy\LacyEd00,2014,24,2-61,GNB,NFL,16,16,246,1139,4.63,9,71.2,Eddie Lacy,EddieLacy24GNB2014,2,138,< 24
+244,C.J. Anderson\AndeC.00,2017,26,NA,DEN,NFL,16,16,245,1007,4.11,3,62.9,C.J. Anderson,C.J.Anderson26DEN2017,Undrafted,Undrafted,25-28
+245,Ladell Betts\BettLa00,2006,27,2-56,WAS,NFL,16,9,245,1154,4.71,4,72.1,Ladell Betts,LadellBetts27WAS2006,2,133,25-28
+246,Thomas Jones\JoneTh00,2010,32,1-7,KAN,NFL,16,10,245,896,3.66,6,56,Thomas Jones,ThomasJones32KAN2010,1,145,29-32
+247,Beanie Wells\WellCh00,2011,23,1-31,ARI,NFL,14,14,245,1047,4.27,10,74.8,Beanie Wells,BeanieWells23ARI2011,1,110,< 24
+248,Kevan Barlow\BarlKe00,2004,25,3-80,SFO,NFL,15,14,244,822,3.37,7,54.8,Kevan Barlow,KevanBarlow25SFO2004,3,154,25-28
+249,Le'Veon Bell\BellLe00,2013,21,2-48,PIT,NFL,13,13,244,860,3.52,8,66.2,Le'Veon Bell,Le'VeonBell21PIT2013,2,125,< 24
+250,Deuce McAllister\McAlDe00,2006,28,1-23,NOR,NFL,15,13,244,1057,4.33,10,70.5,Deuce McAllister,DeuceMcAllister28NOR2006,1,90,25-28
+251,Anthony Thomas\ThomAn01,2003,26,2-38,CHI,NFL,13,13,244,1024,4.2,6,78.8,Anthony Thomas,AnthonyThomas26CHI2003,2,116,25-28
+252,William Green\GreeWi01,2002,23,1-16,CLE,NFL,16,10,243,887,3.65,6,55.4,William Green,WilliamGreen23CLE2002,1,52,< 24
+253,Ezekiel Elliott\ElliEz00,2017,22,1-4,DAL,NFL,10,10,242,983,4.06,7,98.3,Ezekiel Elliott,EzekielElliott22DAL2017,1,118,< 24
+254,Rashard Mendenhall\MendRa00,2009,22,1-23,PIT,NFL,16,12,242,1108,4.58,7,69.3,Rashard Mendenhall,RashardMendenhall22PIT2009,1,90,< 24
+255,Jonathan Stewart\StewJo00,2015,28,1-13,CAR,NFL,13,13,242,989,4.09,6,76.1,Jonathan Stewart,JonathanStewart28CAR2015,1,29,25-28
+256,Ronnie Brown\BrowRo05,2006,25,1-2,MIA,NFL,13,12,241,1008,4.18,5,77.5,Ronnie Brown,RonnieBrown25MIA2006,1,79,25-28
+257,Kevin Jones\JoneKe02,2004,22,1-30,DET,NFL,15,14,241,1133,4.7,5,75.5,Kevin Jones,KevinJones22DET2004,1,109,< 24
+258,Knowshon Moreno\MoreKn00,2013,26,1-12,DEN,NFL,16,15,241,1038,4.31,10,64.9,Knowshon Moreno,KnowshonMoreno26DEN2013,1,22,25-28
+259,Michael Pittman\PittMi00,2001,26,4-95,ARI,NFL,15,14,241,846,3.51,5,56.4,Michael Pittman,MichaelPittman26ARI2001,4,166,25-28
+260,Ricky Williams\WillRi00,2009,32,1-5,MIA,NFL,16,7,241,1121,4.65,11,70.1,Ricky Williams,RickyWilliams32MIA2009,1,127,29-32
+261,Frank Gore\GoreFr00,2008,25,3-65,SFO,NFL,14,14,240,1036,4.32,6,74,Frank Gore,FrankGore25SFO2008,3,142,25-28
+262,Carlos Hyde\HydeCa00,2017,27,2-57,SFO,NFL,16,16,240,938,3.91,8,58.6,Carlos Hyde,CarlosHyde27SFO2017,2,134,25-28
+263,Thomas Jones\JoneTh00,2004,26,1-7,CHI,NFL,14,14,240,948,3.95,7,67.7,Thomas Jones,ThomasJones26CHI2004,1,145,25-28
+264,Brian Westbrook\WestBr00,2006,27,3-91,PHI,NFL,15,14,240,1217,5.07,7,81.1,Brian Westbrook,BrianWestbrook27PHI2006,3,163,25-28
+265,Mike Anderson\AndeMi00,2005,32,6-189,DEN,NFL,15,15,239,1014,4.24,12,67.6,Mike Anderson,MikeAnderson32DEN2005,6,70,29-32
+266,Darren McFadden\McFaDa00,2015,28,1-4,DAL,NFL,16,10,239,1089,4.56,3,68.1,Darren McFadden,DarrenMcFadden28DAL2015,1,118,25-28
+267,Marion Barber\BarbMa01,2008,25,4-109,DAL,NFL,15,13,238,885,3.72,7,59,Marion Barber,MarionBarber25DAL2008,4,12,25-28
+268,Lamar Miller\MillLa01,2017,26,4-97,HOU,NFL,16,13,238,888,3.73,3,55.5,Lamar Miller,LamarMiller26HOU2017,4,168,25-28
+269,Adrian Peterson\PeteAd01,2007,22,1-7,MIN,NFL,14,9,238,1341,5.63,12,95.8,Adrian Peterson,AdrianPeterson22MIN2007,1,145,< 24
+270,Kevin Smith\SmitKe02,2008,22,3-64,DET,NFL,16,12,238,976,4.1,8,61,Kevin Smith,KevinSmith22DET2008,3,141,< 24
+271,Domanick Williams\DaviDo01,2003,23,4-101,HOU,NFL,14,10,238,1031,4.33,8,73.6,Domanick Williams,DomanickWilliams23HOU2003,4,4,< 24
+272,Matt Forte\FortMa00,2010,25,2-44,CHI,NFL,16,16,237,1069,4.51,6,66.8,Matt Forte,MattForte25CHI2010,2,122,25-28
+273,Fred Jackson\JackFr02,2009,28,NA,BUF,NFL,16,11,237,1062,4.48,2,66.4,Fred Jackson,FredJackson28BUF2009,Undrafted,Undrafted,25-28
+274,Steven Jackson\JackSt00,2007,24,1-24,STL,NFL,12,12,237,1002,4.23,5,83.5,Steven Jackson,StevenJackson24STL2007,1,96,< 24
+275,Maurice Smith\SmitMa00,2001,25,NA,ATL,NFL,16,12,237,760,3.21,5,47.5,Maurice Smith,MauriceSmith25ATL2001,Undrafted,Undrafted,25-28
+276,Justin Forsett\ForsJu00,2014,29,7-233,BAL,NFL,16,14,235,1266,5.39,8,79.1,Justin Forsett,JustinForsett29BAL2014,7,92,29-32
+277,Jamal Lewis\LewiJa00,2004,25,1-5,BAL,NFL,12,12,235,1006,4.28,7,83.8,Jamal Lewis,JamalLewis25BAL2004,1,127,25-28
+278,Maurice Jones-Drew\DrewMa00,2013,28,2-60,JAX,NFL,15,15,234,803,3.43,5,53.5,Maurice Jones-Drew,MauriceJones-Drew28JAX2013,2,137,25-28
+279,LeSean McCoy\McCoLe01,2016,28,2-53,BUF,NFL,15,15,234,1267,5.41,13,84.5,LeSean McCoy,LeSeanMcCoy28BUF2016,2,130,25-28
+280,Tatum Bell\BellTa00,2006,25,2-41,DEN,NFL,13,13,233,1025,4.4,2,78.8,Tatum Bell,TatumBell25DEN2006,2,119,25-28
+281,Dominic Rhodes\RhodDo00,2001,22,NA,IND,NFL,15,10,233,1104,4.74,9,73.6,Dominic Rhodes,DominicRhodes22IND2001,Undrafted,Undrafted,< 24
+282,Brian Westbrook\WestBr00,2008,29,3-91,PHI,NFL,14,14,233,936,4.02,9,66.9,Brian Westbrook,BrianWestbrook29PHI2008,3,163,29-32
+283,Le'Ron McClain\McClLe00,2008,24,4-137,BAL,NFL,16,16,232,902,3.89,10,56.4,Le'Ron McClain,Le'RonMcClain24BAL2008,4,35,< 24
+284,Tyrone Wheatley\WheaTy00,2000,28,1-17,OAK,NFL,14,13,232,1046,4.51,9,74.7,Tyrone Wheatley,TyroneWheatley28OAK2000,1,56,25-28
+285,James Stewart\StewJa00,2002,31,1-19,DET,NFL,14,9,231,1021,4.42,4,72.9,James Stewart,JamesStewart31DET2002,1,71,29-32
+286,Fred Taylor\TaylFr00,2006,30,1-9,JAX,NFL,15,15,231,1146,4.96,5,76.4,Fred Taylor,FredTaylor30JAX2006,1,162,29-32
+287,Jamaal Charles\CharJa00,2010,24,3-73,KAN,NFL,16,6,230,1467,6.38,5,91.7,Jamaal Charles,JamaalCharles24KAN2010,3,147,< 24
+288,Warrick Dunn\DunnWa00,2002,27,1-12,ATL,NFL,15,14,230,927,4.03,7,61.8,Warrick Dunn,WarrickDunn27ATL2002,1,22,25-28
+289,Mark Ingram\IngrMa01,2017,28,1-28,NOR,NFL,16,13,230,1124,4.89,12,70.3,Mark Ingram,MarkIngram28NOR2017,1,107,25-28
+290,Domanick Williams\DaviDo01,2005,25,4-101,HOU,NFL,11,11,230,976,4.24,2,88.7,Domanick Williams,DomanickWilliams25HOU2005,4,4,25-28
+291,Frank Gore\GoreFr00,2009,26,3-65,SFO,NFL,14,14,229,1120,4.89,10,80,Frank Gore,FrankGore26SFO2009,3,142,25-28
+292,BenJarvus Green-Ellis\GreeBe00,2010,25,NA,NWE,NFL,16,11,229,1008,4.4,13,63,BenJarvus Green-Ellis,BenJarvusGreen-Ellis25NWE2010,Undrafted,Undrafted,25-28
+293,Todd Gurley\GurlTo01,2015,21,1-10,STL,NFL,13,12,229,1106,4.83,10,85.1,Todd Gurley,ToddGurley21STL2015,1,2,< 24
+294,Ron Dayne\DaynRo00,2000,22,1-11,NYG,NFL,16,4,228,770,3.38,5,48.1,Ron Dayne,RonDayne22NYG2000,1,13,< 24
+295,Rashard Mendenhall\MendRa00,2011,24,1-23,PIT,NFL,15,15,228,928,4.07,9,61.9,Rashard Mendenhall,RashardMendenhall24PIT2011,1,90,< 24
+296,Marcel Shipp\ShipMa00,2003,25,NA,ARI,NFL,16,11,228,830,3.64,0,51.9,Marcel Shipp,MarcelShipp25ARI2003,Undrafted,Undrafted,25-28
+297,Reggie Bush\BushRe00,2012,27,1-2,MIA,NFL,16,16,227,986,4.34,6,61.6,Reggie Bush,ReggieBush27MIA2012,1,79,25-28
+298,Warrick Dunn\DunnWa00,2007,32,1-12,ATL,NFL,16,15,227,720,3.17,4,45,Warrick Dunn,WarrickDunn32ATL2007,1,22,29-32
+299,DeShaun Foster\FostDe00,2006,26,2-34,CAR,NFL,14,14,227,897,3.95,3,64.1,DeShaun Foster,DeShaunFoster26CAR2006,2,112,25-28
+300,Devonta Freeman\FreeDe00,2016,24,4-103,ATL,NFL,16,16,227,1079,4.75,11,67.4,Devonta Freeman,DevontaFreeman24ATL2016,4,6,< 24
+301,Joseph Addai\AddaJo00,2006,23,1-30,IND,NFL,16,0,226,1081,4.78,7,67.6,Joseph Addai,JosephAddai23IND2006,1,109,< 24
+302,Mark Ingram\IngrMa01,2014,25,1-28,NOR,NFL,13,9,226,964,4.27,9,74.2,Mark Ingram,MarkIngram25NOR2014,1,107,25-28
+303,Jerome Bettis*\BettJe00,2001,29,1-10,PIT,NFL,11,11,225,1072,4.76,4,97.5,Jerome Bettis*,JeromeBettis*29PIT2001,1,2,29-32
+304,Cadillac Williams\WillCa02,2006,24,1-5,TAM,NFL,14,14,225,798,3.55,1,57,Cadillac Williams,CadillacWilliams24TAM2006,1,127,< 24
+305,Chris Brown\BrowCh03,2005,24,3-93,TEN,NFL,15,14,224,851,3.8,5,56.7,Chris Brown,ChrisBrown24TEN2005,3,164,< 24
+306,Brandon Jacobs\JacoBr00,2009,27,4-110,NYG,NFL,15,15,224,835,3.73,5,55.7,Brandon Jacobs,BrandonJacobs27NYG2009,4,14,25-28
+307,Joique Bell\BellJo01,2014,28,NA,DET,NFL,15,6,223,860,3.86,7,57.3,Joique Bell,JoiqueBell28DET2014,Undrafted,Undrafted,25-28
+308,Reggie Bush\BushRe00,2013,28,1-2,DET,NFL,14,14,223,1006,4.51,4,71.9,Reggie Bush,ReggieBush28DET2013,1,79,25-28
+309,Jeremy Hill\HillJe01,2015,23,2-55,CIN,NFL,16,15,223,794,3.56,11,49.6,Jeremy Hill,JeremyHill23CIN2015,2,132,< 24
+310,Darren McFadden\McFaDa00,2010,23,1-4,OAK,NFL,13,13,223,1157,5.19,7,89,Darren McFadden,DarrenMcFadden23OAK2010,1,118,< 24
+311,Fred Taylor\TaylFr00,2007,31,1-9,JAX,NFL,15,15,223,1202,5.39,5,80.1,Fred Taylor,FredTaylor31JAX2007,1,162,29-32
+312,LaDainian Tomlinson*\TomlLa00,2009,30,1-5,SDG,NFL,14,14,223,730,3.27,12,52.1,LaDainian Tomlinson*,LaDainianTomlinson*30SDG2009,1,127,29-32
+313,Justin Fargas\FargJu00,2007,27,3-96,OAK,NFL,14,7,222,1009,4.55,4,72.1,Justin Fargas,JustinFargas27OAK2007,3,167,25-28
+314,Earnest Graham\GrahEa00,2007,27,NA,TAM,NFL,15,10,222,898,4.05,10,59.9,Earnest Graham,EarnestGraham27TAM2007,Undrafted,Undrafted,25-28
+315,Jeremy Hill\HillJe01,2014,22,2-55,CIN,NFL,16,8,222,1124,5.06,9,70.3,Jeremy Hill,JeremyHill22CIN2014,2,132,< 24
+316,Jeremy Hill\HillJe01,2016,24,2-55,CIN,NFL,15,13,222,839,3.78,9,55.9,Jeremy Hill,JeremyHill24CIN2016,2,132,< 24
+317,Fred Jackson\JackFr02,2010,29,NA,BUF,NFL,16,13,222,927,4.18,5,57.9,Fred Jackson,FredJackson29BUF2010,Undrafted,Undrafted,29-32
+318,Ryan Mathews\MathRy00,2011,24,1-12,SDG,NFL,14,14,222,1091,4.91,6,77.9,Ryan Mathews,RyanMathews24SDG2011,1,22,< 24
+319,Michael Turner\TurnMi00,2012,30,5-154,ATL,NFL,16,16,222,800,3.6,10,50,Michael Turner,MichaelTurner30ATL2012,5,49,29-32
+320,Ahmad Bradshaw\BradAh00,2012,26,7-250,NYG,NFL,14,12,221,1015,4.59,6,72.5,Ahmad Bradshaw,AhmadBradshaw26NYG2012,7,102,25-28
+321,Jonathan Stewart\StewJo00,2009,22,1-13,CAR,NFL,16,3,221,1133,5.13,10,70.8,Jonathan Stewart,JonathanStewart22CAR2009,1,29,< 24
+322,Chris Brown\BrowCh03,2004,23,3-93,TEN,NFL,11,11,220,1067,4.85,6,97,Chris Brown,ChrisBrown23TEN2004,3,164,< 24
+323,Reuben Droughns\DrouRe00,2006,28,3-81,CLE,NFL,14,12,220,758,3.45,4,54.1,Reuben Droughns,ReubenDroughns28CLE2006,3,155,25-28
+324,BenJarvus Green-Ellis\GreeBe00,2013,28,NA,CIN,NFL,16,16,220,756,3.44,7,47.3,BenJarvus Green-Ellis,BenJarvusGreen-Ellis28CIN2013,Undrafted,Undrafted,25-28
+325,Curtis Martin*\MartCu00,2005,32,3-74,NYJ,NFL,12,12,220,735,3.34,5,61.3,Curtis Martin*,CurtisMartin*32NYJ2005,3,148,29-32
+326,Joseph Addai\AddaJo00,2009,26,1-30,IND,NFL,15,15,219,828,3.78,10,55.2,Joseph Addai,JosephAddai26IND2009,1,109,25-28
+327,Brandon Jacobs\JacoBr00,2008,26,4-110,NYG,NFL,13,13,219,1089,4.97,15,83.8,Brandon Jacobs,BrandonJacobs26NYG2008,4,14,25-28
+328,Michael Pittman\PittMi00,2004,29,4-95,TAM,NFL,13,13,219,926,4.23,7,71.2,Michael Pittman,MichaelPittman29TAM2004,4,166,29-32
+329,LaDainian Tomlinson*\TomlLa00,2010,31,1-5,NYJ,NFL,15,13,219,914,4.17,6,60.9,LaDainian Tomlinson*,LaDainianTomlinson*31NYJ2010,1,127,29-32
+330,Justin Fargas\FargJu00,2008,28,3-96,OAK,NFL,14,14,218,853,3.91,1,60.9,Justin Fargas,JustinFargas28OAK2008,3,167,25-28
+331,Matt Forte\FortMa00,2016,31,2-44,NYJ,NFL,14,13,218,813,3.73,7,58.1,Matt Forte,MattForte31NYJ2016,2,122,29-32
+332,Matt Forte\FortMa00,2015,30,2-44,CHI,NFL,13,13,218,898,4.12,4,69.1,Matt Forte,MattForte30CHI2015,2,122,29-32
+333,Jonathan Stewart\StewJo00,2016,29,1-13,CAR,NFL,13,13,218,824,3.78,9,63.4,Jonathan Stewart,JonathanStewart29CAR2016,1,29,29-32
+334,Nick Goings\GoinNi00,2004,26,NA,CAR,NFL,16,8,217,821,3.78,6,51.3,Nick Goings,NickGoings26CAR2004,Undrafted,Undrafted,25-28
+335,Carlos Hyde\HydeCa00,2016,26,2-57,SFO,NFL,13,13,217,988,4.55,6,76,Carlos Hyde,CarlosHyde26SFO2016,2,134,25-28
+336,Rashard Mendenhall\MendRa00,2013,26,1-23,ARI,NFL,15,15,217,687,3.17,8,45.8,Rashard Mendenhall,RashardMendenhall26ARI2013,1,90,25-28
+337,DeMarco Murray\MurrDe00,2013,25,3-71,DAL,NFL,14,14,217,1121,5.17,9,80.1,DeMarco Murray,DeMarcoMurray25DAL2013,3,146,25-28
+338,Kevin Smith\SmitKe02,2009,23,3-64,DET,NFL,13,13,217,747,3.44,4,57.5,Kevin Smith,KevinSmith23DET2009,3,141,< 24
+339,Andre Williams\WillAn00,2014,22,4-113,NYG,NFL,16,7,217,721,3.32,7,45.1,Andre Williams,AndreWilliams22NYG2014,4,16,< 24
+340,Reggie Bush\BushRe00,2011,26,1-2,MIA,NFL,15,15,216,1086,5.03,6,72.4,Reggie Bush,ReggieBush26MIA2011,1,79,25-28
+341,Darren McFadden\McFaDa00,2012,25,1-4,OAK,NFL,12,12,216,707,3.27,2,58.9,Darren McFadden,DarrenMcFadden25OAK2012,1,118,25-28
+342,Lamar Miller\MillLa01,2014,23,4-97,MIA,NFL,16,16,216,1099,5.09,8,68.7,Lamar Miller,LamarMiller23MIA2014,4,168,< 24
+343,Latavius Murray\MurrLa00,2017,27,6-181,MIN,NFL,16,11,216,842,3.9,8,52.6,Latavius Murray,LataviusMurray27MIN2017,6,65,25-28
+344,DeAngelo Williams\WillDe02,2009,26,1-27,CAR,NFL,13,13,216,1117,5.17,7,85.9,DeAngelo Williams,DeAngeloWilliams26CAR2009,1,106,25-28
+345,Garrison Hearst\HearGa00,2002,31,1-3,SFO,NFL,16,16,215,972,4.52,8,60.8,Garrison Hearst,GarrisonHearst31SFO2002,1,108,29-32
+346,Rudi Johnson\JohnRu00,2003,24,4-100,CIN,NFL,13,5,215,957,4.45,9,73.6,Rudi Johnson,RudiJohnson24CIN2003,4,3,< 24
+347,Mikel Leshoure\LeshMi00,2012,22,2-57,DET,NFL,14,14,215,798,3.71,9,57,Mikel Leshoure,MikelLeshoure22DET2012,2,134,< 24
+348,Marion Barber\BarbMa01,2009,26,4-109,DAL,NFL,15,15,214,932,4.36,7,62.1,Marion Barber,MarionBarber26DAL2009,4,12,25-28
+349,Cedric Benson\BensCe00,2008,26,1-4,CIN,NFL,12,10,214,747,3.49,2,62.3,Cedric Benson,CedricBenson26CIN2008,1,118,25-28
+350,Ronnie Brown\BrowRo05,2008,27,1-2,MIA,NFL,16,13,214,916,4.28,10,57.3,Ronnie Brown,RonnieBrown27MIA2008,1,79,25-28
+351,Ray Rice\RiceRa00,2013,26,2-55,BAL,NFL,15,15,214,660,3.08,4,44,Ray Rice,RayRice26BAL2013,2,132,25-28
+352,Anthony Thomas\ThomAn01,2002,25,2-38,CHI,NFL,12,12,214,721,3.37,6,60.1,Anthony Thomas,AnthonyThomas25CHI2002,2,116,25-28
+353,Spencer Ware\WareSp00,2016,25,6-194,KAN,NFL,14,14,214,921,4.3,3,65.8,Spencer Ware,SpencerWare25KAN2016,6,76,25-28
+354,Tiki Barber\BarbTi00,2000,25,2-36,NYG,NFL,16,12,213,1006,4.72,8,62.9,Tiki Barber,TikiBarber25NYG2000,2,114,25-28
+355,Travis Henry\HenrTr00,2001,23,2-58,BUF,NFL,13,12,213,729,3.42,4,56.1,Travis Henry,TravisHenry23BUF2001,2,135,< 24
+356,Stacey Mack\MackSt00,2001,26,NA,JAX,NFL,16,11,213,877,4.12,9,54.8,Stacey Mack,StaceyMack26JAX2001,Undrafted,Undrafted,25-28
+357,Alex Collins\CollAl00,2017,23,5-171,BAL,NFL,15,12,212,973,4.59,6,64.9,Alex Collins,AlexCollins23BAL2017,5,58,< 24
+358,Marshall Faulk*\FaulMa00,2002,29,1-2,STL,NFL,14,10,212,953,4.5,8,68.1,Marshall Faulk*,MarshallFaulk*29STL2002,1,79,29-32
+359,Vick Ballard\BallVi00,2012,22,5-170,IND,NFL,16,12,211,814,3.86,2,50.9,Vick Ballard,VickBallard22IND2012,5,57,< 24
+360,Charlie Garner\GarnCh00,2001,29,2-42,OAK,NFL,16,16,211,839,3.98,1,52.4,Charlie Garner,CharlieGarner29OAK2001,2,120,29-32
+361,Cadillac Williams\WillCa02,2009,27,1-5,TAM,NFL,16,15,211,823,3.9,4,51.4,Cadillac Williams,CadillacWilliams27TAM2009,1,127,25-28
+362,Willie Parker\ParkWi00,2008,28,NA,PIT,NFL,11,11,210,791,3.77,5,71.9,Willie Parker,WillieParker28PIT2008,Undrafted,Undrafted,25-28
+363,Corey Dillon\DillCo00,2005,31,2-43,NWE,NFL,12,10,209,733,3.51,12,61.1,Corey Dillon,CoreyDillon31NWE2005,2,121,29-32
+364,Marshall Faulk*\FaulMa00,2003,30,1-2,STL,NFL,11,11,209,818,3.91,10,74.4,Marshall Faulk*,MarshallFaulk*30STL2003,1,79,29-32
+365,Lamar Smith\SmitLa00,2002,32,3-73,CAR,NFL,11,11,209,737,3.53,7,67,Lamar Smith,LamarSmith32CAR2002,3,147,29-32
+366,Jay Ajayi\AjayJa00,2017,24,5-149,2TM,NFL,14,8,208,873,4.2,1,62.4,Jay Ajayi,JayAjayi242TM2017,5,44,< 24
+367,Adrian Peterson\PeteAd01,2011,26,1-7,MIN,NFL,12,12,208,970,4.66,12,80.8,Adrian Peterson,AdrianPeterson26MIN2011,1,145,25-28
+368,Shaun Alexander\AlexSh00,2007,30,1-19,SEA,NFL,13,10,207,716,3.46,4,55.1,Shaun Alexander,ShaunAlexander30SEA2007,1,71,29-32
+369,Ronnie Brown\BrowRo05,2005,24,1-2,MIA,NFL,15,14,207,907,4.38,4,60.5,Ronnie Brown,RonnieBrown24MIA2005,1,79,< 24
+370,Stephen Davis\DaviSt00,2002,28,4-102,WAS,NFL,12,12,207,820,3.96,7,68.3,Stephen Davis,StephenDavis28WAS2002,4,5,25-28
+371,Ronnie Hillman\HillRo00,2015,24,3-67,DEN,NFL,16,11,207,863,4.17,7,53.9,Ronnie Hillman,RonnieHillman24DEN2015,3,143,< 24
+372,Marshawn Lynch\LyncMa00,2017,31,1-12,OAK,NFL,15,15,207,891,4.3,7,59.4,Marshawn Lynch,MarshawnLynch31OAK2017,1,22,29-32
+373,LeSean McCoy\McCoLe01,2010,22,2-53,PHI,NFL,15,13,207,1080,5.22,7,72,LeSean McCoy,LeSeanMcCoy22PHI2010,2,130,< 24
+374,C.J. Spiller\SpilC.00,2012,25,1-9,BUF,NFL,16,9,207,1244,6.01,6,77.8,C.J. Spiller,C.J.Spiller25BUF2012,1,162,25-28
+375,Jamaal Charles\CharJa00,2014,28,3-73,KAN,NFL,15,15,206,1033,5.01,9,68.9,Jamaal Charles,JamaalCharles28KAN2014,3,147,25-28
+376,Isaiah Crowell\CrowIs00,2017,24,NA,CLE,NFL,16,16,206,853,4.14,2,53.3,Isaiah Crowell,IsaiahCrowell24CLE2017,Undrafted,Undrafted,< 24
+377,Fred Jackson\JackFr02,2013,32,NA,BUF,NFL,16,6,206,890,4.32,9,55.6,Fred Jackson,FredJackson32BUF2013,Undrafted,Undrafted,29-32
+378,DeShaun Foster\FostDe00,2005,25,2-34,CAR,NFL,15,5,205,879,4.29,2,58.6,DeShaun Foster,DeShaunFoster25CAR2005,2,112,25-28
+379,Mark Ingram\IngrMa01,2016,27,1-28,NOR,NFL,16,14,205,1043,5.09,6,65.2,Mark Ingram,MarkIngram27NOR2016,1,107,25-28
+380,Marion Barber\BarbMa01,2007,24,4-109,DAL,NFL,16,0,204,975,4.78,10,60.9,Marion Barber,MarionBarber24DAL2007,4,12,< 24
+381,Michael Pittman\PittMi00,2002,27,4-95,TAM,NFL,16,15,204,718,3.52,1,44.9,Michael Pittman,MichaelPittman27TAM2002,4,166,25-28
+382,Matt Forte\FortMa00,2011,26,2-44,CHI,NFL,12,12,203,997,4.91,3,83.1,Matt Forte,MattForte26CHI2011,2,122,25-28
+383,Frank Gore\GoreFr00,2010,27,3-65,SFO,NFL,11,11,203,853,4.2,3,77.5,Frank Gore,FrankGore27SFO2010,3,142,25-28
+384,LeSean McCoy\McCoLe01,2015,27,2-53,BUF,NFL,12,12,203,895,4.41,3,74.6,LeSean McCoy,LeSeanMcCoy27BUF2015,2,130,25-28
+385,Brandon Jacobs\JacoBr00,2007,25,4-110,NYG,NFL,11,9,202,1009,5,4,91.7,Brandon Jacobs,BrandonJacobs25NYG2007,4,14,25-28
+386,Marshawn Lynch\LyncMa00,2010,24,1-12,2TM,NFL,16,14,202,737,3.65,6,46.1,Marshawn Lynch,MarshawnLynch242TM2010,1,22,< 24
+387,Alfred Morris\MorrAl00,2015,27,6-173,WAS,NFL,16,16,202,751,3.72,1,46.9,Alfred Morris,AlfredMorris27WAS2015,6,59,25-28
+388,C.J. Spiller\SpilC.00,2013,26,1-9,BUF,NFL,15,10,202,933,4.62,2,62.2,C.J. Spiller,C.J.Spiller26BUF2013,1,162,25-28
+389,Kevan Barlow\BarlKe00,2003,24,3-80,SFO,NFL,16,4,201,1024,5.09,6,64,Kevan Barlow,KevanBarlow24SFO2003,3,154,< 24
+390,LeGarrette Blount\BlouLe00,2010,24,NA,TAM,NFL,13,7,201,1007,5.01,6,77.5,LeGarrette Blount,LeGarretteBlount24TAM2010,Undrafted,Undrafted,< 24
+391,Andre Ellington\ElliAn00,2014,25,6-187,ARI,NFL,12,12,201,660,3.28,3,55,Andre Ellington,AndreEllington25ARI2014,6,68,25-28
+392,DeAngelo Williams\WillDe02,2013,30,1-27,CAR,NFL,15,15,201,843,4.19,3,56.2,DeAngelo Williams,DeAngeloWilliams30CAR2013,1,106,29-32
+393,Ronnie Brown\BrowRo05,2010,29,1-2,MIA,NFL,16,16,200,734,3.67,5,45.9,Ronnie Brown,RonnieBrown29MIA2010,1,79,29-32
+394,LeSean McCoy\McCoLe01,2012,24,2-53,PHI,NFL,12,12,200,840,4.2,2,70,LeSean McCoy,LeSeanMcCoy24PHI2012,2,130,< 24
+395,LenDale White\WhitLe01,2008,24,2-45,TEN,NFL,16,2,200,773,3.87,15,48.3,LenDale White,LenDaleWhite24TEN2008,2,123,< 24
+396,DeAngelo Williams\WillDe02,2015,32,1-27,PIT,NFL,16,10,200,907,4.54,11,56.7,DeAngelo Williams,DeAngeloWilliams32PIT2015,1,106,29-32
+397,Corey Dillon\DillCo00,2006,32,2-43,NWE,NFL,16,13,199,812,4.08,13,50.8,Corey Dillon,CoreyDillon32NWE2006,2,121,29-32
+398,Lee Suggs\SuggLe00,2004,24,4-115,CLE,NFL,10,3,199,744,3.74,2,74.4,Lee Suggs,LeeSuggs24CLE2004,4,18,< 24
+399,Isaiah Crowell\CrowIs00,2016,23,NA,CLE,NFL,16,16,198,952,4.81,7,59.5,Isaiah Crowell,IsaiahCrowell23CLE2016,Undrafted,Undrafted,< 24
+400,Chris Ivory\IvorCh00,2014,26,NA,NYJ,NFL,16,10,198,821,4.15,6,51.3,Chris Ivory,ChrisIvory26NYJ2014,Undrafted,Undrafted,25-28
+401,Jonathan Stewart\StewJo00,2017,30,1-13,CAR,NFL,15,10,198,680,3.43,6,45.3,Jonathan Stewart,JonathanStewart30CAR2017,1,29,29-32
+402,T.J. Duckett\DuckT.00,2003,22,1-18,ATL,NFL,16,10,197,779,3.95,11,48.7,T.J. Duckett,T.J.Duckett22ATL2003,1,63,< 24
+403,Julius Jones\JoneJu01,2004,23,2-43,DAL,NFL,8,7,197,819,4.16,7,102.4,Julius Jones,JuliusJones23DAL2004,2,121,< 24
+404,Maurice Jones-Drew\DrewMa00,2008,23,2-60,JAX,NFL,16,3,197,824,4.18,12,51.5,Maurice Jones-Drew,MauriceJones-Drew23JAX2008,2,137,< 24
+405,Jonathan Wells\WellJo00,2002,23,4-99,HOU,NFL,16,11,197,529,2.69,3,33.1,Jonathan Wells,JonathanWells23HOU2002,4,169,< 24
+406,Cedric Benson\BensCe00,2007,25,1-4,CHI,NFL,11,11,196,674,3.44,4,61.3,Cedric Benson,CedricBenson25CHI2007,1,118,25-28
+407,Devonta Freeman\FreeDe00,2017,25,4-103,ATL,NFL,14,14,196,865,4.41,7,61.8,Devonta Freeman,DevontaFreeman25ATL2017,4,6,25-28
+408,Priest Holmes\HolmPr00,2004,31,NA,KAN,NFL,8,8,196,892,4.55,14,111.5,Priest Holmes,PriestHolmes31KAN2004,Undrafted,Undrafted,29-32
+409,Chris Johnson\JohnCh04,2015,30,1-24,ARI,NFL,11,9,196,814,4.15,3,74,Chris Johnson,ChrisJohnson30ARI2015,1,96,29-32
+410,Marshall Faulk*\FaulMa00,2004,31,1-2,STL,NFL,14,14,195,774,3.97,3,55.3,Marshall Faulk*,MarshallFaulk*31STL2004,1,79,29-32
+411,James Jackson\JackJa00,2001,25,3-65,CLE,NFL,11,10,195,554,2.84,2,50.4,James Jackson,JamesJackson25CLE2001,3,142,25-28
+412,Rashad Jennings\JennRa00,2015,30,7-250,NYG,NFL,16,16,195,863,4.43,3,53.9,Rashad Jennings,RashadJennings30NYG2015,7,102,29-32
+413,Latavius Murray\MurrLa00,2016,26,6-181,OAK,NFL,14,12,195,788,4.04,12,56.3,Latavius Murray,LataviusMurray26OAK2016,6,65,25-28
+414,Ron Dayne\DaynRo00,2007,29,1-11,HOU,NFL,13,8,194,773,3.98,6,59.5,Ron Dayne,RonDayne29HOU2007,1,13,29-32
+415,Jerome Harrison\HarrJe00,2009,26,5-145,CLE,NFL,14,7,194,862,4.44,5,61.6,Jerome Harrison,JeromeHarrison26CLE2009,5,42,25-28
+416,Laurence Maroney\MaroLa00,2009,24,1-21,NWE,NFL,15,5,194,757,3.9,9,50.5,Laurence Maroney,LaurenceMaroney24NWE2009,1,84,< 24
+417,Lamar Miller\MillLa01,2015,24,4-97,MIA,NFL,16,16,194,872,4.49,8,54.5,Lamar Miller,LamarMiller24MIA2015,4,168,< 24
+418,Fred Taylor\TaylFr00,2005,29,1-9,JAX,NFL,11,11,194,787,4.06,3,71.5,Fred Taylor,FredTaylor29JAX2005,1,162,29-32
+419,Larry Johnson\JohnLa00,2008,29,1-27,KAN,NFL,12,12,193,874,4.53,5,72.8,Larry Johnson,LarryJohnson29KAN2008,1,106,29-32
+420,DeMarco Murray\MurrDe00,2015,27,3-71,PHI,NFL,15,8,193,702,3.64,6,46.8,DeMarco Murray,DeMarcoMurray27PHI2015,3,146,25-28
+421,Terrance West\WestTe00,2016,25,3-94,BAL,NFL,16,13,193,774,4.01,5,48.4,Terrance West,TerranceWest25BAL2016,3,165,25-28
+422,Amos Zereoue\ZereAm00,2002,26,3-95,PIT,NFL,16,5,193,762,3.95,4,47.6,Amos Zereoue,AmosZereoue26PIT2002,3,166,25-28
+423,Duce Staley\StalDu00,2004,29,3-71,PIT,NFL,10,10,192,830,4.32,1,83,Duce Staley,DuceStaley29PIT2004,3,146,29-32
+424,Jamaal Charles\CharJa00,2009,23,3-73,KAN,NFL,15,10,190,1120,5.89,7,74.7,Jamaal Charles,JamaalCharles23KAN2009,3,147,< 24
+425,Brandon Jackson\JackBr00,2010,25,2-63,GNB,NFL,16,13,190,703,3.7,3,43.9,Brandon Jackson,BrandonJackson25GNB2010,2,140,25-28
+426,Steven Jackson\JackSt00,2014,31,1-24,ATL,NFL,15,15,190,707,3.72,6,47.1,Steven Jackson,StevenJackson31ATL2014,1,96,29-32
+427,Ryan Grant\GranRy00,2007,25,NA,GNB,NFL,15,7,188,956,5.09,8,63.7,Ryan Grant,RyanGrant25GNB2007,Undrafted,Undrafted,25-28
+428,Trent Richardson\RichTr00,2013,23,1-3,2TM,NFL,16,10,188,563,2.99,3,35.2,Trent Richardson,TrentRichardson232TM2013,1,108,< 24
+429,Marcel Shipp\ShipMa00,2002,24,NA,ARI,NFL,15,6,188,834,4.44,6,55.6,Marcel Shipp,MarcelShipp24ARI2002,Undrafted,Undrafted,< 24
+430,Jerome Bettis*\BettJe00,2002,30,1-10,PIT,NFL,13,11,187,666,3.56,9,51.2,Jerome Bettis*,JeromeBettis*30PIT2002,1,2,29-32
+431,Eddie Lacy\LacyEd00,2015,25,2-61,GNB,NFL,15,12,187,758,4.05,3,50.5,Eddie Lacy,EddieLacy25GNB2015,2,138,25-28
+432,Michael Pittman\PittMi00,2003,28,4-95,TAM,NFL,16,13,187,751,4.02,0,46.9,Michael Pittman,MichaelPittman28TAM2003,4,166,25-28
+433,Dominic Rhodes\RhodDo00,2006,27,NA,IND,NFL,16,16,187,641,3.43,5,40.1,Dominic Rhodes,DominicRhodes27IND2006,Undrafted,Undrafted,25-28
+434,Warrick Dunn\DunnWa00,2008,33,1-12,TAM,NFL,15,6,186,786,4.23,2,52.4,Warrick Dunn,WarrickDunn33TAM2008,1,22,32+
+435,Kevin Jones\JoneKe02,2005,23,1-30,DET,NFL,13,13,186,664,3.57,5,51.1,Kevin Jones,KevinJones23DET2005,1,109,< 24
+436,Isaiah Crowell\CrowIs00,2015,22,NA,CLE,NFL,16,9,185,706,3.82,4,44.1,Isaiah Crowell,IsaiahCrowell22CLE2015,Undrafted,Undrafted,< 24
+437,Shonn Greene\GreeSh00,2010,25,3-65,NYJ,NFL,15,2,185,766,4.14,2,51.1,Shonn Greene,ShonnGreene25NYJ2010,3,142,25-28
+438,Felix Jones\JoneFe00,2010,23,1-22,DAL,NFL,16,7,185,800,4.32,1,50,Felix Jones,FelixJones23DAL2010,1,86,< 24
+439,Laurence Maroney\MaroLa00,2007,22,1-21,NWE,NFL,13,6,185,835,4.51,6,64.2,Laurence Maroney,LaurenceMaroney22NWE2007,1,84,< 24
+440,LeGarrette Blount\BlouLe00,2011,25,NA,TAM,NFL,14,14,184,781,4.24,5,55.8,LeGarrette Blount,LeGarretteBlount25TAM2011,Undrafted,Undrafted,25-28
+441,Melvin Gordon\GordMe00,2015,22,1-15,SDG,NFL,14,13,184,641,3.48,0,45.8,Melvin Gordon,MelvinGordon22SDG2015,1,45,< 24
+442,Ryan Mathews\MathRy00,2012,25,1-12,SDG,NFL,12,9,184,707,3.84,1,58.9,Ryan Mathews,RyanMathews25SDG2012,1,22,25-28
+443,DeMarco Murray\MurrDe00,2017,29,3-71,TEN,NFL,15,15,184,659,3.58,6,43.9,DeMarco Murray,DeMarcoMurray29TEN2017,3,146,29-32
+444,Michael Pittman\PittMi00,2000,25,4-95,ARI,NFL,16,12,184,719,3.91,4,44.9,Michael Pittman,MichaelPittman25ARI2000,4,166,25-28
+445,Jonathan Stewart\StewJo00,2008,21,1-13,CAR,NFL,16,0,184,836,4.54,10,52.3,Jonathan Stewart,JonathanStewart21CAR2008,1,29,< 24
+446,Alfred Blue\BlueAl00,2015,24,6-181,HOU,NFL,15,9,183,698,3.81,2,46.5,Alfred Blue,AlfredBlue24HOU2015,6,65,< 24
+447,Charlie Garner\GarnCh00,2002,30,2-42,OAK,NFL,16,15,182,962,5.29,7,60.1,Charlie Garner,CharlieGarner30OAK2002,2,120,29-32
+448,Chris Ivory\IvorCh00,2013,25,NA,NYJ,NFL,15,6,182,833,4.58,3,55.5,Chris Ivory,ChrisIvory25NYJ2013,Undrafted,Undrafted,25-28
+449,Knowshon Moreno\MoreKn00,2010,23,1-12,DEN,NFL,13,13,182,779,4.28,5,59.9,Knowshon Moreno,KnowshonMoreno23DEN2010,1,22,< 24
+450,Antowain Smith\SmitAn00,2003,31,1-23,NWE,NFL,13,6,182,642,3.53,3,49.4,Antowain Smith,AntowainSmith31NWE2003,1,90,29-32
+451,Mike Tolbert\TolbMi00,2010,25,NA,SDG,NFL,15,4,182,735,4.04,11,49,Mike Tolbert,MikeTolbert25SDG2010,Undrafted,Undrafted,25-28
+452,Derrick Ward\WardDe01,2008,28,7-235,NYG,NFL,16,3,182,1025,5.63,2,64.1,Derrick Ward,DerrickWard28NYG2008,7,93,25-28
+453,T.J. Yeldon\YeldT.00,2015,22,2-36,JAX,NFL,12,12,182,740,4.07,2,61.7,T.J. Yeldon,T.J.Yeldon22JAX2015,2,114,< 24
+454,BenJarvus Green-Ellis\GreeBe00,2011,26,NA,NWE,NFL,16,6,181,667,3.69,11,41.7,BenJarvus Green-Ellis,BenJarvusGreen-Ellis26NWE2011,Undrafted,Undrafted,25-28
+455,Rashad Jennings\JennRa00,2016,31,7-250,NYG,NFL,13,12,181,593,3.28,3,45.6,Rashad Jennings,RashadJennings31NYG2016,7,102,29-32
+456,Kevin Jones\JoneKe02,2006,24,1-30,DET,NFL,12,12,181,689,3.81,6,57.4,Kevin Jones,KevinJones24DET2006,1,109,< 24
+457,Ben Tate\TateBe00,2013,25,2-58,HOU,NFL,14,7,181,771,4.26,4,55.1,Ben Tate,BenTate25HOU2013,2,135,25-28
+458,Stephen Davis\DaviSt00,2005,31,4-102,CAR,NFL,13,11,180,549,3.05,12,42.2,Stephen Davis,StephenDavis31CAR2005,4,5,29-32
+459,Ron Dayne\DaynRo00,2001,23,1-11,NYG,NFL,16,7,180,690,3.83,7,43.1,Ron Dayne,RonDayne23NYG2001,1,13,< 24
+460,Dion Lewis\LewiDi00,2017,27,5-149,NWE,NFL,16,8,180,896,4.98,6,56,Dion Lewis,DionLewis27NWE2017,5,44,25-28
+461,C.J. Anderson\AndeC.00,2014,23,NA,DEN,NFL,15,7,179,849,4.74,8,56.6,C.J. Anderson,C.J.Anderson23DEN2014,Undrafted,Undrafted,< 24
+462,Tre Mason\MasoTr00,2014,21,3-75,STL,NFL,12,9,179,765,4.27,4,63.8,Tre Mason,TreMason21STL2014,3,149,< 24
+463,Justin Fargas\FargJu00,2006,26,3-96,OAK,NFL,16,6,178,659,3.7,1,41.2,Justin Fargas,JustinFargas26OAK2006,3,167,25-28
+464,Kevin Faulk\FaulKe00,2003,27,2-46,NWE,NFL,15,8,178,638,3.58,0,42.5,Kevin Faulk,KevinFaulk27NWE2003,2,124,25-28
+465,Garrison Hearst\HearGa00,2003,32,1-3,SFO,NFL,12,12,178,768,4.31,3,64,Garrison Hearst,GarrisonHearst32SFO2003,1,108,29-32
+466,Larry Johnson\JohnLa00,2009,30,1-27,2TM,NFL,14,7,178,581,3.26,0,41.5,Larry Johnson,LarryJohnson302TM2009,1,106,29-32
+467,Joe Mixon\MixoJo00,2017,21,2-48,CIN,NFL,14,7,178,626,3.52,4,44.7,Joe Mixon,JoeMixon21CIN2017,2,125,< 24
+468,Bilal Powell\PoweBi00,2017,29,4-126,NYJ,NFL,15,10,178,772,4.34,5,51.5,Bilal Powell,BilalPowell29NYJ2017,4,26,29-32
+469,Stevan Ridley\RidlSt00,2013,24,3-73,NWE,NFL,14,6,178,773,4.34,7,55.2,Stevan Ridley,StevanRidley24NWE2013,3,147,< 24
+470,Jonathan Stewart\StewJo00,2010,23,1-13,CAR,NFL,14,7,178,770,4.33,2,55,Jonathan Stewart,JonathanStewart23CAR2010,1,29,< 24
+471,Michael Turner\TurnMi00,2009,27,5-154,ATL,NFL,11,11,178,871,4.89,10,79.2,Michael Turner,MichaelTurner27ATL2009,5,49,25-28
+472,Kenny Watson\WatsKe00,2007,29,NA,CIN,NFL,16,5,178,763,4.29,7,47.7,Kenny Watson,KennyWatson29CIN2007,Undrafted,Undrafted,29-32
+473,Julius Jones\JoneJu01,2009,28,2-43,SEA,NFL,14,14,177,663,3.75,2,47.4,Julius Jones,JuliusJones28SEA2009,2,121,25-28
+474,Lamar Miller\MillLa01,2013,22,4-97,MIA,NFL,16,15,177,709,4.01,2,44.3,Lamar Miller,LamarMiller22MIA2013,4,168,< 24
+475,Brian Westbrook\WestBr00,2004,25,3-91,PHI,NFL,13,12,177,812,4.59,3,62.5,Brian Westbrook,BrianWestbrook25PHI2004,3,163,25-28
+476,Kevan Barlow\BarlKe00,2005,26,3-80,SFO,NFL,12,12,176,581,3.3,3,48.4,Kevan Barlow,KevanBarlow26SFO2005,3,154,25-28
+477,Derrick Henry\HenrDe00,2017,23,2-45,TEN,NFL,16,2,176,744,4.23,5,46.5,Derrick Henry,DerrickHenry23TEN2017,2,123,< 24
+478,Bilal Powell\PoweBi00,2013,25,4-126,NYJ,NFL,16,11,176,697,3.96,1,43.6,Bilal Powell,BilalPowell25NYJ2013,4,26,25-28
+479,Beanie Wells\WellCh00,2009,21,1-31,ARI,NFL,16,0,176,793,4.51,7,49.6,Beanie Wells,BeanieWells21ARI2009,1,110,< 24
+480,Mike Anderson\AndeMi00,2001,28,6-189,DEN,NFL,16,7,175,678,3.87,4,42.4,Mike Anderson,MikeAnderson28DEN2001,6,70,25-28
+481,Laurence Maroney\MaroLa00,2006,21,1-21,NWE,NFL,14,0,175,745,4.26,6,53.2,Laurence Maroney,LaurenceMaroney21NWE2006,1,84,< 24
+482,Samaje Perine\PeriSa00,2017,22,4-114,WAS,NFL,16,8,175,603,3.45,1,37.7,Samaje Perine,SamajePerine22WAS2017,4,17,< 24
+483,Jonathan Stewart\StewJo00,2014,27,1-13,CAR,NFL,13,8,175,809,4.62,3,62.2,Jonathan Stewart,JonathanStewart27CAR2014,1,29,25-28
+484,Ben Tate\TateBe00,2011,23,2-58,HOU,NFL,15,2,175,942,5.38,4,62.8,Ben Tate,BenTate23HOU2011,2,135,< 24
+485,Devontae Booker\BookDe00,2016,24,4-136,DEN,NFL,16,6,174,612,3.52,4,38.3,Devontae Booker,DevontaeBooker24DEN2016,4,34,< 24
+486,Moe Williams\WillMo00,2003,29,3-75,MIN,NFL,16,7,174,745,4.28,5,46.6,Moe Williams,MoeWilliams29MIN2003,3,149,29-32
+487,Tatum Bell\BellTa00,2005,24,2-41,DEN,NFL,15,1,173,921,5.32,8,61.4,Tatum Bell,TatumBell24DEN2005,2,119,< 24
+488,Tim Biakabutuka\BiakTi00,2000,26,1-8,CAR,NFL,12,11,173,627,3.62,2,52.3,Tim Biakabutuka,TimBiakabutuka26CAR2000,1,153,25-28
+489,LeGarrette Blount\BlouLe00,2017,31,NA,PHI,NFL,16,11,173,766,4.43,2,47.9,LeGarrette Blount,LeGarretteBlount31PHI2017,Undrafted,Undrafted,29-32
+490,Travis Prentice\PrenTr00,2000,24,3-63,CLE,NFL,16,11,173,512,2.96,7,32,Travis Prentice,TravisPrentice24CLE2000,3,140,< 24
+491,DeAngelo Williams\WillDe02,2012,29,1-27,CAR,NFL,16,10,173,737,4.26,5,46.1,DeAngelo Williams,DeAngeloWilliams29CAR2012,1,106,29-32
+492,Mike Bell\BellMi00,2009,26,NA,NOR,NFL,13,3,172,654,3.8,5,50.3,Mike Bell,MikeBell26NOR2009,Undrafted,Undrafted,25-28
+493,Michael Bennett\BennMi00,2001,23,1-27,MIN,NFL,13,13,172,682,3.97,2,52.5,Michael Bennett,MichaelBennett23MIN2001,1,106,< 24
+494,Jahvid Best\BestJa00,2010,21,1-30,DET,NFL,16,9,171,555,3.25,4,34.7,Jahvid Best,JahvidBest21DET2010,1,109,< 24
+495,Ahmad Bradshaw\BradAh00,2011,25,7-250,NYG,NFL,12,9,171,659,3.85,9,54.9,Ahmad Bradshaw,AhmadBradshaw25NYG2011,7,102,25-28
+496,Orleans Darkwa\DarkOr00,2017,25,NA,NYG,NFL,15,11,171,751,4.39,5,50.1,Orleans Darkwa,OrleansDarkwa25NYG2017,Undrafted,Undrafted,25-28
+497,Terrance West\WestTe00,2014,23,3-94,CLE,NFL,14,6,171,673,3.94,4,48.1,Terrance West,TerranceWest23CLE2014,3,165,< 24
+498,Giovani Bernard\BernGi00,2013,22,2-37,CIN,NFL,16,0,170,695,4.09,5,43.4,Giovani Bernard,GiovaniBernard22CIN2013,2,115,< 24
+499,Fred Jackson\JackFr02,2011,30,NA,BUF,NFL,10,10,170,934,5.49,6,93.4,Fred Jackson,FredJackson30BUF2011,Undrafted,Undrafted,29-32
+500,Rudi Johnson\JohnRu00,2007,28,4-100,CIN,NFL,11,9,170,497,2.92,3,45.2,Rudi Johnson,RudiJohnson28CIN2007,4,3,25-28
+501,Willis McGahee\McGaWi00,2008,27,1-23,BAL,NFL,13,8,170,671,3.95,7,51.6,Willis McGahee,WillisMcGahee27BAL2008,1,90,25-28
+502,Alfred Blue\BlueAl00,2014,23,6-181,HOU,NFL,16,3,169,528,3.12,2,33,Alfred Blue,AlfredBlue23HOU2014,6,65,< 24
+503,Todd Gurley\GurlTo01,2018,24,1-10,LAR,NFL,8,8,169,800,4.73,11,100,Todd Gurley,ToddGurley24LAR2018,1,2,< 24
+504,Terry Allen\AlleTe00,2001,33,9-241,BAL,NFL,11,8,168,658,3.92,3,59.8,Terry Allen,TerryAllen33BAL2001,8,98,32+
+505,Giovani Bernard\BernGi00,2014,23,2-37,CIN,NFL,13,9,168,680,4.05,5,52.3,Giovani Bernard,GiovaniBernard23CIN2014,2,115,< 24
+506,Robert Kelley\KellRo00,2016,24,NA,WAS,NFL,15,9,168,704,4.19,6,46.9,Robert Kelley,RobertKelley24WAS2016,Undrafted,Undrafted,< 24
+507,Ricky Williams\WillRi00,2005,28,1-5,MIA,NFL,12,3,168,743,4.42,6,61.9,Ricky Williams,RickyWilliams28MIA2005,1,127,25-28
+508,Terrell Davis*\DaviTe00,2001,29,6-196,DEN,NFL,8,8,167,701,4.2,0,87.6,Terrell Davis*,TerrellDavis*29DEN2001,6,77,29-32
+509,Travis Henry\HenrTr00,2007,29,2-58,DEN,NFL,12,7,167,691,4.14,4,57.6,Travis Henry,TravisHenry29DEN2007,2,135,29-32
+510,Rashad Jennings\JennRa00,2014,29,7-250,NYG,NFL,11,9,167,639,3.83,4,58.1,Rashad Jennings,RashadJennings29NYG2014,7,102,29-32
+511,Maurice Jones-Drew\DrewMa00,2007,22,2-60,JAX,NFL,15,0,167,768,4.6,9,51.2,Maurice Jones-Drew,MauriceJones-Drew22JAX2007,2,137,< 24
+512,Willis McGahee\McGaWi00,2012,31,1-23,DEN,NFL,10,9,167,731,4.38,4,73.1,Willis McGahee,WillisMcGahee31DEN2012,1,90,29-32
+513,Tiki Barber\BarbTi00,2001,26,2-36,NYG,NFL,14,9,166,865,5.21,4,61.8,Tiki Barber,TikiBarber26NYG2001,2,114,25-28
+514,Joique Bell\BellJo01,2013,27,NA,DET,NFL,16,4,166,650,3.92,8,40.6,Joique Bell,JoiqueBell27DET2013,Undrafted,Undrafted,25-28
+515,Mark Ingram\IngrMa01,2015,26,1-28,NOR,NFL,12,10,166,769,4.63,6,64.1,Mark Ingram,MarkIngram26NOR2015,1,107,25-28
+516,Maurice Jones-Drew\DrewMa00,2006,21,2-60,JAX,NFL,16,1,166,941,5.67,13,58.8,Maurice Jones-Drew,MauriceJones-Drew21JAX2006,2,137,< 24
+517,Antowain Smith\SmitAn00,2005,33,1-23,NOR,NFL,16,7,166,659,3.97,3,41.2,Antowain Smith,AntowainSmith33NOR2005,1,90,32+
+518,Duce Staley\StalDu00,2001,26,3-71,PHI,NFL,13,10,166,604,3.64,2,46.5,Duce Staley,DuceStaley26PHI2001,3,146,25-28
+519,Ameer Abdullah\AbduAm00,2017,24,2-54,DET,NFL,14,11,165,552,3.35,4,39.4,Ameer Abdullah,AmeerAbdullah24DET2017,2,131,< 24
+520,Mike Alstott\AlstMi00,2001,28,2-35,TAM,NFL,16,16,165,680,4.12,10,42.5,Mike Alstott,MikeAlstott28TAM2001,2,113,25-28
+521,LeGarrette Blount\BlouLe00,2015,29,NA,NWE,NFL,12,6,165,703,4.26,6,58.6,LeGarrette Blount,LeGarretteBlount29NWE2015,Undrafted,Undrafted,29-32
+522,Richard Huntley\HuntRi00,2001,29,4-117,CAR,NFL,14,9,165,665,4.03,2,47.5,Richard Huntley,RichardHuntley29CAR2001,4,19,29-32
+523,Daniel Thomas\ThomDa03,2011,24,2-62,MIA,NFL,13,2,165,581,3.52,0,44.7,Daniel Thomas,DanielThomas24MIA2011,2,139,< 24
+524,Matt Asiata\AsiaMa00,2014,27,NA,MIN,NFL,15,9,164,570,3.48,9,38,Matt Asiata,MattAsiata27MIN2014,Undrafted,Undrafted,25-28
+525,Kevin Faulk\FaulKe00,2000,24,2-46,NWE,NFL,16,9,164,570,3.48,4,35.6,Kevin Faulk,KevinFaulk24NWE2000,2,124,< 24
+526,Julius Jones\JoneJu01,2007,26,2-43,DAL,NFL,16,16,164,588,3.59,2,36.8,Julius Jones,JuliusJones26DAL2007,2,121,25-28
+527,DeMarco Murray\MurrDe00,2011,23,3-71,DAL,NFL,13,7,164,897,5.47,2,69,DeMarco Murray,DeMarcoMurray23DAL2011,3,146,< 24
+528,Ryan Torain\ToraRy00,2010,24,5-139,WAS,NFL,10,8,164,742,4.52,4,74.2,Ryan Torain,RyanTorain24WAS2010,5,37,< 24
+529,Ahmad Bradshaw\BradAh00,2009,23,7-250,NYG,NFL,15,1,163,778,4.77,7,51.9,Ahmad Bradshaw,AhmadBradshaw23NYG2009,7,102,< 24
+530,William Green\GreeWi01,2004,25,1-16,CLE,NFL,15,13,163,585,3.59,2,39,William Green,WilliamGreen25CLE2004,1,52,25-28
+531,Rashad Jennings\JennRa00,2013,28,7-250,OAK,NFL,15,8,163,733,4.5,6,48.9,Rashad Jennings,RashadJennings28OAK2013,7,102,25-28
+532,Shawn Bryson\BrysSh00,2000,24,3-86,BUF,NFL,16,7,161,591,3.67,0,36.9,Shawn Bryson,ShawnBryson24BUF2000,3,159,< 24
+533,Peyton Hillis\HillPe00,2011,25,7-227,CLE,NFL,10,9,161,587,3.65,3,58.7,Peyton Hillis,PeytonHillis25CLE2011,7,87,25-28
+534,Maurice Morris\MorrMa00,2006,27,2-54,SEA,NFL,16,8,161,604,3.75,0,37.8,Maurice Morris,MauriceMorris27SEA2006,2,131,25-28
+535,DeMarco Murray\MurrDe00,2012,24,3-71,DAL,NFL,10,10,161,663,4.12,4,66.3,DeMarco Murray,DeMarcoMurray24DAL2012,3,146,< 24
+536,Branden Oliver\OlivBr01,2014,23,NA,SDG,NFL,14,7,160,582,3.64,3,41.6,Branden Oliver,BrandenOliver23SDG2014,Undrafted,Undrafted,< 24
+537,Chester Taylor\TaylCh01,2004,25,6-207,BAL,NFL,16,4,160,714,4.46,2,44.6,Chester Taylor,ChesterTaylor25BAL2004,6,82,25-28
+538,Charcandrick West\WestCh01,2015,24,NA,KAN,NFL,15,9,160,634,3.96,4,42.3,Charcandrick West,CharcandrickWest24KAN2015,Undrafted,Undrafted,< 24
+539,Ricky Williams\WillRi00,2008,31,1-5,MIA,NFL,16,3,160,659,4.12,4,41.2,Ricky Williams,RickyWilliams31MIA2008,1,127,29-32
+540,Jerick McKinnon\McKiJe00,2016,24,3-96,MIN,NFL,15,7,159,539,3.39,2,35.9,Jerick McKinnon,JerickMcKinnon24MIN2016,3,167,< 24
+541,Trent Richardson\RichTr00,2014,24,1-3,IND,NFL,15,12,159,519,3.26,3,34.6,Trent Richardson,TrentRichardson24IND2014,1,108,< 24
+542,Tyrone Wheatley\WheaTy00,2003,31,1-17,OAK,NFL,15,5,159,678,4.26,4,45.2,Tyrone Wheatley,TyroneWheatley31OAK2003,1,56,29-32
+543,Ricky Williams\WillRi00,2010,33,1-5,MIA,NFL,16,0,159,673,4.23,2,42.1,Ricky Williams,RickyWilliams33MIA2010,1,127,32+
+544,Shawn Bryson\BrysSh00,2003,27,3-86,DET,NFL,16,13,158,606,3.84,3,37.9,Shawn Bryson,ShawnBryson27DET2003,3,159,25-28
+545,Michael Bush\BushMi00,2010,26,4-100,OAK,NFL,14,3,158,655,4.15,8,46.8,Michael Bush,MichaelBush26OAK2010,4,3,25-28
+546,Warrick Dunn\DunnWa00,2001,26,1-12,TAM,NFL,13,12,158,447,2.83,3,34.4,Warrick Dunn,WarrickDunn26TAM2001,1,22,25-28
+547,Larry Johnson\JohnLa00,2007,28,1-27,KAN,NFL,8,8,158,559,3.54,3,69.9,Larry Johnson,LarryJohnson28KAN2007,1,106,25-28
+548,Julius Jones\JoneJu01,2008,27,2-43,SEA,NFL,15,10,158,698,4.42,2,46.5,Julius Jones,JuliusJones27SEA2008,2,121,25-28
+549,Ryan Mathews\MathRy00,2010,23,1-12,SDG,NFL,12,9,158,678,4.29,7,56.5,Ryan Mathews,RyanMathews23SDG2010,1,22,< 24
+550,Mike Bell\BellMi00,2006,23,NA,DEN,NFL,15,3,157,677,4.31,8,45.1,Mike Bell,MikeBell23DEN2006,Undrafted,Undrafted,< 24
+551,Cedric Benson\BensCe00,2006,24,1-4,CHI,NFL,15,0,157,647,4.12,6,43.1,Cedric Benson,CedricBenson24CHI2006,1,118,< 24
+552,Reggie Bush\BushRe00,2007,22,1-2,NOR,NFL,12,10,157,581,3.7,4,48.4,Reggie Bush,ReggieBush22NOR2007,1,79,< 24
+553,Steven Jackson\JackSt00,2013,30,1-24,ATL,NFL,12,12,157,543,3.46,6,45.3,Steven Jackson,StevenJackson30ATL2013,1,96,29-32
+554,Marcel Shipp\ShipMa00,2005,27,NA,ARI,NFL,15,11,157,451,2.87,0,30.1,Marcel Shipp,MarcelShipp27ARI2005,Undrafted,Undrafted,25-28
+555,Chester Taylor\TaylCh01,2007,28,6-207,MIN,NFL,14,8,157,844,5.38,7,60.3,Chester Taylor,ChesterTaylor28MIN2007,6,82,25-28
+556,Tevin Coleman\ColeTe01,2017,24,3-73,ATL,NFL,15,3,156,628,4.03,5,41.9,Tevin Coleman,TevinColeman24ATL2017,3,147,< 24
+557,Jonathan Dwyer\DwyeJo00,2012,23,6-188,PIT,NFL,13,6,156,623,3.99,2,47.9,Jonathan Dwyer,JonathanDwyer23PIT2012,6,69,< 24
+558,Mark Ingram\IngrMa01,2012,23,1-28,NOR,NFL,16,5,156,602,3.86,5,37.6,Mark Ingram,MarkIngram23NOR2012,1,107,< 24
+559,Sammy Morris\MorrSa00,2008,31,5-156,NWE,NFL,13,7,156,727,4.66,7,55.9,Sammy Morris,SammyMorris31NWE2008,5,51,29-32
+560,Adrian Peterson\PeteAd01,2017,32,1-7,2TM,NFL,10,7,156,529,3.39,2,52.9,Adrian Peterson,AdrianPeterson322TM2017,1,145,29-32
+561,Brian Westbrook\WestBr00,2005,26,3-91,PHI,NFL,12,12,156,617,3.96,3,51.4,Brian Westbrook,BrianWestbrook26PHI2005,3,163,25-28
+562,Joseph Addai\AddaJo00,2008,25,1-30,IND,NFL,12,12,155,544,3.51,5,45.3,Joseph Addai,JosephAddai25IND2008,1,109,25-28
+563,James Allen\AlleJa00,2002,27,NA,HOU,NFL,16,5,155,519,3.35,0,32.4,James Allen,JamesAllen27HOU2002,Undrafted,Undrafted,25-28
+564,Reggie Bush\BushRe00,2006,21,1-2,NOR,NFL,16,8,155,565,3.65,6,35.3,Reggie Bush,ReggieBush21NOR2006,1,79,< 24
+565,Chris Johnson\JohnCh04,2014,29,1-24,NYJ,NFL,16,6,155,663,4.28,1,41.4,Chris Johnson,ChrisJohnson29NYJ2014,1,96,29-32
+566,Ryan Mathews\MathRy00,2016,29,1-12,PHI,NFL,13,8,155,661,4.26,8,50.8,Ryan Mathews,RyanMathews29PHI2016,1,22,29-32
+567,LeSean McCoy\McCoLe01,2009,21,2-53,PHI,NFL,16,4,155,637,4.11,4,39.8,LeSean McCoy,LeSeanMcCoy21PHI2009,2,130,< 24
+568,Darren McFadden\McFaDa00,2014,27,1-4,OAK,NFL,16,12,155,534,3.45,2,33.4,Darren McFadden,DarrenMcFadden27OAK2014,1,118,25-28
+569,Mewelde Moore\MoorMe00,2005,23,4-119,MIN,NFL,16,8,155,662,4.27,1,41.4,Mewelde Moore,MeweldeMoore23MIN2005,4,21,< 24
+570,DeAngelo Williams\WillDe02,2011,28,1-27,CAR,NFL,16,14,155,836,5.39,7,52.3,DeAngelo Williams,DeAngeloWilliams28CAR2011,1,106,25-28
+571,Giovani Bernard\BernGi00,2015,24,2-37,CIN,NFL,16,1,154,730,4.74,2,45.6,Giovani Bernard,GiovaniBernard24CIN2015,2,115,< 24
+572,Javorius Allen\AlleJa01,2017,26,4-125,BAL,NFL,16,0,153,591,3.86,4,36.9,Javorius Allen,JavoriusAllen26BAL2017,4,25,25-28
+573,LeGarrette Blount\BlouLe00,2013,27,NA,NWE,NFL,16,7,153,772,5.05,7,48.3,LeGarrette Blount,LeGarretteBlount27NWE2013,Undrafted,Undrafted,25-28
+574,Tim Hightower\HighTi00,2010,24,5-149,ARI,NFL,16,13,153,736,4.81,5,46,Tim Hightower,TimHightower24ARI2010,5,44,< 24
+575,Kevin Jones\JoneKe02,2007,25,1-30,DET,NFL,13,10,153,581,3.8,8,44.7,Kevin Jones,KevinJones25DET2007,1,109,25-28
+576,Thomas Jones\JoneTh00,2011,33,1-7,KAN,NFL,16,8,153,478,3.12,0,29.9,Thomas Jones,ThomasJones33KAN2011,1,145,32+
+577,Jamaal Williams\WillJa06,2017,22,4-134,GNB,NFL,16,7,153,556,3.63,4,34.8,Jamaal Williams,JamaalWilliams22GNB2017,4,32,< 24
+578,C.J. Anderson\AndeC.00,2015,24,NA,DEN,NFL,15,6,152,720,4.74,5,48,C.J. Anderson,C.J.Anderson24DEN2015,Undrafted,Undrafted,< 24
+579,Brandon Jacobs\JacoBr00,2011,29,4-110,NYG,NFL,14,6,152,571,3.76,7,40.8,Brandon Jacobs,BrandonJacobs29NYG2011,4,14,29-32
+580,Bernard Pierce\PierBe00,2013,22,3-84,BAL,NFL,16,1,152,436,2.87,2,27.3,Bernard Pierce,BernardPierce22BAL2013,3,157,< 24
+581,Dominic Rhodes\RhodDo00,2008,29,NA,IND,NFL,15,4,152,538,3.54,6,35.9,Dominic Rhodes,DominicRhodes29IND2008,Undrafted,Undrafted,29-32
+582,Bishop Sankey\SankBi00,2014,22,2-54,TEN,NFL,16,9,152,569,3.74,2,35.6,Bishop Sankey,BishopSankey22TEN2014,2,131,< 24
+583,Jason Brookins\BrooJa01,2001,25,NA,BAL,NFL,12,3,151,551,3.65,5,45.9,Jason Brookins,JasonBrookins25BAL2001,Undrafted,Undrafted,25-28
+584,Ron Dayne\DaynRo00,2006,28,1-11,HOU,NFL,11,6,151,612,4.05,5,55.6,Ron Dayne,RonDayne28HOU2006,1,13,25-28
+585,Justin Forsett\ForsJu00,2015,30,7-233,BAL,NFL,10,10,151,641,4.25,2,64.1,Justin Forsett,JustinForsett30BAL2015,7,92,29-32
+586,Roy Helu\HeluRo00,2011,23,4-105,WAS,NFL,15,5,151,640,4.24,2,42.7,Roy Helu,RoyHelu23WAS2011,4,8,< 24
+587,Edgerrin James\JameEd00,2001,23,1-4,IND,NFL,6,6,151,662,4.38,3,110.3,Edgerrin James,EdgerrinJames23IND2001,1,118,< 24
+588,Greg Jones\JoneGr01,2005,24,2-55,JAX,NFL,14,13,151,575,3.81,4,41.1,Greg Jones,GregJones24JAX2005,2,132,< 24
+589,Adrian Peterson\PeteAd00,2007,28,6-199,CHI,NFL,16,5,151,510,3.38,3,31.9,Adrian Peterson,AdrianPeterson28CHI2007,6,78,25-28
+590,Leon Washington\WashLe00,2006,24,4-117,NYJ,NFL,16,8,151,650,4.3,4,40.6,Leon Washington,LeonWashington24NYJ2006,4,19,< 24
+591,Jerick McKinnon\McKiJe00,2017,25,3-96,MIN,NFL,16,1,150,570,3.8,3,35.6,Jerick McKinnon,JerickMcKinnon25MIN2017,3,167,25-28
+592,Bobby Rainey\RainBo00,2013,26,NA,2TM,NFL,15,6,150,566,3.77,5,37.7,Bobby Rainey,BobbyRainey262TM2013,Undrafted,Undrafted,25-28
+593,Jackie Battle\BattJa00,2011,28,NA,KAN,NFL,15,4,149,597,4.01,2,39.8,Jackie Battle,JackieBattle28KAN2011,Undrafted,Undrafted,25-28
+594,Isaiah Crowell\CrowIs00,2014,21,NA,CLE,NFL,16,4,148,607,4.1,8,37.9,Isaiah Crowell,IsaiahCrowell21CLE2014,Undrafted,Undrafted,< 24
+595,Jeremy Langford\LangJe00,2015,24,4-106,CHI,NFL,16,2,148,537,3.63,6,33.6,Jeremy Langford,JeremyLangford24CHI2015,4,9,< 24
+596,Christine Michael\MichCh00,2016,26,2-62,2TM,NFL,15,7,148,583,3.94,7,38.9,Christine Michael,ChristineMichael262TM2016,2,139,25-28
+597,James Starks\StarJa00,2015,29,6-193,GNB,NFL,16,4,148,601,4.06,2,37.6,James Starks,JamesStarks29GNB2015,6,75,29-32
+598,Ronnie Brown\BrowRo05,2009,28,1-2,MIA,NFL,9,9,147,648,4.41,8,72,Ronnie Brown,RonnieBrown28MIA2009,1,79,25-28
+599,Brandon Jacobs\JacoBr00,2010,28,4-110,NYG,NFL,16,5,147,823,5.6,9,51.4,Brandon Jacobs,BrandonJacobs28NYG2010,4,14,25-28
+600,Thomas Rawls\RawlTh00,2015,22,NA,SEA,NFL,13,7,147,830,5.65,4,63.8,Thomas Rawls,ThomasRawls22SEA2015,Undrafted,Undrafted,< 24
+601,Tony Richardson\RichTo00,2000,29,NA,KAN,NFL,16,16,147,697,4.74,3,43.6,Tony Richardson,TonyRichardson29KAN2000,Undrafted,Undrafted,29-32
+602,Pierre Thomas\ThomPi00,2009,25,NA,NOR,NFL,14,6,147,793,5.39,6,56.6,Pierre Thomas,PierreThomas25NOR2009,Undrafted,Undrafted,25-28
+603,Pierre Thomas\ThomPi00,2013,29,NA,NOR,NFL,16,9,147,549,3.73,2,34.3,Pierre Thomas,PierreThomas29NOR2013,Undrafted,Undrafted,29-32
+604,Mike Alstott\AlstMi00,2002,29,2-35,TAM,NFL,16,9,146,548,3.75,5,34.3,Mike Alstott,MikeAlstott29TAM2002,2,113,29-32
+605,Kevan Barlow\BarlKe00,2002,23,3-80,SFO,NFL,14,0,145,675,4.66,4,48.2,Kevan Barlow,KevanBarlow23SFO2002,3,154,< 24
+606,Matt Jones\JoneMa04,2015,22,3-95,WAS,NFL,13,0,144,490,3.4,3,37.7,Matt Jones,MattJones22WAS2015,3,166,< 24
+607,LaMont Jordan\JordLa00,2007,29,2-49,OAK,NFL,12,7,144,549,3.81,3,45.8,LaMont Jordan,LaMontJordan29OAK2007,2,126,29-32
+608,Doug Martin\MartDo00,2016,27,1-31,TAM,NFL,8,8,144,421,2.92,3,52.6,Doug Martin,DougMartin27TAM2016,1,110,25-28
+609,DeAngelo Williams\WillDe02,2007,24,1-27,CAR,NFL,16,0,144,717,4.98,4,44.8,DeAngelo Williams,DeAngeloWilliams24CAR2007,1,106,< 24
+610,Ameer Abdullah\AbduAm00,2015,22,2-54,DET,NFL,16,9,143,597,4.17,2,37.3,Ameer Abdullah,AmeerAbdullah22DET2015,2,131,< 24
+611,Antonio Andrews\AndrAn00,2015,23,NA,TEN,NFL,14,10,143,520,3.64,3,37.1,Antonio Andrews,AntonioAndrews23TEN2015,Undrafted,Undrafted,< 24
+612,Samkon Gado\GadoSa00,2005,23,NA,GNB,NFL,8,5,143,582,4.07,6,72.8,Samkon Gado,SamkonGado23GNB2005,Undrafted,Undrafted,< 24
+613,Tim Hightower\HighTi00,2008,22,5-149,ARI,NFL,16,7,143,399,2.79,10,24.9,Tim Hightower,TimHightower22ARI2008,5,44,< 24
+614,Tim Hightower\HighTi00,2009,23,5-149,ARI,NFL,16,16,143,598,4.18,8,37.4,Tim Hightower,TimHightower23ARI2009,5,44,< 24
+615,Jamal Lewis\LewiJa00,2009,30,1-5,CLE,NFL,9,8,143,500,3.5,0,55.6,Jamal Lewis,JamalLewis30CLE2009,1,127,29-32
+616,James Stewart\StewJa00,2001,30,1-19,DET,NFL,11,10,143,685,4.79,1,62.3,James Stewart,JamesStewart30DET2001,1,71,29-32
+617,Fred Taylor\TaylFr00,2008,32,1-9,JAX,NFL,13,13,143,556,3.89,1,42.8,Fred Taylor,FredTaylor32JAX2008,1,162,29-32
+618,Trung Canidate\CaniTr00,2003,26,1-31,WAS,NFL,11,10,142,600,4.23,1,54.5,Trung Canidate,TrungCanidate26WAS2003,1,110,25-28
+619,William Green\GreeWi01,2003,24,1-16,CLE,NFL,7,7,142,559,3.94,1,79.9,William Green,WilliamGreen24CLE2003,1,52,< 24
+620,Jason Snelling\SnelJa00,2009,26,7-244,ATL,NFL,14,2,142,613,4.32,4,43.8,Jason Snelling,JasonSnelling26ATL2009,7,99,25-28
+621,Jonathan Stewart\StewJo00,2011,24,1-13,CAR,NFL,16,3,142,761,5.36,4,47.6,Jonathan Stewart,JonathanStewart24CAR2011,1,29,< 24
+622,Fred Jackson\JackFr02,2014,33,NA,BUF,NFL,14,9,141,525,3.72,2,37.5,Fred Jackson,FredJackson33BUF2014,Undrafted,Undrafted,32+
+623,Mewelde Moore\MoorMe00,2008,26,4-119,PIT,NFL,16,4,140,588,4.2,5,36.8,Mewelde Moore,MeweldeMoore26PIT2008,4,21,25-28
+624,Maurice Morris\MorrMa00,2007,28,2-54,SEA,NFL,14,6,140,628,4.49,4,44.9,Maurice Morris,MauriceMorris28SEA2007,2,131,25-28
+625,Selvin Young\YounSe00,2007,24,NA,DEN,NFL,15,8,140,729,5.21,1,48.6,Selvin Young,SelvinYoung24DEN2007,Undrafted,Undrafted,< 24
+626,Andre Brown\BrowAn03,2013,27,4-129,NYG,NFL,8,8,139,492,3.54,3,61.5,Andre Brown,AndreBrown27NYG2013,4,28,25-28
+627,Marion Barber\BarbMa01,2005,22,4-109,DAL,NFL,13,2,138,538,3.9,5,41.4,Marion Barber,MarionBarber22DAL2005,4,12,< 24
+628,Corey Dillon\DillCo00,2003,29,2-43,CIN,NFL,13,11,138,541,3.92,2,41.6,Corey Dillon,CoreyDillon29CIN2003,2,121,29-32
+629,Thomas Jones\JoneTh00,2002,24,1-7,ARI,NFL,9,9,138,511,3.7,2,56.8,Thomas Jones,ThomasJones24ARI2002,1,145,< 24
+630,Doug Martin\MartDo00,2017,28,1-31,TAM,NFL,11,8,138,406,2.94,3,36.9,Doug Martin,DougMartin28TAM2017,1,110,25-28
+631,Willis McGahee\McGaWi00,2013,32,1-23,CLE,NFL,12,6,138,377,2.73,2,31.4,Willis McGahee,WillisMcGahee32CLE2013,1,90,29-32
+632,Knowshon Moreno\MoreKn00,2012,25,1-12,DEN,NFL,8,6,138,525,3.8,4,65.6,Knowshon Moreno,KnowshonMoreno25DEN2012,1,22,25-28
+633,Javorius Allen\AlleJa01,2015,24,4-125,BAL,NFL,16,6,137,514,3.75,1,32.1,Javorius Allen,JavoriusAllen24BAL2015,4,25,< 24
+634,Priest Holmes\HolmPr00,2000,27,NA,BAL,NFL,16,2,137,588,4.29,2,36.8,Priest Holmes,PriestHolmes27BAL2000,Undrafted,Undrafted,25-28
+635,Chris Ivory\IvorCh00,2010,22,NA,NOR,NFL,12,4,137,716,5.23,5,59.7,Chris Ivory,ChrisIvory22NOR2010,Undrafted,Undrafted,< 24
+636,Thomas Jones\JoneTh00,2003,25,1-7,TAM,NFL,16,3,137,627,4.58,3,39.2,Thomas Jones,ThomasJones25TAM2003,1,145,25-28
+637,Antowain Smith\SmitAn00,2004,32,1-23,TEN,NFL,13,4,137,509,3.72,4,39.2,Antowain Smith,AntowainSmith32TEN2004,1,90,29-32
+638,James Allen\AlleJa00,2001,26,NA,CHI,NFL,16,7,135,469,3.47,1,29.3,James Allen,JamesAllen26CHI2001,Undrafted,Undrafted,25-28
+639,Marion Barber\BarbMa01,2006,23,4-109,DAL,NFL,16,1,135,654,4.84,14,40.9,Marion Barber,MarionBarber23DAL2006,4,12,< 24
+640,Alex Green\GreeAl00,2012,24,3-96,GNB,NFL,12,4,135,464,3.44,0,38.7,Alex Green,AlexGreen24GNB2012,3,167,< 24
+641,Denard Robinson\RobiDe00,2014,24,5-135,JAX,NFL,13,9,135,582,4.31,4,44.8,Denard Robinson,DenardRobinson24JAX2014,5,33,< 24
+642,Donald Brown\BrowDo00,2011,24,1-27,IND,NFL,16,2,134,645,4.81,5,40.3,Donald Brown,DonaldBrown24IND2011,1,106,< 24
+643,Knile Davis\DaviKn00,2014,23,3-96,KAN,NFL,16,1,134,463,3.46,6,28.9,Knile Davis,KnileDavis23KAN2014,3,167,< 24
+644,Ryan Grant\GranRy00,2011,29,NA,GNB,NFL,15,14,134,559,4.17,2,37.3,Ryan Grant,RyanGrant29GNB2011,Undrafted,Undrafted,29-32
+645,Kareem Hunt\HuntKa00,2018,23,3-86,KAN,NFL,8,8,134,592,4.42,5,74,Kareem Hunt,KareemHunt23KAN2018,3,159,< 24
+646,Steven Jackson\JackSt00,2004,21,1-24,STL,NFL,14,3,134,673,5.02,4,48.1,Steven Jackson,StevenJackson21STL2004,1,96,< 24
+647,Doug Martin\MartDo00,2014,25,1-31,TAM,NFL,11,11,134,494,3.69,2,44.9,Doug Martin,DougMartin25TAM2014,1,110,25-28
+648,Kenyan Drake\DrakKe00,2017,23,3-73,MIA,NFL,16,6,133,644,4.84,3,40.3,Kenyan Drake,KenyanDrake23MIA2017,3,147,< 24
+649,Tim Hightower\HighTi00,2016,30,5-149,NOR,NFL,16,1,133,548,4.12,4,34.3,Tim Hightower,TimHightower30NOR2016,5,44,29-32
+650,Edgerrin James\JameEd00,2008,30,1-4,ARI,NFL,13,7,133,514,3.86,3,39.5,Edgerrin James,EdgerrinJames30ARI2008,1,118,29-32
+651,James Starks\StarJa00,2011,25,6-193,GNB,NFL,13,2,133,578,4.35,1,44.5,James Starks,JamesStarks25GNB2011,6,75,25-28
+652,Ezekiel Elliott\ElliEz00,2018,23,1-4,DAL,NFL,7,7,132,619,4.69,3,88.4,Ezekiel Elliott,EzekielElliott23DAL2018,1,118,< 24
+653,Eddie George\GeorEd00,2004,31,1-14,DAL,NFL,13,8,132,432,3.27,4,33.2,Eddie George,EddieGeorge31DAL2004,1,38,29-32
+654,Earnest Graham\GrahEa00,2008,28,NA,TAM,NFL,10,10,132,563,4.27,4,56.3,Earnest Graham,EarnestGraham28TAM2008,Undrafted,Undrafted,25-28
+655,Maurice Morris\MorrMa00,2008,29,2-54,SEA,NFL,13,6,132,574,4.35,0,44.2,Maurice Morris,MauriceMorris29SEA2008,2,131,29-32
+656,Sammy Morris\MorrSa00,2004,27,5-156,MIA,NFL,13,8,132,523,3.96,6,40.2,Sammy Morris,SammyMorris27MIA2004,5,51,25-28
+657,Amos Zereoue\ZereAm00,2003,27,3-95,PIT,NFL,16,6,132,433,3.28,2,27.1,Amos Zereoue,AmosZereoue27PIT2003,3,166,25-28
+658,Mike Alstott\AlstMi00,2000,27,2-35,TAM,NFL,13,13,131,465,3.55,5,35.8,Mike Alstott,MikeAlstott27TAM2000,2,113,25-28
+659,Kevan Barlow\BarlKe00,2006,27,3-80,NYJ,NFL,12,3,131,370,2.82,6,30.8,Kevan Barlow,KevanBarlow27NYJ2006,3,154,25-28
+660,Bilal Powell\PoweBi00,2016,28,4-126,NYJ,NFL,16,4,131,722,5.51,3,45.1,Bilal Powell,BilalPowell28NYJ2016,4,26,25-28
+661,Steve Slaton\SlatSt00,2009,23,3-89,HOU,NFL,11,10,131,437,3.34,3,39.7,Steve Slaton,SteveSlaton23HOU2009,3,161,< 24
+662,T.J. Duckett\DuckT.00,2002,21,1-18,ATL,NFL,12,3,130,507,3.9,4,42.3,T.J. Duckett,T.J.Duckett21ATL2002,1,63,< 24
+663,Fred Jackson\JackFr02,2008,27,NA,BUF,NFL,16,3,130,571,4.39,3,35.7,Fred Jackson,FredJackson27BUF2008,Undrafted,Undrafted,25-28
+664,T.J. Yeldon\YeldT.00,2016,23,2-36,JAX,NFL,15,13,130,465,3.58,1,31,T.J. Yeldon,T.J.Yeldon23JAX2016,2,114,< 24
+665,Donald Brown\BrowDo00,2010,23,1-27,IND,NFL,13,8,129,497,3.85,2,38.2,Donald Brown,DonaldBrown23IND2010,1,106,< 24
+666,Correll Buckhalter\BuckCo00,2001,23,4-121,PHI,NFL,15,6,129,586,4.54,2,39.1,Correll Buckhalter,CorrellBuckhalter23PHI2001,4,23,< 24
+667,Justin Fargas\FargJu00,2009,29,3-96,OAK,NFL,12,4,129,491,3.81,3,40.9,Justin Fargas,JustinFargas29OAK2009,3,167,29-32
+668,Jacquizz Rodgers\RodgJa00,2016,26,5-145,TAM,NFL,10,5,129,560,4.34,2,56,Jacquizz Rodgers,JacquizzRodgers26TAM2016,5,42,25-28
+669,Pierre Thomas\ThomPi00,2008,24,NA,NOR,NFL,15,5,129,625,4.84,9,41.7,Pierre Thomas,PierreThomas24NOR2008,Undrafted,Undrafted,< 24
+670,Jesse Chatman\ChatJe00,2007,28,NA,MIA,NFL,14,6,128,515,4.02,1,36.8,Jesse Chatman,JesseChatman28MIA2007,Undrafted,Undrafted,25-28
+671,James Conner\ConnJa00,2018,23,3-105,PIT,NFL,7,6,127,599,4.72,9,85.6,James Conner,JamesConner23PIT2018,3,8,< 24
+672,Frank Gore\GoreFr00,2005,22,3-65,SFO,NFL,14,1,127,608,4.79,3,43.4,Frank Gore,FrankGore22SFO2005,3,142,< 24
+673,Felix Jones\JoneFe00,2011,24,1-22,DAL,NFL,12,8,127,575,4.53,1,47.9,Felix Jones,FelixJones24DAL2011,1,86,< 24
+674,Doug Martin\MartDo00,2013,24,1-31,TAM,NFL,6,6,127,456,3.59,1,76,Doug Martin,DougMartin24TAM2013,1,110,< 24
+675,Adrian Peterson\PeteAd01,2018,33,1-7,WAS,NFL,7,7,127,587,4.62,4,83.9,Adrian Peterson,AdrianPeterson33WAS2018,1,145,32+
+676,Clinton Portis\PortCl00,2006,25,2-51,WAS,NFL,8,7,127,523,4.12,7,65.4,Clinton Portis,ClintonPortis25WAS2006,2,128,25-28
+677,Michael Bennett\BennMi00,2005,27,1-27,MIN,NFL,16,6,126,473,3.75,3,29.6,Michael Bennett,MichaelBennett27MIN2005,1,106,25-28
+678,Correll Buckhalter\BuckCo00,2003,25,4-121,PHI,NFL,15,5,126,542,4.3,8,36.1,Correll Buckhalter,CorrellBuckhalter25PHI2003,4,23,25-28
+679,Jamel White\WhitJa00,2001,24,NA,CLE,NFL,16,7,126,443,3.52,5,27.7,Jamel White,JamelWhite24CLE2001,Undrafted,Undrafted,< 24
+680,Kevan Barlow\BarlKe00,2001,22,3-80,SFO,NFL,15,0,125,512,4.1,4,34.1,Kevan Barlow,KevanBarlow22SFO2001,3,154,< 24
+681,LeGarrette Blount\BlouLe00,2014,28,NA,2TM,NFL,16,1,125,547,4.38,5,34.2,LeGarrette Blount,LeGarretteBlount282TM2014,Undrafted,Undrafted,25-28
+682,Ron Dayne\DaynRo00,2002,24,1-11,NYG,NFL,16,1,125,428,3.42,3,26.8,Ron Dayne,RonDayne24NYG2002,1,13,< 24
+683,Warrick Dunn\DunnWa00,2003,28,1-12,ATL,NFL,11,6,125,672,5.38,3,61.1,Warrick Dunn,WarrickDunn28ATL2003,1,22,25-28
+684,David Johnson\JohnDa08,2015,24,3-86,ARI,NFL,16,5,125,581,4.65,8,36.3,David Johnson,DavidJohnson24ARI2015,3,159,< 24
+685,J.R. Redmond\RedmJ.00,2000,23,3-76,NWE,NFL,12,5,125,406,3.25,1,33.8,J.R. Redmond,J.R.Redmond23NWE2000,3,150,< 24
+686,Derrick Ward\WardDe01,2007,27,7-235,NYG,NFL,8,5,125,602,4.82,3,75.3,Derrick Ward,DerrickWard27NYG2007,7,93,25-28
+687,Cadillac Williams\WillCa02,2010,28,1-5,TAM,NFL,16,9,125,437,3.5,2,27.3,Cadillac Williams,CadillacWilliams28TAM2010,1,127,25-28
+688,Wali Lundy\LundWa00,2006,23,6-170,HOU,NFL,14,8,124,476,3.84,4,34,Wali Lundy,WaliLundy23HOU2006,6,57,< 24
+689,Clinton Portis\PortCl00,2009,28,2-51,WAS,NFL,8,8,124,494,3.98,1,61.8,Clinton Portis,ClintonPortis28WAS2009,2,128,25-28
+690,Onterrio Smith\SmitOn00,2004,24,4-105,MIN,NFL,11,6,124,544,4.39,2,49.5,Onterrio Smith,OnterrioSmith24MIN2004,4,8,< 24
+691,Michael Bush\BushMi00,2009,25,4-100,OAK,NFL,16,7,123,589,4.79,3,36.8,Michael Bush,MichaelBush25OAK2009,4,3,25-28
+692,Mark Ingram\IngrMa01,2011,22,1-28,NOR,NFL,10,4,122,474,3.89,5,47.4,Mark Ingram,MarkIngram22NOR2011,1,107,< 24
+693,David Johnson\JohnDa08,2018,27,3-86,ARI,NFL,8,8,122,394,3.23,5,49.3,David Johnson,DavidJohnson27ARI2018,3,159,25-28
+694,Anthony Thomas\ThomAn01,2004,27,2-38,CHI,NFL,12,2,122,404,3.31,2,33.7,Anthony Thomas,AnthonyThomas27CHI2004,2,116,25-28
+695,Matt Asiata\AsiaMa00,2016,29,NA,MIN,NFL,16,6,121,402,3.32,6,25.1,Matt Asiata,MattAsiata29MIN2016,Undrafted,Undrafted,29-32
+696,T.J. Duckett\DuckT.00,2005,24,1-18,ATL,NFL,14,0,121,380,3.14,8,27.1,T.J. Duckett,T.J.Duckett24ATL2005,1,63,< 24
+697,Arian Foster\FostAr00,2013,27,NA,HOU,NFL,8,8,121,542,4.48,1,67.8,Arian Foster,ArianFoster27HOU2013,Undrafted,Undrafted,25-28
+698,Kenton Keith\KeitKe00,2007,27,NA,IND,NFL,16,1,121,533,4.4,3,33.3,Kenton Keith,KentonKeith27IND2007,Undrafted,Undrafted,25-28
+699,Mike Tolbert\TolbMi00,2011,26,NA,SDG,NFL,15,1,121,490,4.05,8,32.7,Mike Tolbert,MikeTolbert26SDG2011,Undrafted,Undrafted,25-28
+700,DeAngelo Williams\WillDe02,2006,23,1-27,CAR,NFL,13,2,121,501,4.14,1,38.5,DeAngelo Williams,DeAngeloWilliams23CAR2006,1,106,< 24
+701,Montee Ball\BallMo00,2013,23,2-58,DEN,NFL,16,0,120,559,4.66,4,34.9,Montee Ball,MonteeBall23DEN2013,2,135,< 24
+702,Correll Buckhalter\BuckCo00,2009,31,4-121,DEN,NFL,14,7,120,642,5.35,1,45.9,Correll Buckhalter,CorrellBuckhalter31DEN2009,4,23,29-32
+703,Chris Fuamatu-Ma'afala\FuamCh00,2001,24,6-178,PIT,NFL,16,5,120,453,3.78,3,28.3,Chris Fuamatu-Ma'afala,ChrisFuamatu-Ma'afala24PIT2001,6,62,< 24
+704,Charlie Garner\GarnCh00,2003,31,2-42,OAK,NFL,14,9,120,553,4.61,3,39.5,Charlie Garner,CharlieGarner31OAK2003,2,120,29-32
+705,Carlos Hyde\HydeCa00,2018,28,2-57,2TM,NFL,7,6,120,393,3.28,5,56.1,Carlos Hyde,CarlosHyde282TM2018,2,134,25-28
+706,Larry Johnson\JohnLa00,2004,25,1-27,KAN,NFL,10,3,120,581,4.84,9,58.1,Larry Johnson,LarryJohnson25KAN2004,1,106,25-28
+707,Alvin Kamara\KamaAl00,2017,22,3-67,NOR,NFL,16,3,120,728,6.07,8,45.5,Alvin Kamara,AlvinKamara22NOR2017,3,143,< 24
+708,Marshawn Lynch\LyncMa00,2009,23,1-12,BUF,NFL,13,6,120,450,3.75,2,34.6,Marshawn Lynch,MarshawnLynch23BUF2009,1,22,< 24
+709,Kerwynn Williams\WillKe05,2017,26,7-230,ARI,NFL,16,6,120,426,3.55,1,26.6,Kerwynn Williams,KerwynnWilliams26ARI2017,7,91,25-28
+710,Ronnie Brown\BrowRo05,2007,26,1-2,MIA,NFL,7,7,119,602,5.06,4,86,Ronnie Brown,RonnieBrown26MIA2007,1,79,25-28
+711,Jermaine Fazande\FazaJe00,2000,25,2-60,SDG,NFL,13,7,119,368,3.09,2,28.3,Jermaine Fazande,JermaineFazande25SDG2000,2,137,25-28
+712,Priest Holmes\HolmPr00,2005,32,NA,KAN,NFL,7,7,119,451,3.79,6,64.4,Priest Holmes,PriestHolmes32KAN2005,Undrafted,Undrafted,29-32
+713,Ben Tate\TateBe00,2014,26,2-58,2TM,NFL,11,6,119,371,3.12,4,33.7,Ben Tate,BenTate262TM2014,2,135,25-28
+714,Joseph Addai\AddaJo00,2011,28,1-30,IND,NFL,12,11,118,433,3.67,1,36.1,Joseph Addai,JosephAddai28IND2011,1,109,25-28
+715,Derrick Blaylock\BlayDe00,2004,25,5-150,KAN,NFL,12,5,118,539,4.57,8,44.9,Derrick Blaylock,DerrickBlaylock25KAN2004,5,46,25-28
+716,Tevin Coleman\ColeTe01,2016,23,3-73,ATL,NFL,13,0,118,520,4.41,8,40,Tevin Coleman,TevinColeman23ATL2016,3,147,< 24
+717,Andre Ellington\ElliAn00,2013,24,6-187,ARI,NFL,15,1,118,652,5.53,3,43.5,Andre Ellington,AndreEllington24ARI2013,6,68,< 24
+718,Justin Forsett\ForsJu00,2010,25,7-233,SEA,NFL,16,5,118,523,4.43,2,32.7,Justin Forsett,JustinForsett25SEA2010,7,92,25-28
+719,Chris Ivory\IvorCh00,2016,28,NA,JAX,NFL,11,1,117,439,3.75,3,39.9,Chris Ivory,ChrisIvory28JAX2016,Undrafted,Undrafted,25-28
+720,Christian McCaffrey\McCaCh01,2017,21,1-8,CAR,NFL,16,10,117,435,3.72,2,27.2,Christian McCaffrey,ChristianMcCaffrey21CAR2017,1,153,< 24
+721,Chester Taylor\TaylCh01,2005,26,6-207,BAL,NFL,15,1,117,487,4.16,0,32.5,Chester Taylor,ChesterTaylor26BAL2005,6,82,25-28
+722,Brian Westbrook\WestBr00,2003,24,3-91,PHI,NFL,15,8,117,613,5.24,7,40.9,Brian Westbrook,BrianWestbrook24PHI2003,3,163,< 24
+723,Joseph Addai\AddaJo00,2010,27,1-30,IND,NFL,8,7,116,495,4.27,4,61.9,Joseph Addai,JosephAddai27IND2010,1,109,25-28
+724,Terrell Fletcher\FletTe00,2000,27,2-51,SDG,NFL,16,6,116,384,3.31,3,24,Terrell Fletcher,TerrellFletcher27SDG2000,2,128,25-28
+725,Felix Jones\JoneFe00,2009,22,1-22,DAL,NFL,14,1,116,685,5.91,3,48.9,Felix Jones,FelixJones22DAL2009,1,86,< 24
+726,Kenny Watson\WatsKe00,2002,24,NA,WAS,NFL,16,4,116,534,4.6,1,33.4,Kenny Watson,KennyWatson24WAS2002,Undrafted,Undrafted,< 24
+727,Beanie Wells\WellCh00,2010,22,1-31,ARI,NFL,13,2,116,397,3.42,2,30.5,Beanie Wells,BeanieWells22ARI2010,1,110,< 24
+728,Bryce Brown\BrowBr02,2012,21,7-229,PHI,NFL,16,4,115,564,4.9,4,35.3,Bryce Brown,BryceBrown21PHI2012,7,89,< 24
+729,Carlos Hyde\HydeCa00,2015,25,2-57,SFO,NFL,7,7,115,470,4.09,3,67.1,Carlos Hyde,CarlosHyde25SFO2015,2,134,25-28
+730,Fred Jackson\JackFr02,2012,31,NA,BUF,NFL,10,8,115,437,3.8,3,43.7,Fred Jackson,FredJackson31BUF2012,Undrafted,Undrafted,29-32
+731,Alfred Morris\MorrAl00,2017,29,6-173,DAL,NFL,14,5,115,547,4.76,1,39.1,Alfred Morris,AlfredMorris29DAL2017,6,59,29-32
+732,Aaron Stecker\StecAa00,2007,32,NA,NOR,NFL,16,6,115,448,3.9,5,28,Aaron Stecker,AaronStecker32NOR2007,Undrafted,Undrafted,29-32
+733,Marion Barber\BarbMa01,2011,28,4-109,CHI,NFL,11,1,114,422,3.7,6,38.4,Marion Barber,MarionBarber28CHI2011,4,12,25-28
+734,Michael Bush\BushMi00,2012,28,4-100,CHI,NFL,13,1,114,411,3.61,5,31.6,Michael Bush,MichaelBush28CHI2012,4,3,25-28
+735,Justin Forsett\ForsJu00,2009,24,7-233,SEA,NFL,16,2,114,619,5.43,4,38.7,Justin Forsett,JustinForsett24SEA2009,7,92,< 24
+736,LaMont Jordan\JordLa00,2006,28,2-49,OAK,NFL,9,8,114,434,3.81,2,48.2,LaMont Jordan,LaMontJordan28OAK2006,2,126,25-28
+737,Dexter McCluster\McClDe00,2011,22,2-36,KAN,NFL,16,4,114,516,4.53,1,32.3,Dexter McCluster,DexterMcCluster22KAN2011,2,114,< 24
+738,Darren McFadden\McFaDa00,2013,26,1-4,OAK,NFL,10,7,114,379,3.32,5,37.9,Darren McFadden,DarrenMcFadden26OAK2013,1,118,25-28
+739,Derrick Ward\WardDe01,2009,29,7-235,TAM,NFL,14,1,114,409,3.59,1,29.2,Derrick Ward,DerrickWard29TAM2009,7,93,29-32
+740,Marion Barber\BarbMa01,2010,27,4-109,DAL,NFL,13,10,113,374,3.31,4,28.8,Marion Barber,MarionBarber27DAL2010,4,12,25-28
+741,Le'Veon Bell\BellLe00,2015,23,2-48,PIT,NFL,6,6,113,556,4.92,3,92.7,Le'Veon Bell,Le'VeonBell23PIT2015,2,125,< 24
+742,DeShaun Foster\FostDe00,2003,23,2-34,CAR,NFL,14,2,113,429,3.8,0,30.6,DeShaun Foster,DeShaunFoster23CAR2003,2,112,< 24
+743,Olandis Gary\GaryOl00,2003,28,4-127,DET,NFL,13,1,113,384,3.4,2,29.5,Olandis Gary,OlandisGary28DET2003,4,27,25-28
+744,Troy Hambrick\HambTr00,2001,25,NA,DAL,NFL,16,11,113,579,5.12,2,36.2,Troy Hambrick,TroyHambrick25DAL2001,Undrafted,Undrafted,25-28
+745,Cedric Houston\HousCe00,2006,24,6-182,NYJ,NFL,8,1,113,374,3.31,5,46.8,Cedric Houston,CedricHouston24NYJ2006,6,66,< 24
+746,Darren McFadden\McFaDa00,2011,24,1-4,OAK,NFL,7,7,113,614,5.43,4,87.7,Darren McFadden,DarrenMcFadden24OAK2011,1,118,< 24
+747,Darren McFadden\McFaDa00,2008,21,1-4,OAK,NFL,13,5,113,499,4.42,4,38.4,Darren McFadden,DarrenMcFadden21OAK2008,1,118,< 24
+748,Jerick McKinnon\McKiJe00,2014,22,3-96,MIN,NFL,11,6,113,538,4.76,0,48.9,Jerick McKinnon,JerickMcKinnon22MIN2014,3,167,< 24
+749,Lamar Miller\MillLa01,2018,27,4-97,HOU,NFL,7,7,113,504,4.46,2,72,Lamar Miller,LamarMiller27HOU2018,4,168,25-28
+750,J.J. Arrington\ArriJ.00,2005,22,2-44,ARI,NFL,15,5,112,370,3.3,2,24.7,J.J. Arrington,J.J.Arrington22ARI2005,2,122,< 24
+751,Darnell Autry\AutrDa00,2000,24,4-105,PHI,NFL,11,7,112,334,2.98,3,30.4,Darnell Autry,DarnellAutry24PHI2000,4,8,< 24
+752,Jordan Howard\HowaJo00,2018,24,5-150,CHI,NFL,7,7,112,392,3.5,3,56,Jordan Howard,JordanHoward24CHI2018,5,46,< 24
+753,Kendall Hunter\HuntKe00,2011,23,4-115,SFO,NFL,16,1,112,473,4.22,2,29.6,Kendall Hunter,KendallHunter23SFO2011,4,18,< 24
+754,Chris Ivory\IvorCh00,2017,29,NA,JAX,NFL,14,3,112,382,3.41,1,27.3,Chris Ivory,ChrisIvory29JAX2017,Undrafted,Undrafted,29-32
+755,Thomas Jones\JoneTh00,2000,22,1-7,ARI,NFL,14,4,112,373,3.33,2,26.6,Thomas Jones,ThomasJones22ARI2000,1,145,< 24
+756,Thomas Jones\JoneTh00,2001,23,1-7,ARI,NFL,16,2,112,380,3.39,5,23.8,Thomas Jones,ThomasJones23ARI2001,1,145,< 24
+757,Paul Perkins\PerkPa00,2016,22,5-149,NYG,NFL,14,1,112,456,4.07,0,32.6,Paul Perkins,PaulPerkins22NYG2016,5,44,< 24
+758,Bernard Scott\ScotBe00,2011,27,6-209,CIN,NFL,16,1,112,380,3.39,3,23.8,Bernard Scott,BernardScott27CIN2011,6,83,25-28
+759,Kolby Smith\SmitKo00,2007,23,5-148,KAN,NFL,16,6,112,407,3.63,2,25.4,Kolby Smith,KolbySmith23KAN2007,5,43,< 24
+760,Chester Taylor\TaylCh01,2010,31,6-207,CHI,NFL,16,1,112,267,2.38,3,16.7,Chester Taylor,ChesterTaylor31CHI2010,6,82,29-32
+761,Amos Zereoue\ZereAm00,2004,28,3-95,OAK,NFL,15,6,112,425,3.79,3,28.3,Amos Zereoue,AmosZereoue28OAK2004,3,166,25-28
+762,Saquon Barkley\BarkSa00,2018,21,NA,NYG,NFL,8,8,111,519,4.68,5,64.9,Saquon Barkley,SaquonBarkley21NYG2018,Undrafted,Undrafted,< 24
+763,Wayne Gallman\GallWa00,2017,23,4-140,NYG,NFL,13,1,111,476,4.29,0,36.6,Wayne Gallman,WayneGallman23NYG2017,4,39,< 24
+764,Felix Jones\JoneFe00,2012,25,1-22,DAL,NFL,16,7,111,402,3.62,3,25.1,Felix Jones,FelixJones25DAL2012,1,86,25-28
+765,Marshawn Lynch\LyncMa00,2015,29,1-12,SEA,NFL,7,6,111,417,3.76,3,59.6,Marshawn Lynch,MarshawnLynch29SEA2015,1,22,29-32
+766,C.J. Anderson\AndeC.00,2016,25,NA,DEN,NFL,7,7,110,437,3.97,4,62.4,C.J. Anderson,C.J.Anderson25DEN2016,Undrafted,Undrafted,25-28
+767,Jerome Bettis*\BettJe00,2005,33,1-10,PIT,NFL,12,0,110,368,3.35,9,30.7,Jerome Bettis*,JeromeBettis*33PIT2005,1,2,32+
+768,Derrick Henry\HenrDe00,2016,22,2-45,TEN,NFL,15,2,110,490,4.45,5,32.7,Derrick Henry,DerrickHenry22TEN2016,2,123,< 24
+769,Bilal Powell\PoweBi00,2012,24,4-126,NYJ,NFL,14,2,110,437,3.97,4,31.2,Bilal Powell,BilalPowell24NYJ2012,4,26,< 24
+770,Isaac Redman\RedmIs20,2011,27,NA,PIT,NFL,16,1,110,479,4.35,3,29.9,Isaac Redman,IsaacRedman27PIT2011,Undrafted,Undrafted,25-28
+771,Isaac Redman\RedmIs20,2012,28,NA,PIT,NFL,14,5,110,410,3.73,2,29.3,Isaac Redman,IsaacRedman28PIT2012,Undrafted,Undrafted,25-28
+772,LaRod Stephens-Howling\StepLa00,2012,25,7-240,ARI,NFL,14,5,110,356,3.24,4,25.4,LaRod Stephens-Howling,LaRodStephens-Howling25ARI2012,7,97,25-28
+773,Pierre Thomas\ThomPi00,2011,27,NA,NOR,NFL,16,7,110,562,5.11,5,35.1,Pierre Thomas,PierreThomas27NOR2011,Undrafted,Undrafted,25-28
+774,Toby Gerhart\GerhTo00,2011,24,2-51,MIN,NFL,16,5,109,531,4.87,1,33.2,Toby Gerhart,TobyGerhart24MIN2011,2,128,< 24
+775,Willis McGahee\McGaWi00,2009,28,1-23,BAL,NFL,16,1,109,544,4.99,12,34,Willis McGahee,WillisMcGahee28BAL2009,1,90,25-28
+776,Travis Minor\MinoTr00,2004,25,3-85,MIA,NFL,11,4,109,388,3.56,3,35.3,Travis Minor,TravisMinor25MIA2004,3,158,25-28
+777,Thomas Rawls\RawlTh00,2016,23,NA,SEA,NFL,9,7,109,349,3.2,3,38.8,Thomas Rawls,ThomasRawls23SEA2016,Undrafted,Undrafted,< 24
+778,Daniel Thomas\ThomDa03,2013,26,2-62,MIA,NFL,15,1,109,406,3.72,4,27.1,Daniel Thomas,DanielThomas26MIA2013,2,139,25-28
+779,Peyton Barber\BarbPe01,2017,23,NA,TAM,NFL,16,4,108,423,3.92,3,26.4,Peyton Barber,PeytonBarber23TAM2017,Undrafted,Undrafted,< 24
+780,Donald Brown\BrowDo00,2012,25,1-27,IND,NFL,10,4,108,417,3.86,1,41.7,Donald Brown,DonaldBrown25IND2012,1,106,25-28
+781,Shonn Greene\GreeSh00,2009,24,3-65,NYJ,NFL,14,0,108,540,5,2,38.6,Shonn Greene,ShonnGreene24NYJ2009,3,142,< 24
+782,Bernard Pierce\PierBe00,2012,21,3-84,BAL,NFL,16,0,108,532,4.93,1,33.3,Bernard Pierce,BernardPierce21BAL2012,3,157,< 24
+783,Tyrone Wheatley\WheaTy00,2002,30,1-17,OAK,NFL,14,0,108,419,3.88,2,29.9,Tyrone Wheatley,TyroneWheatley30OAK2002,1,56,29-32
+784,Ricky Williams\WillRi00,2011,34,1-5,BAL,NFL,16,0,108,444,4.11,2,27.8,Ricky Williams,RickyWilliams34BAL2011,1,127,32+
+785,Rock Cartwright\CartRo01,2003,24,7-257,WAS,NFL,15,3,107,411,3.84,4,27.4,Rock Cartwright,RockCartwright24WAS2003,7,104,< 24
+786,Najeh Davenport\DaveNa00,2007,28,4-135,PIT,NFL,15,1,107,499,4.66,5,33.3,Najeh Davenport,NajehDavenport28PIT2007,4,33,25-28
+787,Deuce McAllister\McAlDe00,2008,30,1-23,NOR,NFL,13,6,107,418,3.91,5,32.2,Deuce McAllister,DeuceMcAllister30NOR2008,1,90,29-32
+788,Ray Rice\RiceRa00,2008,21,2-55,BAL,NFL,13,4,107,454,4.24,0,34.9,Ray Rice,RayRice21BAL2008,2,132,< 24
+789,Charles Sims\SimsCh00,2015,25,3-69,TAM,NFL,16,0,107,529,4.94,0,33.1,Charles Sims,CharlesSims25TAM2015,3,144,25-28
+790,Onterrio Smith\SmitOn00,2003,23,4-105,MIN,NFL,15,3,107,579,5.41,5,38.6,Onterrio Smith,OnterrioSmith23MIN2003,4,8,< 24
+791,C.J. Spiller\SpilC.00,2011,24,1-9,BUF,NFL,16,11,107,561,5.24,4,35.1,C.J. Spiller,C.J.Spiller24BUF2011,1,162,< 24
+792,Anthony Thomas\ThomAn01,2006,29,2-38,BUF,NFL,16,2,107,378,3.53,2,23.6,Anthony Thomas,AnthonyThomas29BUF2006,2,116,29-32
+793,Reggie Bush\BushRe00,2008,23,1-2,NOR,NFL,10,9,106,404,3.81,2,40.4,Reggie Bush,ReggieBush23NOR2008,1,79,< 24
+794,Ronnie Hillman\HillRo00,2014,23,3-67,DEN,NFL,8,4,106,434,4.09,3,54.3,Ronnie Hillman,RonnieHillman23DEN2014,3,143,< 24
+795,Ryan Mathews\MathRy00,2015,28,1-12,PHI,NFL,13,6,106,539,5.08,6,41.5,Ryan Mathews,RyanMathews28PHI2015,1,22,25-28
+796,Artose Pinner\PinnAr00,2005,27,4-99,DET,NFL,16,2,106,349,3.29,3,21.8,Artose Pinner,ArtosePinner27DET2005,4,169,25-28
+797,Jamel White\WhitJa00,2002,25,NA,CLE,NFL,14,6,106,470,4.43,3,33.6,Jamel White,JamelWhite25CLE2002,Undrafted,Undrafted,25-28
+798,Danny Woodhead\WoodDa02,2013,28,NA,SDG,NFL,16,2,106,429,4.05,2,26.8,Danny Woodhead,DannyWoodhead28SDG2013,Undrafted,Undrafted,25-28
+799,Giovani Bernard\BernGi00,2017,26,2-37,CIN,NFL,16,2,105,458,4.36,2,28.6,Giovani Bernard,GiovaniBernard26CIN2017,2,115,25-28
+800,Matt Breida\BreiMa00,2017,22,NA,SFO,NFL,16,0,105,465,4.43,2,29.1,Matt Breida,MattBreida22SFO2017,Undrafted,Undrafted,< 24
+801,Anthony Dixon\DixoAn00,2014,27,6-173,BUF,NFL,16,0,105,432,4.11,2,27,Anthony Dixon,AnthonyDixon27BUF2014,6,59,25-28
+802,Joe Mixon\MixoJo00,2018,22,2-48,CIN,NFL,6,6,105,509,4.85,4,84.8,Joe Mixon,JoeMixon22CIN2018,2,125,< 24
+803,Pierre Thomas\ThomPi00,2012,28,NA,NOR,NFL,15,4,105,473,4.5,1,31.5,Pierre Thomas,PierreThomas28NOR2012,Undrafted,Undrafted,25-28
+804,T.J. Duckett\DuckT.00,2004,23,1-18,ATL,NFL,13,0,104,509,4.89,8,39.2,T.J. Duckett,T.J.Duckett23ATL2004,1,63,< 24
+805,Mike Gillislee\GillMi00,2017,27,5-164,NWE,NFL,9,2,104,383,3.68,5,42.6,Mike Gillislee,MikeGillislee27NWE2017,5,54,25-28
+806,Duke Johnson\JohnDu00,2015,22,3-77,CLE,NFL,16,7,104,379,3.64,0,23.7,Duke Johnson,DukeJohnson22CLE2015,3,151,< 24
+807,Darren McFadden\McFaDa00,2009,22,1-4,OAK,NFL,12,7,104,357,3.43,1,29.8,Darren McFadden,DarrenMcFadden22OAK2009,1,118,< 24
+808,Chris Perry\PerrCh00,2008,27,1-26,CIN,NFL,13,6,104,269,2.59,2,20.7,Chris Perry,ChrisPerry27CIN2008,1,105,25-28
+809,Chris Carson\CarsCh00,2018,24,7-249,SEA,NFL,6,6,103,457,4.44,2,76.2,Chris Carson,ChrisCarson24SEA2018,7,101,< 24
+810,Matt Forte\FortMa00,2017,32,2-44,NYJ,NFL,12,4,103,381,3.7,2,31.8,Matt Forte,MattForte32NYJ2017,2,122,29-32
+811,Mike Goodson\GoodMi00,2010,23,4-111,CAR,NFL,16,3,103,452,4.39,3,28.3,Mike Goodson,MikeGoodson23CAR2010,4,15,< 24
+812,Leon Johnson\JohnLe00,2002,28,4-104,CHI,NFL,16,4,103,329,3.19,1,20.6,Leon Johnson,LeonJohnson28CHI2002,4,7,25-28
+813,Jerious Norwood\NorwJe00,2007,24,3-79,ATL,NFL,15,2,103,613,5.95,1,40.9,Jerious Norwood,JeriousNorwood24ATL2007,3,152,< 24
+814,Chris Brown\BrowCh03,2007,26,3-93,TEN,NFL,12,1,102,462,4.53,5,38.5,Chris Brown,ChrisBrown26TEN2007,3,164,25-28
+815,Dee Brown\BrowDe02,2002,24,6-175,CAR,NFL,14,3,102,360,3.53,4,25.7,Dee Brown,DeeBrown24CAR2002,6,60,< 24
+816,Donald Brown\BrowDo00,2013,26,1-27,IND,NFL,16,5,102,537,5.26,6,33.6,Donald Brown,DonaldBrown26IND2013,1,106,25-28
+817,James Jackson\JackJa00,2003,27,3-65,CLE,NFL,12,6,102,382,3.75,3,31.8,James Jackson,JamesJackson27CLE2003,3,142,25-28
+818,Delone Carter\CartDe01,2011,24,4-119,IND,NFL,16,3,101,377,3.73,2,23.6,Delone Carter,DeloneCarter24IND2011,4,21,< 24
+819,Toby Gerhart\GerhTo00,2014,27,2-51,JAX,NFL,14,7,101,326,3.23,2,23.3,Toby Gerhart,TobyGerhart27JAX2014,2,128,25-28
+820,Mike Gillislee\GillMi00,2016,26,5-164,BUF,NFL,15,1,101,577,5.71,8,38.5,Mike Gillislee,MikeGillislee26BUF2016,5,54,25-28
+821,Rashad Jennings\JennRa00,2012,27,7-250,JAX,NFL,10,6,101,283,2.8,2,28.3,Rashad Jennings,RashadJennings27JAX2012,7,102,25-28
+822,Ryan Moats\MoatRy00,2009,27,3-77,HOU,NFL,14,2,101,390,3.86,4,27.9,Ryan Moats,RyanMoats27HOU2009,3,151,25-28
+823,Antowain Smith\SmitAn00,2000,28,1-23,BUF,NFL,11,3,101,354,3.5,4,32.2,Antowain Smith,AntowainSmith28BUF2000,1,90,25-28
+824,Chester Taylor\TaylCh01,2008,29,6-207,MIN,NFL,16,1,101,399,3.95,4,24.9,Chester Taylor,ChesterTaylor29MIN2008,6,82,29-32
+825,Mike Tolbert\TolbMi00,2013,28,NA,CAR,NFL,16,13,101,361,3.57,5,22.6,Mike Tolbert,MikeTolbert28CAR2013,Undrafted,Undrafted,25-28
+826,Alfred Blue\BlueAl00,2016,25,6-181,HOU,NFL,14,2,100,420,4.2,1,30,Alfred Blue,AlfredBlue25HOU2016,6,65,25-28
+827,Willis McGahee\McGaWi00,2010,29,1-23,BAL,NFL,15,2,100,380,3.8,5,25.3,Willis McGahee,WillisMcGahee29BAL2010,1,90,29-32
+828,Matt Jones\JoneMa04,2016,23,3-95,WAS,NFL,7,7,99,460,4.65,3,65.7,Matt Jones,MattJones23WAS2016,3,166,< 24
+829,Jerious Norwood\NorwJe00,2006,23,3-79,ATL,NFL,14,0,99,633,6.39,2,45.2,Jerious Norwood,JeriousNorwood23ATL2006,3,152,< 24
+830,Chris Polk\PolkCh00,2015,26,NA,HOU,NFL,15,2,99,334,3.37,1,22.3,Chris Polk,ChrisPolk26HOU2015,Undrafted,Undrafted,25-28
+831,Alex Collins\CollAl00,2018,24,5-171,BAL,NFL,8,8,98,358,3.65,5,44.8,Alex Collins,AlexCollins24BAL2018,5,58,< 24
+832,Stacey Mack\MackSt00,2002,27,NA,JAX,NFL,16,0,98,436,4.45,9,27.3,Stacey Mack,StaceyMack27JAX2002,Undrafted,Undrafted,25-28
+833,Willie Parker\ParkWi00,2009,29,NA,PIT,NFL,14,3,98,389,3.97,0,27.8,Willie Parker,WillieParker29PIT2009,Undrafted,Undrafted,29-32
+834,Daryl Richardson\RichDa00,2012,22,7-252,STL,NFL,16,0,98,475,4.85,0,29.7,Daryl Richardson,DarylRichardson22STL2012,7,103,< 24
+835,DeAngelo Williams\WillDe02,2016,33,1-27,PIT,NFL,9,4,98,343,3.5,4,38.1,DeAngelo Williams,DeAngeloWilliams33PIT2016,1,106,32+
+836,Danny Woodhead\WoodDa02,2015,30,NA,SDG,NFL,16,2,98,336,3.43,3,21,Danny Woodhead,DannyWoodhead30SDG2015,Undrafted,Undrafted,29-32
+837,James Mungro\MungJa00,2002,24,NA,IND,NFL,9,1,97,336,3.46,8,37.3,James Mungro,JamesMungro24IND2002,Undrafted,Undrafted,< 24
+838,Danny Woodhead\WoodDa02,2010,25,NA,2TM,NFL,15,3,97,547,5.64,5,36.5,Danny Woodhead,DannyWoodhead252TM2010,Undrafted,Undrafted,25-28
+839,Lance Ball\BallLa00,2011,26,NA,DEN,NFL,16,0,96,402,4.19,1,25.1,Lance Ball,LanceBall26DEN2011,Undrafted,Undrafted,25-28
+840,Maurice Hicks\HickMa00,2004,26,NA,SFO,NFL,9,2,96,362,3.77,2,40.2,Maurice Hicks,MauriceHicks26SFO2004,Undrafted,Undrafted,25-28
+841,Tim Hightower\HighTi00,2015,29,5-149,NOR,NFL,8,3,96,375,3.91,4,46.9,Tim Hightower,TimHightower29NOR2015,5,44,29-32
+842,Brandon Jacobs\JacoBr00,2006,24,4-110,NYG,NFL,15,0,96,423,4.41,9,28.2,Brandon Jacobs,BrandonJacobs24NYG2006,4,14,< 24
+843,Vernand Morency\MoreVe00,2006,26,3-73,2TM,NFL,14,2,96,434,4.52,2,31,Vernand Morency,VernandMorency262TM2006,3,147,25-28
+844,Jacquizz Rodgers\RodgJa00,2013,23,5-145,ATL,NFL,15,4,96,332,3.46,2,22.1,Jacquizz Rodgers,JacquizzRodgers23ATL2013,5,42,< 24
+845,Duce Staley\StalDu00,2003,28,3-71,PHI,NFL,16,4,96,463,4.82,5,28.9,Duce Staley,DuceStaley28PHI2003,3,146,25-28
+846,Shane Vereen\VereSh00,2014,25,2-56,NWE,NFL,16,6,96,391,4.07,2,24.4,Shane Vereen,ShaneVereen25NWE2014,2,133,25-28
+847,Jackie Battle\BattJa00,2012,29,NA,SDG,NFL,16,5,95,311,3.27,3,19.4,Jackie Battle,JackieBattle29SDG2012,Undrafted,Undrafted,29-32
+848,Michael Bush\BushMi00,2008,24,4-100,OAK,NFL,15,0,95,421,4.43,3,28.1,Michael Bush,MichaelBush24OAK2008,4,3,< 24
+849,Sony Michel\MichSo00,2018,23,NA,NWE,NFL,6,4,95,422,4.44,4,70.3,Sony Michel,SonyMichel23NWE2018,Undrafted,Undrafted,< 24
+850,Jerious Norwood\NorwJe00,2008,25,3-79,ATL,NFL,16,0,95,489,5.15,4,30.6,Jerious Norwood,JeriousNorwood25ATL2008,3,152,25-28
+851,Aaron Stecker\StecAa00,2005,30,NA,NOR,NFL,15,4,95,363,3.82,0,24.2,Aaron Stecker,AaronStecker30NOR2005,Undrafted,Undrafted,29-32
+852,Isaiah Crowell\CrowIs00,2018,25,NA,NYJ,NFL,8,1,94,484,5.15,5,60.5,Isaiah Crowell,IsaiahCrowell25NYJ2018,Undrafted,Undrafted,25-28
+853,Shonn Greene\GreeSh00,2014,29,3-65,TEN,NFL,13,5,94,392,4.17,2,30.2,Shonn Greene,ShonnGreene29TEN2014,3,142,29-32
+854,Quentin Griffin\GrifQu00,2003,22,4-108,DEN,NFL,10,1,94,345,3.67,0,34.5,Quentin Griffin,QuentinGriffin22DEN2003,4,11,< 24
+855,Travis Henry\HenrTr00,2004,26,2-58,BUF,NFL,10,5,94,326,3.47,0,32.6,Travis Henry,TravisHenry26BUF2004,2,135,25-28
+856,Dorsey Levens\LeveDo00,2004,34,5-149,PHI,NFL,15,5,94,410,4.36,4,27.3,Dorsey Levens,DorseyLevens34PHI2004,5,44,32+
+857,Bobby Rainey\RainBo00,2014,27,NA,TAM,NFL,15,5,94,406,4.32,1,27.1,Bobby Rainey,BobbyRainey27TAM2014,Undrafted,Undrafted,25-28
+858,Stevan Ridley\RidlSt00,2014,25,3-73,NWE,NFL,6,5,94,340,3.62,2,56.7,Stevan Ridley,StevanRidley25NWE2014,3,147,25-28
+859,Jacquizz Rodgers\RodgJa00,2012,22,5-145,ATL,NFL,16,0,94,362,3.85,1,22.6,Jacquizz Rodgers,JacquizzRodgers22ATL2012,5,42,< 24
+860,Darren Sproles\SproDa00,2016,33,4-130,PHI,NFL,15,5,94,438,4.66,2,29.2,Darren Sproles,DarrenSproles33PHI2016,4,30,32+
+861,Chester Taylor\TaylCh01,2009,30,6-207,MIN,NFL,16,0,94,338,3.6,1,21.1,Chester Taylor,ChesterTaylor30MIN2009,6,82,29-32
+862,Peyton Barber\BarbPe01,2018,24,NA,TAM,NFL,7,7,93,345,3.71,1,49.3,Peyton Barber,PeytonBarber24TAM2018,Undrafted,Undrafted,< 24
+863,Ladell Betts\BettLa00,2007,28,2-56,WAS,NFL,16,0,93,335,3.6,1,20.9,Ladell Betts,LadellBetts28WAS2007,2,133,25-28
+864,LaMont Jordan\JordLa00,2004,26,2-49,NYJ,NFL,16,0,93,479,5.15,2,29.9,LaMont Jordan,LaMontJordan26NYJ2004,2,126,25-28
+865,Napoleon Kaufman\KaufNa00,2000,27,1-18,OAK,NFL,14,2,93,499,5.37,0,35.6,Napoleon Kaufman,NapoleonKaufman27OAK2000,1,63,25-28
+866,Phillip Lindsay\LindPh00,2018,24,NA,DEN,NFL,8,1,93,531,5.71,3,66.4,Phillip Lindsay,PhillipLindsay24DEN2018,Undrafted,Undrafted,< 24
+867,Marlon Mack\MackMa00,2017,21,4-143,IND,NFL,14,0,93,358,3.85,3,25.6,Marlon Mack,MarlonMack21IND2017,4,40,< 24
+868,Stacey Mack\MackSt00,2003,28,NA,HOU,NFL,8,5,93,253,2.72,4,31.6,Stacey Mack,StaceyMack28HOU2003,Undrafted,Undrafted,25-28
+869,Deuce McAllister\McAlDe00,2005,27,1-23,NOR,NFL,5,5,93,335,3.6,3,67,Deuce McAllister,DeuceMcAllister27NOR2005,1,90,25-28
+870,Maurice Morris\MorrMa00,2009,30,2-54,DET,NFL,14,3,93,384,4.13,2,27.4,Maurice Morris,MauriceMorris30DET2009,2,131,29-32
+871,Sammy Morris\MorrSa00,2000,23,5-156,BUF,NFL,12,8,93,341,3.67,5,28.4,Sammy Morris,SammyMorris23BUF2000,5,51,< 24
+872,Bernard Pierce\PierBe00,2014,23,3-84,BAL,NFL,13,2,93,366,3.94,2,28.2,Bernard Pierce,BernardPierce23BAL2014,3,157,< 24
+873,Darren Sproles\SproDa00,2009,26,4-130,SDG,NFL,16,2,93,343,3.69,3,21.4,Darren Sproles,DarrenSproles26SDG2009,4,30,25-28
+874,Jonathan Stewart\StewJo00,2012,25,1-13,CAR,NFL,9,6,93,336,3.61,1,37.3,Jonathan Stewart,JonathanStewart25CAR2012,1,29,25-28
+875,Karlos Williams\WillKa01,2015,22,5-155,BUF,NFL,11,3,93,517,5.56,7,47,Karlos Williams,KarlosWilliams22BUF2015,5,50,< 24
+876,Tashard Choice\ChoiTa00,2008,24,4-122,DAL,NFL,16,3,92,472,5.13,2,29.5,Tashard Choice,TashardChoice24DAL2008,4,24,< 24
+877,Alvin Kamara\KamaAl00,2018,23,3-67,NOR,NFL,7,6,92,408,4.43,7,58.3,Alvin Kamara,AlvinKamara23NOR2018,3,143,< 24
+878,Christian McCaffrey\McCaCh01,2018,22,1-8,CAR,NFL,7,7,92,423,4.6,1,60.4,Christian McCaffrey,ChristianMcCaffrey22CAR2018,1,153,< 24
+879,Sammy Morris\MorrSa00,2006,29,5-156,MIA,NFL,12,4,92,400,4.35,1,33.3,Sammy Morris,SammyMorris29MIA2006,5,51,29-32
+880,Theo Riddick\RiddTh00,2016,25,6-199,DET,NFL,10,8,92,357,3.88,1,35.7,Theo Riddick,TheoRiddick25DET2016,6,78,25-28
+881,Giovani Bernard\BernGi00,2016,25,2-37,CIN,NFL,10,2,91,337,3.7,2,33.7,Giovani Bernard,GiovaniBernard25CIN2016,2,115,25-28
+882,Melvin Gordon\GordMe00,2018,25,1-15,LAC,NFL,6,6,91,466,5.12,6,77.7,Melvin Gordon,MelvinGordon25LAC2018,1,45,25-28
+883,Daniel Thomas\ThomDa03,2012,25,2-62,MIA,NFL,12,0,91,325,3.57,4,27.1,Daniel Thomas,DanielThomas25MIA2012,2,139,25-28
+884,Joique Bell\BellJo01,2015,29,NA,DET,NFL,13,5,90,311,3.46,4,23.9,Joique Bell,JoiqueBell29DET2015,Undrafted,Undrafted,29-32
+885,Brandon Bennett\BennBr00,2000,27,NA,CIN,NFL,16,0,90,324,3.6,3,20.3,Brandon Bennett,BrandonBennett27CIN2000,Undrafted,Undrafted,25-28
+886,Michael Bennett\BennMi00,2003,25,1-27,MIN,NFL,8,7,90,447,4.97,1,55.9,Michael Bennett,MichaelBennett25MIN2003,1,106,25-28
+887,Ladell Betts\BettLa00,2004,25,2-56,WAS,NFL,16,1,90,371,4.12,1,23.2,Ladell Betts,LadellBetts25WAS2004,2,133,25-28
+888,Ahmad Bradshaw\BradAh00,2014,28,7-250,IND,NFL,10,1,90,425,4.72,2,42.5,Ahmad Bradshaw,AhmadBradshaw28IND2014,7,102,25-28
+889,Marshawn Lynch\LyncMa00,2018,32,1-12,OAK,NFL,6,6,90,376,4.18,3,62.7,Marshawn Lynch,MarshawnLynch32OAK2018,1,22,29-32
+890,Maurice Morris\MorrMa00,2010,31,2-54,DET,NFL,14,7,90,336,3.73,5,24,Maurice Morris,MauriceMorris31DET2010,2,131,29-32
+891,Emmitt Smith*\SmitEm00,2003,34,1-17,ARI,NFL,10,5,90,256,2.84,2,25.6,Emmitt Smith*,EmmittSmith*34ARI2003,1,56,32+
+892,Dwayne Washington\WashDw00,2016,22,7-236,DET,NFL,12,2,90,265,2.94,1,22.1,Dwayne Washington,DwayneWashington22DET2016,7,94,< 24
+893,Jonathan Wells\WellJo00,2005,26,4-99,HOU,NFL,15,6,90,325,3.61,4,21.7,Jonathan Wells,JonathanWells26HOU2005,4,169,25-28
+894,Ladell Betts\BettLa00,2005,26,2-56,WAS,NFL,12,0,89,338,3.8,1,28.2,Ladell Betts,LadellBetts26WAS2005,2,133,25-28
+895,Jonas Gray\GrayJo00,2014,24,NA,NWE,NFL,8,3,89,412,4.63,5,51.5,Jonas Gray,JonasGray24NWE2014,Undrafted,Undrafted,< 24
+896,Brad Hoover\HoovBr00,2000,24,NA,CAR,NFL,16,4,89,290,3.26,1,18.1,Brad Hoover,BradHoover24CAR2000,Undrafted,Undrafted,< 24
+897,James Starks\StarJa00,2013,27,6-193,GNB,NFL,13,1,89,493,5.54,3,37.9,James Starks,JamesStarks27GNB2013,6,75,25-28
+898,Kenneth Dixon\DixoKe00,2016,22,4-134,BAL,NFL,12,0,88,382,4.34,2,31.8,Kenneth Dixon,KennethDixon22BAL2016,4,32,< 24
+899,Montario Hardesty\HardMo00,2011,24,2-59,CLE,NFL,10,4,88,266,3.02,0,26.6,Montario Hardesty,MontarioHardesty24CLE2011,2,136,< 24
+900,Travis Henry\HenrTr00,2005,27,2-58,TEN,NFL,10,1,88,335,3.81,0,33.5,Travis Henry,TravisHenry27TEN2005,2,135,25-28
+901,Elijah McGuire\McGuEl00,2017,23,6-188,NYJ,NFL,16,2,88,315,3.58,1,19.7,Elijah McGuire,ElijahMcGuire23NYJ2017,6,69,< 24
+902,Beanie Wells\WellCh00,2012,24,1-31,ARI,NFL,8,7,88,234,2.66,5,29.3,Beanie Wells,BeanieWells24ARI2012,1,110,< 24
+903,Charcandrick West\WestCh01,2016,25,NA,KAN,NFL,15,2,88,293,3.33,1,19.5,Charcandrick West,CharcandrickWest25KAN2016,Undrafted,Undrafted,25-28
+904,Tyrone Wheatley\WheaTy00,2001,29,1-17,OAK,NFL,11,2,88,276,3.14,5,25.1,Tyrone Wheatley,TyroneWheatley29OAK2001,1,56,29-32
+905,Andre Williams\WillAn00,2015,23,4-113,NYG,NFL,16,0,88,257,2.92,1,16.1,Andre Williams,AndreWilliams23NYG2015,4,16,< 24
+906,Zach Zenner\ZennZa00,2016,25,NA,DET,NFL,14,4,88,334,3.8,4,23.9,Zach Zenner,ZachZenner25DET2016,Undrafted,Undrafted,25-28
+907,Tarik Cohen\CoheTa00,2017,22,4-119,CHI,NFL,16,4,87,370,4.25,2,23.1,Tarik Cohen,TarikCohen22CHI2017,4,21,< 24
+908,Tevin Coleman\ColeTe01,2015,22,3-73,ATL,NFL,12,3,87,392,4.51,1,32.7,Tevin Coleman,TevinColeman22ATL2015,3,147,< 24
+909,Justin Forsett\ForsJu00,2016,31,7-233,3TM,NFL,9,6,87,291,3.34,1,32.3,Justin Forsett,JustinForsett313TM2016,7,92,29-32
+910,Stevan Ridley\RidlSt00,2011,22,3-73,NWE,NFL,16,2,87,441,5.07,1,27.6,Stevan Ridley,StevanRidley22NWE2011,3,147,< 24
+911,Jason Snelling\SnelJa00,2010,27,7-244,ATL,NFL,14,0,87,324,3.72,2,23.1,Jason Snelling,JasonSnelling27ATL2010,7,99,25-28
+912,Darren Sproles\SproDa00,2011,28,4-130,NOR,NFL,16,4,87,603,6.93,2,37.7,Darren Sproles,DarrenSproles28NOR2011,4,30,25-28
+913,DeAndre Washington\WashDe00,2016,23,5-143,OAK,NFL,14,2,87,467,5.37,2,33.4,DeAndre Washington,DeAndreWashington23OAK2016,5,40,< 24
+914,Cadillac Williams\WillCa02,2011,29,1-5,STL,NFL,11,1,87,361,4.15,1,32.8,Cadillac Williams,CadillacWilliams29STL2011,1,127,29-32
+915,DeAngelo Williams\WillDe02,2010,27,1-27,CAR,NFL,6,6,87,361,4.15,1,60.2,DeAngelo Williams,DeAngeloWilliams27CAR2010,1,106,25-28
+916,Maurice Jones-Drew\DrewMa00,2012,27,2-60,JAX,NFL,6,5,86,414,4.81,1,69,Maurice Jones-Drew,MauriceJones-Drew27JAX2012,2,137,25-28
+917,Brian Leonard\LeonBr00,2007,23,2-52,STL,NFL,16,7,86,303,3.52,0,18.9,Brian Leonard,BrianLeonard23STL2007,2,129,< 24
+918,Donald Brown\BrowDo00,2014,27,1-27,SDG,NFL,13,3,85,223,2.62,0,17.2,Donald Brown,DonaldBrown27SDG2014,1,106,25-28
+919,Reuben Droughns\DrouRe00,2007,29,3-81,NYG,NFL,16,1,85,275,3.24,6,17.2,Reuben Droughns,ReubenDroughns29NYG2007,3,155,29-32
+920,Quentin Griffin\GrifQu00,2004,23,4-108,DEN,NFL,6,4,85,311,3.66,2,51.8,Quentin Griffin,QuentinGriffin23DEN2004,4,11,< 24
+921,Arlen Harris\HarrAr00,2003,23,NA,STL,NFL,16,2,85,255,3,4,15.9,Arlen Harris,ArlenHarris23STL2003,Undrafted,Undrafted,< 24
+922,Peyton Hillis\HillPe00,2012,26,7-227,KAN,NFL,13,2,85,309,3.64,1,23.8,Peyton Hillis,PeytonHillis26KAN2012,7,87,25-28
+923,Ronnie Hillman\HillRo00,2012,21,3-67,DEN,NFL,14,0,85,330,3.88,1,23.6,Ronnie Hillman,RonnieHillman21DEN2012,3,143,< 24
+924,Sammy Morris\MorrSa00,2007,30,5-156,NWE,NFL,6,2,85,384,4.52,3,64,Sammy Morris,SammyMorris30NWE2007,5,51,29-32
+925,James Starks\StarJa00,2014,28,6-193,GNB,NFL,16,0,85,333,3.92,2,20.8,James Starks,JamesStarks28GNB2014,6,75,25-28
+926,Tyrone Wheatley\WheaTy00,2004,32,1-17,OAK,NFL,8,7,85,327,3.85,4,40.9,Tyrone Wheatley,TyroneWheatley32OAK2004,1,56,29-32
+927,Amos Zereoue\ZereAm00,2001,25,3-95,PIT,NFL,14,0,85,441,5.19,1,31.5,Amos Zereoue,AmosZereoue25PIT2001,3,166,25-28
+928,Mike Anderson\AndeMi00,2002,29,6-189,DEN,NFL,15,12,84,386,4.6,2,25.7,Mike Anderson,MikeAnderson29DEN2002,6,70,29-32
+929,Jahvid Best\BestJa00,2011,22,1-30,DET,NFL,6,6,84,390,4.64,2,65,Jahvid Best,JahvidBest22DET2011,1,109,< 24
+930,Matt Breida\BreiMa00,2018,23,NA,SFO,NFL,8,7,84,487,5.8,2,60.9,Matt Breida,MattBreida23SFO2018,Undrafted,Undrafted,< 24
+931,Frank Gore\GoreFr00,2018,35,3-65,MIA,NFL,8,8,84,385,4.58,0,48.1,Frank Gore,FrankGore35MIA2018,3,142,32+
+932,Derrick Henry\HenrDe00,2018,24,2-45,TEN,NFL,7,7,84,273,3.25,1,39,Derrick Henry,DerrickHenry24TEN2018,2,123,< 24
+933,Tim Hightower\HighTi00,2011,25,5-149,WAS,NFL,5,5,84,321,3.82,1,64.2,Tim Hightower,TimHightower25WAS2011,5,44,25-28
+934,Rashad Jennings\JennRa00,2010,25,7-250,JAX,NFL,13,3,84,459,5.46,4,35.3,Rashad Jennings,RashadJennings25JAX2010,7,102,25-28
+935,LaMont Jordan\JordLa00,2002,24,2-49,NYJ,NFL,14,0,84,316,3.76,3,22.6,LaMont Jordan,LaMontJordan24NYJ2002,2,126,< 24
+936,John Kuhn\KuhnJo00,2010,28,NA,GNB,NFL,16,2,84,281,3.35,4,17.6,John Kuhn,JohnKuhn28GNB2010,Undrafted,Undrafted,25-28
+937,Theo Riddick\RiddTh00,2017,26,6-199,DET,NFL,16,5,84,286,3.4,3,17.9,Theo Riddick,TheoRiddick26DET2017,6,78,25-28
+938,Moe Williams\WillMo00,2002,28,3-75,MIN,NFL,16,0,84,414,4.93,11,25.9,Moe Williams,MoeWilliams28MIN2002,3,149,25-28
+939,Correll Buckhalter\BuckCo00,2006,28,4-121,PHI,NFL,16,1,83,345,4.16,2,21.6,Correll Buckhalter,CorrellBuckhalter28PHI2006,4,23,25-28
+940,Glen Coffee\CoffGl00,2009,22,3-74,SFO,NFL,14,2,83,226,2.72,1,16.1,Glen Coffee,GlenCoffee22SFO2009,3,148,< 24
+941,Kevin Faulk\FaulKe00,2008,32,2-46,NWE,NFL,15,3,83,507,6.11,3,33.8,Kevin Faulk,KevinFaulk32NWE2008,2,124,29-32
+942,Carlos Hyde\HydeCa00,2014,24,2-57,SFO,NFL,14,0,83,333,4.01,4,23.8,Carlos Hyde,CarlosHyde24SFO2014,2,134,< 24
+943,Jalen Richard\RichJa01,2016,23,NA,OAK,NFL,16,0,83,491,5.92,1,30.7,Jalen Richard,JalenRichard23OAK2016,Undrafted,Undrafted,< 24
+944,Darren Sproles\SproDa00,2015,32,4-130,PHI,NFL,16,4,83,317,3.82,3,19.8,Darren Sproles,DarrenSproles32PHI2015,4,30,29-32
+945,Pierre Thomas\ThomPi00,2010,26,NA,NOR,NFL,6,3,83,269,3.24,2,44.8,Pierre Thomas,PierreThomas26NOR2010,Undrafted,Undrafted,25-28
+946,Joique Bell\BellJo01,2012,26,NA,DET,NFL,16,0,82,414,5.05,3,25.9,Joique Bell,JoiqueBell26DET2012,Undrafted,Undrafted,25-28
+947,Tevin Coleman\ColeTe01,2018,25,3-73,ATL,NFL,7,5,82,310,3.78,2,44.3,Tevin Coleman,TevinColeman25ATL2018,3,147,25-28
+948,Duke Johnson\JohnDu00,2017,24,3-77,CLE,NFL,16,0,82,348,4.24,4,21.8,Duke Johnson,DukeJohnson24CLE2017,3,151,< 24
+949,Latavius Murray\MurrLa00,2014,24,6-181,OAK,NFL,15,3,82,424,5.17,2,28.3,Latavius Murray,LataviusMurray24OAK2014,6,65,< 24
+950,Latavius Murray\MurrLa00,2018,28,6-181,MIN,NFL,8,5,82,386,4.71,4,48.3,Latavius Murray,LataviusMurray28MIN2018,6,65,25-28
+951,Jonathan Wells\WellJo00,2004,25,4-99,HOU,NFL,16,1,82,299,3.65,3,18.7,Jonathan Wells,JonathanWells25HOU2004,4,169,25-28
+952,Toby Gerhart\GerhTo00,2010,23,2-51,MIN,NFL,15,1,81,322,3.98,1,21.5,Toby Gerhart,TobyGerhart23MIN2010,2,128,< 24
+953,Cedric Houston\HousCe00,2005,23,6-182,NYJ,NFL,12,4,81,302,3.73,2,25.2,Cedric Houston,CedricHouston23NYJ2005,6,66,< 24
+954,Aaron Jones\JoneAa00,2017,23,5-182,GNB,NFL,12,4,81,448,5.53,4,37.3,Aaron Jones,AaronJones23GNB2017,5,66,< 24
+955,T.J. Yeldon\YeldT.00,2018,25,2-36,JAX,NFL,8,4,81,334,4.12,1,41.8,T.J. Yeldon,T.J.Yeldon25JAX2018,2,114,25-28
+956,Shawn Bryson\BrysSh00,2001,25,3-86,BUF,NFL,15,3,80,341,4.26,2,22.7,Shawn Bryson,ShawnBryson25BUF2001,3,159,25-28
+957,LaMont Jordan\JordLa00,2008,30,2-49,NWE,NFL,8,0,80,363,4.54,4,45.4,LaMont Jordan,LaMontJordan30NWE2008,2,126,29-32
+958,Maurice Morris\MorrMa00,2011,32,2-54,DET,NFL,16,5,80,316,3.95,1,19.8,Maurice Morris,MauriceMorris32DET2011,2,131,29-32
+959,Bilal Powell\PoweBi00,2018,30,4-126,NYJ,NFL,7,7,80,343,4.29,0,49,Bilal Powell,BilalPowell30NYJ2018,4,26,29-32
+960,Robert Turbin\TurbRo00,2012,23,4-106,SEA,NFL,16,0,80,354,4.43,0,22.1,Robert Turbin,RobertTurbin23SEA2012,4,9,< 24
+961,Michael Turner\TurnMi00,2006,24,5-154,SDG,NFL,13,0,80,502,6.28,2,38.6,Michael Turner,MichaelTurner24SDG2006,5,49,< 24
+962,Kahlil Bell\BellKa00,2011,25,NA,CHI,NFL,13,3,79,337,4.27,0,25.9,Kahlil Bell,KahlilBell25CHI2011,Undrafted,Undrafted,25-28
+963,Alfred Blue\BlueAl00,2018,27,6-181,HOU,NFL,8,1,79,258,3.27,1,32.3,Alfred Blue,AlfredBlue27HOU2018,6,65,25-28
+964,Devontae Booker\BookDe00,2017,25,4-136,DEN,NFL,13,0,79,299,3.78,1,23,Devontae Booker,DevontaeBooker25DEN2017,4,34,25-28
+965,Chris Brown\BrowCh03,2009,28,3-93,HOU,NFL,14,4,79,267,3.38,3,19.1,Chris Brown,ChrisBrown28HOU2009,3,164,25-28
+966,Troy Hambrick\HambTr00,2002,26,NA,DAL,NFL,16,0,79,317,4.01,1,19.8,Troy Hambrick,TroyHambrick26DAL2002,Undrafted,Undrafted,25-28
+967,Chris Ivory\IvorCh00,2011,23,NA,NOR,NFL,6,2,79,374,4.73,1,62.3,Chris Ivory,ChrisIvory23NOR2011,Undrafted,Undrafted,< 24
+968,Antonio Pittman\PittAn00,2008,23,4-107,STL,NFL,12,5,79,296,3.75,0,24.7,Antonio Pittman,AntonioPittman23STL2008,4,10,< 24
+969,Duce Staley\StalDu00,2000,25,3-71,PHI,NFL,5,5,79,344,4.35,1,68.8,Duce Staley,DuceStaley25PHI2000,3,146,25-28
+970,Donald Brown\BrowDo00,2009,22,1-27,IND,NFL,11,1,78,281,3.6,3,25.5,Donald Brown,DonaldBrown22IND2009,1,106,< 24
+971,Trung Canidate\CaniTr00,2001,24,1-31,STL,NFL,16,2,78,441,5.65,6,27.6,Trung Canidate,TrungCanidate24STL2001,1,110,< 24
+972,Terrell Davis*\DaviTe00,2000,28,6-196,DEN,NFL,5,4,78,282,3.62,2,56.4,Terrell Davis*,TerrellDavis*28DEN2000,6,77,25-28
+973,Shaun Draughn\DrauSh00,2015,28,NA,2TM,NFL,11,6,78,273,3.5,1,24.8,Shaun Draughn,ShaunDraughn282TM2015,Undrafted,Undrafted,25-28
+974,D'Onta Foreman\ForeDO00,2017,21,3-89,HOU,NFL,10,1,78,327,4.19,2,32.7,D'Onta Foreman,D'OntaForeman21HOU2017,3,161,< 24
+975,Dan Herron\HerrDa00,2014,25,6-191,IND,NFL,16,3,78,351,4.5,1,21.9,Dan Herron,DanHerron25IND2014,6,73,25-28
+976,Kendall Hunter\HuntKe00,2013,25,4-115,SFO,NFL,16,0,78,358,4.59,3,22.4,Kendall Hunter,KendallHunter25SFO2013,4,18,25-28
+977,Mark Ingram\IngrMa01,2013,24,1-28,NOR,NFL,11,3,78,386,4.95,1,35.1,Mark Ingram,MarkIngram24NOR2013,1,107,< 24
+978,C.J. Spiller\SpilC.00,2014,27,1-9,BUF,NFL,9,5,78,300,3.85,0,33.3,C.J. Spiller,C.J.Spiller27BUF2014,1,162,25-28
+979,Ladell Betts\BettLa00,2003,24,2-56,WAS,NFL,9,1,77,255,3.31,2,28.3,Ladell Betts,LadellBetts24WAS2003,2,133,< 24
+980,Najeh Davenport\DaveNa00,2003,24,4-135,GNB,NFL,15,0,77,420,5.45,2,28,Najeh Davenport,NajehDavenport24GNB2003,4,33,< 24
+981,Ahman Green\GreeAh00,2005,28,3-76,GNB,NFL,5,5,77,255,3.31,0,51,Ahman Green,AhmanGreen28GNB2005,3,150,25-28
+982,Shonn Greene\GreeSh00,2013,28,3-65,TEN,NFL,11,0,77,295,3.83,4,26.8,Shonn Greene,ShonnGreene28TEN2013,3,142,25-28
+983,Kerryon Johnson\JohnKe06,2018,21,NA,DET,NFL,7,4,77,466,6.05,1,66.6,Kerryon Johnson,KerryonJohnson21DET2018,Undrafted,Undrafted,< 24
+984,Dorsey Levens\LeveDo00,2000,30,5-149,GNB,NFL,5,5,77,224,2.91,3,44.8,Dorsey Levens,DorseyLevens30GNB2000,5,44,29-32
+985,Ty Montgomery\MontTy01,2016,23,3-94,GNB,NFL,15,6,77,457,5.94,3,30.5,Ty Montgomery,TyMontgomery23GNB2016,3,165,< 24
+986,Alfred Morris\MorrAl00,2018,30,6-173,SFO,NFL,8,1,77,281,3.65,1,35.1,Alfred Morris,AlfredMorris30SFO2018,6,59,29-32
+987,Wendell Smallwood\SmalWe00,2016,22,5-153,PHI,NFL,13,3,77,312,4.05,1,24,Wendell Smallwood,WendellSmallwood22PHI2016,5,48,< 24
+988,Robert Turbin\TurbRo00,2013,24,4-106,SEA,NFL,16,0,77,264,3.43,0,16.5,Robert Turbin,RobertTurbin24SEA2013,4,9,< 24
+989,Brian Westbrook\WestBr00,2010,31,3-91,SFO,NFL,14,5,77,340,4.42,4,24.3,Brian Westbrook,BrianWestbrook31SFO2010,3,163,29-32
+990,Danny Woodhead\WoodDa02,2011,26,NA,NWE,NFL,15,4,77,351,4.56,1,23.4,Danny Woodhead,DannyWoodhead26NWE2011,Undrafted,Undrafted,25-28
+991,Kimble Anders\AndeKi00,2000,34,NA,KAN,NFL,15,7,76,331,4.36,2,22.1,Kimble Anders,KimbleAnders34KAN2000,Undrafted,Undrafted,32+
+992,Correll Buckhalter\BuckCo00,2008,30,4-121,PHI,NFL,14,2,76,369,4.86,2,26.4,Correll Buckhalter,CorrellBuckhalter30PHI2008,4,23,29-32
+993,Reggie Bush\BushRe00,2014,29,1-2,DET,NFL,11,9,76,297,3.91,2,27,Reggie Bush,ReggieBush29DET2014,1,79,29-32
+994,DeShaun Foster\FostDe00,2008,28,2-34,SFO,NFL,16,2,76,234,3.08,1,14.6,DeShaun Foster,DeShaunFoster28SFO2008,2,112,25-28
+995,Rudi Johnson\JohnRu00,2008,29,4-100,DET,NFL,14,4,76,237,3.12,1,16.9,Rudi Johnson,RudiJohnson29DET2008,4,3,29-32
+996,Jerious Norwood\NorwJe00,2009,26,3-79,ATL,NFL,10,4,76,252,3.32,0,25.2,Jerious Norwood,JeriousNorwood26ATL2009,3,152,25-28
+997,Chris Ogbonnaya\OgboCh00,2011,25,7-211,2TM,NFL,13,4,76,340,4.47,1,26.2,Chris Ogbonnaya,ChrisOgbonnaya252TM2011,7,85,25-28
+998,Adrian Peterson\PeteAd00,2005,26,6-199,CHI,NFL,16,0,76,391,5.14,2,24.4,Adrian Peterson,AdrianPeterson26CHI2005,6,78,25-28
+999,Michael Pittman\PittMi00,2008,33,4-95,DEN,NFL,8,3,76,320,4.21,4,40,Michael Pittman,MichaelPittman33DEN2008,4,166,32+
+1000,Joseph Randle\RandJo01,2015,24,5-151,DAL,NFL,6,6,76,315,4.14,4,52.5,Joseph Randle,JosephRandle24DAL2015,5,47,< 24
+1001,Khiry Robinson\RobiKh00,2014,25,NA,NOR,NFL,10,3,76,362,4.76,3,36.2,Khiry Robinson,KhiryRobinson25NOR2014,Undrafted,Undrafted,25-28
+1002,Zac Stacy\StacZa00,2014,23,5-160,STL,NFL,13,5,76,293,3.86,1,22.5,Zac Stacy,ZacStacy23STL2014,5,53,< 24
+1003,Jordan Todman\TodmJo00,2013,23,6-183,JAX,NFL,16,2,76,256,3.37,2,16,Jordan Todman,JordanTodman23JAX2013,6,67,< 24
+1004,Leon Washington\WashLe00,2008,26,4-117,NYJ,NFL,16,1,76,448,5.89,6,28,Leon Washington,LeonWashington26NYJ2008,4,19,25-28
+1005,Danny Woodhead\WoodDa02,2012,27,NA,NWE,NFL,16,2,76,301,3.96,4,18.8,Danny Woodhead,DannyWoodhead27NWE2012,Undrafted,Undrafted,25-28
+1006,Tatum Bell\BellTa00,2004,23,2-41,DEN,NFL,14,0,75,396,5.28,3,28.3,Tatum Bell,TatumBell23DEN2004,2,119,< 24
+1007,Bryce Brown\BrowBr02,2013,22,7-229,PHI,NFL,16,1,75,314,4.19,2,19.6,Bryce Brown,BryceBrown22PHI2013,7,89,< 24
+1008,Brandon Jackson\JackBr00,2007,22,2-63,GNB,NFL,11,3,75,267,3.56,1,24.3,Brandon Jackson,BrandonJackson22GNB2007,2,140,< 24
+1009,Dorsey Levens\LeveDo00,2002,32,5-149,PHI,NFL,16,0,75,411,5.48,1,25.7,Dorsey Levens,DorseyLevens32PHI2002,5,44,29-32
+1010,Tre Mason\MasoTr00,2015,22,3-75,STL,NFL,13,3,75,207,2.76,1,15.9,Tre Mason,TreMason22STL2015,3,149,< 24
+1011,LeSean McCoy\McCoLe01,2018,30,2-53,BUF,NFL,7,7,75,257,3.43,0,36.7,LeSean McCoy,LeSeanMcCoy30BUF2018,2,130,29-32
+1012,Dominic Rhodes\RhodDo00,2007,28,NA,OAK,NFL,10,2,75,302,4.03,1,30.2,Dominic Rhodes,DominicRhodes28OAK2007,Undrafted,Undrafted,25-28
+1013,Musa Smith\SmitMu00,2007,25,3-77,BAL,NFL,16,1,75,264,3.52,2,16.5,Musa Smith,MusaSmith25BAL2007,3,151,25-28
+1014,LaDainian Tomlinson*\TomlLa00,2011,32,1-5,NYJ,NFL,14,1,75,280,3.73,1,20,LaDainian Tomlinson*,LaDainianTomlinson*32NYJ2011,1,127,29-32
+1015,Rex Burkhead\BurkRe00,2016,26,6-190,CIN,NFL,16,1,74,344,4.65,2,21.5,Rex Burkhead,RexBurkhead26CIN2016,6,72,25-28
+1016,Corey Clement\ClemCo00,2017,23,NA,PHI,NFL,16,0,74,321,4.34,4,20.1,Corey Clement,CoreyClement23PHI2017,Undrafted,Undrafted,< 24
+1017,Dalvin Cook\CookDa01,2017,22,2-41,MIN,NFL,4,4,74,354,4.78,2,88.5,Dalvin Cook,DalvinCook22MIN2017,2,119,< 24
+1018,Shaun Draughn\DrauSh00,2016,29,NA,SFO,NFL,16,1,74,196,2.65,4,12.3,Shaun Draughn,ShaunDraughn29SFO2016,Undrafted,Undrafted,29-32
+1019,Ahman Green\GreeAh00,2008,31,3-76,HOU,NFL,8,1,74,294,3.97,3,36.8,Ahman Green,AhmanGreen31HOU2008,3,150,29-32
+1020,BenJarvus Green-Ellis\GreeBe00,2008,23,NA,NWE,NFL,9,3,74,275,3.72,5,30.6,BenJarvus Green-Ellis,BenJarvusGreen-Ellis23NWE2008,Undrafted,Undrafted,< 24
+1021,Verron Haynes\HaynVe00,2005,26,5-166,PIT,NFL,14,0,74,274,3.7,3,19.6,Verron Haynes,VerronHaynes26PIT2005,5,55,25-28
+1022,Ryan Mathews\MathRy00,2014,27,1-12,SDG,NFL,6,6,74,330,4.46,3,55,Ryan Mathews,RyanMathews27SDG2014,1,22,25-28
+1023,Bernard Scott\ScotBe00,2009,25,6-209,CIN,NFL,13,2,74,321,4.34,0,24.7,Bernard Scott,BernardScott25CIN2009,6,83,25-28
+1024,C.J. Spiller\SpilC.00,2010,23,1-9,BUF,NFL,14,1,74,283,3.82,0,20.2,C.J. Spiller,C.J.Spiller23BUF2010,1,162,< 24
+1025,Robert Turbin\TurbRo00,2014,25,4-106,SEA,NFL,16,3,74,310,4.19,0,19.4,Robert Turbin,RobertTurbin25SEA2014,4,9,25-28
+1026,Chris Warren\WarrCh00,2000,32,4-89,2TM,NFL,14,1,74,296,4,2,21.1,Chris Warren,ChrisWarren322TM2000,4,161,29-32
+1027,Andre Brown\BrowAn03,2012,26,4-129,NYG,NFL,10,2,73,385,5.27,8,38.5,Andre Brown,AndreBrown26NYG2012,4,28,25-28
+1028,Peyton Hillis\HillPe00,2013,27,7-227,NYG,NFL,7,1,73,247,3.38,2,35.3,Peyton Hillis,PeytonHillis27NYG2013,7,87,25-28
+1029,Chris Ivory\IvorCh00,2018,30,NA,BUF,NFL,8,1,73,244,3.34,1,30.5,Chris Ivory,ChrisIvory30BUF2018,Undrafted,Undrafted,29-32
+1030,Duke Johnson\JohnDu00,2016,23,3-77,CLE,NFL,16,1,73,358,4.9,1,22.4,Duke Johnson,DukeJohnson23CLE2016,3,151,< 24
+1031,Dion Lewis\LewiDi00,2018,28,5-149,TEN,NFL,7,0,73,277,3.79,1,39.6,Dion Lewis,DionLewis28TEN2018,5,44,25-28
+1032,Sammy Morris\MorrSa00,2009,32,5-156,NWE,NFL,12,5,73,319,4.37,2,26.6,Sammy Morris,SammyMorris32NWE2009,5,51,29-32
+1033,Kendall Hunter\HuntKe00,2012,24,4-115,SFO,NFL,11,0,72,371,5.15,2,33.7,Kendall Hunter,KendallHunter24SFO2012,4,18,< 24
+1034,Kevin Smith\SmitKe02,2011,25,3-64,DET,NFL,7,4,72,356,4.94,4,50.9,Kevin Smith,KevinSmith25DET2011,3,141,25-28
+1035,Spencer Ware\WareSp00,2015,24,6-194,KAN,NFL,11,2,72,403,5.6,6,36.6,Spencer Ware,SpencerWare24KAN2015,6,76,< 24
+1036,Leon Washington\WashLe00,2009,27,4-117,NYJ,NFL,7,0,72,331,4.6,0,47.3,Leon Washington,LeonWashington27NYJ2009,4,19,25-28
+1037,Ricky Watters\WattRi00,2001,32,2-45,SEA,NFL,5,4,72,318,4.42,1,63.6,Ricky Watters,RickyWatters32SEA2001,2,123,29-32
+1038,Cedric Benson\BensCe00,2012,30,1-4,GNB,NFL,5,5,71,248,3.49,1,49.6,Cedric Benson,CedricBenson30GNB2012,1,118,29-32
+1039,Alfred Blue\BlueAl00,2017,26,6-181,HOU,NFL,11,0,71,262,3.69,1,23.8,Alfred Blue,AlfredBlue26HOU2017,6,65,25-28
+1040,Jamaal Charles\CharJa00,2015,29,3-73,KAN,NFL,5,5,71,364,5.13,4,72.8,Jamaal Charles,JamaalCharles29KAN2015,3,147,29-32
+1041,Najeh Davenport\DaveNa00,2004,25,4-135,GNB,NFL,11,1,71,359,5.06,2,32.6,Najeh Davenport,NajehDavenport25GNB2004,4,33,25-28
+1042,Royce Freeman\FreeRo00,2018,22,NA,DEN,NFL,7,7,71,309,4.35,4,44.1,Royce Freeman,RoyceFreeman22DEN2018,Undrafted,Undrafted,< 24
+1043,Lamar Gordon\GordLa00,2003,23,3-84,STL,NFL,10,4,71,298,4.2,1,29.8,Lamar Gordon,LamarGordon23STL2003,3,157,< 24
+1044,Jerome Harrison\HarrJe00,2010,27,5-145,2TM,NFL,12,2,71,330,4.65,1,27.5,Jerome Harrison,JeromeHarrison272TM2010,5,42,25-28
+1045,Eddie Lacy\LacyEd00,2016,26,2-61,GNB,NFL,5,5,71,360,5.07,0,72,Eddie Lacy,EddieLacy26GNB2016,2,138,25-28
+1046,Ty Montgomery\MontTy01,2017,24,3-94,GNB,NFL,8,5,71,273,3.85,3,34.1,Ty Montgomery,TyMontgomery24GNB2017,3,165,< 24
+1047,Maurice Morris\MorrMa00,2005,26,2-54,SEA,NFL,16,2,71,288,4.06,1,18,Maurice Morris,MauriceMorris26SEA2005,2,131,25-28
+1048,Errict Rhett\RhetEr00,2000,30,2-34,CLE,NFL,5,4,71,258,3.63,0,51.6,Errict Rhett,ErrictRhett30CLE2000,2,112,29-32
+1049,James Starks\StarJa00,2012,26,6-193,GNB,NFL,6,2,71,255,3.59,1,42.5,James Starks,JamesStarks26GNB2012,6,75,25-28
+1050,Michael Turner\TurnMi00,2007,25,5-154,SDG,NFL,16,0,71,316,4.45,1,19.8,Michael Turner,MichaelTurner25SDG2007,5,49,25-28
+1051,Leon Washington\WashLe00,2007,25,4-117,NYJ,NFL,16,4,71,353,4.97,3,22.1,Leon Washington,LeonWashington25NYJ2007,4,19,25-28
+1052,David Wilson\WilsDa01,2012,21,1-32,NYG,NFL,16,2,71,358,5.04,4,22.4,David Wilson,DavidWilson21NYG2012,1,111,< 24
+1053,Mike Anderson\AndeMi00,2003,30,6-189,DEN,NFL,12,5,70,257,3.67,3,21.4,Mike Anderson,MikeAnderson30DEN2003,6,70,29-32
+1054,Richie Anderson\AndeRi00,2003,32,6-144,DAL,NFL,15,8,70,306,4.37,1,20.4,Richie Anderson,RichieAnderson32DAL2003,6,41,29-32
+1055,Michael Bennett\BennMi00,2004,26,1-27,MIN,NFL,11,7,70,276,3.94,1,25.1,Michael Bennett,MichaelBennett26MIN2004,1,106,25-28
+1056,Reggie Bush\BushRe00,2009,24,1-2,NOR,NFL,14,8,70,390,5.57,5,27.9,Reggie Bush,ReggieBush24NOR2009,1,79,< 24
+1057,Knile Davis\DaviKn00,2013,22,3-96,KAN,NFL,16,1,70,242,3.46,4,15.1,Knile Davis,KnileDavis22KAN2013,3,167,< 24
+1058,Anthony Dixon\DixoAn00,2010,23,6-173,SFO,NFL,16,0,70,237,3.39,2,14.8,Anthony Dixon,AnthonyDixon23SFO2010,6,59,< 24
+1059,Kenyan Drake\DrakKe00,2018,24,3-73,MIA,NFL,8,5,70,340,4.86,3,42.5,Kenyan Drake,KenyanDrake24MIA2018,3,147,< 24
+1060,Tony Fisher\FishTo00,2002,23,NA,GNB,NFL,15,1,70,283,4.04,2,18.9,Tony Fisher,TonyFisher23GNB2002,Undrafted,Undrafted,< 24
+1061,Ahman Green\GreeAh00,2007,30,3-76,HOU,NFL,6,5,70,260,3.71,2,43.3,Ahman Green,AhmanGreen30HOU2007,3,150,29-32
+1062,Michael Pittman\PittMi00,2005,30,4-95,TAM,NFL,16,4,70,436,6.23,1,27.3,Michael Pittman,MichaelPittman30TAM2005,4,166,29-32
+1063,Bilal Powell\PoweBi00,2015,27,4-126,NYJ,NFL,11,2,70,313,4.47,1,28.5,Bilal Powell,BilalPowell27NYJ2015,4,26,25-28
+1064,Leonard Weaver\WeavLe00,2009,27,NA,PHI,NFL,16,8,70,323,4.61,2,20.2,Leonard Weaver,LeonardWeaver27PHI2009,Undrafted,Undrafted,25-28
+1065,Jamel White\WhitJa00,2003,26,NA,CLE,NFL,16,3,70,266,3.8,1,16.6,Jamel White,JamelWhite26CLE2003,Undrafted,Undrafted,25-28
+1066,Jamaal Charles\CharJa00,2017,31,3-73,DEN,NFL,14,0,69,296,4.29,1,21.1,Jamaal Charles,JamaalCharles31DEN2017,3,147,29-32
+1067,Eddie Lacy\LacyEd00,2017,27,2-61,SEA,NFL,9,3,69,179,2.59,0,19.9,Eddie Lacy,EddieLacy27SEA2017,2,138,25-28
+1068,Alfred Morris\MorrAl00,2016,28,6-173,DAL,NFL,14,0,69,243,3.52,2,17.4,Alfred Morris,AlfredMorris28DAL2016,6,59,25-28
+1069,Daryl Richardson\RichDa00,2013,23,7-252,STL,NFL,8,3,69,215,3.12,0,26.9,Daryl Richardson,DarylRichardson23STL2013,7,103,< 24
+1070,Mike Davis\DaviMi01,2017,24,4-126,SEA,NFL,6,6,68,240,3.53,0,40,Mike Davis,MikeDavis24SEA2017,4,26,< 24
+1071,Peyton Hillis\HillPe00,2008,22,7-227,DEN,NFL,12,6,68,343,5.04,5,28.6,Peyton Hillis,PeytonHillis22DEN2008,7,87,< 24
+1072,Brad Hoover\HoovBr00,2004,28,NA,CAR,NFL,14,9,68,246,3.62,0,17.6,Brad Hoover,BradHoover28CAR2004,Undrafted,Undrafted,25-28
+1073,Elvis Joseph\JoseEl00,2001,23,NA,JAX,NFL,14,3,68,294,4.32,0,21,Elvis Joseph,ElvisJoseph23JAX2001,Undrafted,Undrafted,< 24
+1074,Dorsey Levens\LeveDo00,2003,33,5-149,NYG,NFL,11,0,68,197,2.9,3,17.9,Dorsey Levens,DorseyLevens33NYG2003,5,44,32+
+1075,Michael Pittman\PittMi00,2007,32,4-95,TAM,NFL,10,3,68,286,4.21,0,28.6,Michael Pittman,MichaelPittman32TAM2007,4,166,29-32
+1076,Lorenzo Taliaferro\TaliLo00,2014,23,4-138,BAL,NFL,13,0,68,292,4.29,4,22.5,Lorenzo Taliaferro,LorenzoTaliaferro23BAL2014,4,36,< 24
+1077,Chris Thompson\ThomCh03,2016,26,5-154,WAS,NFL,16,0,68,356,5.24,3,22.3,Chris Thompson,ChrisThompson26WAS2016,5,49,25-28
+1078,Mike Alstott\AlstMi00,2004,31,2-35,TAM,NFL,14,11,67,230,3.43,2,16.4,Mike Alstott,MikeAlstott31TAM2004,2,113,29-32
+1079,Cedric Benson\BensCe00,2005,23,1-4,CHI,NFL,9,1,67,272,4.06,0,30.2,Cedric Benson,CedricBenson23CHI2005,1,118,< 24
+1080,Ahmad Bradshaw\BradAh00,2008,22,7-250,NYG,NFL,15,0,67,355,5.3,1,23.7,Ahmad Bradshaw,AhmadBradshaw22NYG2008,7,102,< 24
+1081,Jamaal Charles\CharJa00,2008,22,3-73,KAN,NFL,16,2,67,357,5.33,0,22.3,Jamaal Charles,JamaalCharles22KAN2008,3,147,< 24
+1082,Frank Moreau\MoreFr00,2000,24,4-115,KAN,NFL,11,0,67,179,2.67,4,16.3,Frank Moreau,FrankMoreau24KAN2000,4,18,< 24
+1083,Denard Robinson\RobiDe00,2015,25,5-135,JAX,NFL,13,3,67,266,3.97,1,20.5,Denard Robinson,DenardRobinson25JAX2015,5,33,25-28
+1084,Tashard Choice\ChoiTa00,2010,26,4-122,DAL,NFL,16,0,66,243,3.68,3,15.2,Tashard Choice,TashardChoice26DAL2010,4,24,25-28
+1085,Benny Cunningham\CunnBe01,2014,24,NA,STL,NFL,16,2,66,246,3.73,3,15.4,Benny Cunningham,BennyCunningham24STL2014,Undrafted,Undrafted,< 24
+1086,Nick Goings\GoinNi00,2001,23,NA,CAR,NFL,13,2,66,197,2.98,0,15.2,Nick Goings,NickGoings23CAR2001,Undrafted,Undrafted,< 24
+1087,Marlon Mack\MackMa00,2018,22,4-143,IND,NFL,4,4,66,381,5.77,3,95.3,Marlon Mack,MarlonMack22IND2018,4,40,< 24
+1088,Tony Richardson\RichTo00,2001,30,NA,KAN,NFL,14,8,66,191,2.89,7,13.6,Tony Richardson,TonyRichardson30KAN2001,Undrafted,Undrafted,29-32
+1089,Charles Sims\SimsCh00,2014,24,3-69,TAM,NFL,8,0,66,185,2.8,1,23.1,Charles Sims,CharlesSims24TAM2014,3,144,< 24
+1090,Mike Tolbert\TolbMi00,2017,32,NA,BUF,NFL,12,0,66,247,3.74,1,20.6,Mike Tolbert,MikeTolbert32BUF2017,Undrafted,Undrafted,29-32
+1091,Ladell Betts\BettLa00,2002,23,2-56,WAS,NFL,11,0,65,307,4.72,1,27.9,Ladell Betts,LadellBetts23WAS2002,2,133,< 24
+1092,Jesse Chatman\ChatJe00,2004,25,NA,SDG,NFL,15,0,65,392,6.03,3,26.1,Jesse Chatman,JesseChatman25SDG2004,Undrafted,Undrafted,25-28
+1093,T.J. Duckett\DuckT.00,2007,26,1-18,DET,NFL,12,1,65,335,5.15,3,27.9,T.J. Duckett,T.J.Duckett26DET2007,1,63,25-28
+1094,Marshall Faulk*\FaulMa00,2005,32,1-2,STL,NFL,16,1,65,292,4.49,0,18.3,Marshall Faulk*,MarshallFaulk*32STL2005,1,79,29-32
+1095,Tony Fisher\FishTo00,2004,25,NA,GNB,NFL,16,0,65,224,3.45,0,14,Tony Fisher,TonyFisher25GNB2004,Undrafted,Undrafted,25-28
+1096,Devonta Freeman\FreeDe00,2014,22,4-103,ATL,NFL,16,0,65,248,3.82,1,15.5,Devonta Freeman,DevontaFreeman22ATL2014,4,6,< 24
+1097,Lamar Gordon\GordLa00,2002,22,3-84,STL,NFL,13,5,65,228,3.51,1,17.5,Lamar Gordon,LamarGordon22STL2002,3,157,< 24
+1098,Montario Hardesty\HardMo00,2012,25,2-59,CLE,NFL,13,1,65,271,4.17,1,20.8,Montario Hardesty,MontarioHardesty25CLE2012,2,136,25-28
+1099,Mewelde Moore\MoorMe00,2004,22,4-119,MIN,NFL,10,3,65,379,5.83,0,37.9,Mewelde Moore,MeweldeMoore22MIN2004,4,21,< 24
+1100,Ben Tate\TateBe00,2012,24,2-58,HOU,NFL,11,0,65,279,4.29,2,25.4,Ben Tate,BenTate24HOU2012,2,135,< 24
+1101,Keiland Williams\WillKe03,2010,24,NA,WAS,NFL,15,3,65,261,4.02,3,17.4,Keiland Williams,KeilandWilliams24WAS2010,Undrafted,Undrafted,< 24
+1102,Moe Williams\WillMo00,2001,27,3-75,BAL,NFL,15,2,65,291,4.48,0,19.4,Moe Williams,MoeWilliams27BAL2001,3,149,25-28
+1103,Shaun Alexander\AlexSh00,2000,23,1-19,SEA,NFL,16,1,64,313,4.89,2,19.6,Shaun Alexander,ShaunAlexander23SEA2000,1,71,< 24
+1104,Shawn Bryson\BrysSh00,2005,29,3-86,DET,NFL,16,2,64,306,4.78,1,19.1,Shawn Bryson,ShawnBryson29DET2005,3,159,29-32
+1105,Rex Burkhead\BurkRe00,2017,27,6-190,NWE,NFL,10,3,64,264,4.13,5,26.4,Rex Burkhead,RexBurkhead27NWE2017,6,72,25-28
+1106,Rock Cartwright\CartRo01,2009,30,7-257,WAS,NFL,16,2,64,228,3.56,0,14.3,Rock Cartwright,RockCartwright30WAS2009,7,104,29-32
+1107,Tashard Choice\ChoiTa00,2009,25,4-122,DAL,NFL,16,0,64,349,5.45,3,21.8,Tashard Choice,TashardChoice25DAL2009,4,24,25-28
+1108,Dion Lewis\LewiDi00,2016,26,5-149,NWE,NFL,7,5,64,283,4.42,0,40.4,Dion Lewis,DionLewis26NWE2016,5,44,25-28
+1109,Jacquizz Rodgers\RodgJa00,2017,27,5-145,TAM,NFL,16,4,64,244,3.81,1,15.3,Jacquizz Rodgers,JacquizzRodgers27TAM2017,5,42,25-28
+1110,Chris Thompson\ThomCh03,2017,27,5-154,WAS,NFL,10,1,64,294,4.59,2,29.4,Chris Thompson,ChrisThompson27WAS2017,5,49,25-28
+1111,LenDale White\WhitLe01,2009,25,2-45,TEN,NFL,13,0,64,222,3.47,2,17.1,LenDale White,LenDaleWhite25TEN2009,2,123,25-28
+1112,Brandon Bolden\BoldBr00,2015,25,NA,NWE,NFL,15,2,63,207,3.29,0,13.8,Brandon Bolden,BrandonBolden25NWE2015,Undrafted,Undrafted,25-28
+1113,Malcolm Brown\BrowMa03,2017,24,NA,LAR,NFL,11,1,63,246,3.9,1,22.4,Malcolm Brown,MalcolmBrown24LAR2017,Undrafted,Undrafted,< 24
+1114,Michael Bush\BushMi00,2013,29,4-100,CHI,NFL,15,0,63,197,3.13,3,13.1,Michael Bush,MichaelBush29CHI2013,4,3,29-32
+1115,Ki-Jana Carter\CartKi00,2001,28,1-1,WAS,NFL,14,0,63,308,4.89,3,22,Ki-Jana Carter,Ki-JanaCarter28WAS2001,1,1,25-28
+1116,Doug Chapman\ChapDo00,2001,24,3-88,MIN,NFL,16,3,63,195,3.1,0,12.2,Doug Chapman,DougChapman24MIN2001,3,160,< 24
+1117,Justin Forsett\ForsJu00,2012,27,7-233,HOU,NFL,16,0,63,374,5.94,1,23.4,Justin Forsett,JustinForsett27HOU2012,7,92,25-28
+1118,Arian Foster\FostAr00,2015,29,NA,HOU,NFL,4,4,63,163,2.59,1,40.8,Arian Foster,ArianFoster29HOU2015,Undrafted,Undrafted,29-32
+1119,Troy Hambrick\HambTr00,2004,28,NA,ARI,NFL,10,0,63,283,4.49,1,28.3,Troy Hambrick,TroyHambrick28ARI2004,Undrafted,Undrafted,25-28
+1120,Robert Holcombe\HolcRo00,2003,28,2-37,TEN,NFL,15,0,63,201,3.19,1,13.4,Robert Holcombe,RobertHolcombe28TEN2003,2,115,25-28
+1121,Chris Jennings\JennCh00,2009,24,NA,CLE,NFL,9,1,63,220,3.49,1,24.4,Chris Jennings,ChrisJennings24CLE2009,Undrafted,Undrafted,< 24
+1122,Deji Karim\KariDe00,2011,25,6-180,JAX,NFL,12,0,63,130,2.06,0,10.8,Deji Karim,DejiKarim25JAX2011,6,64,25-28
+1123,James Starks\StarJa00,2016,30,6-193,GNB,NFL,9,4,63,145,2.3,0,16.1,James Starks,JamesStarks30GNB2016,6,75,29-32
+1124,Chester Taylor\TaylCh01,2003,24,6-207,BAL,NFL,16,1,63,276,4.38,2,17.3,Chester Taylor,ChesterTaylor24BAL2003,6,82,< 24
+1125,Fred Taylor\TaylFr00,2009,33,1-9,NWE,NFL,6,1,63,269,4.27,4,44.8,Fred Taylor,FredTaylor33NWE2009,1,162,32+
+1126,Stepfan Taylor\TaylSt00,2014,23,5-140,ARI,NFL,14,4,63,208,3.3,1,14.9,Stepfan Taylor,StepfanTaylor23ARI2014,5,39,< 24
+1127,Cadillac Williams\WillCa02,2008,26,1-5,TAM,NFL,6,1,63,233,3.7,4,38.8,Cadillac Williams,CadillacWilliams26TAM2008,1,127,25-28
+1128,Jamaal Williams\WillJa06,2018,23,4-134,GNB,NFL,7,5,63,233,3.7,1,33.3,Jamaal Williams,JamaalWilliams23GNB2018,4,32,< 24
+1129,Correll Buckhalter\BuckCo00,2007,29,4-121,PHI,NFL,14,2,62,313,5.05,4,22.4,Correll Buckhalter,CorrellBuckhalter29PHI2007,4,23,29-32
+1130,T.J. Duckett\DuckT.00,2008,27,1-18,SEA,NFL,16,0,62,172,2.77,8,10.8,T.J. Duckett,T.J.Duckett27SEA2008,1,63,25-28
+1131,Kevin Faulk\FaulKe00,2009,33,2-46,NWE,NFL,15,7,62,335,5.4,2,22.3,Kevin Faulk,KevinFaulk33NWE2009,2,124,32+
+1132,Kevin Faulk\FaulKe00,2007,31,2-46,NWE,NFL,16,8,62,265,4.27,0,16.6,Kevin Faulk,KevinFaulk31NWE2007,2,124,29-32
+1133,Quinton Ganther\GantQu00,2009,25,7-246,WAS,NFL,8,4,62,201,3.24,3,25.1,Quinton Ganther,QuintonGanther25WAS2009,7,100,25-28
+1134,Roy Helu\HeluRo00,2013,25,4-105,WAS,NFL,16,0,62,274,4.42,4,17.1,Roy Helu,RoyHelu25WAS2013,4,8,25-28
+1135,Greg Jones\JoneGr01,2004,23,2-55,JAX,NFL,16,3,62,162,2.61,3,10.1,Greg Jones,GregJones23JAX2004,2,132,< 24
+1136,Robert Kelley\KellRo00,2017,25,NA,WAS,NFL,7,7,62,194,3.13,3,27.7,Robert Kelley,RobertKelley25WAS2017,Undrafted,Undrafted,25-28
+1137,Jeremy Langford\LangJe00,2016,25,4-106,CHI,NFL,12,3,62,200,3.23,4,16.7,Jeremy Langford,JeremyLangford25CHI2016,4,9,25-28
+1138,Mike Tolbert\TolbMi00,2015,30,NA,CAR,NFL,16,3,62,256,4.13,1,16,Mike Tolbert,MikeTolbert30CAR2015,Undrafted,Undrafted,29-32
+1139,Shane Vereen\VereSh00,2012,23,2-56,NWE,NFL,13,1,62,251,4.05,3,19.3,Shane Vereen,ShaneVereen23NWE2012,2,133,< 24
+1140,Terrance West\WestTe00,2015,24,3-94,2TM,NFL,8,0,62,231,3.73,0,28.9,Terrance West,TerranceWest242TM2015,3,165,< 24
+1141,DeAngelo Williams\WillDe02,2014,31,1-27,CAR,NFL,6,6,62,219,3.53,0,36.5,DeAngelo Williams,DeAngeloWilliams31CAR2014,1,106,29-32
+1142,Jason Wright\WrigJa01,2006,24,NA,CLE,NFL,13,3,62,189,3.05,0,14.5,Jason Wright,JasonWright24CLE2006,Undrafted,Undrafted,< 24
+1143,Michael Bennett\BennMi00,2007,29,1-27,2TM,NFL,14,1,61,241,3.95,1,17.2,Michael Bennett,MichaelBennett292TM2007,1,106,29-32
+1144,Ladell Betts\BettLa00,2008,29,2-56,WAS,NFL,13,0,61,206,3.38,1,15.8,Ladell Betts,LadellBetts29WAS2008,2,133,29-32
+1145,Chris Perry\PerrCh00,2005,24,1-26,CIN,NFL,14,2,61,279,4.57,0,19.9,Chris Perry,ChrisPerry24CIN2005,1,105,< 24
+1146,Bernard Scott\ScotBe00,2010,26,6-209,CIN,NFL,16,0,61,299,4.9,1,18.7,Bernard Scott,BernardScott26CIN2010,6,83,25-28
+1147,Darren Sproles\SproDa00,2008,25,4-130,SDG,NFL,16,0,61,330,5.41,1,20.6,Darren Sproles,DarrenSproles25SDG2008,4,30,25-28
+1148,Rodney Thomas\ThomRo00,2000,27,3-89,TEN,NFL,16,0,61,175,2.87,0,10.9,Rodney Thomas,RodneyThomas27TEN2000,3,161,25-28
+1149,Shane Vereen\VereSh00,2015,26,2-56,NYG,NFL,16,0,61,260,4.26,0,16.3,Shane Vereen,ShaneVereen26NYG2015,2,133,25-28
+1150,Lamont Warren\WarrLa00,2001,28,6-164,DET,NFL,16,3,61,191,3.13,3,11.9,Lamont Warren,LamontWarren28DET2001,6,54,25-28
+1151,Brian Westbrook\WestBr00,2009,30,3-91,PHI,NFL,8,7,61,274,4.49,1,34.3,Brian Westbrook,BrianWestbrook30PHI2009,3,163,29-32
+1152,LenDale White\WhitLe01,2006,22,2-45,TEN,NFL,13,0,61,244,4,0,18.8,LenDale White,LenDaleWhite22TEN2006,2,123,< 24
+1153,Selvin Young\YounSe00,2008,25,NA,DEN,NFL,8,5,61,303,4.97,1,37.9,Selvin Young,SelvinYoung25DEN2008,Undrafted,Undrafted,25-28
+1154,Mike Alstott\AlstMi00,2006,33,2-35,TAM,NFL,16,15,60,171,2.85,3,10.7,Mike Alstott,MikeAlstott33TAM2006,2,113,32+
+1155,LeGarrette Blount\BlouLe00,2018,32,NA,DET,NFL,7,3,60,170,2.83,3,24.3,LeGarrette Blount,LeGarretteBlount32DET2018,Undrafted,Undrafted,29-32
+1156,Zack Crockett\CrocZa00,2005,33,3-79,OAK,NFL,16,10,60,208,3.47,1,13,Zack Crockett,ZackCrockett33OAK2005,3,152,32+
+1157,Najeh Davenport\DaveNa00,2006,27,4-135,PIT,NFL,13,0,60,221,3.68,1,17,Najeh Davenport,NajehDavenport27PIT2006,4,33,25-28
+1158,Kenneth Farrow\FarrKe02,2016,23,NA,SDG,NFL,13,2,60,192,3.2,0,14.8,Kenneth Farrow,KennethFarrow23SDG2016,Undrafted,Undrafted,< 24
+1159,Tony Fisher\FishTo00,2005,26,NA,GNB,NFL,14,4,60,173,2.88,1,12.4,Tony Fisher,TonyFisher26GNB2005,Undrafted,Undrafted,25-28
+1160,Mike James\JameMi00,2013,22,6-189,TAM,NFL,8,3,60,295,4.92,0,36.9,Mike James,MikeJames22TAM2013,6,70,< 24
+1161,Julius Jones\JoneJu01,2010,29,2-43,2TM,NFL,12,2,60,223,3.72,0,18.6,Julius Jones,JuliusJones292TM2010,2,121,29-32
+1162,William Powell\PoweWi00,2012,24,NA,ARI,NFL,13,1,60,217,3.62,0,16.7,William Powell,WilliamPowell24ARI2012,Undrafted,Undrafted,< 24
+1163,Wendell Smallwood\SmalWe00,2018,24,5-153,PHI,NFL,8,4,60,257,4.28,1,32.1,Wendell Smallwood,WendellSmallwood24PHI2018,5,48,< 24
+1164,Jason Wright\WrigJa01,2007,25,NA,CLE,NFL,16,1,60,277,4.62,1,17.3,Jason Wright,JasonWright25CLE2007,Undrafted,Undrafted,25-28
+1165,Tavon Austin\AustTa00,2017,27,1-8,LAR,NFL,16,9,59,270,4.58,1,16.9,Tavon Austin,TavonAustin27LAR2017,1,153,25-28
+1166,Donald Brown\BrowDo00,2015,28,1-27,SDG,NFL,9,2,59,229,3.88,1,25.4,Donald Brown,DonaldBrown28SDG2015,1,106,25-28
+1167,Correll Buckhalter\BuckCo00,2010,32,4-121,DEN,NFL,15,0,59,147,2.49,2,9.8,Correll Buckhalter,CorrellBuckhalter32DEN2010,4,23,29-32
+1168,Shaun Draughn\DrauSh00,2012,25,NA,KAN,NFL,16,0,59,233,3.95,2,14.6,Shaun Draughn,ShaunDraughn25KAN2012,Undrafted,Undrafted,25-28
+1169,DeShaun Foster\FostDe00,2004,24,2-34,CAR,NFL,4,3,59,255,4.32,2,63.8,DeShaun Foster,DeShaunFoster24CAR2004,2,112,< 24
+1170,Maurice Hicks\HickMa00,2005,27,NA,SFO,NFL,14,3,59,308,5.22,3,22,Maurice Hicks,MauriceHicks27SFO2005,Undrafted,Undrafted,25-28
+1171,Travis Minor\MinoTr00,2001,22,3-85,MIA,NFL,16,0,59,281,4.76,2,17.6,Travis Minor,TravisMinor22MIA2001,3,158,< 24
+1172,Marcel Reece\ReecMa00,2012,27,NA,OAK,NFL,16,14,59,271,4.59,0,16.9,Marcel Reece,MarcelReece27OAK2012,Undrafted,Undrafted,25-28
+1173,Javon Ringer\RingJa00,2011,24,5-173,TEN,NFL,12,0,59,185,3.14,1,15.4,Javon Ringer,JavonRinger24TEN2011,5,59,< 24
+1174,Ryan Torain\ToraRy00,2011,25,5-139,WAS,NFL,8,4,59,200,3.39,1,25,Ryan Torain,RyanTorain25WAS2011,5,37,25-28
+1175,Fred Jackson\JackFr02,2007,26,NA,BUF,NFL,8,1,58,300,5.17,0,37.5,Fred Jackson,FredJackson26BUF2007,Undrafted,Undrafted,25-28
+1176,Brandon Jacobs\JacoBr00,2013,31,4-110,NYG,NFL,7,1,58,238,4.1,4,34,Brandon Jacobs,BrandonJacobs31NYG2013,4,14,29-32
+1177,Stanley Pritchett\PritSt00,2000,27,4-118,PHI,NFL,16,2,58,225,3.88,1,14.1,Stanley Pritchett,StanleyPritchett27PHI2000,4,20,25-28
+1178,Thomas Rawls\RawlTh00,2017,24,NA,SEA,NFL,12,3,58,157,2.71,0,13.1,Thomas Rawls,ThomasRawls24SEA2017,Undrafted,Undrafted,< 24
+1179,Jacquizz Rodgers\RodgJa00,2014,24,5-145,ATL,NFL,16,1,58,217,3.74,1,13.6,Jacquizz Rodgers,JacquizzRodgers24ATL2014,5,42,< 24
+1180,Aaron Stecker\StecAa00,2004,29,NA,NOR,NFL,16,3,58,244,4.21,2,15.3,Aaron Stecker,AaronStecker29NOR2004,Undrafted,Undrafted,29-32
+1181,Darius Walker\WalkDa00,2007,22,NA,HOU,NFL,4,2,58,264,4.55,1,66,Darius Walker,DariusWalker22HOU2007,Undrafted,Undrafted,< 24
+1182,Keiland Williams\WillKe03,2011,25,NA,DET,NFL,15,0,58,195,3.36,2,13,Keiland Williams,KeilandWilliams25DET2011,Undrafted,Undrafted,25-28
+1183,Ryan Williams\WillRy00,2012,22,2-38,ARI,NFL,5,3,58,164,2.83,0,32.8,Ryan Williams,RyanWilliams22ARI2012,2,116,< 24
+1184,Richie Anderson\AndeRi00,2004,33,6-144,DAL,NFL,12,4,57,246,4.32,1,20.5,Richie Anderson,RichieAnderson33DAL2004,6,41,32+
+1185,Tashard Choice\ChoiTa00,2011,27,4-122,3TM,NFL,13,1,57,152,2.67,1,11.7,Tashard Choice,TashardChoice273TM2011,4,24,25-28
+1186,Zack Crockett\CrocZa00,2001,29,3-79,OAK,NFL,16,0,57,145,2.54,6,9.1,Zack Crockett,ZackCrockett29OAK2001,3,152,29-32
+1187,Olandis Gary\GaryOl00,2001,26,4-127,DEN,NFL,9,1,57,228,4,1,25.3,Olandis Gary,OlandisGary26DEN2001,4,27,25-28
+1188,Artose Pinner\PinnAr00,2004,26,4-99,DET,NFL,9,2,57,174,3.05,2,19.3,Artose Pinner,ArtosePinner26DET2004,4,169,25-28
+1189,Jacquizz Rodgers\RodgJa00,2011,21,5-145,ATL,NFL,16,0,57,205,3.6,1,12.8,Jacquizz Rodgers,JacquizzRodgers21ATL2011,5,42,< 24
+1190,Darren Sproles\SproDa00,2014,31,4-130,PHI,NFL,15,0,57,329,5.77,6,21.9,Darren Sproles,DarrenSproles31PHI2014,4,30,29-32
+1191,Michael Turner\TurnMi00,2005,23,5-154,SDG,NFL,16,0,57,335,5.88,3,20.9,Michael Turner,MichaelTurner23SDG2005,5,49,< 24
+1192,DeAndre Washington\WashDe00,2017,24,5-143,OAK,NFL,15,0,57,153,2.68,2,10.2,DeAndre Washington,DeAndreWashington24OAK2017,5,40,< 24
+1193,Fozzy Whittaker\WhitFo00,2016,27,NA,CAR,NFL,16,0,57,265,4.65,0,16.6,Fozzy Whittaker,FozzyWhittaker27CAR2016,Undrafted,Undrafted,25-28
+1194,Brandon Bennett\BennBr00,2003,30,NA,CIN,NFL,16,0,56,173,3.09,0,10.8,Brandon Bennett,BrandonBennett30CIN2003,Undrafted,Undrafted,29-32
+1195,Ladell Betts\BettLa00,2009,30,2-56,WAS,NFL,10,2,56,210,3.75,2,21,Ladell Betts,LadellBetts30WAS2009,2,133,29-32
+1196,Brandon Bolden\BoldBr00,2012,22,NA,NWE,NFL,10,0,56,274,4.89,2,27.4,Brandon Bolden,BrandonBolden22NWE2012,Undrafted,Undrafted,< 24
+1197,Chris Brown\BrowCh03,2003,22,3-93,TEN,NFL,11,0,56,221,3.95,0,20.1,Chris Brown,ChrisBrown22TEN2003,3,164,< 24
+1198,Samkon Gado\GadoSa00,2006,24,NA,2TM,NFL,9,1,56,210,3.75,1,23.3,Samkon Gado,SamkonGado242TM2006,Undrafted,Undrafted,< 24
+1199,Jonathan Grimes\GrimJo01,2015,26,NA,HOU,NFL,14,0,56,282,5.04,1,20.1,Jonathan Grimes,JonathanGrimes26HOU2015,Undrafted,Undrafted,25-28
+1200,Skip Hicks\HickSk00,2001,27,3-69,TEN,NFL,9,0,56,341,6.09,1,37.9,Skip Hicks,SkipHicks27TEN2001,3,144,25-28
+1201,Jalen Richard\RichJa01,2017,24,NA,OAK,NFL,16,1,56,275,4.91,1,17.2,Jalen Richard,JalenRichard24OAK2017,Undrafted,Undrafted,< 24
+1202,Khiry Robinson\RobiKh00,2015,26,NA,NOR,NFL,8,0,56,180,3.21,4,22.5,Khiry Robinson,KhiryRobinson26NOR2015,Undrafted,Undrafted,25-28
+1203,Evan Royster\RoysEv00,2011,24,6-177,WAS,NFL,6,2,56,328,5.86,0,54.7,Evan Royster,EvanRoyster24WAS2011,6,61,< 24
+1204,Lee Suggs\SuggLe00,2003,23,4-115,CLE,NFL,7,0,56,289,5.16,2,41.3,Lee Suggs,LeeSuggs23CLE2003,4,18,< 24
+1205,Jamal Anderson\AndeJa00,2001,29,7-201,ATL,NFL,3,3,55,190,3.45,1,63.3,Jamal Anderson,JamalAnderson29ATL2001,7,80,29-32
+1206,Montee Ball\BallMo00,2014,24,2-58,DEN,NFL,5,3,55,172,3.13,1,34.4,Montee Ball,MonteeBall24DEN2014,2,135,< 24
+1207,Peyton Barber\BarbPe01,2016,22,NA,TAM,NFL,15,1,55,223,4.05,1,14.9,Peyton Barber,PeytonBarber22TAM2016,Undrafted,Undrafted,< 24
+1208,Brandon Bolden\BoldBr00,2013,23,NA,NWE,NFL,12,2,55,271,4.93,3,22.6,Brandon Bolden,BrandonBolden23NWE2013,Undrafted,Undrafted,< 24
+1209,Verron Haynes\HaynVe00,2004,25,5-166,PIT,NFL,13,0,55,272,4.95,0,20.9,Verron Haynes,VerronHaynes25PIT2004,5,55,25-28
+1210,Ronnie Hillman\HillRo00,2013,22,3-67,DEN,NFL,10,0,55,218,3.96,1,21.8,Ronnie Hillman,RonnieHillman22DEN2013,3,143,< 24
+1211,Dexter McCluster\McClDe00,2015,26,2-36,TEN,NFL,11,2,55,247,4.49,1,22.5,Dexter McCluster,DexterMcCluster26TEN2015,2,114,25-28
+1212,Ryan Moats\MoatRy00,2005,23,3-77,PHI,NFL,7,1,55,278,5.05,3,39.7,Ryan Moats,RyanMoats23PHI2005,3,151,< 24
+1213,Rod Smith\SmitRo06,2017,25,NA,DAL,NFL,15,1,55,232,4.22,4,15.5,Rod Smith,RodSmith25DAL2017,Undrafted,Undrafted,25-28
+1214,KaRon Coleman\ColeKa00,2000,22,NA,DEN,NFL,9,0,54,183,3.39,1,20.3,KaRon Coleman,KaRonColeman22DEN2000,Undrafted,Undrafted,< 24
+1215,Kevin Faulk\FaulKe00,2004,28,2-46,NWE,NFL,11,1,54,255,4.72,2,23.2,Kevin Faulk,KevinFaulk28NWE2004,2,124,25-28
+1216,Arian Foster\FostAr00,2009,23,NA,HOU,NFL,6,1,54,257,4.76,3,42.8,Arian Foster,ArianFoster23HOU2009,Undrafted,Undrafted,< 24
+1217,Lamar Gordon\GordLa00,2005,25,3-84,PHI,NFL,14,4,54,182,3.37,1,13,Lamar Gordon,LamarGordon25PHI2005,3,157,25-28
+1218,Stacey Mack\MackSt00,2000,25,NA,JAX,NFL,6,2,54,145,2.69,1,24.2,Stacey Mack,StaceyMack25JAX2000,Undrafted,Undrafted,25-28
+1219,Christine Michael\MichCh00,2015,25,2-62,2TM,NFL,8,2,54,243,4.5,0,30.4,Christine Michael,ChristineMichael252TM2015,2,139,25-28
+1220,Patrick Pass\PassPa00,2005,28,7-239,NWE,NFL,12,4,54,245,4.54,3,20.4,Patrick Pass,PatrickPass28NWE2005,7,95,25-28
+1221,Clinton Portis\PortCl00,2010,29,2-51,WAS,NFL,5,5,54,227,4.2,2,45.4,Clinton Portis,ClintonPortis29WAS2010,2,128,29-32
+1222,Joseph Randle\RandJo01,2013,22,5-151,DAL,NFL,13,2,54,164,3.04,2,12.6,Joseph Randle,JosephRandle22DAL2013,5,47,< 24
+1223,Khiry Robinson\RobiKh00,2013,24,NA,NOR,NFL,10,0,54,224,4.15,1,22.4,Khiry Robinson,KhiryRobinson24NOR2013,Undrafted,Undrafted,< 24
+1224,Juwan Thompson\ThomJu01,2014,20,NA,DEN,NFL,15,0,54,272,5.04,3,18.1,Juwan Thompson,JuwanThompson20DEN2014,Undrafted,Undrafted,< 24
+1225,Mike Tolbert\TolbMi00,2012,27,NA,CAR,NFL,16,5,54,183,3.39,7,11.4,Mike Tolbert,MikeTolbert27CAR2012,Undrafted,Undrafted,25-28
+1226,Justin Watson\WatsJu00,2000,25,NA,STL,NFL,14,2,54,249,4.61,4,17.8,Justin Watson,JustinWatson25STL2000,Undrafted,Undrafted,25-28
+1227,Cadillac Williams\WillCa02,2007,25,1-5,TAM,NFL,4,4,54,208,3.85,3,52,Cadillac Williams,CadillacWilliams25TAM2007,1,127,25-28
+1228,Tim Biakabutuka\BiakTi00,2001,27,1-8,CAR,NFL,5,4,53,230,4.34,1,46,Tim Biakabutuka,TimBiakabutuka27CAR2001,1,153,25-28
+1229,Ron Dayne\DaynRo00,2005,27,1-11,DEN,NFL,10,0,53,270,5.09,1,27,Ron Dayne,RonDayne27DEN2005,1,13,25-28
+1230,Austin Ekeler\EkelAu00,2018,23,NA,LAC,NFL,7,1,53,305,5.75,0,43.6,Austin Ekeler,AustinEkeler23LAC2018,Undrafted,Undrafted,< 24
+1231,Samkon Gado\GadoSa00,2007,25,NA,2TM,NFL,8,2,53,150,2.83,4,18.8,Samkon Gado,SamkonGado252TM2007,Undrafted,Undrafted,25-28
+1232,Dominic Rhodes\RhodDo00,2004,25,NA,IND,NFL,16,0,53,254,4.79,1,15.9,Dominic Rhodes,DominicRhodes25IND2004,Undrafted,Undrafted,25-28
+1233,Darren Sproles\SproDa00,2013,30,4-130,NOR,NFL,15,4,53,220,4.15,2,14.7,Darren Sproles,DarrenSproles30NOR2013,4,30,29-32
+1234,LaBrandon Toefield\ToefLa00,2003,23,4-132,JAX,NFL,16,0,53,212,4,2,13.3,LaBrandon Toefield,LaBrandonToefield23JAX2003,4,31,< 24
+1235,Leon Washington\WashLe00,2011,29,4-117,SEA,NFL,16,1,53,248,4.68,1,15.5,Leon Washington,LeonWashington29SEA2011,4,19,29-32
+1236,Kerwynn Williams\WillKe05,2014,23,7-230,ARI,NFL,5,0,53,246,4.64,0,49.2,Kerwynn Williams,KerwynnWilliams23ARI2014,7,91,< 24
+1237,Nick Chubb\ChubNi00,2018,23,NA,CLE,NFL,8,1,52,318,6.12,3,39.8,Nick Chubb,NickChubb23CLE2018,Undrafted,Undrafted,< 24
+1238,David Cobb\CobbDa00,2015,22,5-138,TEN,NFL,7,1,52,146,2.81,1,20.9,David Cobb,DavidCobb22TEN2015,5,36,< 24
+1239,Mike Davis\DaviMi01,2018,25,4-126,SEA,NFL,6,1,52,226,4.35,3,37.7,Mike Davis,MikeDavis25SEA2018,4,26,25-28
+1240,Ron Dayne\DaynRo00,2004,26,1-11,NYG,NFL,14,2,52,179,3.44,1,12.8,Ron Dayne,RonDayne26NYG2004,1,13,25-28
+1241,Heath Evans\EvanHe00,2005,27,3-82,2TM,NFL,12,3,52,192,3.69,0,16,Heath Evans,HeathEvans272TM2005,3,156,25-28
+1242,Kevin Faulk\FaulKe00,2002,26,2-46,NWE,NFL,15,0,52,271,5.21,2,18.1,Kevin Faulk,KevinFaulk26NWE2002,2,124,25-28
+1243,Nyheim Hines\HineNy00,2018,22,NA,IND,NFL,8,2,52,238,4.58,1,29.8,Nyheim Hines,NyheimHines22IND2018,Undrafted,Undrafted,< 24
+1244,Jerick McKinnon\McKiJe00,2015,23,3-96,MIN,NFL,16,0,52,271,5.21,2,16.9,Jerick McKinnon,JerickMcKinnon23MIN2015,3,167,< 24
+1245,Isaac Redman\RedmIs20,2010,26,NA,PIT,NFL,16,0,52,247,4.75,0,15.4,Isaac Redman,IsaacRedman26PIT2010,Undrafted,Undrafted,25-28
+1246,Pierre Thomas\ThomPi00,2007,23,NA,NOR,NFL,12,1,52,252,4.85,1,21,Pierre Thomas,PierreThomas23NOR2007,Undrafted,Undrafted,< 24
+1247,Jordan Wilkins\WilkJo01,2018,24,NA,IND,NFL,8,3,52,235,4.52,0,29.4,Jordan Wilkins,JordanWilkins24IND2018,Undrafted,Undrafted,< 24
+1248,Marc Edwards\EdwaMa00,2001,27,2-55,NWE,NFL,16,13,51,141,2.76,1,8.8,Marc Edwards,MarcEdwards27NWE2001,2,132,25-28
+1249,Kevin Faulk\FaulKe00,2005,29,2-46,NWE,NFL,8,2,51,145,2.84,0,18.1,Kevin Faulk,KevinFaulk29NWE2005,2,124,29-32
+1250,Ben Gay\GayxBe00,2001,21,NA,CLE,NFL,16,0,51,172,3.37,1,10.8,Ben Gay,BenGay21CLE2001,Undrafted,Undrafted,< 24
+1251,Rashard Mendenhall\MendRa00,2012,25,1-23,PIT,NFL,6,4,51,182,3.57,0,30.3,Rashard Mendenhall,RashardMendenhall25PIT2012,1,90,25-28
+1252,Lamar Miller\MillLa01,2012,21,4-97,MIA,NFL,13,1,51,250,4.9,1,19.2,Lamar Miller,LamarMiller21MIA2012,4,168,< 24
+1253,Joseph Randle\RandJo01,2014,23,5-151,DAL,NFL,16,0,51,343,6.73,3,21.4,Joseph Randle,JosephRandle23DAL2014,5,47,< 24
+1254,Javon Ringer\RingJa00,2010,23,5-173,TEN,NFL,16,0,51,239,4.69,2,14.9,Javon Ringer,JavonRinger23TEN2010,5,59,< 24
+1255,Charles Sims\SimsCh00,2016,26,3-69,TAM,NFL,7,2,51,149,2.92,1,21.3,Charles Sims,CharlesSims26TAM2016,3,144,25-28
+1256,LaBrandon Toefield\ToefLa00,2004,24,4-132,JAX,NFL,14,0,51,169,3.31,0,12.1,LaBrandon Toefield,LaBrandonToefield24JAX2004,4,31,< 24
+1257,Fred Beasley\BeasFr00,2000,26,6-180,SFO,NFL,15,15,50,147,2.94,3,9.8,Fred Beasley,FredBeasley26SFO2000,6,64,25-28
+1258,Brandon Bennett\BennBr00,2001,28,NA,CIN,NFL,16,1,50,232,4.64,0,14.5,Brandon Bennett,BrandonBennett28CIN2001,Undrafted,Undrafted,25-28
+1259,Shawn Bryson\BrysSh00,2004,28,3-86,DET,NFL,16,1,50,264,5.28,0,16.5,Shawn Bryson,ShawnBryson28DET2004,3,159,25-28
+1260,Corey Clement\ClemCo00,2018,24,NA,PHI,NFL,6,0,50,167,3.34,2,27.8,Corey Clement,CoreyClement24PHI2018,Undrafted,Undrafted,< 24
+1261,Brock Forsey\ForsBr00,2003,23,6-206,CHI,NFL,9,2,50,191,3.82,2,21.2,Brock Forsey,BrockForsey23CHI2003,6,81,< 24
+1262,Toby Gerhart\GerhTo00,2012,25,2-51,MIN,NFL,16,0,50,169,3.38,1,10.6,Toby Gerhart,TobyGerhart25MIN2012,2,128,25-28
+1263,Nick Goings\GoinNi00,2002,24,NA,CAR,NFL,14,2,50,188,3.76,0,13.4,Nick Goings,NickGoings24CAR2002,Undrafted,Undrafted,< 24
+1264,J.J. Johnson\JohnJ.00,2000,26,2-39,MIA,NFL,13,1,50,168,3.36,1,12.9,J.J. Johnson,J.J.Johnson26MIA2000,2,117,25-28
+1265,Michael Pittman\PittMi00,2006,31,4-95,TAM,NFL,16,3,50,245,4.9,1,15.3,Michael Pittman,MichaelPittman31TAM2006,4,166,29-32
+1266,Darren Sproles\SproDa00,2010,27,4-130,SDG,NFL,16,3,50,267,5.34,0,16.7,Darren Sproles,DarrenSproles27SDG2010,4,30,25-28
+1267,Robert Turbin\TurbRo00,2015,26,4-106,2TM,NFL,10,0,50,199,3.98,1,19.9,Robert Turbin,RobertTurbin262TM2015,4,9,25-28
+1268,Derrick Ward\WardDe01,2010,30,7-235,HOU,NFL,16,0,50,315,6.3,4,19.7,Derrick Ward,DerrickWard30HOU2010,7,93,29-32
+1269,DeShawn Wynn\WynnDe00,2007,24,7-228,GNB,NFL,7,4,50,203,4.06,4,29,DeShawn Wynn,DeShawnWynn24GNB2007,7,88,< 24
+1270,Jay Ajayi\AjayJa00,2015,22,5-149,MIA,NFL,9,0,49,187,3.82,1,20.8,Jay Ajayi,JayAjayi22MIA2015,5,44,< 24
+1271,Chris Carson\CarsCh00,2017,23,7-249,SEA,NFL,4,3,49,208,4.24,0,52,Chris Carson,ChrisCarson23SEA2017,7,101,< 24
+1272,Mike Cloud\ClouMi00,2002,27,2-54,KAN,NFL,14,2,49,115,2.35,2,8.2,Mike Cloud,MikeCloud27KAN2002,2,131,25-28
+1273,Jonathan Dwyer\DwyeJo00,2013,24,6-188,PIT,NFL,15,0,49,197,4.02,0,13.1,Jonathan Dwyer,JonathanDwyer24PIT2013,6,69,< 24
+1274,Arlen Harris\HarrAr00,2006,26,NA,DET,NFL,10,3,49,158,3.22,1,15.8,Arlen Harris,ArlenHarris26DET2006,Undrafted,Undrafted,25-28
+1275,Dennis Johnson\JohnDe02,2013,23,NA,HOU,NFL,8,1,49,183,3.73,0,22.9,Dennis Johnson,DennisJohnson23HOU2013,Undrafted,Undrafted,< 24
+1276,Dion Lewis\LewiDi00,2015,25,5-149,NWE,NFL,7,6,49,234,4.78,2,33.4,Dion Lewis,DionLewis25NWE2015,5,44,25-28
+1277,Chris Ogbonnaya\OgboCh00,2013,27,7-211,CLE,NFL,16,7,49,240,4.9,0,15,Chris Ogbonnaya,ChrisOgbonnaya27CLE2013,7,85,25-28
+1278,Cory Schlesinger\SchlCo00,2002,30,6-192,DET,NFL,16,14,49,139,2.84,2,8.7,Cory Schlesinger,CorySchlesinger30DET2002,6,74,29-32
+1279,T.J. Yeldon\YeldT.00,2017,24,2-36,JAX,NFL,10,0,49,253,5.16,2,25.3,T.J. Yeldon,T.J.Yeldon24JAX2017,2,114,< 24
+1280,Zack Crockett\CrocZa00,2003,31,3-79,OAK,NFL,16,7,48,145,3.02,7,9.1,Zack Crockett,ZackCrockett31OAK2003,3,152,29-32
+1281,Zack Crockett\CrocZa00,2004,32,3-79,OAK,NFL,16,9,48,232,4.83,2,14.5,Zack Crockett,ZackCrockett32OAK2004,3,152,29-32
+1282,DuJuan Harris\HarrDu01,2015,27,NA,2TM,NFL,4,1,48,189,3.94,0,47.3,DuJuan Harris,DuJuanHarris272TM2015,Undrafted,Undrafted,25-28
+1283,Noah Herron\HerrNo00,2005,23,7-244,2TM,NFL,7,0,48,123,2.56,2,17.6,Noah Herron,NoahHerron232TM2005,7,99,< 24
+1284,Felix Jones\JoneFe00,2013,26,1-22,PIT,NFL,16,2,48,184,3.83,0,11.5,Felix Jones,FelixJones26PIT2013,1,86,25-28
+1285,Chad Morton\MortCh00,2003,26,5-166,WAS,NFL,15,2,48,216,4.5,0,14.4,Chad Morton,ChadMorton26WAS2003,5,55,25-28
+1286,Darren Sproles\SproDa00,2012,29,4-130,NOR,NFL,13,6,48,244,5.08,1,18.8,Darren Sproles,DarrenSproles29NOR2012,4,30,29-32
+1287,Jonathan Stewart\StewJo00,2013,26,1-13,CAR,NFL,6,1,48,180,3.75,0,30,Jonathan Stewart,JonathanStewart26CAR2013,1,29,25-28
+1288,James White\WhitJa02,2018,26,4-130,NWE,NFL,8,1,48,204,4.25,2,25.5,James White,JamesWhite26NWE2018,4,30,25-28
+1289,Ricky Williams\WillRi01,2003,25,NA,IND,NFL,13,4,48,155,3.23,2,11.9,Ricky Williams,RickyWilliams25IND2003,Undrafted,Undrafted,25-28
+1290,Mike Bell\BellMi00,2010,27,NA,2TM,NFL,16,1,47,99,2.11,0,6.2,Mike Bell,MikeBell272TM2010,Undrafted,Undrafted,25-28
+1291,Tashard Choice\ChoiTa00,2012,28,4-122,BUF,NFL,12,0,47,193,4.11,1,16.1,Tashard Choice,TashardChoice28BUF2012,4,24,25-28
+1292,Benny Cunningham\CunnBe01,2013,23,NA,STL,NFL,14,0,47,261,5.55,1,18.6,Benny Cunningham,BennyCunningham23STL2013,Undrafted,Undrafted,< 24
+1293,Austin Ekeler\EkelAu00,2017,22,NA,LAC,NFL,16,0,47,260,5.53,2,16.3,Austin Ekeler,AustinEkeler22LAC2017,Undrafted,Undrafted,< 24
+1294,Mike Gillislee\GillMi00,2015,25,5-164,BUF,NFL,5,1,47,267,5.68,3,53.4,Mike Gillislee,MikeGillislee25BUF2015,5,54,25-28
+1295,Robert Holcombe\HolcRo00,2002,27,2-37,TEN,NFL,8,0,47,242,5.15,0,30.3,Robert Holcombe,RobertHolcombe27TEN2002,2,115,25-28
+1296,Brian Leonard\LeonBr00,2013,29,2-52,TAM,NFL,16,1,47,182,3.87,0,11.4,Brian Leonard,BrianLeonard29TAM2013,2,129,29-32
+1297,Bishop Sankey\SankBi00,2015,23,2-54,TEN,NFL,13,3,47,193,4.11,1,14.8,Bishop Sankey,BishopSankey23TEN2015,2,131,< 24
+1298,Cory Schlesinger\SchlCo00,2001,29,6-192,DET,NFL,16,13,47,154,3.28,3,9.6,Cory Schlesinger,CorySchlesinger29DET2001,6,74,29-32
+1299,Wendell Smallwood\SmalWe00,2017,23,5-153,PHI,NFL,8,3,47,174,3.7,1,21.8,Wendell Smallwood,WendellSmallwood23PHI2017,5,48,< 24
+1300,Robert Turbin\TurbRo00,2016,27,4-106,IND,NFL,15,0,47,164,3.49,7,10.9,Robert Turbin,RobertTurbin27IND2016,4,9,25-28

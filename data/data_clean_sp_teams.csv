@@ -1,0 +1,1451 @@
+Rk,Player,Year,Age,Draft,Tm,Lg,G,GS,name,key,Round,Pick,ageGroup
+1,Bradley Pinion\PiniBr00,2015,21,5-165,SFO,NFL,16,0,Bradley Pinion,BradleyPinion21SFO2015,7,20,< 24
+2,Roberto Aguayo\AguaRo00,2016,22,2-59,TAM,NFL,16,0,Roberto Aguayo,RobertoAguayo22TAM2016,4,66,< 24
+3,Connor Barth\barthco01,2008,22,NA,KAN,NFL,10,0,Connor Barth,ConnorBarth22KAN2008,Undrafted,Undrafted,< 24
+4,Corey Bojorquez\BojoCo00,2018,22,NA,BUF,NFL,8,0,Corey Bojorquez,CoreyBojorquez22BUF2018,Undrafted,Undrafted,< 24
+5,Kyle Brindza\BrinKy00,2015,22,NA,TAM,NFL,4,0,Kyle Brindza,KyleBrindza22TAM2015,Undrafted,Undrafted,< 24
+6,David Buehler\BuehDa44,2009,22,5-172,DAL,NFL,16,0,David Buehler,DavidBuehler22DAL2009,7,26,< 24
+7,Harrison Butker\ButkHa00,2017,22,7-233,KAN,NFL,13,0,Harrison Butker,HarrisonButker22KAN2017,9,55,< 24
+8,Billy Cundiff\cundibil01,2002,22,NA,DAL,NFL,16,0,Billy Cundiff,BillyCundiff22DAL2002,Undrafted,Undrafted,< 24
+9,Michael Dickson\DickMi00,2018,22,NA,SEA,NFL,7,0,Michael Dickson,MichaelDickson22SEA2018,Undrafted,Undrafted,< 24
+10,Paul Edinger\edingpau01,2000,22,6-174,CHI,NFL,16,0,Paul Edinger,PaulEdinger22CHI2000,8,27,< 24
+11,Jake Elliott\ElliJa03,2017,22,5-153,PHI,NFL,15,0,Jake Elliott,JakeElliott22PHI2017,7,15,< 24
+12,Hayden Epstein\epstehay01,2002,22,7-247,2TM,NFL,15,0,Hayden Epstein,HaydenEpstein222TM2002,9,58,< 24
+13,Andrew Franks\FranAn01,2015,22,NA,MIA,NFL,16,0,Andrew Franks,AndrewFranks22MIA2015,Undrafted,Undrafted,< 24
+14,Graham Gano\GanoGr44,2009,22,NA,WAS,NFL,4,0,Graham Gano,GrahamGano22WAS2009,Undrafted,Undrafted,< 24
+15,Zane Gonzalez\GonzZa00,2017,22,7-224,CLE,NFL,16,0,Zane Gonzalez,ZaneGonzalez22CLE2017,9,50,< 24
+16,Stephen Gostkowski\GostSt20,2006,22,4-118,NWE,NFL,16,0,Stephen Gostkowski,StephenGostkowski22NWE2006,6,6,< 24
+17,Garrett Hartley\HartGa00,2008,22,NA,NOR,NFL,8,0,Garrett Hartley,GarrettHartley22NOR2008,Undrafted,Undrafted,< 24
+18,Johnny Hekker\HekkJo00,2012,22,NA,STL,NFL,16,0,Johnny Hekker,JohnnyHekker22STL2012,Undrafted,Undrafted,< 24
+19,Chas Henry\HenrCh02,2011,22,NA,PHI,NFL,16,0,Chas Henry,ChasHenry22PHI2011,Undrafted,Undrafted,< 24
+20,Sebastian Janikowski\janikseb01,2000,22,1-17,OAK,NFL,14,0,Sebastian Janikowski,SebastianJanikowski22OAK2000,1,24,< 24
+21,Eddie Johnson\JohnEd22,2003,22,6-180,MIN,NFL,14,0,Eddie Johnson,EddieJohnson22MIN2003,8,32,< 24
+22,Chris Jones\JoneCh02,2011,22,NA,DAL,NFL,2,0,Chris Jones,ChrisJones22DAL2011,Undrafted,Undrafted,< 24
+23,Nate Kaeding\kaedinat01,2004,22,3-65,SDG,NFL,16,0,Nate Kaeding,NateKaeding22SDG2004,5,69,< 24
+24,Brett Kern\KernBr20,2008,22,NA,DEN,NFL,16,0,Brett Kern,BrettKern22DEN2008,Undrafted,Undrafted,< 24
+25,Andy Lee\LeexAn20,2004,22,6-188,SFO,NFL,16,0,Andy Lee,AndyLee22SFO2004,8,34,< 24
+26,Wil Lutz\LutzWi00,2016,22,NA,NOR,NFL,16,0,Wil Lutz,WilLutz22NOR2016,Undrafted,Undrafted,< 24
+27,Robert Malone\MaloRo00,2010,22,NA,TAM,NFL,12,0,Robert Malone,RobertMalone22TAM2010,Undrafted,Undrafted,< 24
+28,Seth Marler\marleset01,2003,22,NA,JAX,NFL,16,0,Seth Marler,SethMarler22JAX2003,Undrafted,Undrafted,< 24
+29,Pat McAfee\McAfPa44,2009,22,7-222,IND,NFL,16,0,Pat McAfee,PatMcAfee22IND2009,9,48,< 24
+30,Cody Parkey\ParkCo03,2014,22,NA,PHI,NFL,16,0,Cody Parkey,CodyParkey22PHI2014,Undrafted,Undrafted,< 24
+31,Bradley Pinion\PiniBr00,2016,22,5-165,SFO,NFL,16,0,Bradley Pinion,BradleyPinion22SFO2016,7,20,< 24
+32,Ryan Plackemeier\PlacRy20,2006,22,7-239,SEA,NFL,16,0,Ryan Plackemeier,RyanPlackemeier22SEA2006,9,57,< 24
+33,Josh Scobee\scobejos01,2004,22,5-137,JAX,NFL,16,0,Josh Scobee,JoshScobee22JAX2004,7,9,< 24
+34,JK Scott\ScotJK00,2018,22,NA,GNB,NFL,7,0,JK Scott,JKScott22GNB2018,Undrafted,Undrafted,< 24
+35,Blair Walsh\WalsBl00,2012,22,6-175,MIN,NFL,16,0,Blair Walsh,BlairWalsh22MIN2012,8,28,< 24
+36,Ryan Allen\AlleRy01,2013,23,NA,NWE,NFL,16,0,Ryan Allen,RyanAllen23NWE2013,Undrafted,Undrafted,< 24
+37,Jake Arians\arianjak01,2001,23,NA,BUF,NFL,10,0,Jake Arians,JakeArians23BUF2001,Undrafted,Undrafted,< 24
+38,Mike Badgley\BadgMi00,2018,23,NA,LAC,NFL,2,0,Mike Badgley,MikeBadgley23LAC2018,Undrafted,Undrafted,< 24
+39,Dan Bailey\BailDa00,2011,23,NA,DAL,NFL,16,0,Dan Bailey,DanBailey23DAL2011,Undrafted,Undrafted,< 24
+40,Jason Baker\BakeJa20,2001,23,NA,SFO,NFL,16,0,Jason Baker,JasonBaker23SFO2001,Undrafted,Undrafted,< 24
+41,John Baker\BakeJo21,2000,23,NA,STL,NFL,15,0,John Baker,JohnBaker23STL2000,Undrafted,Undrafted,< 24
+42,Connor Barth\barthco01,2009,23,NA,TAM,NFL,9,0,Connor Barth,ConnorBarth23TAM2009,Undrafted,Undrafted,< 24
+43,Durant Brooks\BrooDu20,2008,23,6-168,WAS,NFL,6,0,Durant Brooks,DurantBrooks23WAS2008,8,22,< 24
+44,David Buehler\BuehDa44,2010,23,5-172,DAL,NFL,16,0,David Buehler,DavidBuehler23DAL2010,7,26,< 24
+45,Randy Bullock\BullRa00,2012,23,5-161,HOU,NFL,0,NA,Randy Bullock,RandyBullock23HOU2012,7,18,< 24
+46,Harrison Butker\ButkHa00,2018,23,7-233,KAN,NFL,8,0,Harrison Butker,HarrisonButker23KAN2018,9,55,< 24
+47,Drew Butler\ButlDr00,2012,23,NA,PIT,NFL,16,0,Drew Butler,DrewButler23PIT2012,Undrafted,Undrafted,< 24
+48,Jorrick Calvin\CalvJo99,2010,23,6-201,PHI,NFL,12,0,Jorrick Calvin,JorrickCalvin23PHI2010,8,40,< 24
+49,Daniel Carlson\CarlDa00,2018,23,NA,2TM,NFL,4,0,Daniel Carlson,DanielCarlson232TM2018,Undrafted,Undrafted,< 24
+50,Dan Carpenter\CarpDa44,2008,23,NA,MIA,NFL,16,0,Dan Carpenter,DanCarpenter23MIA2008,Undrafted,Undrafted,< 24
+51,Chandler Catanzaro\CataCh00,2014,23,NA,ARI,NFL,16,0,Chandler Catanzaro,ChandlerCatanzaro23ARI2014,Undrafted,Undrafted,< 24
+52,Jeff Chandler\chandjef01,2002,23,4-102,SFO,NFL,6,0,Jeff Chandler,JeffChandler23SFO2002,6,3,< 24
+53,Dustin Colquitt\ColqDu20,2005,23,3-99,KAN,NFL,16,0,Dustin Colquitt,DustinColquitt23KAN2005,5,82,< 24
+54,Logan Cooke\CookLo00,2018,23,NA,JAX,NFL,8,0,Logan Cooke,LoganCooke23JAX2018,Undrafted,Undrafted,< 24
+55,Travis Coons\CoonTr00,2015,23,NA,CLE,NFL,16,0,Travis Coons,TravisCoons23CLE2015,Undrafted,Undrafted,< 24
+56,Mason Crosby\CrosMa20,2007,23,6-193,GNB,NFL,16,0,Mason Crosby,MasonCrosby23GNB2007,8,37,< 24
+57,Billy Cundiff\cundibil01,2003,23,NA,DAL,NFL,15,0,Billy Cundiff,BillyCundiff23DAL2003,Undrafted,Undrafted,< 24
+58,Matt Darr\DarrMa00,2015,23,NA,MIA,NFL,16,0,Matt Darr,MattDarr23MIA2015,Undrafted,Undrafted,< 24
+59,Riley Dixon\DixoRi00,2016,23,7-228,DEN,NFL,16,0,Riley Dixon,RileyDixon23DEN2016,9,52,< 24
+60,Matt Dodge\DodgMa99,2010,23,7-221,NYG,NFL,16,0,Matt Dodge,MattDodge23NYG2010,9,47,< 24
+61,Ryan Donahue\DonaRy00,2011,23,NA,DET,NFL,8,0,Ryan Donahue,RyanDonahue23DET2011,Undrafted,Undrafted,< 24
+62,Travis Dorsch\DorsTr20,2002,23,4-109,CIN,NFL,1,0,Travis Dorsch,TravisDorsch23CIN2002,6,4,< 24
+63,Paul Edinger\edingpau01,2001,23,6-174,CHI,NFL,16,0,Paul Edinger,PaulEdinger23CHI2001,8,27,< 24
+64,Jake Elliott\ElliJa03,2018,23,5-153,PHI,NFL,8,0,Jake Elliott,JakeElliott23PHI2018,7,15,< 24
+65,Paul Ernster\ErnsPa20,2005,23,7-239,DEN,NFL,1,0,Paul Ernster,PaulErnster23DEN2005,9,57,< 24
+66,Ka'imi Fairbairn\FairKa01,2017,23,NA,HOU,NFL,16,0,Ka'imi Fairbairn,Ka'imiFairbairn23HOU2017,Undrafted,Undrafted,< 24
+67,Brandon Fields\FielBr20,2007,23,7-225,MIA,NFL,16,0,Brandon Fields,BrandonFields23MIA2007,9,51,< 24
+68,Nick Folk\FolkNi20,2007,23,6-178,DAL,NFL,16,0,Nick Folk,NickFolk23DAL2007,8,30,< 24
+69,Andrew Franks\FranAn01,2016,23,NA,MIA,NFL,16,0,Andrew Franks,AndrewFranks23MIA2016,Undrafted,Undrafted,< 24
+70,Andrew Furney\FurnAn00,2014,23,NA,NYJ,NFL,0,NA,Andrew Furney,AndrewFurney23NYJ2014,Undrafted,Undrafted,< 24
+71,Graham Gano\GanoGr44,2010,23,NA,WAS,NFL,16,0,Graham Gano,GrahamGano23WAS2010,Undrafted,Undrafted,< 24
+72,Zane Gonzalez\GonzZa00,2018,23,7-224,CLE,NFL,2,0,Zane Gonzalez,ZaneGonzalez23CLE2018,9,50,< 24
+73,Stephen Gostkowski\GostSt20,2007,23,4-118,NWE,NFL,16,0,Stephen Gostkowski,StephenGostkowski23NWE2007,6,6,< 24
+74,Bill Gramatica\gramabil01,2001,23,4-98,ARI,NFL,13,0,Bill Gramatica,BillGramatica23ARI2001,6,81,< 24
+75,Matt Haack\HaacMa00,2017,23,NA,MIA,NFL,16,0,Matt Haack,MattHaack23MIA2017,Undrafted,Undrafted,< 24
+76,Nick Harris\HarrNi20,2001,23,4-120,CIN,NFL,16,0,Nick Harris,NickHarris23CIN2001,6,7,< 24
+77,Garrett Hartley\HartGa00,2009,23,NA,NOR,NFL,5,0,Garrett Hartley,GarrettHartley23NOR2009,Undrafted,Undrafted,< 24
+78,Steven Hauschka\HausSt00,2008,23,NA,BAL,NFL,8,0,Steven Hauschka,StevenHauschka23BAL2008,Undrafted,Undrafted,< 24
+79,Johnny Hekker\HekkJo00,2013,23,NA,STL,NFL,16,0,Johnny Hekker,JohnnyHekker23STL2013,Undrafted,Undrafted,< 24
+80,Chas Henry\HenrCh02,2012,23,NA,PHI,NFL,3,0,Chas Henry,ChasHenry23PHI2012,Undrafted,Undrafted,< 24
+81,Kris Heppner\heppnkri01,2000,23,NA,2TM,NFL,8,0,Kris Heppner,KrisHeppner232TM2000,Undrafted,Undrafted,< 24
+82,Reggie Hodges\HodgRe20,2005,23,6-210,2TM,NFL,8,0,Reggie Hodges,ReggieHodges232TM2005,8,44,< 24
+83,Sebastian Janikowski\janikseb01,2001,23,1-17,OAK,NFL,15,0,Sebastian Janikowski,SebastianJanikowski23OAK2001,1,24,< 24
+84,Craig Jarrett\JarrCr20,2002,23,6-194,WAS,NFL,4,0,Craig Jarrett,CraigJarrett23WAS2002,8,38,< 24
+85,J.R. Jenkins\JenkJ.20,2002,23,NA,BAL,NFL,7,0,J.R. Jenkins,J.R.Jenkins23BAL2002,Undrafted,Undrafted,< 24
+86,Chris Jones\JoneCh02,2012,23,NA,DAL,NFL,4,0,Chris Jones,ChrisJones23DAL2012,Undrafted,Undrafted,< 24
+87,Nate Kaeding\kaedinat01,2005,23,3-65,SDG,NFL,16,0,Nate Kaeding,NateKaeding23SDG2005,5,69,< 24
+88,Jeremy Kapinos\KapiJe20,2007,23,NA,NYJ,NFL,1,0,Jeremy Kapinos,JeremyKapinos23NYJ2007,Undrafted,Undrafted,< 24
+89,Drew Kaser\KaseDr00,2016,23,6-179,SDG,NFL,16,0,Drew Kaser,DrewKaser23SDG2016,8,31,< 24
+90,Brett Kern\KernBr20,2009,23,NA,2TM,NFL,16,0,Brett Kern,BrettKern232TM2009,Undrafted,Undrafted,< 24
+91,Michael Koenen\koenemic01,2005,23,NA,ATL,NFL,16,0,Michael Koenen,MichaelKoenen23ATL2005,Undrafted,Undrafted,< 24
+92,Younghoe Koo\KooxYo00,2017,23,NA,LAC,NFL,4,0,Younghoe Koo,YounghoeKoo23LAC2017,Undrafted,Undrafted,< 24
+93,Andy Lee\LeexAn20,2005,23,6-188,SFO,NFL,16,0,Andy Lee,AndyLee23SFO2005,8,34,< 24
+94,Rian Lindell\linderia01,2000,23,NA,SEA,NFL,12,0,Rian Lindell,RianLindell23SEA2000,Undrafted,Undrafted,< 24
+95,Wil Lutz\LutzWi00,2017,23,NA,NOR,NFL,16,0,Wil Lutz,WilLutz23NOR2017,Undrafted,Undrafted,< 24
+96,Robert Malone\MaloRo00,2011,23,NA,DET,NFL,1,0,Robert Malone,RobertMalone23DET2011,Undrafted,Undrafted,< 24
+97,Sam Martin\MartSa01,2013,23,5-165,DET,NFL,16,0,Sam Martin,SamMartin23DET2013,7,20,< 24
+98,Tim Masthay\MastTi99,2010,23,NA,GNB,NFL,16,0,Tim Masthay,TimMasthay23GNB2010,Undrafted,Undrafted,< 24
+99,Pat McAfee\McAfPa44,2010,23,7-222,IND,NFL,15,0,Pat McAfee,PatMcAfee23IND2010,9,48,< 24
+100,Brandon McManus\McMaBr01,2014,23,NA,DEN,NFL,15,0,Brandon McManus,BrandonMcManus23DEN2014,Undrafted,Undrafted,< 24
+101,Taylor Mehlhaff\MehlTa99,2008,23,6-178,NOR,NFL,3,0,Taylor Mehlhaff,TaylorMehlhaff23NOR2008,8,30,< 24
+102,Thomas Morstead\MorsTh00,2009,23,5-164,NOR,NFL,16,0,Thomas Morstead,ThomasMorstead23NOR2009,7,19,< 24
+103,Patrick Murray\MurrPa01,2014,23,NA,TAM,NFL,16,0,Patrick Murray,PatrickMurray23TAM2014,Undrafted,Undrafted,< 24
+104,Brad Nortman\NortBr00,2012,23,6-207,CAR,NFL,16,0,Brad Nortman,BradNortman23CAR2012,8,43,< 24
+105,Mike Nugent\nugenmik01,2005,23,2-47,NYJ,NFL,16,0,Mike Nugent,MikeNugent23NYJ2005,4,64,< 24
+106,Pat O'Donnell\ODonPa00,2014,23,6-191,CHI,NFL,16,0,Pat O'Donnell,PatO'Donnell23CHI2014,8,35,< 24
+107,Cody Parkey\ParkCo03,2015,23,NA,PHI,NFL,3,0,Cody Parkey,CodyParkey23PHI2015,Undrafted,Undrafted,< 24
+108,Sam Paulescu\PaulSa20,2007,23,NA,DEN,NFL,1,0,Sam Paulescu,SamPaulescu23DEN2007,Undrafted,Undrafted,< 24
+109,Bradley Pinion\PiniBr00,2017,23,5-165,SFO,NFL,16,0,Bradley Pinion,BradleyPinion23SFO2017,7,20,< 24
+110,Ryan Plackemeier\PlacRy20,2007,23,7-239,SEA,NFL,16,0,Ryan Plackemeier,RyanPlackemeier23SEA2007,9,57,< 24
+111,John Potter\PottJo00,2013,23,7-251,WAS,NFL,3,0,John Potter,JohnPotter23WAS2013,9,59,< 24
+112,Matt Prater\PratMa20,2007,23,NA,2TM,NFL,4,0,Matt Prater,MattPrater232TM2007,Undrafted,Undrafted,< 24
+113,Ryan Quigley\QuigRy00,2013,23,NA,NYJ,NFL,14,0,Ryan Quigley,RyanQuigley23NYJ2013,Undrafted,Undrafted,< 24
+114,Dave Rayner\raynedav01,2005,23,6-202,IND,NFL,14,0,Dave Rayner,DaveRayner23IND2005,8,41,< 24
+115,Jeff Reed\reedxjef01,2002,23,NA,PIT,NFL,6,0,Jeff Reed,JeffReed23PIT2002,Undrafted,Undrafted,< 24
+116,Aldrick Rosas\RosaAl00,2017,23,NA,NYG,NFL,16,0,Aldrick Rosas,AldrickRosas23NYG2017,Undrafted,Undrafted,< 24
+117,Nick Rose\RoseNi00,2017,23,NA,2TM,NFL,10,0,Nick Rose,NickRose232TM2017,Undrafted,Undrafted,< 24
+118,Rigoberto Sanchez\SancRi00,2017,23,NA,IND,NFL,16,0,Rigoberto Sanchez,RigobertoSanchez23IND2017,Undrafted,Undrafted,< 24
+119,Jason Sanders\SandJa00,2018,23,NA,MIA,NFL,8,0,Jason Sanders,JasonSanders23MIA2018,Undrafted,Undrafted,< 24
+120,Cairo Santos\SantCa01,2014,23,NA,KAN,NFL,16,0,Cairo Santos,CairoSantos23KAN2014,Undrafted,Undrafted,< 24
+121,Mike Scifres\ScifMi20,2003,23,5-149,SDG,NFL,6,0,Mike Scifres,MikeScifres23SDG2003,7,13,< 24
+122,Josh Scobee\scobejos01,2005,23,5-137,JAX,NFL,16,0,Josh Scobee,JoshScobee23JAX2005,7,9,< 24
+123,Daniel Sepulveda\SepuDa20,2007,23,4-112,PIT,NFL,16,0,Daniel Sepulveda,DanielSepulveda23PIT2007,6,5,< 24
+124,Hunter Smith\SmitHu21,2000,23,7-210,IND,NFL,16,0,Hunter Smith,HunterSmith23IND2000,9,44,< 24
+125,Ryan Succop\SuccRy44,2009,23,7-256,KAN,NFL,16,0,Ryan Succop,RyanSuccop23KAN2009,9,61,< 24
+126,Johnny Townsend\TownJo01,2018,23,NA,OAK,NFL,8,0,Johnny Townsend,JohnnyTownsend23OAK2018,Undrafted,Undrafted,< 24
+127,Justin Tucker\TuckJu00,2012,23,NA,BAL,NFL,16,0,Justin Tucker,JustinTucker23BAL2012,Undrafted,Undrafted,< 24
+128,Colby Wadman\WadmCo00,2018,23,NA,DEN,NFL,4,0,Colby Wadman,ColbyWadman23DEN2018,Undrafted,Undrafted,< 24
+129,Blair Walsh\WalsBl00,2013,23,6-175,MIN,NFL,16,0,Blair Walsh,BlairWalsh23MIN2013,8,28,< 24
+130,Brad Wing\WingBr00,2014,23,NA,PIT,NFL,16,0,Brad Wing,BradWing23PIT2014,Undrafted,Undrafted,< 24
+131,Ryan Allen\AlleRy01,2014,24,NA,NWE,NFL,16,0,Ryan Allen,RyanAllen24NWE2014,Undrafted,Undrafted,< 24
+132,Bryan Anger\AngeBr00,2012,24,3-70,JAX,NFL,16,0,Bryan Anger,BryanAnger24JAX2012,5,71,< 24
+133,Dan Bailey\BailDa00,2012,24,NA,DAL,NFL,16,0,Dan Bailey,DanBailey24DAL2012,Undrafted,Undrafted,< 24
+134,Jason Baker\BakeJa20,2002,24,NA,2TM,NFL,13,0,Jason Baker,JasonBaker242TM2002,Undrafted,Undrafted,< 24
+135,John Baker\BakeJo21,2001,24,NA,STL,NFL,16,0,John Baker,JohnBaker24STL2001,Undrafted,Undrafted,< 24
+136,Brooks Barnard\BarnBr20,2003,24,NA,NWE,NFL,1,0,Brooks Barnard,BrooksBarnard24NWE2003,Undrafted,Undrafted,< 24
+137,Connor Barth\barthco01,2010,24,NA,TAM,NFL,16,0,Connor Barth,ConnorBarth24TAM2010,Undrafted,Undrafted,< 24
+138,Brent Bartholomew\BartBr20,2000,24,6-192,CHI,NFL,7,0,Brent Bartholomew,BrentBartholomew24CHI2000,8,36,< 24
+139,Jordan Berry\BerrJo00,2015,24,NA,PIT,NFL,16,0,Jordan Berry,JordanBerry24PIT2015,Undrafted,Undrafted,< 24
+140,Josh Bidwell\BidwJo20,2000,24,4-133,GNB,NFL,16,0,Josh Bidwell,JoshBidwell24GNB2000,6,8,< 24
+141,Matthew Bosher\BoshMa00,2011,24,6-192,ATL,NFL,16,0,Matthew Bosher,MatthewBosher24ATL2011,8,36,< 24
+142,Chris Boswell\BoswCh00,2015,24,NA,PIT,NFL,12,0,Chris Boswell,ChrisBoswell24PIT2015,Undrafted,Undrafted,< 24
+143,Danny Boyd\boydxdan01,2002,24,NA,JAX,NFL,4,0,Danny Boyd,DannyBoyd24JAX2002,Undrafted,Undrafted,< 24
+144,Josh Brown\brownjos01,2003,24,7-222,SEA,NFL,16,0,Josh Brown,JoshBrown24SEA2003,9,48,< 24
+145,Kris Brown\brownkri01,2000,24,7-228,PIT,NFL,16,0,Kris Brown,KrisBrown24PIT2000,9,52,< 24
+146,David Buehler\BuehDa44,2011,24,5-172,DAL,NFL,4,0,David Buehler,DavidBuehler24DAL2011,7,26,< 24
+147,Randy Bullock\BullRa00,2013,24,5-161,HOU,NFL,16,0,Randy Bullock,RandyBullock24HOU2013,7,18,< 24
+148,Barry Cantrell\CantBa20,2000,24,NA,DAL,NFL,2,0,Barry Cantrell,BarryCantrell24DAL2000,Undrafted,Undrafted,< 24
+149,Dan Carpenter\CarpDa44,2009,24,NA,MIA,NFL,16,0,Dan Carpenter,DanCarpenter24MIA2009,Undrafted,Undrafted,< 24
+150,Todd Carter\CartTo21,2010,24,NA,CAR,NFL,1,0,Todd Carter,ToddCarter24CAR2010,Undrafted,Undrafted,< 24
+151,Chandler Catanzaro\CataCh00,2015,24,NA,ARI,NFL,16,0,Chandler Catanzaro,ChandlerCatanzaro24ARI2015,Undrafted,Undrafted,< 24
+152,Jeff Chandler\chandjef01,2003,24,4-102,SFO,NFL,2,0,Jeff Chandler,JeffChandler24SFO2003,6,3,< 24
+153,Jadeveon Clowney\ClowJa00,2017,24,1-1,HOU,NFL,16,16,Jadeveon Clowney,JadeveonClowney24HOU2017,1,1,< 24
+154,Dustin Colquitt\ColqDu20,2006,24,3-99,KAN,NFL,16,0,Dustin Colquitt,DustinColquitt24KAN2006,5,82,< 24
+155,Mason Crosby\CrosMa20,2008,24,6-193,GNB,NFL,16,0,Mason Crosby,MasonCrosby24GNB2008,8,37,< 24
+156,Billy Cundiff\cundibil01,2004,24,NA,DAL,NFL,16,0,Billy Cundiff,BillyCundiff24DAL2004,Undrafted,Undrafted,< 24
+157,Trevor Daniel\DaniTr00,2018,24,NA,HOU,NFL,8,0,Trevor Daniel,TrevorDaniel24HOU2018,Undrafted,Undrafted,< 24
+158,Matt Darr\DarrMa00,2016,24,NA,MIA,NFL,16,0,Matt Darr,MattDarr24MIA2016,Undrafted,Undrafted,< 24
+159,Riley Dixon\DixoRi00,2017,24,7-228,DEN,NFL,16,0,Riley Dixon,RileyDixon24DEN2017,9,52,< 24
+160,Tim Duncan\duncatim0,2003,24,NA,ARI,NFL,5,0,Tim Duncan,TimDuncan24ARI2003,Undrafted,Undrafted,< 24
+161,Paul Edinger\edingpau01,2002,24,6-174,CHI,NFL,16,0,Paul Edinger,PaulEdinger24CHI2002,8,27,< 24
+162,Lac Edwards\EdwaLa01,2016,24,7-235,NYJ,NFL,16,0,Lac Edwards,LacEdwards24NYJ2016,9,56,< 24
+163,Paul Ernster\ErnsPa20,2006,24,7-239,DEN,NFL,16,0,Paul Ernster,PaulErnster24DEN2006,9,57,< 24
+164,Ka'imi Fairbairn\FairKa01,2018,24,NA,HOU,NFL,8,0,Ka'imi Fairbairn,Ka'imiFairbairn24HOU2018,Undrafted,Undrafted,< 24
+165,Brandon Fields\FielBr20,2008,24,7-225,MIA,NFL,16,0,Brandon Fields,BrandonFields24MIA2008,9,51,< 24
+166,Nick Folk\FolkNi20,2008,24,6-178,DAL,NFL,16,0,Nick Folk,NickFolk24DAL2008,8,30,< 24
+167,Nate Freese\FreeNa00,2014,24,7-229,DET,NFL,3,0,Nate Freese,NateFreese24DET2014,9,53,< 24
+168,Derrick Frost\FrosDe20,2004,24,NA,CLE,NFL,16,0,Derrick Frost,DerrickFrost24CLE2004,Undrafted,Undrafted,< 24
+169,Graham Gano\GanoGr44,2011,24,NA,WAS,NFL,16,0,Graham Gano,GrahamGano24WAS2011,Undrafted,Undrafted,< 24
+170,Jordan Gay\GayxJo00,2014,24,NA,BUF,NFL,16,0,Jordan Gay,JordanGay24BUF2014,Undrafted,Undrafted,< 24
+171,Kenny Golladay\GollKe00,2017,24,3-96,DET,NFL,11,5,Kenny Golladay,KennyGolladay24DET2017,5,80,< 24
+172,Stephen Gostkowski\GostSt20,2008,24,4-118,NWE,NFL,16,0,Stephen Gostkowski,StephenGostkowski24NWE2008,6,6,< 24
+173,Robbie Gould\gouldrob01,2005,24,NA,CHI,NFL,13,0,Robbie Gould,RobbieGould24CHI2005,Undrafted,Undrafted,< 24
+174,Shayne Graham\grahasha01,2001,24,NA,BUF,NFL,6,0,Shayne Graham,ShayneGraham24BUF2001,Undrafted,Undrafted,< 24
+175,Bill Gramatica\gramabil01,2002,24,4-98,ARI,NFL,16,0,Bill Gramatica,BillGramatica24ARI2002,6,81,< 24
+176,Matt Haack\HaacMa00,2018,24,NA,MIA,NFL,8,0,Matt Haack,MattHaack24MIA2018,Undrafted,Undrafted,< 24
+177,Jeff Hall\HallJe20,2000,24,6-181,STL,NFL,3,0,Jeff Hall,JeffHall24STL2000,8,33,< 24
+178,Nick Harris\HarrNi20,2002,24,4-120,CIN,NFL,15,0,Nick Harris,NickHarris24CIN2002,6,7,< 24
+179,Garrett Hartley\HartGa00,2010,24,NA,NOR,NFL,14,0,Garrett Hartley,GarrettHartley24NOR2010,Undrafted,Undrafted,< 24
+180,Brett Hartmann\HartBr01,2011,24,NA,HOU,NFL,12,0,Brett Hartmann,BrettHartmann24HOU2011,Undrafted,Undrafted,< 24
+181,Steven Hauschka\HausSt00,2009,24,NA,BAL,NFL,9,0,Steven Hauschka,StevenHauschka24BAL2009,Undrafted,Undrafted,< 24
+182,Johnny Hekker\HekkJo00,2014,24,NA,STL,NFL,16,0,Johnny Hekker,JohnnyHekker24STL2014,Undrafted,Undrafted,< 24
+183,Alex Henery\HeneAl00,2011,24,4-120,PHI,NFL,16,0,Alex Henery,AlexHenery24PHI2011,6,7,< 24
+184,Zach Hocker\HockZa00,2015,24,7-228,2TM,NFL,8,0,Zach Hocker,ZachHocker242TM2015,9,52,< 24
+185,Jaret Holmes\holmejar01,2000,24,NA,NYG,NFL,4,0,Jaret Holmes,JaretHolmes24NYG2000,Undrafted,Undrafted,< 24
+186,Dustin Hopkins\HopkDu00,2014,24,6-177,NOR,NFL,0,NA,Dustin Hopkins,DustinHopkins24NOR2014,8,29,< 24
+187,Kevin Huber\HubeKe20,2009,24,5-142,CIN,NFL,16,0,Kevin Huber,KevinHuber24CIN2009,7,11,< 24
+188,Sebastian Janikowski\janikseb01,2002,24,1-17,OAK,NFL,16,0,Sebastian Janikowski,SebastianJanikowski24OAK2002,1,24,< 24
+189,Chris Jones\JoneCh02,2013,24,NA,DAL,NFL,16,0,Chris Jones,ChrisJones24DAL2013,Undrafted,Undrafted,< 24
+190,Donnie Jones\JoneDo21,2004,24,7-224,SEA,NFL,6,0,Donnie Jones,DonnieJones24SEA2004,9,50,< 24
+191,Greg Joseph\JoseGr00,2018,24,NA,CLE,NFL,6,0,Greg Joseph,GregJoseph24CLE2018,Undrafted,Undrafted,< 24
+192,Nate Kaeding\kaedinat01,2006,24,3-65,SDG,NFL,16,0,Nate Kaeding,NateKaeding24SDG2006,5,69,< 24
+193,Jeremy Kapinos\KapiJe20,2008,24,NA,GNB,NFL,4,0,Jeremy Kapinos,JeremyKapinos24GNB2008,Undrafted,Undrafted,< 24
+194,Drew Kaser\KaseDr00,2017,24,6-179,LAC,NFL,16,0,Drew Kaser,DrewKaser24LAC2017,8,31,< 24
+195,Brett Kern\KernBr20,2010,24,NA,TEN,NFL,16,0,Brett Kern,BrettKern24TEN2010,Undrafted,Undrafted,< 24
+196,Marquette King\KingMa00,2012,24,NA,OAK,NFL,0,NA,Marquette King,MarquetteKing24OAK2012,Undrafted,Undrafted,< 24
+197,Chris Kluwe\KluwCh20,2005,24,NA,MIN,NFL,15,0,Chris Kluwe,ChrisKluwe24MIN2005,Undrafted,Undrafted,< 24
+198,Sam Koch\KochSa20,2006,24,6-203,BAL,NFL,16,0,Sam Koch,SamKoch24BAL2006,8,42,< 24
+199,Michael Koenen\koenemic01,2006,24,NA,ATL,NFL,16,0,Michael Koenen,MichaelKoenen24ATL2006,Undrafted,Undrafted,< 24
+200,Kyle Larson\LarsKy20,2004,24,NA,CIN,NFL,16,0,Kyle Larson,KyleLarson24CIN2004,Undrafted,Undrafted,< 24
+201,Shane Lechler\LechSh20,2000,24,5-142,OAK,NFL,16,0,Shane Lechler,ShaneLechler24OAK2000,7,11,< 24
+202,Andy Lee\LeexAn20,2006,24,6-188,SFO,NFL,16,0,Andy Lee,AndyLee24SFO2006,8,34,< 24
+203,Rian Lindell\linderia01,2001,24,NA,SEA,NFL,16,0,Rian Lindell,RianLindell24SEA2001,Undrafted,Undrafted,< 24
+204,Jeff Locke\LockJe00,2013,24,5-155,MIN,NFL,16,0,Jeff Locke,JeffLocke24MIN2013,7,16,< 24
+205,Wil Lutz\LutzWi00,2018,24,NA,NOR,NFL,7,0,Wil Lutz,WilLutz24NOR2018,Undrafted,Undrafted,< 24
+206,Robert Malone\MaloRo00,2012,24,NA,NYJ,NFL,16,0,Robert Malone,RobertMalone24NYJ2012,Undrafted,Undrafted,< 24
+207,Sam Martin\MartSa01,2014,24,5-165,DET,NFL,16,0,Sam Martin,SamMartin24DET2014,7,20,< 24
+208,Tim Masthay\MastTi99,2011,24,NA,GNB,NFL,16,0,Tim Masthay,TimMasthay24GNB2011,Undrafted,Undrafted,< 24
+209,Pat McAfee\McAfPa44,2011,24,7-222,IND,NFL,16,0,Pat McAfee,PatMcAfee24IND2011,9,48,< 24
+210,Matthew McCrane\McCrMa00,2018,24,NA,OAK,NFL,3,0,Matthew McCrane,MatthewMcCrane24OAK2018,Undrafted,Undrafted,< 24
+211,Brandon McManus\McMaBr01,2015,24,NA,DEN,NFL,16,0,Brandon McManus,BrandonMcManus24DEN2015,Undrafted,Undrafted,< 24
+212,Justin Medlock\MedlJu20,2007,24,5-160,KAN,NFL,1,0,Justin Medlock,JustinMedlock24KAN2007,7,17,< 24
+213,Zoltan Mesko\MeskZo99,2010,24,5-150,NWE,NFL,16,0,Zoltan Mesko,ZoltanMesko24NWE2010,7,14,< 24
+214,Thomas Morstead\MorsTh00,2010,24,5-164,NOR,NFL,16,0,Thomas Morstead,ThomasMorstead24NOR2010,7,19,< 24
+215,Jason Myers\MyerJa00,2015,24,NA,JAX,NFL,16,0,Jason Myers,JasonMyers24JAX2015,Undrafted,Undrafted,< 24
+216,Dallas Neil\NeilDa20,2000,24,NA,ATL,NFL,6,0,Dallas Neil,DallasNeil24ATL2000,Undrafted,Undrafted,< 24
+217,Brad Nortman\NortBr00,2013,24,6-207,CAR,NFL,16,0,Brad Nortman,BradNortman24CAR2013,8,43,< 24
+218,Nick Novak\novaknic01,2005,24,NA,2TM,NFL,10,0,Nick Novak,NickNovak242TM2005,Undrafted,Undrafted,< 24
+219,Mike Nugent\nugenmik01,2006,24,2-47,NYJ,NFL,16,0,Mike Nugent,MikeNugent24NYJ2006,4,64,< 24
+220,Pat O'Donnell\ODonPa00,2015,24,6-191,CHI,NFL,15,0,Pat O'Donnell,PatO'Donnell24CHI2015,8,35,< 24
+221,Cedric Oglesby\oglesced01,2001,24,NA,ARI,NFL,3,0,Cedric Oglesby,CedricOglesby24ARI2001,Undrafted,Undrafted,< 24
+222,Michael Palardy\PalaMi00,2016,24,NA,CAR,NFL,7,0,Michael Palardy,MichaelPalardy24CAR2016,Undrafted,Undrafted,< 24
+223,Cody Parkey\ParkCo03,2016,24,NA,CLE,NFL,14,0,Cody Parkey,CodyParkey24CLE2016,Undrafted,Undrafted,< 24
+224,Sam Paulescu\PaulSa20,2008,24,NA,DAL,NFL,10,0,Sam Paulescu,SamPaulescu24DAL2008,Undrafted,Undrafted,< 24
+225,Aaron Pettrey\PettAa00,2010,24,NA,CIN,NFL,2,0,Aaron Pettrey,AaronPettrey24CIN2010,Undrafted,Undrafted,< 24
+226,Bradley Pinion\PiniBr00,2018,24,5-165,SFO,NFL,9,0,Bradley Pinion,BradleyPinion24SFO2018,7,20,< 24
+227,Ryan Plackemeier\PlacRy20,2008,24,7-239,2TM,NFL,11,0,Ryan Plackemeier,RyanPlackemeier242TM2008,9,57,< 24
+228,Owen Pochman\pochmowe01,2001,24,7-216,NYG,NFL,10,0,Owen Pochman,OwenPochman24NYG2001,9,45,< 24
+229,Adam Podlesh\PodlAd20,2007,24,4-101,JAX,NFL,16,0,Adam Podlesh,AdamPodlesh24JAX2007,6,2,< 24
+230,Shawn Powell\PoweSh00,2012,24,NA,BUF,NFL,13,0,Shawn Powell,ShawnPowell24BUF2012,Undrafted,Undrafted,< 24
+231,Matt Prater\PratMa20,2008,24,NA,DEN,NFL,16,0,Matt Prater,MattPrater24DEN2008,Undrafted,Undrafted,< 24
+232,Ryan Quigley\QuigRy00,2014,24,NA,NYJ,NFL,16,0,Ryan Quigley,RyanQuigley24NYJ2014,Undrafted,Undrafted,< 24
+233,Neil Rackers\rackenei01,2000,24,6-169,CIN,NFL,16,0,Neil Rackers,NeilRackers24CIN2000,8,23,< 24
+234,Dave Rayner\raynedav01,2006,24,6-202,GNB,NFL,16,0,Dave Rayner,DaveRayner24GNB2006,8,41,< 24
+235,Jeff Reed\reedxjef01,2003,24,NA,PIT,NFL,16,0,Jeff Reed,JeffReed24PIT2003,Undrafted,Undrafted,< 24
+236,Wade Richey\richewad01,2000,24,NA,SFO,NFL,16,0,Wade Richey,WadeRichey24SFO2000,Undrafted,Undrafted,< 24
+237,Aldrick Rosas\RosaAl00,2018,24,NA,NYG,NFL,8,0,Aldrick Rosas,AldrickRosas24NYG2018,Undrafted,Undrafted,< 24
+238,Rigoberto Sanchez\SancRi00,2018,24,NA,IND,NFL,8,0,Rigoberto Sanchez,RigobertoSanchez24IND2018,Undrafted,Undrafted,< 24
+239,Cairo Santos\SantCa01,2015,24,NA,KAN,NFL,16,0,Cairo Santos,CairoSantos24KAN2015,Undrafted,Undrafted,< 24
+240,Colton Schmidt\SchmCo00,2014,24,NA,BUF,NFL,16,0,Colton Schmidt,ColtonSchmidt24BUF2014,Undrafted,Undrafted,< 24
+241,Ricky Schmitt\SchmRi00,2009,24,NA,SFO,NFL,1,0,Ricky Schmitt,RickySchmitt24SFO2009,Undrafted,Undrafted,< 24
+242,Mike Scifres\ScifMi20,2004,24,5-149,SDG,NFL,16,0,Mike Scifres,MikeScifres24SDG2004,7,13,< 24
+243,Josh Scobee\scobejos01,2006,24,5-137,JAX,NFL,16,0,Josh Scobee,JoshScobee24JAX2006,7,9,< 24
+244,Hunter Smith\SmitHu21,2001,24,7-210,IND,NFL,16,0,Hunter Smith,HunterSmith24IND2001,9,44,< 24
+245,Chad Stanley\StanCh20,2000,24,NA,SFO,NFL,16,0,Chad Stanley,ChadStanley24SFO2000,Undrafted,Undrafted,< 24
+246,Kevin Stemke\StemKe20,2002,24,NA,OAK,NFL,2,0,Kevin Stemke,KevinStemke24OAK2002,Undrafted,Undrafted,< 24
+247,Caleb Sturgis\SturCa00,2013,24,5-166,MIA,NFL,16,0,Caleb Sturgis,CalebSturgis24MIA2013,7,21,< 24
+248,Ryan Succop\SuccRy44,2010,24,7-256,KAN,NFL,16,0,Ryan Succop,RyanSuccop24KAN2010,9,61,< 24
+249,Shaun Suisham\suishsha01,2005,24,NA,DAL,NFL,3,0,Shaun Suisham,ShaunSuisham24DAL2005,Undrafted,Undrafted,< 24
+250,Matt Szymanski\SzymMa00,2012,24,NA,KAN,NFL,0,NA,Matt Szymanski,MattSzymanski24KAN2012,Undrafted,Undrafted,< 24
+251,Justin Tucker\TuckJu00,2013,24,NA,BAL,NFL,16,0,Justin Tucker,JustinTucker24BAL2013,Undrafted,Undrafted,< 24
+252,Justin Vogel\VogeJu00,2017,24,NA,GNB,NFL,16,0,Justin Vogel,JustinVogel24GNB2017,Undrafted,Undrafted,< 24
+253,Blair Walsh\WalsBl00,2014,24,6-175,MIN,NFL,16,0,Blair Walsh,BlairWalsh24MIN2014,8,28,< 24
+254,Tress Way\WayxTr00,2014,24,NA,WAS,NFL,16,0,Tress Way,TressWay24WAS2014,Undrafted,Undrafted,< 24
+255,Steve Weatherford\WeatSt20,2006,24,NA,NOR,NFL,16,0,Steve Weatherford,SteveWeatherford24NOR2006,Undrafted,Undrafted,< 24
+256,Matt Wile\WileMa01,2016,24,NA,2TM,NFL,4,0,Matt Wile,MattWile242TM2016,Undrafted,Undrafted,< 24
+257,Rodney Williams\WillRo23,2001,24,7-252,NYG,NFL,15,0,Rodney Williams,RodneyWilliams24NYG2001,9,60,< 24
+258,Brad Wing\WingBr00,2015,24,NA,NYG,NFL,16,0,Brad Wing,BradWing24NYG2015,Undrafted,Undrafted,< 24
+259,Dave Zastudil\ZastDa20,2002,24,4-112,BAL,NFL,16,0,Dave Zastudil,DaveZastudil24BAL2002,6,5,< 24
+260,Matt Allen\AlleMa20,2002,25,NA,NYG,NFL,14,0,Matt Allen,MattAllen25NYG2002,Undrafted,Undrafted,25-28
+261,Ryan Allen\AlleRy01,2015,25,NA,NWE,NFL,16,0,Ryan Allen,RyanAllen25NWE2015,Undrafted,Undrafted,25-28
+262,Bryan Anger\AngeBr00,2013,25,3-70,JAX,NFL,16,0,Bryan Anger,BryanAnger25JAX2013,5,71,25-28
+263,Dan Bailey\BailDa00,2013,25,NA,DAL,NFL,16,0,Dan Bailey,DanBailey25DAL2013,Undrafted,Undrafted,25-28
+264,Jason Baker\BakeJa20,2003,25,NA,KAN,NFL,16,0,Jason Baker,JasonBaker25KAN2003,Undrafted,Undrafted,25-28
+265,Connor Barth\barthco01,2011,25,NA,TAM,NFL,16,0,Connor Barth,ConnorBarth25TAM2011,Undrafted,Undrafted,25-28
+266,Jordan Berry\BerrJo00,2016,25,NA,PIT,NFL,16,0,Jordan Berry,JordanBerry25PIT2016,Undrafted,Undrafted,25-28
+267,Josh Bidwell\BidwJo20,2001,25,4-133,GNB,NFL,16,0,Josh Bidwell,JoshBidwell25GNB2001,6,8,25-28
+268,Matthew Bosher\BoshMa00,2012,25,6-192,ATL,NFL,16,0,Matthew Bosher,MatthewBosher25ATL2012,8,36,25-28
+269,Chris Boswell\BoswCh00,2016,25,NA,PIT,NFL,15,0,Chris Boswell,ChrisBoswell25PIT2016,Undrafted,Undrafted,25-28
+270,Josh Brown\brownjos01,2004,25,7-222,SEA,NFL,16,0,Josh Brown,JoshBrown25SEA2004,9,48,25-28
+271,Kris Brown\brownkri01,2001,25,7-228,PIT,NFL,16,0,Kris Brown,KrisBrown25PIT2001,9,52,25-28
+272,Randy Bullock\BullRa00,2014,25,5-161,HOU,NFL,16,0,Randy Bullock,RandyBullock25HOU2014,7,18,25-28
+273,Drew Butler\ButlDr00,2014,25,NA,ARI,NFL,15,0,Drew Butler,DrewButler25ARI2014,Undrafted,Undrafted,25-28
+274,Dan Carpenter\CarpDa44,2010,25,NA,MIA,NFL,16,0,Dan Carpenter,DanCarpenter25MIA2010,Undrafted,Undrafted,25-28
+275,Chandler Catanzaro\CataCh00,2016,25,NA,ARI,NFL,16,0,Chandler Catanzaro,ChandlerCatanzaro25ARI2016,Undrafted,Undrafted,25-28
+276,Jeff Chandler\chandjef01,2004,25,4-102,2TM,NFL,5,0,Jeff Chandler,JeffChandler252TM2004,6,3,25-28
+277,Britton Colquitt\ColqBr00,2010,25,NA,DEN,NFL,16,0,Britton Colquitt,BrittonColquitt25DEN2010,Undrafted,Undrafted,25-28
+278,Dustin Colquitt\ColqDu20,2007,25,3-99,KAN,NFL,16,0,Dustin Colquitt,DustinColquitt25KAN2007,5,82,25-28
+279,Brett Conway\conwabre01,2000,25,3-90,3TM,NFL,4,0,Brett Conway,BrettConway253TM2000,5,78,25-28
+280,Travis Coons\CoonTr00,2017,25,NA,LAC,NFL,3,0,Travis Coons,TravisCoons25LAC2017,Undrafted,Undrafted,25-28
+281,Mason Crosby\CrosMa20,2009,25,6-193,GNB,NFL,16,0,Mason Crosby,MasonCrosby25GNB2009,8,37,25-28
+282,Billy Cundiff\cundibil01,2005,25,NA,DAL,NFL,6,0,Billy Cundiff,BillyCundiff25DAL2005,Undrafted,Undrafted,25-28
+283,Phil Dawson\dawsophi01,2000,25,NA,CLE,NFL,16,0,Phil Dawson,PhilDawson25CLE2000,Undrafted,Undrafted,25-28
+284,Riley Dixon\DixoRi00,2018,25,7-228,NYG,NFL,8,0,Riley Dixon,RileyDixon25NYG2018,9,52,25-28
+285,King Dunlap\DunlKi20,2010,25,7-230,PHI,NFL,14,5,King Dunlap,KingDunlap25PHI2010,9,54,25-28
+286,Paul Edinger\edingpau01,2003,25,6-174,CHI,NFL,16,0,Paul Edinger,PaulEdinger25CHI2003,8,27,25-28
+287,Lac Edwards\EdwaLa01,2017,25,7-235,NYJ,NFL,16,0,Lac Edwards,LacEdwards25NYJ2017,9,56,25-28
+288,Aaron Elling\ellinaar01,2003,25,NA,MIN,NFL,16,0,Aaron Elling,AaronElling25MIN2003,Undrafted,Undrafted,25-28
+289,Paul Ernster\ErnsPa20,2007,25,7-239,2TM,NFL,2,0,Paul Ernster,PaulErnster252TM2007,9,57,25-28
+290,Jay Feely\feelyjay01,2001,25,NA,ATL,NFL,16,0,Jay Feely,JayFeely25ATL2001,Undrafted,Undrafted,25-28
+291,Sam Ficken\FickSa00,2017,25,NA,LAR,NFL,2,0,Sam Ficken,SamFicken25LAR2017,Undrafted,Undrafted,25-28
+292,Brandon Fields\FielBr20,2009,25,7-225,MIA,NFL,16,0,Brandon Fields,BrandonFields25MIA2009,9,51,25-28
+293,Filip Filipovic\FiliFi20,2002,25,NA,DAL,NFL,9,0,Filip Filipovic,FilipFilipovic25DAL2002,Undrafted,Undrafted,25-28
+294,Ryan Flinn\FlinRy20,2005,25,NA,GNB,NFL,2,0,Ryan Flinn,RyanFlinn25GNB2005,Undrafted,Undrafted,25-28
+295,Nick Folk\FolkNi20,2009,25,6-178,DAL,NFL,14,0,Nick Folk,NickFolk25DAL2009,8,30,25-28
+296,Kai Forbath\ForbKa00,2012,25,NA,WAS,NFL,11,0,Kai Forbath,KaiForbath25WAS2012,Undrafted,Undrafted,25-28
+297,Todd France\franctod01,2005,25,NA,2TM,NFL,4,0,Todd France,ToddFrance252TM2005,Undrafted,Undrafted,25-28
+298,Derrick Frost\FrosDe20,2005,25,NA,WAS,NFL,14,0,Derrick Frost,DerrickFrost25WAS2005,Undrafted,Undrafted,25-28
+299,Graham Gano\GanoGr44,2012,25,NA,CAR,NFL,6,0,Graham Gano,GrahamGano25CAR2012,Undrafted,Undrafted,25-28
+300,Jordan Gay\GayxJo00,2015,25,NA,BUF,NFL,14,0,Jordan Gay,JordanGay25BUF2015,Undrafted,Undrafted,25-28
+301,Stephen Gostkowski\GostSt20,2009,25,4-118,NWE,NFL,16,0,Stephen Gostkowski,StephenGostkowski25NWE2009,6,6,25-28
+302,Robbie Gould\gouldrob01,2006,25,NA,CHI,NFL,16,0,Robbie Gould,RobbieGould25CHI2006,Undrafted,Undrafted,25-28
+303,Toby Gowin\gowintob01,2000,25,NA,NOR,NFL,16,0,Toby Gowin,TobyGowin25NOR2000,Undrafted,Undrafted,25-28
+304,Shayne Graham\grahasha01,2002,25,NA,CAR,NFL,11,0,Shayne Graham,ShayneGraham25CAR2002,Undrafted,Undrafted,25-28
+305,Bill Gramatica\gramabil01,2003,25,4-98,ARI,NFL,4,0,Bill Gramatica,BillGramatica25ARI2003,6,81,25-28
+306,Martin Gramatica\gramamar01,2000,25,3-80,TAM,NFL,16,0,Martin Gramatica,MartinGramatica25TAM2000,5,74,25-28
+307,Chris Hanson\HansCh20,2001,25,NA,JAX,NFL,16,0,Chris Hanson,ChrisHanson25JAX2001,Undrafted,Undrafted,25-28
+308,Nick Harris\HarrNi20,2003,25,4-120,2TM,NFL,16,0,Nick Harris,NickHarris252TM2003,6,7,25-28
+309,Steven Hauschka\HausSt00,2010,25,NA,DEN,NFL,4,0,Steven Hauschka,StevenHauschka25DEN2010,Undrafted,Undrafted,25-28
+310,Johnny Hekker\HekkJo00,2015,25,NA,STL,NFL,16,0,Johnny Hekker,JohnnyHekker25STL2015,Undrafted,Undrafted,25-28
+311,Alex Henery\HeneAl00,2012,25,4-120,PHI,NFL,16,0,Alex Henery,AlexHenery25PHI2012,6,7,25-28
+312,Jaret Holmes\holmejar01,2001,25,NA,JAX,NFL,4,0,Jaret Holmes,JaretHolmes25JAX2001,Undrafted,Undrafted,25-28
+313,Dustin Hopkins\HopkDu00,2015,25,6-177,WAS,NFL,15,0,Dustin Hopkins,DustinHopkins25WAS2015,8,29,25-28
+314,Kevin Huber\HubeKe20,2010,25,5-142,CIN,NFL,16,0,Kevin Huber,KevinHuber25CIN2010,7,11,25-28
+315,Sebastian Janikowski\janikseb01,2003,25,1-17,OAK,NFL,16,0,Sebastian Janikowski,SebastianJanikowski25OAK2003,1,24,25-28
+316,Chris Jones\JoneCh02,2014,25,NA,DAL,NFL,16,0,Chris Jones,ChrisJones25DAL2014,Undrafted,Undrafted,25-28
+317,Donnie Jones\JoneDo21,2005,25,7-224,MIA,NFL,16,0,Donnie Jones,DonnieJones25MIA2005,9,50,25-28
+318,Nate Kaeding\kaedinat01,2007,25,3-65,SDG,NFL,16,0,Nate Kaeding,NateKaeding25SDG2007,5,69,25-28
+319,Jeremy Kapinos\KapiJe20,2009,25,NA,GNB,NFL,16,0,Jeremy Kapinos,JeremyKapinos25GNB2009,Undrafted,Undrafted,25-28
+320,Drew Kaser\KaseDr00,2018,25,6-179,LAC,NFL,4,0,Drew Kaser,DrewKaser25LAC2018,8,31,25-28
+321,Brett Kern\KernBr20,2011,25,NA,TEN,NFL,16,0,Brett Kern,BrettKern25TEN2011,Undrafted,Undrafted,25-28
+322,Marquette King\KingMa00,2013,25,NA,OAK,NFL,16,0,Marquette King,MarquetteKing25OAK2013,Undrafted,Undrafted,25-28
+323,Chris Kluwe\KluwCh20,2006,25,NA,MIN,NFL,16,0,Chris Kluwe,ChrisKluwe25MIN2006,Undrafted,Undrafted,25-28
+324,Micah Knorr\knorrmic01,2000,25,NA,DAL,NFL,14,0,Micah Knorr,MicahKnorr25DAL2000,Undrafted,Undrafted,25-28
+325,Sam Koch\KochSa20,2007,25,6-203,BAL,NFL,16,0,Sam Koch,SamKoch25BAL2007,8,42,25-28
+326,Marshall Koehn\KoehMa00,2017,25,NA,CIN,NFL,1,0,Marshall Koehn,MarshallKoehn25CIN2017,Undrafted,Undrafted,25-28
+327,Michael Koenen\koenemic01,2007,25,NA,ATL,NFL,16,0,Michael Koenen,MichaelKoenen25ATL2007,Undrafted,Undrafted,25-28
+328,Josh Lambo\LambJo00,2015,25,NA,SDG,NFL,16,0,Josh Lambo,JoshLambo25SDG2015,Undrafted,Undrafted,25-28
+329,Spencer Lanning\LannSp00,2013,25,NA,CLE,NFL,16,0,Spencer Lanning,SpencerLanning25CLE2013,Undrafted,Undrafted,25-28
+330,Kyle Larson\LarsKy20,2005,25,NA,CIN,NFL,16,0,Kyle Larson,KyleLarson25CIN2005,Undrafted,Undrafted,25-28
+331,Shane Lechler\LechSh20,2001,25,5-142,OAK,NFL,16,0,Shane Lechler,ShaneLechler25OAK2001,7,11,25-28
+332,Andy Lee\LeexAn20,2007,25,6-188,SFO,NFL,16,0,Andy Lee,AndyLee25SFO2007,8,34,25-28
+333,Rian Lindell\linderia01,2002,25,NA,SEA,NFL,16,0,Rian Lindell,RianLindell25SEA2002,Undrafted,Undrafted,25-28
+334,Rhys Lloyd\LloyRh44,2007,25,NA,2TM,NFL,3,0,Rhys Lloyd,RhysLloyd252TM2007,Undrafted,Undrafted,25-28
+335,Jeff Locke\LockJe00,2014,25,5-155,MIN,NFL,16,0,Jeff Locke,JeffLocke25MIN2014,7,16,25-28
+336,Robert Malone\MaloRo00,2013,25,NA,NYJ,NFL,2,0,Robert Malone,RobertMalone25NYJ2013,Undrafted,Undrafted,25-28
+337,Sam Martin\MartSa01,2015,25,5-165,DET,NFL,16,0,Sam Martin,SamMartin25DET2015,7,20,25-28
+338,Tim Masthay\MastTi99,2012,25,NA,GNB,NFL,16,0,Tim Masthay,TimMasthay25GNB2012,Undrafted,Undrafted,25-28
+339,Pat McAfee\McAfPa44,2012,25,7-222,IND,NFL,16,0,Pat McAfee,PatMcAfee25IND2012,9,48,25-28
+340,Mat McBriar\McBrMa20,2004,25,NA,DAL,NFL,16,0,Mat McBriar,MatMcBriar25DAL2004,Undrafted,Undrafted,25-28
+341,Brandon McManus\McMaBr01,2016,25,NA,DEN,NFL,16,0,Brandon McManus,BrandonMcManus25DEN2016,Undrafted,Undrafted,25-28
+342,Zoltan Mesko\MeskZo99,2011,25,5-150,NWE,NFL,16,0,Zoltan Mesko,ZoltanMesko25NWE2011,7,14,25-28
+343,Brian Moorman\MoorBr24,2001,25,NA,BUF,NFL,16,0,Brian Moorman,BrianMoorman25BUF2001,Undrafted,Undrafted,25-28
+344,Thomas Morstead\MorsTh00,2011,25,5-164,NOR,NFL,16,0,Thomas Morstead,ThomasMorstead25NOR2011,7,19,25-28
+345,Nick Murphy\MurpNi20,2004,25,NA,2TM,NFL,5,0,Nick Murphy,NickMurphy252TM2004,Undrafted,Undrafted,25-28
+346,Patrick Murray\MurrPa01,2016,25,NA,CLE,NFL,2,0,Patrick Murray,PatrickMurray25CLE2016,Undrafted,Undrafted,25-28
+347,Jason Myers\MyerJa00,2016,25,NA,JAX,NFL,16,0,Jason Myers,JasonMyers25JAX2016,Undrafted,Undrafted,25-28
+348,Brad Nortman\NortBr00,2014,25,6-207,CAR,NFL,16,0,Brad Nortman,BradNortman25CAR2014,8,43,25-28
+349,Nick Novak\novaknic01,2006,25,NA,WAS,NFL,6,0,Nick Novak,NickNovak25WAS2006,Undrafted,Undrafted,25-28
+350,Mike Nugent\nugenmik01,2007,25,2-47,NYJ,NFL,16,0,Mike Nugent,MikeNugent25NYJ2007,4,64,25-28
+351,Pat O'Donnell\ODonPa00,2016,25,6-191,CHI,NFL,16,0,Pat O'Donnell,PatO'Donnell25CHI2016,8,35,25-28
+352,Michael Palardy\PalaMi00,2017,25,NA,CAR,NFL,16,0,Michael Palardy,MichaelPalardy25CAR2017,Undrafted,Undrafted,25-28
+353,Cody Parkey\ParkCo03,2017,25,NA,MIA,NFL,16,0,Cody Parkey,CodyParkey25MIA2017,Undrafted,Undrafted,25-28
+354,Sam Paulescu\PaulSa20,2009,25,NA,2TM,NFL,6,0,Sam Paulescu,SamPaulescu252TM2009,Undrafted,Undrafted,25-28
+355,Adam Podlesh\PodlAd20,2008,25,4-101,JAX,NFL,11,0,Adam Podlesh,AdamPodlesh25JAX2008,6,2,25-28
+356,Daniel Pope\PopeDa20,2000,25,NA,CIN,NFL,16,0,Daniel Pope,DanielPope25CIN2000,Undrafted,Undrafted,25-28
+357,Shawn Powell\PoweSh00,2013,25,NA,2TM,NFL,7,0,Shawn Powell,ShawnPowell252TM2013,Undrafted,Undrafted,25-28
+358,Matt Prater\PratMa20,2009,25,NA,DEN,NFL,16,0,Matt Prater,MattPrater25DEN2009,Undrafted,Undrafted,25-28
+359,Ryan Quigley\QuigRy00,2015,25,NA,NYJ,NFL,15,0,Ryan Quigley,RyanQuigley25NYJ2015,Undrafted,Undrafted,25-28
+360,Neil Rackers\rackenei01,2001,25,6-169,CIN,NFL,16,0,Neil Rackers,NeilRackers25CIN2001,8,23,25-28
+361,Dave Rayner\raynedav01,2007,25,6-202,2TM,NFL,11,0,Dave Rayner,DaveRayner252TM2007,8,41,25-28
+362,Jeff Reed\reedxjef01,2004,25,NA,PIT,NFL,16,0,Jeff Reed,JeffReed25PIT2004,Undrafted,Undrafted,25-28
+363,Wade Richey\richewad01,2001,25,NA,SDG,NFL,16,0,Wade Richey,WadeRichey25SDG2001,Undrafted,Undrafted,25-28
+364,Jon Ryan\RyanJo21,2006,25,NA,GNB,NFL,16,0,Jon Ryan,JonRyan25GNB2006,Undrafted,Undrafted,25-28
+365,B.J. Sander\SandB.20,2005,25,3-87,GNB,NFL,14,0,B.J. Sander,B.J.Sander25GNB2005,5,77,25-28
+366,Cairo Santos\SantCa01,2016,25,NA,KAN,NFL,16,0,Cairo Santos,CairoSantos25KAN2016,Undrafted,Undrafted,25-28
+367,Colton Schmidt\SchmCo00,2015,25,NA,BUF,NFL,16,0,Colton Schmidt,ColtonSchmidt25BUF2015,Undrafted,Undrafted,25-28
+368,Jake Schum\SchuJa00,2014,25,NA,2TM,NFL,0,NA,Jake Schum,JakeSchum252TM2014,Undrafted,Undrafted,25-28
+369,Mike Scifres\ScifMi20,2005,25,5-149,SDG,NFL,16,0,Mike Scifres,MikeScifres25SDG2005,7,13,25-28
+370,Josh Scobee\scobejos01,2007,25,5-137,JAX,NFL,8,0,Josh Scobee,JoshScobee25JAX2007,7,9,25-28
+371,Daniel Sepulveda\SepuDa20,2009,25,4-112,PIT,NFL,16,0,Daniel Sepulveda,DanielSepulveda25PIT2009,6,5,25-28
+372,Hunter Smith\SmitHu21,2002,25,7-210,IND,NFL,16,0,Hunter Smith,HunterSmith25IND2002,9,44,25-28
+373,Chad Stanley\StanCh20,2001,25,NA,ARI,NFL,4,0,Chad Stanley,ChadStanley25ARI2001,Undrafted,Undrafted,25-28
+374,Clint Stitser\StitCl00,2010,25,NA,CIN,NFL,5,0,Clint Stitser,ClintStitser25CIN2010,Undrafted,Undrafted,25-28
+375,Caleb Sturgis\SturCa00,2014,25,5-166,MIA,NFL,16,0,Caleb Sturgis,CalebSturgis25MIA2014,7,21,25-28
+376,Ryan Succop\SuccRy44,2011,25,7-256,KAN,NFL,16,0,Ryan Succop,RyanSuccop25KAN2011,9,61,25-28
+377,Shaun Suisham\suishsha01,2006,25,NA,2TM,NFL,8,0,Shaun Suisham,ShaunSuisham252TM2006,Undrafted,Undrafted,25-28
+378,Brett Swain\SwaiBr00,2010,25,7-217,GNB,NFL,16,1,Brett Swain,BrettSwain25GNB2010,9,46,25-28
+379,Justin Tucker\TuckJu00,2014,25,NA,BAL,NFL,16,0,Justin Tucker,JustinTucker25BAL2014,Undrafted,Undrafted,25-28
+380,Blair Walsh\WalsBl00,2015,25,6-175,MIN,NFL,16,0,Blair Walsh,BlairWalsh25MIN2015,8,28,25-28
+381,Tress Way\WayxTr00,2015,25,NA,WAS,NFL,16,0,Tress Way,TressWay25WAS2015,Undrafted,Undrafted,25-28
+382,Steve Weatherford\WeatSt20,2007,25,NA,NOR,NFL,16,0,Steve Weatherford,SteveWeatherford25NOR2007,Undrafted,Undrafted,25-28
+383,Brad Wing\WingBr00,2016,25,NA,NYG,NFL,16,0,Brad Wing,BradWing25NYG2016,Undrafted,Undrafted,25-28
+384,Dave Zastudil\ZastDa20,2003,25,4-112,BAL,NFL,16,0,Dave Zastudil,DaveZastudil25BAL2003,6,5,25-28
+385,Greg Zuerlein\ZuerGr00,2012,25,6-171,STL,NFL,16,0,Greg Zuerlein,GregZuerlein25STL2012,8,25,25-28
+386,David Akers\akersdav01,2000,26,NA,PHI,NFL,16,0,David Akers,DavidAkers26PHI2000,Undrafted,Undrafted,25-28
+387,Ryan Allen\AlleRy01,2016,26,NA,NWE,NFL,16,0,Ryan Allen,RyanAllen26NWE2016,Undrafted,Undrafted,25-28
+388,Bryan Anger\AngeBr00,2014,26,3-70,JAX,NFL,16,0,Bryan Anger,BryanAnger26JAX2014,5,71,25-28
+389,Dan Bailey\BailDa00,2014,26,NA,DAL,NFL,16,0,Dan Bailey,DanBailey26DAL2014,Undrafted,Undrafted,25-28
+390,Jason Baker\BakeJa20,2004,26,NA,3TM,NFL,10,0,Jason Baker,JasonBaker263TM2004,Undrafted,Undrafted,25-28
+391,Connor Barth\barthco01,2012,26,NA,TAM,NFL,15,0,Connor Barth,ConnorBarth26TAM2012,Undrafted,Undrafted,25-28
+392,Scott Bentley\bentlsco01,2000,26,NA,2TM,NFL,7,0,Scott Bentley,ScottBentley262TM2000,Undrafted,Undrafted,25-28
+393,Jordan Berry\BerrJo00,2017,26,NA,PIT,NFL,16,0,Jordan Berry,JordanBerry26PIT2017,Undrafted,Undrafted,25-28
+394,Josh Bidwell\BidwJo20,2002,26,4-133,GNB,NFL,16,0,Josh Bidwell,JoshBidwell26GNB2002,6,8,25-28
+395,Matthew Bosher\BoshMa00,2013,26,6-192,ATL,NFL,16,0,Matthew Bosher,MatthewBosher26ATL2013,8,36,25-28
+396,Chris Boswell\BoswCh00,2017,26,NA,PIT,NFL,16,0,Chris Boswell,ChrisBoswell26PIT2017,Undrafted,Undrafted,25-28
+397,Josh Brown\brownjos01,2005,26,7-222,SEA,NFL,16,0,Josh Brown,JoshBrown26SEA2005,9,48,25-28
+398,Kris Brown\brownkri01,2002,26,7-228,HOU,NFL,16,0,Kris Brown,KrisBrown26HOU2002,9,52,25-28
+399,Randy Bullock\BullRa00,2015,26,5-161,2TM,NFL,11,0,Randy Bullock,RandyBullock262TM2015,7,18,25-28
+400,Drew Butler\ButlDr00,2015,26,NA,ARI,NFL,16,0,Drew Butler,DrewButler26ARI2015,Undrafted,Undrafted,25-28
+401,Dan Carpenter\CarpDa44,2011,26,NA,MIA,NFL,14,0,Dan Carpenter,DanCarpenter26MIA2011,Undrafted,Undrafted,25-28
+402,Chandler Catanzaro\CataCh00,2017,26,NA,NYJ,NFL,16,0,Chandler Catanzaro,ChandlerCatanzaro26NYJ2017,Undrafted,Undrafted,25-28
+403,Britton Colquitt\ColqBr00,2011,26,NA,DEN,NFL,16,0,Britton Colquitt,BrittonColquitt26DEN2011,Undrafted,Undrafted,25-28
+404,Dustin Colquitt\ColqDu20,2008,26,3-99,KAN,NFL,14,0,Dustin Colquitt,DustinColquitt26KAN2008,5,82,25-28
+405,T.J. Conley\ConlT.00,2011,26,NA,NYJ,NFL,16,0,T.J. Conley,T.J.Conley26NYJ2011,Undrafted,Undrafted,25-28
+406,Brett Conway\conwabre01,2001,26,3-90,WAS,NFL,16,0,Brett Conway,BrettConway26WAS2001,5,78,25-28
+407,Jose Cortez\cortejos01,2001,26,NA,SFO,NFL,16,0,Jose Cortez,JoseCortez26SFO2001,Undrafted,Undrafted,25-28
+408,Mason Crosby\CrosMa20,2010,26,6-193,GNB,NFL,16,0,Mason Crosby,MasonCrosby26GNB2010,8,37,25-28
+409,Billy Cundiff\cundibil01,2006,26,NA,NOR,NFL,5,0,Billy Cundiff,BillyCundiff26NOR2006,Undrafted,Undrafted,25-28
+410,Phil Dawson\dawsophi01,2001,26,NA,CLE,NFL,16,0,Phil Dawson,PhilDawson26CLE2001,Undrafted,Undrafted,25-28
+411,Paul Edinger\edingpau01,2004,26,6-174,CHI,NFL,16,0,Paul Edinger,PaulEdinger26CHI2004,8,27,25-28
+412,Lac Edwards\EdwaLa01,2018,26,7-235,NYJ,NFL,8,0,Lac Edwards,LacEdwards26NYJ2018,9,56,25-28
+413,Aaron Elling\ellinaar01,2004,26,NA,2TM,NFL,8,0,Aaron Elling,AaronElling262TM2004,Undrafted,Undrafted,25-28
+414,Paul Ernster\ErnsPa20,2008,26,7-239,PIT,NFL,3,0,Paul Ernster,PaulErnster26PIT2008,9,57,25-28
+415,Jay Feely\feelyjay01,2002,26,NA,ATL,NFL,16,0,Jay Feely,JayFeely26ATL2002,Undrafted,Undrafted,25-28
+416,Sam Ficken\FickSa00,2018,26,NA,LAR,NFL,2,0,Sam Ficken,SamFicken26LAR2018,Undrafted,Undrafted,25-28
+417,Brandon Fields\FielBr20,2010,26,7-225,MIA,NFL,16,0,Brandon Fields,BrandonFields26MIA2010,9,51,25-28
+418,Nick Folk\FolkNi20,2010,26,6-178,NYJ,NFL,16,0,Nick Folk,NickFolk26NYJ2010,8,30,25-28
+419,Kai Forbath\ForbKa00,2013,26,NA,WAS,NFL,13,0,Kai Forbath,KaiForbath26WAS2013,Undrafted,Undrafted,25-28
+420,Derrick Frost\FrosDe20,2006,26,NA,WAS,NFL,16,0,Derrick Frost,DerrickFrost26WAS2006,Undrafted,Undrafted,25-28
+421,Graham Gano\GanoGr44,2013,26,NA,CAR,NFL,16,0,Graham Gano,GrahamGano26CAR2013,Undrafted,Undrafted,25-28
+422,Jordan Gay\GayxJo00,2016,26,NA,BUF,NFL,3,0,Jordan Gay,JordanGay26BUF2016,Undrafted,Undrafted,25-28
+423,Stephen Gostkowski\GostSt20,2010,26,4-118,NWE,NFL,8,0,Stephen Gostkowski,StephenGostkowski26NWE2010,6,6,25-28
+424,Robbie Gould\gouldrob01,2007,26,NA,CHI,NFL,16,0,Robbie Gould,RobbieGould26CHI2007,Undrafted,Undrafted,25-28
+425,Toby Gowin\gowintob01,2001,26,NA,NOR,NFL,16,0,Toby Gowin,TobyGowin26NOR2001,Undrafted,Undrafted,25-28
+426,Shayne Graham\grahasha01,2003,26,NA,CIN,NFL,16,0,Shayne Graham,ShayneGraham26CIN2003,Undrafted,Undrafted,25-28
+427,Bill Gramatica\gramabil01,2004,26,4-98,MIA,NFL,1,0,Bill Gramatica,BillGramatica26MIA2004,6,81,25-28
+428,Martin Gramatica\gramamar01,2001,26,3-80,TAM,NFL,14,0,Martin Gramatica,MartinGramatica26TAM2001,5,74,25-28
+429,Andy Groom\GrooAn20,2005,26,NA,WAS,NFL,2,0,Andy Groom,AndyGroom26WAS2005,Undrafted,Undrafted,25-28
+430,John Hall\hallxjoh01,2000,26,NA,NYJ,NFL,15,0,John Hall,JohnHall26NYJ2000,Undrafted,Undrafted,25-28
+431,Chris Hanson\HansCh20,2002,26,NA,JAX,NFL,16,0,Chris Hanson,ChrisHanson26JAX2002,Undrafted,Undrafted,25-28
+432,Nick Harris\HarrNi20,2004,26,4-120,DET,NFL,16,0,Nick Harris,NickHarris26DET2004,6,7,25-28
+433,Garrett Hartley\HartGa00,2012,26,NA,NOR,NFL,16,0,Garrett Hartley,GarrettHartley26NOR2012,Undrafted,Undrafted,25-28
+434,Steven Hauschka\HausSt00,2011,26,NA,SEA,NFL,16,0,Steven Hauschka,StevenHauschka26SEA2011,Undrafted,Undrafted,25-28
+435,Johnny Hekker\HekkJo00,2016,26,NA,LAR,NFL,16,0,Johnny Hekker,JohnnyHekker26LAR2016,Undrafted,Undrafted,25-28
+436,Alex Henery\HeneAl00,2013,26,4-120,PHI,NFL,16,0,Alex Henery,AlexHenery26PHI2013,6,7,25-28
+437,Jon Hilbert\hilbejon01,2001,26,NA,DAL,NFL,8,0,Jon Hilbert,JonHilbert26DAL2001,Undrafted,Undrafted,25-28
+438,Reggie Hodges\HodgRe20,2008,26,6-210,NYJ,NFL,12,0,Reggie Hodges,ReggieHodges26NYJ2008,8,44,25-28
+439,Dustin Hopkins\HopkDu00,2016,26,6-177,WAS,NFL,16,0,Dustin Hopkins,DustinHopkins26WAS2016,8,29,25-28
+440,Kevin Huber\HubeKe20,2011,26,5-142,CIN,NFL,16,0,Kevin Huber,KevinHuber26CIN2011,7,11,25-28
+441,Sebastian Janikowski\janikseb01,2004,26,1-17,OAK,NFL,16,0,Sebastian Janikowski,SebastianJanikowski26OAK2004,1,24,25-28
+442,Cameron Johnston\JohnCa02,2018,26,NA,PHI,NFL,8,0,Cameron Johnston,CameronJohnston26PHI2018,Undrafted,Undrafted,25-28
+443,Chris Jones\JoneCh02,2015,26,NA,DAL,NFL,16,0,Chris Jones,ChrisJones26DAL2015,Undrafted,Undrafted,25-28
+444,Donnie Jones\JoneDo21,2006,26,7-224,MIA,NFL,16,0,Donnie Jones,DonnieJones26MIA2006,9,50,25-28
+445,Nate Kaeding\kaedinat01,2008,26,3-65,SDG,NFL,16,0,Nate Kaeding,NateKaeding26SDG2008,5,69,25-28
+446,Jeremy Kapinos\KapiJe20,2010,26,NA,2TM,NFL,5,0,Jeremy Kapinos,JeremyKapinos262TM2010,Undrafted,Undrafted,25-28
+447,Brett Kern\KernBr20,2012,26,NA,TEN,NFL,16,0,Brett Kern,BrettKern26TEN2012,Undrafted,Undrafted,25-28
+448,Marquette King\KingMa00,2014,26,NA,OAK,NFL,16,0,Marquette King,MarquetteKing26OAK2014,Undrafted,Undrafted,25-28
+449,Chris Kluwe\KluwCh20,2007,26,NA,MIN,NFL,16,0,Chris Kluwe,ChrisKluwe26MIN2007,Undrafted,Undrafted,25-28
+450,Micah Knorr\knorrmic01,2001,26,NA,DAL,NFL,16,0,Micah Knorr,MicahKnorr26DAL2001,Undrafted,Undrafted,25-28
+451,Sam Koch\KochSa20,2008,26,6-203,BAL,NFL,16,0,Sam Koch,SamKoch26BAL2008,8,42,25-28
+452,Michael Koenen\koenemic01,2008,26,NA,ATL,NFL,16,0,Michael Koenen,MichaelKoenen26ATL2008,Undrafted,Undrafted,25-28
+453,Bill LaFleur\LaFlBi20,2002,26,NA,SFO,NFL,5,0,Bill LaFleur,BillLaFleur26SFO2002,Undrafted,Undrafted,25-28
+454,Josh Lambo\LambJo00,2016,26,NA,SDG,NFL,16,0,Josh Lambo,JoshLambo26SDG2016,Undrafted,Undrafted,25-28
+455,Spencer Lanning\LannSp00,2014,26,NA,CLE,NFL,16,0,Spencer Lanning,SpencerLanning26CLE2014,Undrafted,Undrafted,25-28
+456,Kyle Larson\LarsKy20,2006,26,NA,CIN,NFL,16,0,Kyle Larson,KyleLarson26CIN2006,Undrafted,Undrafted,25-28
+457,Shane Lechler\LechSh20,2002,26,5-142,OAK,NFL,14,0,Shane Lechler,ShaneLechler26OAK2002,7,11,25-28
+458,Andy Lee\LeexAn20,2008,26,6-188,SFO,NFL,16,0,Andy Lee,AndyLee26SFO2008,8,34,25-28
+459,Pat Lee\LeexPa99,2010,26,2-60,GNB,NFL,11,1,Pat Lee,PatLee26GNB2010,4,67,25-28
+460,Rian Lindell\linderia01,2003,26,NA,BUF,NFL,16,0,Rian Lindell,RianLindell26BUF2003,Undrafted,Undrafted,25-28
+461,Steve Lindsey\LindSt20,2000,26,NA,2TM,NFL,16,0,Steve Lindsey,SteveLindsey262TM2000,Undrafted,Undrafted,25-28
+462,Rhys Lloyd\LloyRh44,2008,26,NA,CAR,NFL,16,0,Rhys Lloyd,RhysLloyd26CAR2008,Undrafted,Undrafted,25-28
+463,Jeff Locke\LockJe00,2015,26,5-155,MIN,NFL,16,0,Jeff Locke,JeffLocke26MIN2015,7,16,25-28
+464,Ryan Longwell\longwrya01,2000,26,NA,GNB,NFL,16,0,Ryan Longwell,RyanLongwell26GNB2000,Undrafted,Undrafted,25-28
+465,Sam Martin\MartSa01,2016,26,5-165,DET,NFL,16,0,Sam Martin,SamMartin26DET2016,7,20,25-28
+466,Tim Masthay\MastTi99,2013,26,NA,GNB,NFL,16,0,Tim Masthay,TimMasthay26GNB2013,Undrafted,Undrafted,25-28
+467,Brad Maynard\MaynBr20,2000,26,3-95,NYG,NFL,16,0,Brad Maynard,BradMaynard26NYG2000,5,79,25-28
+468,Pat McAfee\McAfPa44,2013,26,7-222,IND,NFL,16,0,Pat McAfee,PatMcAfee26IND2013,9,48,25-28
+469,Mat McBriar\McBrMa20,2005,26,NA,DAL,NFL,16,0,Mat McBriar,MatMcBriar26DAL2005,Undrafted,Undrafted,25-28
+470,Brandon McManus\McMaBr01,2017,26,NA,DEN,NFL,16,0,Brandon McManus,BrandonMcManus26DEN2017,Undrafted,Undrafted,25-28
+471,Zoltan Mesko\MeskZo99,2012,26,5-150,NWE,NFL,16,0,Zoltan Mesko,ZoltanMesko26NWE2012,7,14,25-28
+472,Brian Moorman\MoorBr24,2002,26,NA,BUF,NFL,16,0,Brian Moorman,BrianMoorman26BUF2002,Undrafted,Undrafted,25-28
+473,Thomas Morstead\MorsTh00,2012,26,5-164,NOR,NFL,16,0,Thomas Morstead,ThomasMorstead26NOR2012,7,19,25-28
+474,Nick Murphy\MurpNi20,2005,26,NA,PHI,NFL,1,0,Nick Murphy,NickMurphy26PHI2005,Undrafted,Undrafted,25-28
+475,Patrick Murray\MurrPa01,2017,26,NA,TAM,NFL,12,0,Patrick Murray,PatrickMurray26TAM2017,Undrafted,Undrafted,25-28
+476,Jason Myers\MyerJa00,2017,26,NA,JAX,NFL,6,0,Jason Myers,JasonMyers26JAX2017,Undrafted,Undrafted,25-28
+477,Brad Nortman\NortBr00,2015,26,6-207,CAR,NFL,16,0,Brad Nortman,BradNortman26CAR2015,8,43,25-28
+478,Mike Nugent\nugenmik01,2008,26,2-47,NYJ,NFL,1,0,Mike Nugent,MikeNugent26NYJ2008,4,64,25-28
+479,Pat O'Donnell\ODonPa00,2017,26,6-191,CHI,NFL,16,0,Pat O'Donnell,PatO'Donnell26CHI2017,8,35,25-28
+480,Michael Palardy\PalaMi00,2018,26,NA,CAR,NFL,7,0,Michael Palardy,MichaelPalardy26CAR2018,Undrafted,Undrafted,25-28
+481,Cody Parkey\ParkCo03,2018,26,NA,CHI,NFL,7,0,Cody Parkey,CodyParkey26CHI2018,Undrafted,Undrafted,25-28
+482,Sam Paulescu\PaulSa20,2010,26,NA,WAS,NFL,3,0,Sam Paulescu,SamPaulescu26WAS2010,Undrafted,Undrafted,25-28
+483,Owen Pochman\pochmowe01,2003,26,7-216,SFO,NFL,6,0,Owen Pochman,OwenPochman26SFO2003,9,45,25-28
+484,Adam Podlesh\PodlAd20,2009,26,4-101,JAX,NFL,16,0,Adam Podlesh,AdamPodlesh26JAX2009,6,2,25-28
+485,Daniel Pope\PopeDa20,2001,26,NA,NYJ,NFL,1,0,Daniel Pope,DanielPope26NYJ2001,Undrafted,Undrafted,25-28
+486,Matt Prater\PratMa20,2010,26,NA,DEN,NFL,12,0,Matt Prater,MattPrater26DEN2010,Undrafted,Undrafted,25-28
+487,Ryan Quigley\QuigRy00,2016,26,NA,ARI,NFL,6,0,Ryan Quigley,RyanQuigley26ARI2016,Undrafted,Undrafted,25-28
+488,Neil Rackers\rackenei01,2002,26,6-169,CIN,NFL,16,0,Neil Rackers,NeilRackers26CIN2002,8,23,25-28
+489,Dave Rayner\raynedav01,2008,26,6-202,CIN,NFL,2,0,Dave Rayner,DaveRayner26CIN2008,8,41,25-28
+490,Kasey Redfern\RedfKa00,2017,26,NA,DET,NFL,1,0,Kasey Redfern,KaseyRedfern26DET2017,Undrafted,Undrafted,25-28
+491,Jeff Reed\reedxjef01,2005,26,NA,PIT,NFL,16,0,Jeff Reed,JeffReed26PIT2005,Undrafted,Undrafted,25-28
+492,Wade Richey\richewad01,2002,26,NA,SDG,NFL,12,0,Wade Richey,WadeRichey26SDG2002,Undrafted,Undrafted,25-28
+493,Jon Ryan\RyanJo21,2007,26,NA,GNB,NFL,16,0,Jon Ryan,JonRyan26GNB2007,Undrafted,Undrafted,25-28
+494,Cairo Santos\SantCa01,2017,26,NA,2TM,NFL,5,0,Cairo Santos,CairoSantos262TM2017,Undrafted,Undrafted,25-28
+495,Colton Schmidt\SchmCo00,2016,26,NA,BUF,NFL,16,0,Colton Schmidt,ColtonSchmidt26BUF2016,Undrafted,Undrafted,25-28
+496,Jake Schum\SchuJa00,2015,26,NA,TAM,NFL,16,0,Jake Schum,JakeSchum26TAM2015,Undrafted,Undrafted,25-28
+497,Mike Scifres\ScifMi20,2006,26,5-149,SDG,NFL,16,0,Mike Scifres,MikeScifres26SDG2006,7,13,25-28
+498,Josh Scobee\scobejos01,2008,26,5-137,JAX,NFL,16,0,Josh Scobee,JoshScobee26JAX2008,7,9,25-28
+499,Tim Seder\sedertim01,2000,26,NA,DAL,NFL,15,0,Tim Seder,TimSeder26DAL2000,Undrafted,Undrafted,25-28
+500,Daniel Sepulveda\SepuDa20,2010,26,4-112,PIT,NFL,12,0,Daniel Sepulveda,DanielSepulveda26PIT2010,6,5,25-28
+501,Hunter Smith\SmitHu21,2003,26,7-210,IND,NFL,16,0,Hunter Smith,HunterSmith26IND2003,9,44,25-28
+502,Chad Stanley\StanCh20,2002,26,NA,HOU,NFL,16,0,Chad Stanley,ChadStanley26HOU2002,Undrafted,Undrafted,25-28
+503,Kevin Stemke\StemKe20,2004,26,NA,STL,NFL,6,0,Kevin Stemke,KevinStemke26STL2004,Undrafted,Undrafted,25-28
+504,Caleb Sturgis\SturCa00,2015,26,5-166,PHI,NFL,13,0,Caleb Sturgis,CalebSturgis26PHI2015,7,21,25-28
+505,Ryan Succop\SuccRy44,2012,26,7-256,KAN,NFL,16,0,Ryan Succop,RyanSuccop26KAN2012,9,61,25-28
+506,Shaun Suisham\suishsha01,2007,26,NA,WAS,NFL,16,0,Shaun Suisham,ShaunSuisham26WAS2007,Undrafted,Undrafted,25-28
+507,Justin Tucker\TuckJu00,2015,26,NA,BAL,NFL,16,0,Justin Tucker,JustinTucker26BAL2015,Undrafted,Undrafted,25-28
+508,James Tuthill\tuthijam01,2002,26,NA,2TM,NFL,12,0,James Tuthill,JamesTuthill262TM2002,Undrafted,Undrafted,25-28
+509,Lawrence Tynes\tyneslaw01,2004,26,NA,KAN,NFL,16,0,Lawrence Tynes,LawrenceTynes26KAN2004,Undrafted,Undrafted,25-28
+510,Blair Walsh\WalsBl00,2016,26,6-175,MIN,NFL,9,0,Blair Walsh,BlairWalsh26MIN2016,8,28,25-28
+511,Tress Way\WayxTr00,2016,26,NA,WAS,NFL,16,0,Tress Way,TressWay26WAS2016,Undrafted,Undrafted,25-28
+512,Steve Weatherford\WeatSt20,2008,26,NA,3TM,NFL,14,0,Steve Weatherford,SteveWeatherford263TM2008,Undrafted,Undrafted,25-28
+513,Matt Wile\WileMa01,2018,26,NA,MIN,NFL,8,0,Matt Wile,MattWile26MIN2018,Undrafted,Undrafted,25-28
+514,Brad Wing\WingBr00,2017,26,NA,NYG,NFL,16,0,Brad Wing,BradWing26NYG2017,Undrafted,Undrafted,25-28
+515,Dave Zastudil\ZastDa20,2004,26,4-112,BAL,NFL,13,0,Dave Zastudil,DaveZastudil26BAL2004,6,5,25-28
+516,Greg Zuerlein\ZuerGr00,2013,26,6-171,STL,NFL,16,0,Greg Zuerlein,GregZuerlein26STL2013,8,25,25-28
+517,David Akers\akersdav01,2001,27,NA,PHI,NFL,16,0,David Akers,DavidAkers27PHI2001,Undrafted,Undrafted,25-28
+518,Dwayne Allen\AlleDw00,2017,27,3-64,NWE,NFL,16,8,Dwayne Allen,DwayneAllen27NWE2017,5,68,25-28
+519,Ryan Allen\AlleRy01,2017,27,NA,NWE,NFL,16,0,Ryan Allen,RyanAllen27NWE2017,Undrafted,Undrafted,25-28
+520,Bryan Anger\AngeBr00,2015,27,3-70,JAX,NFL,16,0,Bryan Anger,BryanAnger27JAX2015,5,71,25-28
+521,Dan Bailey\BailDa00,2015,27,NA,DAL,NFL,16,0,Dan Bailey,DanBailey27DAL2015,Undrafted,Undrafted,25-28
+522,Jason Baker\BakeJa20,2005,27,NA,CAR,NFL,16,0,Jason Baker,JasonBaker27CAR2005,Undrafted,Undrafted,25-28
+523,Jordan Berry\BerrJo00,2018,27,NA,PIT,NFL,7,0,Jordan Berry,JordanBerry27PIT2018,Undrafted,Undrafted,25-28
+524,Josh Bidwell\BidwJo20,2003,27,4-133,GNB,NFL,16,0,Josh Bidwell,JoshBidwell27GNB2003,6,8,25-28
+525,Rob Bironas\bironrob01,2005,27,NA,TEN,NFL,16,0,Rob Bironas,RobBironas27TEN2005,Undrafted,Undrafted,25-28
+526,Matthew Bosher\BoshMa00,2014,27,6-192,ATL,NFL,16,0,Matthew Bosher,MatthewBosher27ATL2014,8,36,25-28
+527,Chris Boswell\BoswCh00,2018,27,NA,PIT,NFL,7,0,Chris Boswell,ChrisBoswell27PIT2018,Undrafted,Undrafted,25-28
+528,Josh Brown\brownjos01,2006,27,7-222,SEA,NFL,16,0,Josh Brown,JoshBrown27SEA2006,9,48,25-28
+529,Kris Brown\brownkri01,2003,27,7-228,HOU,NFL,16,0,Kris Brown,KrisBrown27HOU2003,9,52,25-28
+530,Matt Bryant\bryanmat01,2002,27,NA,NYG,NFL,16,0,Matt Bryant,MattBryant27NYG2002,Undrafted,Undrafted,25-28
+531,Randy Bullock\BullRa00,2016,27,5-161,3TM,NFL,5,0,Randy Bullock,RandyBullock273TM2016,7,18,25-28
+532,Drew Butler\ButlDr00,2016,27,NA,ARI,NFL,7,0,Drew Butler,DrewButler27ARI2016,Undrafted,Undrafted,25-28
+533,Dan Carpenter\CarpDa44,2012,27,NA,MIA,NFL,14,0,Dan Carpenter,DanCarpenter27MIA2012,Undrafted,Undrafted,25-28
+534,Chandler Catanzaro\CataCh00,2018,27,NA,TAM,NFL,7,0,Chandler Catanzaro,ChandlerCatanzaro27TAM2018,Undrafted,Undrafted,25-28
+535,Stephen Cheek\CheeSt20,2004,27,NA,KAN,NFL,12,0,Stephen Cheek,StephenCheek27KAN2004,Undrafted,Undrafted,25-28
+536,Britton Colquitt\ColqBr00,2012,27,NA,DEN,NFL,16,0,Britton Colquitt,BrittonColquitt27DEN2012,Undrafted,Undrafted,25-28
+537,Dustin Colquitt\ColqDu20,2009,27,3-99,KAN,NFL,16,0,Dustin Colquitt,DustinColquitt27KAN2009,5,82,25-28
+538,Brett Conway\conwabre01,2002,27,3-90,WAS,NFL,1,0,Brett Conway,BrettConway27WAS2002,5,78,25-28
+539,Jose Cortez\cortejos01,2002,27,NA,2TM,NFL,14,0,Jose Cortez,JoseCortez272TM2002,Undrafted,Undrafted,25-28
+540,Brandon Coutu\CoutBr00,2011,27,7-235,BUF,NFL,1,0,Brandon Coutu,BrandonCoutu27BUF2011,9,56,25-28
+541,Mason Crosby\CrosMa20,2011,27,6-193,GNB,NFL,16,0,Mason Crosby,MasonCrosby27GNB2011,8,37,25-28
+542,Phil Dawson\dawsophi01,2002,27,NA,CLE,NFL,16,0,Phil Dawson,PhilDawson27CLE2002,Undrafted,Undrafted,25-28
+543,Paul Edinger\edingpau01,2005,27,6-174,MIN,NFL,16,0,Paul Edinger,PaulEdinger27MIN2005,8,27,25-28
+544,Aaron Elling\ellinaar01,2005,27,NA,BAL,NFL,9,0,Aaron Elling,AaronElling27BAL2005,Undrafted,Undrafted,25-28
+545,Jay Feely\feelyjay01,2003,27,NA,ATL,NFL,16,0,Jay Feely,JayFeely27ATL2003,Undrafted,Undrafted,25-28
+546,Brandon Fields\FielBr20,2011,27,7-225,MIA,NFL,16,0,Brandon Fields,BrandonFields27MIA2011,9,51,25-28
+547,Nick Folk\FolkNi20,2011,27,6-178,NYJ,NFL,16,0,Nick Folk,NickFolk27NYJ2011,8,30,25-28
+548,Kai Forbath\ForbKa00,2014,27,NA,WAS,NFL,16,0,Kai Forbath,KaiForbath27WAS2014,Undrafted,Undrafted,25-28
+549,Derrick Frost\FrosDe20,2007,27,NA,WAS,NFL,16,0,Derrick Frost,DerrickFrost27WAS2007,Undrafted,Undrafted,25-28
+550,Graham Gano\GanoGr44,2014,27,NA,CAR,NFL,16,0,Graham Gano,GrahamGano27CAR2014,Undrafted,Undrafted,25-28
+551,Stephen Gostkowski\GostSt20,2011,27,4-118,NWE,NFL,16,0,Stephen Gostkowski,StephenGostkowski27NWE2011,6,6,25-28
+552,Robbie Gould\gouldrob01,2008,27,NA,CHI,NFL,16,0,Robbie Gould,RobbieGould27CHI2008,Undrafted,Undrafted,25-28
+553,Toby Gowin\gowintob01,2002,27,NA,NOR,NFL,15,0,Toby Gowin,TobyGowin27NOR2002,Undrafted,Undrafted,25-28
+554,Shayne Graham\grahasha01,2004,27,NA,CIN,NFL,16,0,Shayne Graham,ShayneGraham27CIN2004,Undrafted,Undrafted,25-28
+555,Martin Gramatica\gramamar01,2002,27,3-80,TAM,NFL,16,0,Martin Gramatica,MartinGramatica27TAM2002,5,74,25-28
+556,John Hall\hallxjoh01,2001,27,NA,NYJ,NFL,16,0,John Hall,JohnHall27NYJ2001,Undrafted,Undrafted,25-28
+557,Chris Hanson\HansCh20,2003,27,NA,JAX,NFL,5,0,Chris Hanson,ChrisHanson27JAX2003,Undrafted,Undrafted,25-28
+558,Nick Harris\HarrNi20,2005,27,4-120,DET,NFL,16,0,Nick Harris,NickHarris27DET2005,6,7,25-28
+559,Garrett Hartley\HartGa00,2013,27,NA,NOR,NFL,14,0,Garrett Hartley,GarrettHartley27NOR2013,Undrafted,Undrafted,25-28
+560,Steven Hauschka\HausSt00,2012,27,NA,SEA,NFL,16,0,Steven Hauschka,StevenHauschka27SEA2012,Undrafted,Undrafted,25-28
+561,Johnny Hekker\HekkJo00,2017,27,NA,LAR,NFL,16,0,Johnny Hekker,JohnnyHekker27LAR2017,Undrafted,Undrafted,25-28
+562,Alex Henery\HeneAl00,2014,27,4-120,DET,NFL,2,0,Alex Henery,AlexHenery27DET2014,6,7,25-28
+563,Jon Hilbert\hilbejon01,2002,27,NA,CAR,NFL,1,0,Jon Hilbert,JonHilbert27CAR2002,Undrafted,Undrafted,25-28
+564,Reggie Hodges\HodgRe20,2009,27,6-210,2TM,NFL,12,0,Reggie Hodges,ReggieHodges272TM2009,8,44,25-28
+565,Dustin Hopkins\HopkDu00,2017,27,6-177,WAS,NFL,8,0,Dustin Hopkins,DustinHopkins27WAS2017,8,29,25-28
+566,Kevin Huber\HubeKe20,2012,27,5-142,CIN,NFL,16,0,Kevin Huber,KevinHuber27CIN2012,7,11,25-28
+567,Sebastian Janikowski\janikseb01,2005,27,1-17,OAK,NFL,16,0,Sebastian Janikowski,SebastianJanikowski27OAK2005,1,24,25-28
+568,Dirk Johnson\JohnDi20,2002,27,NA,NOR,NFL,1,0,Dirk Johnson,DirkJohnson27NOR2002,Undrafted,Undrafted,25-28
+569,Chris Jones\JoneCh02,2016,27,NA,DAL,NFL,16,0,Chris Jones,ChrisJones27DAL2016,Undrafted,Undrafted,25-28
+570,Donnie Jones\JoneDo21,2007,27,7-224,STL,NFL,16,0,Donnie Jones,DonnieJones27STL2007,9,50,25-28
+571,Nate Kaeding\kaedinat01,2009,27,3-65,SDG,NFL,16,0,Nate Kaeding,NateKaeding27SDG2009,5,69,25-28
+572,Jeremy Kapinos\KapiJe20,2011,27,NA,PIT,NFL,8,0,Jeremy Kapinos,JeremyKapinos27PIT2011,Undrafted,Undrafted,25-28
+573,Brett Kern\KernBr20,2013,27,NA,TEN,NFL,16,0,Brett Kern,BrettKern27TEN2013,Undrafted,Undrafted,25-28
+574,Marquette King\KingMa00,2015,27,NA,OAK,NFL,16,0,Marquette King,MarquetteKing27OAK2015,Undrafted,Undrafted,25-28
+575,Chris Kluwe\KluwCh20,2008,27,NA,MIN,NFL,16,0,Chris Kluwe,ChrisKluwe27MIN2008,Undrafted,Undrafted,25-28
+576,Micah Knorr\knorrmic01,2002,27,NA,2TM,NFL,15,0,Micah Knorr,MicahKnorr272TM2002,Undrafted,Undrafted,25-28
+577,Sam Koch\KochSa20,2009,27,6-203,BAL,NFL,16,0,Sam Koch,SamKoch27BAL2009,8,42,25-28
+578,Michael Koenen\koenemic01,2009,27,NA,ATL,NFL,16,0,Michael Koenen,MichaelKoenen27ATL2009,Undrafted,Undrafted,25-28
+579,Bill LaFleur\LaFlBi20,2003,27,NA,SFO,NFL,16,0,Bill LaFleur,BillLaFleur27SFO2003,Undrafted,Undrafted,25-28
+580,Josh Lambo\LambJo00,2017,27,NA,JAX,NFL,10,0,Josh Lambo,JoshLambo27JAX2017,Undrafted,Undrafted,25-28
+581,Spencer Lanning\LannSp00,2015,27,NA,CHI,NFL,1,0,Spencer Lanning,SpencerLanning27CHI2015,Undrafted,Undrafted,25-28
+582,Kyle Larson\LarsKy20,2007,27,NA,CIN,NFL,16,0,Kyle Larson,KyleLarson27CIN2007,Undrafted,Undrafted,25-28
+583,Shane Lechler\LechSh20,2003,27,5-142,OAK,NFL,16,0,Shane Lechler,ShaneLechler27OAK2003,7,11,25-28
+584,Andy Lee\LeexAn20,2009,27,6-188,SFO,NFL,16,0,Andy Lee,AndyLee27SFO2009,8,34,25-28
+585,Rian Lindell\linderia01,2004,27,NA,BUF,NFL,16,0,Rian Lindell,RianLindell27BUF2004,Undrafted,Undrafted,25-28
+586,Rhys Lloyd\LloyRh44,2009,27,NA,CAR,NFL,16,0,Rhys Lloyd,RhysLloyd27CAR2009,Undrafted,Undrafted,25-28
+587,Jeff Locke\LockJe00,2016,27,5-155,MIN,NFL,16,0,Jeff Locke,JeffLocke27MIN2016,7,16,25-28
+588,Ryan Longwell\longwrya01,2001,27,NA,GNB,NFL,16,0,Ryan Longwell,RyanLongwell27GNB2001,Undrafted,Undrafted,25-28
+589,Olindo Mare\marexoli01,2000,27,NA,MIA,NFL,16,0,Olindo Mare,OlindoMare27MIA2000,Undrafted,Undrafted,25-28
+590,Sam Martin\MartSa01,2017,27,5-165,DET,NFL,10,0,Sam Martin,SamMartin27DET2017,7,20,25-28
+591,Tim Masthay\MastTi99,2014,27,NA,GNB,NFL,16,0,Tim Masthay,TimMasthay27GNB2014,Undrafted,Undrafted,25-28
+592,Brad Maynard\MaynBr20,2001,27,3-95,CHI,NFL,16,0,Brad Maynard,BradMaynard27CHI2001,5,79,25-28
+593,Pat McAfee\McAfPa44,2014,27,7-222,IND,NFL,16,0,Pat McAfee,PatMcAfee27IND2014,9,48,25-28
+594,Mat McBriar\McBrMa20,2006,27,NA,DAL,NFL,16,0,Mat McBriar,MatMcBriar27DAL2006,Undrafted,Undrafted,25-28
+595,Brandon McManus\McMaBr01,2018,27,NA,DEN,NFL,8,0,Brandon McManus,BrandonMcManus27DEN2018,Undrafted,Undrafted,25-28
+596,Zoltan Mesko\MeskZo99,2013,27,5-150,2TM,NFL,8,0,Zoltan Mesko,ZoltanMesko272TM2013,7,14,25-28
+597,Brian Moorman\MoorBr24,2003,27,NA,BUF,NFL,16,0,Brian Moorman,BrianMoorman27BUF2003,Undrafted,Undrafted,25-28
+598,Thomas Morstead\MorsTh00,2013,27,5-164,NOR,NFL,16,0,Thomas Morstead,ThomasMorstead27NOR2013,7,19,25-28
+599,Jason Myers\MyerJa00,2018,27,NA,NYJ,NFL,8,0,Jason Myers,JasonMyers27NYJ2018,Undrafted,Undrafted,25-28
+600,Joe Nedney\nednejoe01,2000,27,NA,2TM,NFL,15,0,Joe Nedney,JoeNedney272TM2000,Undrafted,Undrafted,25-28
+601,Brad Nortman\NortBr00,2016,27,6-207,JAX,NFL,16,0,Brad Nortman,BradNortman27JAX2016,8,43,25-28
+602,Nick Novak\novaknic01,2008,27,NA,KAN,NFL,6,0,Nick Novak,NickNovak27KAN2008,Undrafted,Undrafted,25-28
+603,Mike Nugent\nugenmik01,2009,27,2-47,2TM,NFL,6,0,Mike Nugent,MikeNugent272TM2009,4,64,25-28
+604,Pat O'Donnell\ODonPa00,2018,27,6-191,CHI,NFL,7,0,Pat O'Donnell,PatO'Donnell27CHI2018,8,35,25-28
+605,Dimitri Patterson\PattDi20,2010,27,NA,PHI,NFL,16,9,Dimitri Patterson,DimitriPatterson27PHI2010,Undrafted,Undrafted,25-28
+606,Adam Podlesh\PodlAd20,2010,27,4-101,JAX,NFL,16,0,Adam Podlesh,AdamPodlesh27JAX2010,6,2,25-28
+607,Matt Prater\PratMa20,2011,27,NA,DEN,NFL,16,0,Matt Prater,MattPrater27DEN2011,Undrafted,Undrafted,25-28
+608,Ryan Quigley\QuigRy00,2017,27,NA,MIN,NFL,16,0,Ryan Quigley,RyanQuigley27MIN2017,Undrafted,Undrafted,25-28
+609,Neil Rackers\rackenei01,2003,27,6-169,ARI,NFL,7,0,Neil Rackers,NeilRackers27ARI2003,8,23,25-28
+610,Jeff Reed\reedxjef01,2006,27,NA,PIT,NFL,16,0,Jeff Reed,JeffReed27PIT2006,Undrafted,Undrafted,25-28
+611,Kyle Richardson\RichKy20,2000,27,NA,BAL,NFL,16,0,Kyle Richardson,KyleRichardson27BAL2000,Undrafted,Undrafted,25-28
+612,Wade Richey\richewad01,2003,27,NA,BAL,NFL,15,0,Wade Richey,WadeRichey27BAL2003,Undrafted,Undrafted,25-28
+613,Jon Ryan\RyanJo21,2008,27,NA,SEA,NFL,15,0,Jon Ryan,JonRyan27SEA2008,Undrafted,Undrafted,25-28
+614,Cairo Santos\SantCa01,2018,27,NA,LAR,NFL,2,0,Cairo Santos,CairoSantos27LAR2018,Undrafted,Undrafted,25-28
+615,Todd Sauerbrun\SaueTo20,2000,27,2-56,KAN,NFL,16,0,Todd Sauerbrun,ToddSauerbrun27KAN2000,4,65,25-28
+616,Colton Schmidt\SchmCo00,2017,27,NA,BUF,NFL,16,0,Colton Schmidt,ColtonSchmidt27BUF2017,Undrafted,Undrafted,25-28
+617,Jake Schum\SchuJa00,2016,27,NA,GNB,NFL,16,0,Jake Schum,JakeSchum27GNB2016,Undrafted,Undrafted,25-28
+618,Mike Scifres\ScifMi20,2007,27,5-149,SDG,NFL,16,0,Mike Scifres,MikeScifres27SDG2007,7,13,25-28
+619,Josh Scobee\scobejos01,2009,27,5-137,JAX,NFL,16,0,Josh Scobee,JoshScobee27JAX2009,7,9,25-28
+620,Tim Seder\sedertim01,2001,27,NA,DAL,NFL,8,0,Tim Seder,TimSeder27DAL2001,Undrafted,Undrafted,25-28
+621,Daniel Sepulveda\SepuDa20,2011,27,4-112,PIT,NFL,8,0,Daniel Sepulveda,DanielSepulveda27PIT2011,6,5,25-28
+622,Hunter Smith\SmitHu21,2004,27,7-210,IND,NFL,16,0,Hunter Smith,HunterSmith27IND2004,9,44,25-28
+623,Chad Stanley\StanCh20,2003,27,NA,HOU,NFL,16,0,Chad Stanley,ChadStanley27HOU2003,Undrafted,Undrafted,25-28
+624,Caleb Sturgis\SturCa00,2016,27,5-166,PHI,NFL,16,0,Caleb Sturgis,CalebSturgis27PHI2016,7,21,25-28
+625,Ryan Succop\SuccRy44,2013,27,7-256,KAN,NFL,16,0,Ryan Succop,RyanSuccop27KAN2013,9,61,25-28
+626,Shaun Suisham\suishsha01,2008,27,NA,WAS,NFL,16,0,Shaun Suisham,ShaunSuisham27WAS2008,Undrafted,Undrafted,25-28
+627,Giorgio Tavecchio\TaveGi00,2017,27,NA,OAK,NFL,16,0,Giorgio Tavecchio,GiorgioTavecchio27OAK2017,Undrafted,Undrafted,25-28
+628,Justin Tucker\TuckJu00,2016,27,NA,BAL,NFL,16,0,Justin Tucker,JustinTucker27BAL2016,Undrafted,Undrafted,25-28
+629,Lawrence Tynes\tyneslaw01,2005,27,NA,KAN,NFL,16,0,Lawrence Tynes,LawrenceTynes27KAN2005,Undrafted,Undrafted,25-28
+630,Blair Walsh\WalsBl00,2017,27,6-175,SEA,NFL,16,0,Blair Walsh,BlairWalsh27SEA2017,8,28,25-28
+631,Tress Way\WayxTr00,2017,27,NA,WAS,NFL,16,0,Tress Way,TressWay27WAS2017,Undrafted,Undrafted,25-28
+632,Steve Weatherford\WeatSt20,2009,27,NA,NYJ,NFL,16,0,Steve Weatherford,SteveWeatherford27NYJ2009,Undrafted,Undrafted,25-28
+633,Dave Zastudil\ZastDa20,2005,27,4-112,BAL,NFL,16,0,Dave Zastudil,DaveZastudil27BAL2005,6,5,25-28
+634,Greg Zuerlein\ZuerGr00,2014,27,6-171,STL,NFL,16,0,Greg Zuerlein,GregZuerlein27STL2014,8,25,25-28
+635,David Akers\akersdav01,2002,28,NA,PHI,NFL,16,0,David Akers,DavidAkers28PHI2002,Undrafted,Undrafted,25-28
+636,Ryan Allen\AlleRy01,2018,28,NA,NWE,NFL,8,0,Ryan Allen,RyanAllen28NWE2018,Undrafted,Undrafted,25-28
+637,Bryan Anger\AngeBr00,2016,28,3-70,TAM,NFL,16,0,Bryan Anger,BryanAnger28TAM2016,5,71,25-28
+638,Dan Bailey\BailDa00,2016,28,NA,DAL,NFL,16,0,Dan Bailey,DanBailey28DAL2016,Undrafted,Undrafted,25-28
+639,Jason Baker\BakeJa20,2006,28,NA,CAR,NFL,16,0,Jason Baker,JasonBaker28CAR2006,Undrafted,Undrafted,25-28
+640,Connor Barth\barthco01,2014,28,NA,DEN,NFL,5,0,Connor Barth,ConnorBarth28DEN2014,Undrafted,Undrafted,25-28
+641,Mitch Berger\BergMi20,2000,28,6-193,MIN,NFL,16,0,Mitch Berger,MitchBerger28MIN2000,8,37,25-28
+642,Josh Bidwell\BidwJo20,2004,28,4-133,TAM,NFL,16,0,Josh Bidwell,JoshBidwell28TAM2004,6,8,25-28
+643,Rob Bironas\bironrob01,2006,28,NA,TEN,NFL,16,0,Rob Bironas,RobBironas28TEN2006,Undrafted,Undrafted,25-28
+644,Matthew Bosher\BoshMa00,2015,28,6-192,ATL,NFL,16,0,Matthew Bosher,MatthewBosher28ATL2015,8,36,25-28
+645,Josh Brown\brownjos01,2007,28,7-222,SEA,NFL,16,0,Josh Brown,JoshBrown28SEA2007,9,48,25-28
+646,Kris Brown\brownkri01,2004,28,7-228,HOU,NFL,16,0,Kris Brown,KrisBrown28HOU2004,9,52,25-28
+647,Chris Bryan\BryaCh01,2010,28,NA,TAM,NFL,4,0,Chris Bryan,ChrisBryan28TAM2010,Undrafted,Undrafted,25-28
+648,Matt Bryant\bryanmat01,2003,28,NA,NYG,NFL,11,0,Matt Bryant,MattBryant28NYG2003,Undrafted,Undrafted,25-28
+649,Randy Bullock\BullRa00,2017,28,5-161,CIN,NFL,15,0,Randy Bullock,RandyBullock28CIN2017,7,18,25-28
+650,Dan Carpenter\CarpDa44,2013,28,NA,BUF,NFL,16,0,Dan Carpenter,DanCarpenter28BUF2013,Undrafted,Undrafted,25-28
+651,Britton Colquitt\ColqBr00,2013,28,NA,DEN,NFL,16,0,Britton Colquitt,BrittonColquitt28DEN2013,Undrafted,Undrafted,25-28
+652,Dustin Colquitt\ColqDu20,2010,28,3-99,KAN,NFL,16,0,Dustin Colquitt,DustinColquitt28KAN2010,5,82,25-28
+653,Brett Conway\conwabre01,2003,28,3-90,2TM,NFL,8,0,Brett Conway,BrettConway282TM2003,5,78,25-28
+654,Jose Cortez\cortejos01,2003,28,NA,MIN,NFL,2,0,Jose Cortez,JoseCortez28MIN2003,Undrafted,Undrafted,25-28
+655,Mason Crosby\CrosMa20,2012,28,6-193,GNB,NFL,16,0,Mason Crosby,MasonCrosby28GNB2012,8,37,25-28
+656,Phil Dawson\dawsophi01,2003,28,NA,CLE,NFL,13,0,Phil Dawson,PhilDawson28CLE2003,Undrafted,Undrafted,25-28
+657,Jay Feely\feelyjay01,2004,28,NA,ATL,NFL,16,0,Jay Feely,JayFeely28ATL2004,Undrafted,Undrafted,25-28
+658,Brandon Fields\FielBr20,2012,28,7-225,MIA,NFL,16,0,Brandon Fields,BrandonFields28MIA2012,9,51,25-28
+659,Nick Folk\FolkNi20,2012,28,6-178,NYJ,NFL,16,0,Nick Folk,NickFolk28NYJ2012,8,30,25-28
+660,Kai Forbath\ForbKa00,2015,28,NA,2TM,NFL,11,0,Kai Forbath,KaiForbath282TM2015,Undrafted,Undrafted,25-28
+661,Derrick Frost\FrosDe20,2008,28,NA,GNB,NFL,12,0,Derrick Frost,DerrickFrost28GNB2008,Undrafted,Undrafted,25-28
+662,Graham Gano\GanoGr44,2015,28,NA,CAR,NFL,16,0,Graham Gano,GrahamGano28CAR2015,Undrafted,Undrafted,25-28
+663,Stephen Gostkowski\GostSt20,2012,28,4-118,NWE,NFL,16,0,Stephen Gostkowski,StephenGostkowski28NWE2012,6,6,25-28
+664,Robbie Gould\gouldrob01,2009,28,NA,CHI,NFL,16,0,Robbie Gould,RobbieGould28CHI2009,Undrafted,Undrafted,25-28
+665,Toby Gowin\gowintob01,2003,28,NA,DAL,NFL,16,0,Toby Gowin,TobyGowin28DAL2003,Undrafted,Undrafted,25-28
+666,Shayne Graham\grahasha01,2005,28,NA,CIN,NFL,16,0,Shayne Graham,ShayneGraham28CIN2005,Undrafted,Undrafted,25-28
+667,Martin Gramatica\gramamar01,2003,28,3-80,TAM,NFL,16,0,Martin Gramatica,MartinGramatica28TAM2003,5,74,25-28
+668,John Hall\hallxjoh01,2002,28,NA,NYJ,NFL,16,0,John Hall,JohnHall28NYJ2002,Undrafted,Undrafted,25-28
+669,Chris Hanson\HansCh20,2004,28,NA,JAX,NFL,16,0,Chris Hanson,ChrisHanson28JAX2004,Undrafted,Undrafted,25-28
+670,Nick Harris\HarrNi20,2006,28,4-120,DET,NFL,16,0,Nick Harris,NickHarris28DET2006,6,7,25-28
+671,Garrett Hartley\HartGa00,2014,28,NA,CLE,NFL,2,0,Garrett Hartley,GarrettHartley28CLE2014,Undrafted,Undrafted,25-28
+672,Steven Hauschka\HausSt00,2013,28,NA,SEA,NFL,16,0,Steven Hauschka,StevenHauschka28SEA2013,Undrafted,Undrafted,25-28
+673,Johnny Hekker\HekkJo00,2018,28,NA,LAR,NFL,8,0,Johnny Hekker,JohnnyHekker28LAR2018,Undrafted,Undrafted,25-28
+674,Reggie Hodges\HodgRe20,2010,28,6-210,CLE,NFL,16,0,Reggie Hodges,ReggieHodges28CLE2010,8,44,25-28
+675,Mike Hollis\hollimik01,2000,28,NA,JAX,NFL,12,0,Mike Hollis,MikeHollis28JAX2000,Undrafted,Undrafted,25-28
+676,Dustin Hopkins\HopkDu00,2018,28,6-177,WAS,NFL,7,0,Dustin Hopkins,DustinHopkins28WAS2018,8,29,25-28
+677,Kevin Huber\HubeKe20,2013,28,5-142,CIN,NFL,14,0,Kevin Huber,KevinHuber28CIN2013,7,11,25-28
+678,Sebastian Janikowski\janikseb01,2006,28,1-17,OAK,NFL,16,0,Sebastian Janikowski,SebastianJanikowski28OAK2006,1,24,25-28
+679,Dirk Johnson\JohnDi20,2003,28,NA,PHI,NFL,16,0,Dirk Johnson,DirkJohnson28PHI2003,Undrafted,Undrafted,25-28
+680,Chris Jones\JoneCh02,2017,28,NA,DAL,NFL,16,0,Chris Jones,ChrisJones28DAL2017,Undrafted,Undrafted,25-28
+681,Donnie Jones\JoneDo21,2008,28,7-224,STL,NFL,16,0,Donnie Jones,DonnieJones28STL2008,9,50,25-28
+682,Nate Kaeding\kaedinat01,2010,28,3-65,SDG,NFL,13,0,Nate Kaeding,NateKaeding28SDG2010,5,69,25-28
+683,Brett Kern\KernBr20,2014,28,NA,TEN,NFL,14,0,Brett Kern,BrettKern28TEN2014,Undrafted,Undrafted,25-28
+684,Marquette King\KingMa00,2016,28,NA,OAK,NFL,16,0,Marquette King,MarquetteKing28OAK2016,Undrafted,Undrafted,25-28
+685,Chris Kluwe\KluwCh20,2009,28,NA,MIN,NFL,16,0,Chris Kluwe,ChrisKluwe28MIN2009,Undrafted,Undrafted,25-28
+686,Micah Knorr\knorrmic01,2003,28,NA,DEN,NFL,16,0,Micah Knorr,MicahKnorr28DEN2003,Undrafted,Undrafted,25-28
+687,Sam Koch\KochSa20,2010,28,6-203,BAL,NFL,16,0,Sam Koch,SamKoch28BAL2010,8,42,25-28
+688,Michael Koenen\koenemic01,2010,28,NA,ATL,NFL,16,0,Michael Koenen,MichaelKoenen28ATL2010,Undrafted,Undrafted,25-28
+689,Josh Lambo\LambJo00,2018,28,NA,JAX,NFL,8,0,Josh Lambo,JoshLambo28JAX2018,Undrafted,Undrafted,25-28
+690,Kyle Larson\LarsKy20,2008,28,NA,CIN,NFL,16,0,Kyle Larson,KyleLarson28CIN2008,Undrafted,Undrafted,25-28
+691,Shane Lechler\LechSh20,2004,28,5-142,OAK,NFL,16,0,Shane Lechler,ShaneLechler28OAK2004,7,11,25-28
+692,Andy Lee\LeexAn20,2010,28,6-188,SFO,NFL,16,0,Andy Lee,AndyLee28SFO2010,8,34,25-28
+693,Rian Lindell\linderia01,2005,28,NA,BUF,NFL,16,0,Rian Lindell,RianLindell28BUF2005,Undrafted,Undrafted,25-28
+694,Rhys Lloyd\LloyRh44,2010,28,NA,CAR,NFL,15,0,Rhys Lloyd,RhysLloyd28CAR2010,Undrafted,Undrafted,25-28
+695,Jeff Locke\LockJe00,2017,28,5-155,DET,NFL,5,0,Jeff Locke,JeffLocke28DET2017,7,16,25-28
+696,Ryan Longwell\longwrya01,2002,28,NA,GNB,NFL,16,0,Ryan Longwell,RyanLongwell28GNB2002,Undrafted,Undrafted,25-28
+697,Olindo Mare\marexoli01,2001,28,NA,MIA,NFL,16,0,Olindo Mare,OlindoMare28MIA2001,Undrafted,Undrafted,25-28
+698,Sam Martin\MartSa01,2018,28,5-165,DET,NFL,7,0,Sam Martin,SamMartin28DET2018,7,20,25-28
+699,Tim Masthay\MastTi99,2015,28,NA,GNB,NFL,16,0,Tim Masthay,TimMasthay28GNB2015,Undrafted,Undrafted,25-28
+700,Brad Maynard\MaynBr20,2002,28,3-95,CHI,NFL,16,0,Brad Maynard,BradMaynard28CHI2002,5,79,25-28
+701,Pat McAfee\McAfPa44,2015,28,7-222,IND,NFL,16,0,Pat McAfee,PatMcAfee28IND2015,9,48,25-28
+702,Mat McBriar\McBrMa20,2007,28,NA,DAL,NFL,16,0,Mat McBriar,MatMcBriar28DAL2007,Undrafted,Undrafted,25-28
+703,Richmond McGee\McGeRi01,2011,28,NA,CLE,NFL,1,0,Richmond McGee,RichmondMcGee28CLE2011,Undrafted,Undrafted,25-28
+704,Brian Moorman\MoorBr24,2004,28,NA,BUF,NFL,16,0,Brian Moorman,BrianMoorman28BUF2004,Undrafted,Undrafted,25-28
+705,Thomas Morstead\MorsTh00,2014,28,5-164,NOR,NFL,16,0,Thomas Morstead,ThomasMorstead28NOR2014,7,19,25-28
+706,Joe Nedney\nednejoe01,2001,28,NA,TEN,NFL,16,0,Joe Nedney,JoeNedney28TEN2001,Undrafted,Undrafted,25-28
+707,Brad Nortman\NortBr00,2017,28,6-207,JAX,NFL,16,0,Brad Nortman,BradNortman28JAX2017,8,43,25-28
+708,Mike Nugent\nugenmik01,2010,28,2-47,CIN,NFL,9,0,Mike Nugent,MikeNugent28CIN2010,4,64,25-28
+709,Glenn Pakulak\PakuGl00,2008,28,NA,NOR,NFL,8,0,Glenn Pakulak,GlennPakulak28NOR2008,Undrafted,Undrafted,25-28
+710,Adam Podlesh\PodlAd20,2011,28,4-101,CHI,NFL,16,0,Adam Podlesh,AdamPodlesh28CHI2011,6,2,25-28
+711,Matt Prater\PratMa20,2012,28,NA,DEN,NFL,16,0,Matt Prater,MattPrater28DEN2012,Undrafted,Undrafted,25-28
+712,Neil Rackers\rackenei01,2004,28,6-169,ARI,NFL,16,0,Neil Rackers,NeilRackers28ARI2004,8,23,25-28
+713,Dave Rayner\raynedav01,2010,28,6-202,DET,NFL,8,0,Dave Rayner,DaveRayner28DET2010,8,41,25-28
+714,Jeff Reed\reedxjef01,2007,28,NA,PIT,NFL,16,0,Jeff Reed,JeffReed28PIT2007,Undrafted,Undrafted,25-28
+715,Kyle Richardson\RichKy20,2001,28,NA,BAL,NFL,16,0,Kyle Richardson,KyleRichardson28BAL2001,Undrafted,Undrafted,25-28
+716,Wade Richey\richewad01,2004,28,NA,BAL,NFL,12,0,Wade Richey,WadeRichey28BAL2004,Undrafted,Undrafted,25-28
+717,Jon Ryan\RyanJo21,2009,28,NA,SEA,NFL,16,0,Jon Ryan,JonRyan28SEA2009,Undrafted,Undrafted,25-28
+718,Todd Sauerbrun\SaueTo20,2001,28,2-56,CAR,NFL,16,0,Todd Sauerbrun,ToddSauerbrun28CAR2001,4,65,25-28
+719,Mike Scifres\ScifMi20,2008,28,5-149,SDG,NFL,16,0,Mike Scifres,MikeScifres28SDG2008,7,13,25-28
+720,Josh Scobee\scobejos01,2010,28,5-137,JAX,NFL,16,0,Josh Scobee,JoshScobee28JAX2010,7,9,25-28
+721,Tim Seder\sedertim01,2002,28,NA,JAX,NFL,5,0,Tim Seder,TimSeder28JAX2002,Undrafted,Undrafted,25-28
+722,Hunter Smith\SmitHu21,2005,28,7-210,IND,NFL,16,0,Hunter Smith,HunterSmith28IND2005,9,44,25-28
+723,Jason Spitz\SpitJa20,2010,28,3-75,GNB,NFL,16,0,Jason Spitz,JasonSpitz28GNB2010,5,72,25-28
+724,Chad Stanley\StanCh20,2004,28,NA,HOU,NFL,16,0,Chad Stanley,ChadStanley28HOU2004,Undrafted,Undrafted,25-28
+725,Caleb Sturgis\SturCa00,2017,28,5-166,PHI,NFL,1,0,Caleb Sturgis,CalebSturgis28PHI2017,7,21,25-28
+726,Ryan Succop\SuccRy44,2014,28,7-256,TEN,NFL,16,0,Ryan Succop,RyanSuccop28TEN2014,9,61,25-28
+727,Shaun Suisham\suishsha01,2009,28,NA,2TM,NFL,14,0,Shaun Suisham,ShaunSuisham282TM2009,Undrafted,Undrafted,25-28
+728,Jim Tarle\TarlJi20,2000,28,NA,JAX,NFL,6,0,Jim Tarle,JimTarle28JAX2000,Undrafted,Undrafted,25-28
+729,Giorgio Tavecchio\TaveGi00,2018,28,NA,ATL,NFL,1,0,Giorgio Tavecchio,GiorgioTavecchio28ATL2018,Undrafted,Undrafted,25-28
+730,Jay Taylor\taylojay01,2004,28,NA,TAM,NFL,5,0,Jay Taylor,JayTaylor28TAM2004,Undrafted,Undrafted,25-28
+731,Justin Tucker\TuckJu00,2017,28,NA,BAL,NFL,16,0,Justin Tucker,JustinTucker28BAL2017,Undrafted,Undrafted,25-28
+732,Lawrence Tynes\tyneslaw01,2006,28,NA,KAN,NFL,16,0,Lawrence Tynes,LawrenceTynes28KAN2006,Undrafted,Undrafted,25-28
+733,Adam Vinatieri\vinatada01,2000,28,NA,NWE,NFL,16,0,Adam Vinatieri,AdamVinatieri28NWE2000,Undrafted,Undrafted,25-28
+734,Ken Walter\WaltKe20,2000,28,NA,CAR,NFL,16,0,Ken Walter,KenWalter28CAR2000,Undrafted,Undrafted,25-28
+735,Tress Way\WayxTr00,2018,28,NA,WAS,NFL,7,0,Tress Way,TressWay28WAS2018,Undrafted,Undrafted,25-28
+736,Steve Weatherford\WeatSt20,2010,28,NA,NYJ,NFL,16,0,Steve Weatherford,SteveWeatherford28NYJ2010,Undrafted,Undrafted,25-28
+737,Jeff Wilkins\wilkijef01,2000,28,NA,STL,NFL,11,0,Jeff Wilkins,JeffWilkins28STL2000,Undrafted,Undrafted,25-28
+738,Dave Zastudil\ZastDa20,2006,28,4-112,CLE,NFL,16,0,Dave Zastudil,DaveZastudil28CLE2006,6,5,25-28
+739,Greg Zuerlein\ZuerGr00,2015,28,6-171,STL,NFL,14,0,Greg Zuerlein,GregZuerlein28STL2015,8,25,25-28
+740,David Akers\akersdav01,2003,29,NA,PHI,NFL,16,0,David Akers,DavidAkers29PHI2003,Undrafted,Undrafted,29-32
+741,Shane Andrus\AndrSh00,2009,29,NA,3TM,NFL,5,0,Shane Andrus,ShaneAndrus293TM2009,Undrafted,Undrafted,29-32
+742,Bryan Anger\AngeBr00,2017,29,3-70,TAM,NFL,16,0,Bryan Anger,BryanAnger29TAM2017,5,71,29-32
+743,Dan Bailey\BailDa00,2017,29,NA,DAL,NFL,12,0,Dan Bailey,DanBailey29DAL2017,Undrafted,Undrafted,29-32
+744,Jason Baker\BakeJa20,2007,29,NA,CAR,NFL,16,0,Jason Baker,JasonBaker29CAR2007,Undrafted,Undrafted,29-32
+745,Mike Barr\BarrMi21,2007,29,NA,ARI,NFL,11,0,Mike Barr,MikeBarr29ARI2007,Undrafted,Undrafted,29-32
+746,Connor Barth\barthco01,2015,29,NA,TAM,NFL,12,0,Connor Barth,ConnorBarth29TAM2015,Undrafted,Undrafted,29-32
+747,Mitch Berger\BergMi20,2001,29,6-193,MIN,NFL,12,0,Mitch Berger,MitchBerger29MIN2001,8,37,29-32
+748,Josh Bidwell\BidwJo20,2005,29,4-133,TAM,NFL,16,0,Josh Bidwell,JoshBidwell29TAM2005,6,8,29-32
+749,Rob Bironas\bironrob01,2007,29,NA,TEN,NFL,16,0,Rob Bironas,RobBironas29TEN2007,Undrafted,Undrafted,29-32
+750,Matthew Bosher\BoshMa00,2016,29,6-192,ATL,NFL,15,0,Matthew Bosher,MatthewBosher29ATL2016,8,36,29-32
+751,Josh Brown\brownjos01,2008,29,7-222,STL,NFL,16,0,Josh Brown,JoshBrown29STL2008,9,48,29-32
+752,Kris Brown\brownkri01,2005,29,7-228,HOU,NFL,16,0,Kris Brown,KrisBrown29HOU2005,9,52,29-32
+753,Matt Bryant\bryanmat01,2004,29,NA,2TM,NFL,4,0,Matt Bryant,MattBryant292TM2004,Undrafted,Undrafted,29-32
+754,Randy Bullock\BullRa00,2018,29,5-161,CIN,NFL,8,0,Randy Bullock,RandyBullock29CIN2018,7,18,29-32
+755,Dan Carpenter\CarpDa44,2014,29,NA,BUF,NFL,16,0,Dan Carpenter,DanCarpenter29BUF2014,Undrafted,Undrafted,29-32
+756,Britton Colquitt\ColqBr00,2014,29,NA,DEN,NFL,16,0,Britton Colquitt,BrittonColquitt29DEN2014,Undrafted,Undrafted,29-32
+757,Dustin Colquitt\ColqDu20,2011,29,3-99,KAN,NFL,16,0,Dustin Colquitt,DustinColquitt29KAN2011,5,82,29-32
+758,Jose Cortez\cortejos01,2004,29,NA,MIN,NFL,8,0,Jose Cortez,JoseCortez29MIN2004,Undrafted,Undrafted,29-32
+759,Mason Crosby\CrosMa20,2013,29,6-193,GNB,NFL,16,0,Mason Crosby,MasonCrosby29GNB2013,8,37,29-32
+760,Billy Cundiff\cundibil01,2009,29,NA,2TM,NFL,12,0,Billy Cundiff,BillyCundiff292TM2009,Undrafted,Undrafted,29-32
+761,Phil Dawson\dawsophi01,2004,29,NA,CLE,NFL,16,0,Phil Dawson,PhilDawson29CLE2004,Undrafted,Undrafted,29-32
+762,Jay Feely\feelyjay01,2005,29,NA,NYG,NFL,16,0,Jay Feely,JayFeely29NYG2005,Undrafted,Undrafted,29-32
+763,Brandon Fields\FielBr20,2013,29,7-225,MIA,NFL,16,0,Brandon Fields,BrandonFields29MIA2013,9,51,29-32
+764,Nick Folk\FolkNi20,2013,29,6-178,NYJ,NFL,16,0,Nick Folk,NickFolk29NYJ2013,8,30,29-32
+765,Kai Forbath\ForbKa00,2016,29,NA,MIN,NFL,7,0,Kai Forbath,KaiForbath29MIN2016,Undrafted,Undrafted,29-32
+766,Graham Gano\GanoGr44,2016,29,NA,CAR,NFL,16,0,Graham Gano,GrahamGano29CAR2016,Undrafted,Undrafted,29-32
+767,Stephen Gostkowski\GostSt20,2013,29,4-118,NWE,NFL,16,0,Stephen Gostkowski,StephenGostkowski29NWE2013,6,6,29-32
+768,Robbie Gould\gouldrob01,2010,29,NA,CHI,NFL,16,0,Robbie Gould,RobbieGould29CHI2010,Undrafted,Undrafted,29-32
+769,Toby Gowin\gowintob01,2004,29,NA,NYJ,NFL,16,0,Toby Gowin,TobyGowin29NYJ2004,Undrafted,Undrafted,29-32
+770,Shayne Graham\grahasha01,2006,29,NA,CIN,NFL,16,0,Shayne Graham,ShayneGraham29CIN2006,Undrafted,Undrafted,29-32
+771,Martin Gramatica\gramamar01,2004,29,3-80,2TM,NFL,15,0,Martin Gramatica,MartinGramatica292TM2004,5,74,29-32
+772,John Hall\hallxjoh01,2003,29,NA,WAS,NFL,16,0,John Hall,JohnHall29WAS2003,Undrafted,Undrafted,29-32
+773,Chris Hanson\HansCh20,2005,29,NA,JAX,NFL,16,0,Chris Hanson,ChrisHanson29JAX2005,Undrafted,Undrafted,29-32
+774,Nick Harris\HarrNi20,2007,29,4-120,DET,NFL,16,0,Nick Harris,NickHarris29DET2007,6,7,29-32
+775,Steven Hauschka\HausSt00,2014,29,NA,SEA,NFL,16,0,Steven Hauschka,StevenHauschka29SEA2014,Undrafted,Undrafted,29-32
+776,Craig Hentrich\hentrcra01,2000,29,8-200,TEN,NFL,16,0,Craig Hentrich,CraigHentrich29TEN2000,10,39,29-32
+777,Mike Hollis\hollimik01,2001,29,NA,JAX,NFL,16,0,Mike Hollis,MikeHollis29JAX2001,Undrafted,Undrafted,29-32
+778,Kevin Huber\HubeKe20,2014,29,5-142,CIN,NFL,16,0,Kevin Huber,KevinHuber29CIN2014,7,11,29-32
+779,Sebastian Janikowski\janikseb01,2007,29,1-17,OAK,NFL,16,0,Sebastian Janikowski,SebastianJanikowski29OAK2007,1,24,29-32
+780,Dirk Johnson\JohnDi20,2004,29,NA,PHI,NFL,16,0,Dirk Johnson,DirkJohnson29PHI2004,Undrafted,Undrafted,29-32
+781,Chris Jones\JoneCh02,2018,29,NA,DAL,NFL,7,0,Chris Jones,ChrisJones29DAL2018,Undrafted,Undrafted,29-32
+782,Donnie Jones\JoneDo21,2009,29,7-224,STL,NFL,16,0,Donnie Jones,DonnieJones29STL2009,9,50,29-32
+783,Nate Kaeding\kaedinat01,2011,29,3-65,SDG,NFL,1,0,Nate Kaeding,NateKaeding29SDG2011,5,69,29-32
+784,Brett Kern\KernBr20,2015,29,NA,TEN,NFL,16,0,Brett Kern,BrettKern29TEN2015,Undrafted,Undrafted,29-32
+785,Danny Kight\KighDa20,2000,29,NA,IND,NFL,16,0,Danny Kight,DannyKight29IND2000,Undrafted,Undrafted,29-32
+786,Marquette King\KingMa00,2017,29,NA,OAK,NFL,16,0,Marquette King,MarquetteKing29OAK2017,Undrafted,Undrafted,29-32
+787,Chris Kluwe\KluwCh20,2010,29,NA,MIN,NFL,16,0,Chris Kluwe,ChrisKluwe29MIN2010,Undrafted,Undrafted,29-32
+788,Micah Knorr\knorrmic01,2004,29,NA,DEN,NFL,12,0,Micah Knorr,MicahKnorr29DEN2004,Undrafted,Undrafted,29-32
+789,Sam Koch\KochSa20,2011,29,6-203,BAL,NFL,16,0,Sam Koch,SamKoch29BAL2011,8,42,29-32
+790,Michael Koenen\koenemic01,2011,29,NA,TAM,NFL,16,0,Michael Koenen,MichaelKoenen29TAM2011,Undrafted,Undrafted,29-32
+791,Shane Lechler\LechSh20,2005,29,5-142,OAK,NFL,16,0,Shane Lechler,ShaneLechler29OAK2005,7,11,29-32
+792,Andy Lee\LeexAn20,2011,29,6-188,SFO,NFL,16,0,Andy Lee,AndyLee29SFO2011,8,34,29-32
+793,Rian Lindell\linderia01,2006,29,NA,BUF,NFL,16,0,Rian Lindell,RianLindell29BUF2006,Undrafted,Undrafted,29-32
+794,Ryan Longwell\longwrya01,2003,29,NA,GNB,NFL,16,0,Ryan Longwell,RyanLongwell29GNB2003,Undrafted,Undrafted,29-32
+795,Brett Maher\MaheBr01,2018,29,NA,DAL,NFL,7,0,Brett Maher,BrettMaher29DAL2018,Undrafted,Undrafted,29-32
+796,Olindo Mare\marexoli01,2002,29,NA,MIA,NFL,16,0,Olindo Mare,OlindoMare29MIA2002,Undrafted,Undrafted,29-32
+797,Brad Maynard\MaynBr20,2003,29,3-95,CHI,NFL,16,0,Brad Maynard,BradMaynard29CHI2003,5,79,29-32
+798,Pat McAfee\McAfPa44,2016,29,7-222,IND,NFL,16,0,Pat McAfee,PatMcAfee29IND2016,9,48,29-32
+799,Mat McBriar\McBrMa20,2008,29,NA,DAL,NFL,6,0,Mat McBriar,MatMcBriar29DAL2008,Undrafted,Undrafted,29-32
+800,Justin Medlock\MedlJu20,2012,29,5-160,CAR,NFL,10,0,Justin Medlock,JustinMedlock29CAR2012,7,17,29-32
+801,Brian Moorman\MoorBr24,2005,29,NA,BUF,NFL,16,0,Brian Moorman,BrianMoorman29BUF2005,Undrafted,Undrafted,29-32
+802,Thomas Morstead\MorsTh00,2015,29,5-164,NOR,NFL,14,0,Thomas Morstead,ThomasMorstead29NOR2015,7,19,29-32
+803,Joe Nedney\nednejoe01,2002,29,NA,TEN,NFL,16,0,Joe Nedney,JoeNedney29TEN2002,Undrafted,Undrafted,29-32
+804,Mike Nugent\nugenmik01,2011,29,2-47,CIN,NFL,16,0,Mike Nugent,MikeNugent29CIN2011,4,64,29-32
+805,Glenn Pakulak\PakuGl00,2009,29,NA,WAS,NFL,2,0,Glenn Pakulak,GlennPakulak29WAS2009,Undrafted,Undrafted,29-32
+806,Adam Podlesh\PodlAd20,2012,29,4-101,CHI,NFL,16,0,Adam Podlesh,AdamPodlesh29CHI2012,6,2,29-32
+807,Matt Prater\PratMa20,2013,29,NA,DEN,NFL,16,0,Matt Prater,MattPrater29DEN2013,Undrafted,Undrafted,29-32
+808,Neil Rackers\rackenei01,2005,29,6-169,ARI,NFL,15,0,Neil Rackers,NeilRackers29ARI2005,8,23,29-32
+809,Dave Rayner\raynedav01,2011,29,6-202,2TM,NFL,8,0,Dave Rayner,DaveRayner292TM2011,8,41,29-32
+810,Jeff Reed\reedxjef01,2008,29,NA,PIT,NFL,16,0,Jeff Reed,JeffReed29PIT2008,Undrafted,Undrafted,29-32
+811,Kyle Richardson\RichKy20,2002,29,NA,MIN,NFL,16,0,Kyle Richardson,KyleRichardson29MIN2002,Undrafted,Undrafted,29-32
+812,Jon Ryan\RyanJo21,2010,29,NA,SEA,NFL,16,0,Jon Ryan,JonRyan29SEA2010,Undrafted,Undrafted,29-32
+813,Todd Sauerbrun\SaueTo20,2002,29,2-56,CAR,NFL,16,0,Todd Sauerbrun,ToddSauerbrun29CAR2002,4,65,29-32
+814,Mike Scifres\ScifMi20,2009,29,5-149,SDG,NFL,16,0,Mike Scifres,MikeScifres29SDG2009,7,13,29-32
+815,Josh Scobee\scobejos01,2011,29,5-137,JAX,NFL,16,0,Josh Scobee,JoshScobee29JAX2011,7,9,29-32
+816,Hunter Smith\SmitHu21,2006,29,7-210,IND,NFL,16,0,Hunter Smith,HunterSmith29IND2006,9,44,29-32
+817,Chad Stanley\StanCh20,2005,29,NA,HOU,NFL,16,0,Chad Stanley,ChadStanley29HOU2005,Undrafted,Undrafted,29-32
+818,Caleb Sturgis\SturCa00,2018,29,5-166,LAC,NFL,5,0,Caleb Sturgis,CalebSturgis29LAC2018,7,21,29-32
+819,Ryan Succop\SuccRy44,2015,29,7-256,TEN,NFL,16,0,Ryan Succop,RyanSuccop29TEN2015,9,61,29-32
+820,Shaun Suisham\suishsha01,2010,29,NA,PIT,NFL,7,0,Shaun Suisham,ShaunSuisham29PIT2010,Undrafted,Undrafted,29-32
+821,Jim Tarle\TarlJi20,2001,29,NA,JAX,NFL,9,0,Jim Tarle,JimTarle29JAX2001,Undrafted,Undrafted,29-32
+822,Justin Tucker\TuckJu00,2018,29,NA,BAL,NFL,8,0,Justin Tucker,JustinTucker29BAL2018,Undrafted,Undrafted,29-32
+823,Lawrence Tynes\tyneslaw01,2007,29,NA,NYG,NFL,16,0,Lawrence Tynes,LawrenceTynes29NYG2007,Undrafted,Undrafted,29-32
+824,Adam Vinatieri\vinatada01,2001,29,NA,NWE,NFL,16,0,Adam Vinatieri,AdamVinatieri29NWE2001,Undrafted,Undrafted,29-32
+825,Ken Walter\WaltKe20,2001,29,NA,NWE,NFL,11,0,Ken Walter,KenWalter29NWE2001,Undrafted,Undrafted,29-32
+826,Steve Weatherford\WeatSt20,2011,29,NA,NYG,NFL,16,0,Steve Weatherford,SteveWeatherford29NYG2011,Undrafted,Undrafted,29-32
+827,Wes Welker\WelkWe00,2010,29,NA,NWE,NFL,15,11,Wes Welker,WesWelker29NWE2010,Undrafted,Undrafted,29-32
+828,Jeff Wilkins\wilkijef01,2001,29,NA,STL,NFL,16,0,Jeff Wilkins,JeffWilkins29STL2001,Undrafted,Undrafted,29-32
+829,Dave Zastudil\ZastDa20,2007,29,4-112,CLE,NFL,12,0,Dave Zastudil,DaveZastudil29CLE2007,6,5,29-32
+830,Greg Zuerlein\ZuerGr00,2016,29,6-171,LAR,NFL,16,0,Greg Zuerlein,GregZuerlein29LAR2016,8,25,29-32
+831,David Akers\akersdav01,2004,30,NA,PHI,NFL,16,0,David Akers,DavidAkers30PHI2004,Undrafted,Undrafted,29-32
+832,Shane Andrus\AndrSh00,2010,30,NA,SFO,NFL,2,0,Shane Andrus,ShaneAndrus30SFO2010,Undrafted,Undrafted,29-32
+833,Bryan Anger\AngeBr00,2018,30,3-70,TAM,NFL,7,0,Bryan Anger,BryanAnger30TAM2018,5,71,29-32
+834,Dan Bailey\BailDa00,2018,30,NA,MIN,NFL,6,0,Dan Bailey,DanBailey30MIN2018,Undrafted,Undrafted,29-32
+835,Jason Baker\BakeJa20,2008,30,NA,CAR,NFL,16,0,Jason Baker,JasonBaker30CAR2008,Undrafted,Undrafted,29-32
+836,Connor Barth\barthco01,2016,30,NA,CHI,NFL,16,0,Connor Barth,ConnorBarth30CHI2016,Undrafted,Undrafted,29-32
+837,Mitch Berger\BergMi20,2002,30,6-193,STL,NFL,16,0,Mitch Berger,MitchBerger30STL2002,8,37,29-32
+838,Josh Bidwell\BidwJo20,2006,30,4-133,TAM,NFL,16,0,Josh Bidwell,JoshBidwell30TAM2006,6,8,29-32
+839,Rob Bironas\bironrob01,2008,30,NA,TEN,NFL,16,0,Rob Bironas,RobBironas30TEN2008,Undrafted,Undrafted,29-32
+840,Matthew Bosher\BoshMa00,2017,30,6-192,ATL,NFL,16,0,Matthew Bosher,MatthewBosher30ATL2017,8,36,29-32
+841,Doug Brien\briendou01,2000,30,3-85,NOR,NFL,16,0,Doug Brien,DougBrien30NOR2000,5,75,29-32
+842,Josh Brown\brownjos01,2009,30,7-222,STL,NFL,16,0,Josh Brown,JoshBrown30STL2009,9,48,29-32
+843,Kris Brown\brownkri01,2006,30,7-228,HOU,NFL,16,0,Kris Brown,KrisBrown30HOU2006,9,52,29-32
+844,Matt Bryant\bryanmat01,2005,30,NA,TAM,NFL,15,0,Matt Bryant,MattBryant30TAM2005,Undrafted,Undrafted,29-32
+845,Dan Carpenter\CarpDa44,2015,30,NA,BUF,NFL,16,0,Dan Carpenter,DanCarpenter30BUF2015,Undrafted,Undrafted,29-32
+846,Britton Colquitt\ColqBr00,2015,30,NA,DEN,NFL,16,0,Britton Colquitt,BrittonColquitt30DEN2015,Undrafted,Undrafted,29-32
+847,Dustin Colquitt\ColqDu20,2012,30,3-99,KAN,NFL,16,0,Dustin Colquitt,DustinColquitt30KAN2012,5,82,29-32
+848,Jose Cortez\cortejos01,2005,30,NA,4TM,NFL,14,0,Jose Cortez,JoseCortez304TM2005,Undrafted,Undrafted,29-32
+849,Mason Crosby\CrosMa20,2014,30,6-193,GNB,NFL,16,0,Mason Crosby,MasonCrosby30GNB2014,8,37,29-32
+850,Billy Cundiff\cundibil01,2010,30,NA,BAL,NFL,16,0,Billy Cundiff,BillyCundiff30BAL2010,Undrafted,Undrafted,29-32
+851,Richie Cunningham\cunniric01,2000,30,NA,CAR,NFL,4,0,Richie Cunningham,RichieCunningham30CAR2000,Undrafted,Undrafted,29-32
+852,Phil Dawson\dawsophi01,2005,30,NA,CLE,NFL,16,0,Phil Dawson,PhilDawson30CLE2005,Undrafted,Undrafted,29-32
+853,Jason Elam\elamxjas01,2000,30,3-70,DEN,NFL,13,0,Jason Elam,JasonElam30DEN2000,5,71,29-32
+854,Jay Feely\feelyjay01,2006,30,NA,NYG,NFL,16,0,Jay Feely,JayFeely30NYG2006,Undrafted,Undrafted,29-32
+855,Brandon Fields\FielBr20,2014,30,7-225,MIA,NFL,16,0,Brandon Fields,BrandonFields30MIA2014,9,51,29-32
+856,Nick Folk\FolkNi20,2014,30,6-178,NYJ,NFL,16,0,Nick Folk,NickFolk30NYJ2014,8,30,29-32
+857,Kai Forbath\ForbKa00,2017,30,NA,MIN,NFL,16,0,Kai Forbath,KaiForbath30MIN2017,Undrafted,Undrafted,29-32
+858,Graham Gano\GanoGr44,2017,30,NA,CAR,NFL,16,0,Graham Gano,GrahamGano30CAR2017,Undrafted,Undrafted,29-32
+859,Chris Gardocki\GardCh20,2000,30,3-78,CLE,NFL,16,0,Chris Gardocki,ChrisGardocki30CLE2000,5,73,29-32
+860,Stephen Gostkowski\GostSt20,2014,30,4-118,NWE,NFL,16,0,Stephen Gostkowski,StephenGostkowski30NWE2014,6,6,29-32
+861,Robbie Gould\gouldrob01,2011,30,NA,CHI,NFL,16,0,Robbie Gould,RobbieGould30CHI2011,Undrafted,Undrafted,29-32
+862,Shayne Graham\grahasha01,2007,30,NA,CIN,NFL,16,0,Shayne Graham,ShayneGraham30CIN2007,Undrafted,Undrafted,29-32
+863,John Hall\hallxjoh01,2004,30,NA,WAS,NFL,8,0,John Hall,JohnHall30WAS2004,Undrafted,Undrafted,29-32
+864,Chris Hanson\HansCh20,2006,30,NA,JAX,NFL,16,0,Chris Hanson,ChrisHanson30JAX2006,Undrafted,Undrafted,29-32
+865,Jason Hanson\hansojas01,2000,30,2-56,DET,NFL,16,0,Jason Hanson,JasonHanson30DET2000,4,65,29-32
+866,Nick Harris\HarrNi20,2008,30,4-120,DET,NFL,16,0,Nick Harris,NickHarris30DET2008,6,7,29-32
+867,Steven Hauschka\HausSt00,2015,30,NA,SEA,NFL,16,0,Steven Hauschka,StevenHauschka30SEA2015,Undrafted,Undrafted,29-32
+868,Craig Hentrich\hentrcra01,2001,30,8-200,TEN,NFL,16,0,Craig Hentrich,CraigHentrich30TEN2001,10,39,29-32
+869,Reggie Hodges\HodgRe20,2012,30,6-210,CLE,NFL,16,0,Reggie Hodges,ReggieHodges30CLE2012,8,44,29-32
+870,Mike Hollis\hollimik01,2002,30,NA,BUF,NFL,16,0,Mike Hollis,MikeHollis30BUF2002,Undrafted,Undrafted,29-32
+871,Kevin Huber\HubeKe20,2015,30,5-142,CIN,NFL,16,0,Kevin Huber,KevinHuber30CIN2015,7,11,29-32
+872,Michael Husted\hustemic01,2000,30,NA,WAS,NFL,4,0,Michael Husted,MichaelHusted30WAS2000,Undrafted,Undrafted,29-32
+873,Sebastian Janikowski\janikseb01,2008,30,1-17,OAK,NFL,16,0,Sebastian Janikowski,SebastianJanikowski30OAK2008,1,24,29-32
+874,Dirk Johnson\JohnDi20,2005,30,NA,PHI,NFL,7,0,Dirk Johnson,DirkJohnson30PHI2005,Undrafted,Undrafted,29-32
+875,Donnie Jones\JoneDo21,2010,30,7-224,STL,NFL,16,0,Donnie Jones,DonnieJones30STL2010,9,50,29-32
+876,Nate Kaeding\kaedinat01,2012,30,3-65,2TM,NFL,5,0,Nate Kaeding,NateKaeding302TM2012,5,69,29-32
+877,Brett Kern\KernBr20,2016,30,NA,TEN,NFL,16,0,Brett Kern,BrettKern30TEN2016,Undrafted,Undrafted,29-32
+878,Danny Kight\KighDa20,2001,30,NA,BAL,NFL,10,0,Danny Kight,DannyKight30BAL2001,Undrafted,Undrafted,29-32
+879,Marquette King\KingMa00,2018,30,NA,DEN,NFL,4,0,Marquette King,MarquetteKing30DEN2018,Undrafted,Undrafted,29-32
+880,Chris Kluwe\KluwCh20,2011,30,NA,MIN,NFL,16,0,Chris Kluwe,ChrisKluwe30MIN2011,Undrafted,Undrafted,29-32
+881,Sam Koch\KochSa20,2012,30,6-203,BAL,NFL,16,0,Sam Koch,SamKoch30BAL2012,8,42,29-32
+882,Michael Koenen\koenemic01,2012,30,NA,TAM,NFL,16,0,Michael Koenen,MichaelKoenen30TAM2012,Undrafted,Undrafted,29-32
+883,Shane Lechler\LechSh20,2006,30,5-142,OAK,NFL,16,0,Shane Lechler,ShaneLechler30OAK2006,7,11,29-32
+884,Andy Lee\LeexAn20,2012,30,6-188,SFO,NFL,16,0,Andy Lee,AndyLee30SFO2012,8,34,29-32
+885,Rian Lindell\linderia01,2007,30,NA,BUF,NFL,16,0,Rian Lindell,RianLindell30BUF2007,Undrafted,Undrafted,29-32
+886,Ryan Longwell\longwrya01,2004,30,NA,GNB,NFL,16,0,Ryan Longwell,RyanLongwell30GNB2004,Undrafted,Undrafted,29-32
+887,Olindo Mare\marexoli01,2003,30,NA,MIA,NFL,16,0,Olindo Mare,OlindoMare30MIA2003,Undrafted,Undrafted,29-32
+888,Brad Maynard\MaynBr20,2004,30,3-95,CHI,NFL,16,0,Brad Maynard,BradMaynard30CHI2004,5,79,29-32
+889,Mat McBriar\McBrMa20,2009,30,NA,DAL,NFL,16,0,Mat McBriar,MatMcBriar30DAL2009,Undrafted,Undrafted,29-32
+890,Josh Miller\MillJo25,2000,30,NA,PIT,NFL,16,0,Josh Miller,JoshMiller30PIT2000,Undrafted,Undrafted,29-32
+891,Brian Moorman\MoorBr24,2006,30,NA,BUF,NFL,16,0,Brian Moorman,BrianMoorman30BUF2006,Undrafted,Undrafted,29-32
+892,Thomas Morstead\MorsTh00,2016,30,5-164,NOR,NFL,16,0,Thomas Morstead,ThomasMorstead30NOR2016,7,19,29-32
+893,Joe Nedney\nednejoe01,2003,30,NA,TEN,NFL,1,0,Joe Nedney,JoeNedney30TEN2003,Undrafted,Undrafted,29-32
+894,Nick Novak\novaknic01,2011,30,NA,SDG,NFL,15,0,Nick Novak,NickNovak30SDG2011,Undrafted,Undrafted,29-32
+895,Mike Nugent\nugenmik01,2012,30,2-47,CIN,NFL,12,0,Mike Nugent,MikeNugent30CIN2012,4,64,29-32
+896,Todd Peterson\petertod01,2000,30,7-177,KAN,NFL,11,0,Todd Peterson,ToddPeterson30KAN2000,9,29,29-32
+897,Adam Podlesh\PodlAd20,2013,30,4-101,CHI,NFL,16,0,Adam Podlesh,AdamPodlesh30CHI2013,6,2,29-32
+898,Matt Prater\PratMa20,2014,30,NA,2TM,NFL,11,0,Matt Prater,MattPrater302TM2014,Undrafted,Undrafted,29-32
+899,Neil Rackers\rackenei01,2006,30,6-169,ARI,NFL,16,0,Neil Rackers,NeilRackers30ARI2006,8,23,29-32
+900,Jeff Reed\reedxjef01,2009,30,NA,PIT,NFL,16,0,Jeff Reed,JeffReed30PIT2009,Undrafted,Undrafted,29-32
+901,Kyle Richardson\RichKy20,2003,30,NA,CIN,NFL,11,0,Kyle Richardson,KyleRichardson30CIN2003,Undrafted,Undrafted,29-32
+902,Jon Ryan\RyanJo21,2011,30,NA,SEA,NFL,16,0,Jon Ryan,JonRyan30SEA2011,Undrafted,Undrafted,29-32
+903,Todd Sauerbrun\SaueTo20,2003,30,2-56,CAR,NFL,16,0,Todd Sauerbrun,ToddSauerbrun30CAR2003,4,65,29-32
+904,Mike Scifres\ScifMi20,2010,30,5-149,SDG,NFL,16,0,Mike Scifres,MikeScifres30SDG2010,7,13,29-32
+905,Josh Scobee\scobejos01,2012,30,5-137,JAX,NFL,16,0,Josh Scobee,JoshScobee30JAX2012,7,9,29-32
+906,Hunter Smith\SmitHu21,2007,30,7-210,IND,NFL,16,0,Hunter Smith,HunterSmith30IND2007,9,44,29-32
+907,Chad Stanley\StanCh20,2006,30,NA,HOU,NFL,16,0,Chad Stanley,ChadStanley30HOU2006,Undrafted,Undrafted,29-32
+908,Ryan Succop\SuccRy44,2016,30,7-256,TEN,NFL,16,0,Ryan Succop,RyanSuccop30TEN2016,9,61,29-32
+909,Shaun Suisham\suishsha01,2011,30,NA,PIT,NFL,16,0,Shaun Suisham,ShaunSuisham30PIT2011,Undrafted,Undrafted,29-32
+910,Lawrence Tynes\tyneslaw01,2008,30,NA,NYG,NFL,2,0,Lawrence Tynes,LawrenceTynes30NYG2008,Undrafted,Undrafted,29-32
+911,Mike Vanderjagt\vandemik01,2000,30,NA,IND,NFL,16,0,Mike Vanderjagt,MikeVanderjagt30IND2000,Undrafted,Undrafted,29-32
+912,Adam Vinatieri\vinatada01,2002,30,NA,NWE,NFL,16,0,Adam Vinatieri,AdamVinatieri30NWE2002,Undrafted,Undrafted,29-32
+913,Ken Walter\WaltKe20,2002,30,NA,NWE,NFL,16,0,Ken Walter,KenWalter30NWE2002,Undrafted,Undrafted,29-32
+914,Steve Weatherford\WeatSt20,2012,30,NA,NYG,NFL,16,0,Steve Weatherford,SteveWeatherford30NYG2012,Undrafted,Undrafted,29-32
+915,Jeff Wilkins\wilkijef01,2002,30,NA,STL,NFL,16,0,Jeff Wilkins,JeffWilkins30STL2002,Undrafted,Undrafted,29-32
+916,Dave Zastudil\ZastDa20,2008,30,4-112,CLE,NFL,16,0,Dave Zastudil,DaveZastudil30CLE2008,6,5,29-32
+917,Greg Zuerlein\ZuerGr00,2017,30,6-171,LAR,NFL,14,0,Greg Zuerlein,GregZuerlein30LAR2017,8,25,29-32
+918,David Akers\akersdav01,2005,31,NA,PHI,NFL,12,0,David Akers,DavidAkers31PHI2005,Undrafted,Undrafted,29-32
+919,Leo Araguz\AragLe20,2001,31,NA,DET,NFL,3,0,Leo Araguz,LeoAraguz31DET2001,Undrafted,Undrafted,29-32
+920,Jason Baker\BakeJa20,2009,31,NA,CAR,NFL,16,0,Jason Baker,JasonBaker31CAR2009,Undrafted,Undrafted,29-32
+921,Connor Barth\barthco01,2017,31,NA,CHI,NFL,10,0,Connor Barth,ConnorBarth31CHI2017,Undrafted,Undrafted,29-32
+922,Mitch Berger\BergMi20,2003,31,6-193,NOR,NFL,16,0,Mitch Berger,MitchBerger31NOR2003,8,37,29-32
+923,Josh Bidwell\BidwJo20,2007,31,4-133,TAM,NFL,16,0,Josh Bidwell,JoshBidwell31TAM2007,6,8,29-32
+924,Rob Bironas\bironrob01,2009,31,NA,TEN,NFL,16,0,Rob Bironas,RobBironas31TEN2009,Undrafted,Undrafted,29-32
+925,Matthew Bosher\BoshMa00,2018,31,6-192,ATL,NFL,7,0,Matthew Bosher,MatthewBosher31ATL2018,8,36,29-32
+926,Doug Brien\briendou01,2001,31,3-85,2TM,NFL,3,0,Doug Brien,DougBrien312TM2001,5,75,29-32
+927,Josh Brown\brownjos01,2010,31,7-222,STL,NFL,16,0,Josh Brown,JoshBrown31STL2010,9,48,29-32
+928,Kris Brown\brownkri01,2007,31,7-228,HOU,NFL,16,0,Kris Brown,KrisBrown31HOU2007,9,52,29-32
+929,Matt Bryant\bryanmat01,2006,31,NA,TAM,NFL,16,0,Matt Bryant,MattBryant31TAM2006,Undrafted,Undrafted,29-32
+930,Dan Carpenter\CarpDa44,2016,31,NA,BUF,NFL,16,0,Dan Carpenter,DanCarpenter31BUF2016,Undrafted,Undrafted,29-32
+931,Britton Colquitt\ColqBr00,2016,31,NA,CLE,NFL,16,0,Britton Colquitt,BrittonColquitt31CLE2016,Undrafted,Undrafted,29-32
+932,Dustin Colquitt\ColqDu20,2013,31,3-99,KAN,NFL,16,0,Dustin Colquitt,DustinColquitt31KAN2013,5,82,29-32
+933,Mason Crosby\CrosMa20,2015,31,6-193,GNB,NFL,16,0,Mason Crosby,MasonCrosby31GNB2015,8,37,29-32
+934,Billy Cundiff\cundibil01,2011,31,NA,BAL,NFL,15,0,Billy Cundiff,BillyCundiff31BAL2011,Undrafted,Undrafted,29-32
+935,Phil Dawson\dawsophi01,2006,31,NA,CLE,NFL,16,0,Phil Dawson,PhilDawson31CLE2006,Undrafted,Undrafted,29-32
+936,Jason Elam\elamxjas01,2001,31,3-70,DEN,NFL,16,0,Jason Elam,JasonElam31DEN2001,5,71,29-32
+937,Jay Feely\feelyjay01,2007,31,NA,MIA,NFL,16,0,Jay Feely,JayFeely31MIA2007,Undrafted,Undrafted,29-32
+938,Brandon Fields\FielBr20,2015,31,7-225,NOR,NFL,2,0,Brandon Fields,BrandonFields31NOR2015,9,51,29-32
+939,Nick Folk\FolkNi20,2015,31,6-178,NYJ,NFL,8,0,Nick Folk,NickFolk31NYJ2015,8,30,29-32
+940,Graham Gano\GanoGr44,2018,31,NA,CAR,NFL,7,0,Graham Gano,GrahamGano31CAR2018,Undrafted,Undrafted,29-32
+941,Chris Gardocki\GardCh20,2001,31,3-78,CLE,NFL,16,0,Chris Gardocki,ChrisGardocki31CLE2001,5,73,29-32
+942,Stephen Gostkowski\GostSt20,2015,31,4-118,NWE,NFL,16,0,Stephen Gostkowski,StephenGostkowski31NWE2015,6,6,29-32
+943,Robbie Gould\gouldrob01,2012,31,NA,CHI,NFL,13,0,Robbie Gould,RobbieGould31CHI2012,Undrafted,Undrafted,29-32
+944,Shayne Graham\grahasha01,2008,31,NA,CIN,NFL,14,0,Shayne Graham,ShayneGraham31CIN2008,Undrafted,Undrafted,29-32
+945,Martin Gramatica\gramamar01,2006,31,3-80,2TM,NFL,8,0,Martin Gramatica,MartinGramatica312TM2006,5,74,29-32
+946,John Hall\hallxjoh01,2005,31,NA,WAS,NFL,10,0,John Hall,JohnHall31WAS2005,Undrafted,Undrafted,29-32
+947,Remy Hamilton\hamilrem01,2005,31,NA,DET,NFL,1,0,Remy Hamilton,RemyHamilton31DET2005,Undrafted,Undrafted,29-32
+948,Chris Hanson\HansCh20,2007,31,NA,NWE,NFL,16,0,Chris Hanson,ChrisHanson31NWE2007,Undrafted,Undrafted,29-32
+949,Jason Hanson\hansojas01,2001,31,2-56,DET,NFL,16,0,Jason Hanson,JasonHanson31DET2001,4,65,29-32
+950,Nick Harris\HarrNi20,2009,31,4-120,DET,NFL,16,0,Nick Harris,NickHarris31DET2009,6,7,29-32
+951,Steven Hauschka\HausSt00,2016,31,NA,SEA,NFL,16,0,Steven Hauschka,StevenHauschka31SEA2016,Undrafted,Undrafted,29-32
+952,Craig Hentrich\hentrcra01,2002,31,8-200,TEN,NFL,16,0,Craig Hentrich,CraigHentrich31TEN2002,10,39,29-32
+953,Kevin Huber\HubeKe20,2016,31,5-142,CIN,NFL,16,0,Kevin Huber,KevinHuber31CIN2016,7,11,29-32
+954,Sebastian Janikowski\janikseb01,2009,31,1-17,OAK,NFL,16,0,Sebastian Janikowski,SebastianJanikowski31OAK2009,1,24,29-32
+955,Dirk Johnson\JohnDi20,2006,31,NA,PHI,NFL,16,0,Dirk Johnson,DirkJohnson31PHI2006,Undrafted,Undrafted,29-32
+956,Donnie Jones\JoneDo21,2011,31,7-224,STL,NFL,16,0,Donnie Jones,DonnieJones31STL2011,9,50,29-32
+957,Brett Kern\KernBr20,2017,31,NA,TEN,NFL,16,0,Brett Kern,BrettKern31TEN2017,Undrafted,Undrafted,29-32
+958,Chris Kluwe\KluwCh20,2012,31,NA,MIN,NFL,16,0,Chris Kluwe,ChrisKluwe31MIN2012,Undrafted,Undrafted,29-32
+959,Sam Koch\KochSa20,2013,31,6-203,BAL,NFL,16,0,Sam Koch,SamKoch31BAL2013,8,42,29-32
+960,Michael Koenen\koenemic01,2013,31,NA,TAM,NFL,16,0,Michael Koenen,MichaelKoenen31TAM2013,Undrafted,Undrafted,29-32
+961,Shane Lechler\LechSh20,2007,31,5-142,OAK,NFL,16,0,Shane Lechler,ShaneLechler31OAK2007,7,11,29-32
+962,Andy Lee\LeexAn20,2013,31,6-188,SFO,NFL,16,0,Andy Lee,AndyLee31SFO2013,8,34,29-32
+963,Rian Lindell\linderia01,2008,31,NA,BUF,NFL,16,0,Rian Lindell,RianLindell31BUF2008,Undrafted,Undrafted,29-32
+964,Ryan Longwell\longwrya01,2005,31,NA,GNB,NFL,16,0,Ryan Longwell,RyanLongwell31GNB2005,Undrafted,Undrafted,29-32
+965,Olindo Mare\marexoli01,2004,31,NA,MIA,NFL,11,0,Olindo Mare,OlindoMare31MIA2004,Undrafted,Undrafted,29-32
+966,Brad Maynard\MaynBr20,2005,31,3-95,CHI,NFL,16,0,Brad Maynard,BradMaynard31CHI2005,5,79,29-32
+967,Mat McBriar\McBrMa20,2010,31,NA,DAL,NFL,16,0,Mat McBriar,MatMcBriar31DAL2010,Undrafted,Undrafted,29-32
+968,Josh Miller\MillJo25,2001,31,NA,PIT,NFL,16,0,Josh Miller,JoshMiller31PIT2001,Undrafted,Undrafted,29-32
+969,Brian Moorman\MoorBr24,2007,31,NA,BUF,NFL,16,0,Brian Moorman,BrianMoorman31BUF2007,Undrafted,Undrafted,29-32
+970,Thomas Morstead\MorsTh00,2017,31,5-164,NOR,NFL,16,0,Thomas Morstead,ThomasMorstead31NOR2017,7,19,29-32
+971,Nick Novak\novaknic01,2012,31,NA,SDG,NFL,13,0,Nick Novak,NickNovak31SDG2012,Undrafted,Undrafted,29-32
+972,Mike Nugent\nugenmik01,2013,31,2-47,CIN,NFL,16,0,Mike Nugent,MikeNugent31CIN2013,4,64,29-32
+973,Todd Peterson\petertod01,2001,31,7-177,KAN,NFL,16,0,Todd Peterson,ToddPeterson31KAN2001,9,29,29-32
+974,Scott Player\PlaySc20,2000,31,NA,ARI,NFL,16,0,Scott Player,ScottPlayer31ARI2000,Undrafted,Undrafted,29-32
+975,Adam Podlesh\PodlAd20,2014,31,4-101,PIT,NFL,0,NA,Adam Podlesh,AdamPodlesh31PIT2014,6,2,29-32
+976,Matt Prater\PratMa20,2015,31,NA,DET,NFL,16,0,Matt Prater,MattPrater31DET2015,Undrafted,Undrafted,29-32
+977,Neil Rackers\rackenei01,2007,31,6-169,ARI,NFL,16,0,Neil Rackers,NeilRackers31ARI2007,8,23,29-32
+978,Jeff Reed\reedxjef01,2010,31,NA,2TM,NFL,14,0,Jeff Reed,JeffReed312TM2010,Undrafted,Undrafted,29-32
+979,Jon Ryan\RyanJo21,2012,31,NA,SEA,NFL,16,0,Jon Ryan,JonRyan31SEA2012,Undrafted,Undrafted,29-32
+980,Todd Sauerbrun\SaueTo20,2004,31,2-56,CAR,NFL,16,0,Todd Sauerbrun,ToddSauerbrun31CAR2004,4,65,29-32
+981,Mike Scifres\ScifMi20,2011,31,5-149,SDG,NFL,16,0,Mike Scifres,MikeScifres31SDG2011,7,13,29-32
+982,Josh Scobee\scobejos01,2013,31,5-137,JAX,NFL,16,0,Josh Scobee,JoshScobee31JAX2013,7,9,29-32
+983,Hunter Smith\SmitHu21,2008,31,7-210,IND,NFL,16,0,Hunter Smith,HunterSmith31IND2008,9,44,29-32
+984,Ryan Succop\SuccRy44,2017,31,7-256,TEN,NFL,16,0,Ryan Succop,RyanSuccop31TEN2017,9,61,29-32
+985,Shaun Suisham\suishsha01,2012,31,NA,PIT,NFL,16,0,Shaun Suisham,ShaunSuisham31PIT2012,Undrafted,Undrafted,29-32
+986,Lawrence Tynes\tyneslaw01,2009,31,NA,NYG,NFL,16,0,Lawrence Tynes,LawrenceTynes31NYG2009,Undrafted,Undrafted,29-32
+987,Mike Vanderjagt\vandemik01,2001,31,NA,IND,NFL,16,0,Mike Vanderjagt,MikeVanderjagt31IND2001,Undrafted,Undrafted,29-32
+988,Adam Vinatieri\vinatada01,2003,31,NA,NWE,NFL,16,0,Adam Vinatieri,AdamVinatieri31NWE2003,Undrafted,Undrafted,29-32
+989,Ken Walter\WaltKe20,2003,31,NA,NWE,NFL,15,0,Ken Walter,KenWalter31NWE2003,Undrafted,Undrafted,29-32
+990,Steve Weatherford\WeatSt20,2013,31,NA,NYG,NFL,16,0,Steve Weatherford,SteveWeatherford31NYG2013,Undrafted,Undrafted,29-32
+991,Jeff Wilkins\wilkijef01,2003,31,NA,STL,NFL,16,0,Jeff Wilkins,JeffWilkins31STL2003,Undrafted,Undrafted,29-32
+992,Dave Zastudil\ZastDa20,2009,31,4-112,CLE,NFL,8,0,Dave Zastudil,DaveZastudil31CLE2009,6,5,29-32
+993,Greg Zuerlein\ZuerGr00,2018,31,6-171,LAR,NFL,3,0,Greg Zuerlein,GregZuerlein31LAR2018,8,25,29-32
+994,David Akers\akersdav01,2006,32,NA,PHI,NFL,16,0,David Akers,DavidAkers32PHI2006,Undrafted,Undrafted,29-32
+995,Jason Baker\BakeJa20,2010,32,NA,CAR,NFL,16,0,Jason Baker,JasonBaker32CAR2010,Undrafted,Undrafted,29-32
+996,Mitch Berger\BergMi20,2004,32,6-193,NOR,NFL,16,0,Mitch Berger,MitchBerger32NOR2004,8,37,29-32
+997,Josh Bidwell\BidwJo20,2008,32,4-133,TAM,NFL,16,0,Josh Bidwell,JoshBidwell32TAM2008,6,8,29-32
+998,Rob Bironas\bironrob01,2010,32,NA,TEN,NFL,16,0,Rob Bironas,RobBironas32TEN2010,Undrafted,Undrafted,29-32
+999,Cary Blanchard\blanccar01,2000,32,NA,ARI,NFL,16,0,Cary Blanchard,CaryBlanchard32ARI2000,Undrafted,Undrafted,29-32
+1000,Doug Brien\briendou01,2002,32,3-85,MIN,NFL,6,0,Doug Brien,DougBrien32MIN2002,5,75,29-32
+1001,Josh Brown\brownjos01,2011,32,7-222,STL,NFL,16,0,Josh Brown,JoshBrown32STL2011,9,48,29-32
+1002,Kris Brown\brownkri01,2008,32,7-228,HOU,NFL,16,0,Kris Brown,KrisBrown32HOU2008,9,52,29-32
+1003,Matt Bryant\bryanmat01,2007,32,NA,TAM,NFL,16,0,Matt Bryant,MattBryant32TAM2007,Undrafted,Undrafted,29-32
+1004,Britton Colquitt\ColqBr00,2017,32,NA,CLE,NFL,16,0,Britton Colquitt,BrittonColquitt32CLE2017,Undrafted,Undrafted,29-32
+1005,Dustin Colquitt\ColqDu20,2014,32,3-99,KAN,NFL,16,0,Dustin Colquitt,DustinColquitt32KAN2014,5,82,29-32
+1006,Mason Crosby\CrosMa20,2016,32,6-193,GNB,NFL,16,0,Mason Crosby,MasonCrosby32GNB2016,8,37,29-32
+1007,Billy Cundiff\cundibil01,2012,32,NA,WAS,NFL,5,0,Billy Cundiff,BillyCundiff32WAS2012,Undrafted,Undrafted,29-32
+1008,Richie Cunningham\cunniric01,2002,32,NA,JAX,NFL,1,0,Richie Cunningham,RichieCunningham32JAX2002,Undrafted,Undrafted,29-32
+1009,Phil Dawson\dawsophi01,2007,32,NA,CLE,NFL,16,0,Phil Dawson,PhilDawson32CLE2007,Undrafted,Undrafted,29-32
+1010,Jason Elam\elamxjas01,2002,32,3-70,DEN,NFL,16,0,Jason Elam,JasonElam32DEN2002,5,71,29-32
+1011,Jay Feely\feelyjay01,2008,32,NA,NYJ,NFL,15,0,Jay Feely,JayFeely32NYJ2008,Undrafted,Undrafted,29-32
+1012,Nick Folk\FolkNi20,2016,32,6-178,NYJ,NFL,16,0,Nick Folk,NickFolk32NYJ2016,8,30,29-32
+1013,Chris Gardocki\GardCh20,2002,32,3-78,CLE,NFL,16,0,Chris Gardocki,ChrisGardocki32CLE2002,5,73,29-32
+1014,Stephen Gostkowski\GostSt20,2016,32,4-118,NWE,NFL,16,0,Stephen Gostkowski,StephenGostkowski32NWE2016,6,6,29-32
+1015,Robbie Gould\gouldrob01,2013,32,NA,CHI,NFL,16,0,Robbie Gould,RobbieGould32CHI2013,Undrafted,Undrafted,29-32
+1016,Ben Graham\GrahBe20,2005,32,NA,NYJ,NFL,16,0,Ben Graham,BenGraham32NYJ2005,Undrafted,Undrafted,29-32
+1017,Shayne Graham\grahasha01,2009,32,NA,CIN,NFL,16,0,Shayne Graham,ShayneGraham32CIN2009,Undrafted,Undrafted,29-32
+1018,Martin Gramatica\gramamar01,2007,32,3-80,NOR,NFL,3,0,Martin Gramatica,MartinGramatica32NOR2007,5,74,29-32
+1019,John Hall\hallxjoh01,2006,32,NA,WAS,NFL,5,0,John Hall,JohnHall32WAS2006,Undrafted,Undrafted,29-32
+1020,Chris Hanson\HansCh20,2008,32,NA,NWE,NFL,16,0,Chris Hanson,ChrisHanson32NWE2008,Undrafted,Undrafted,29-32
+1021,Jason Hanson\hansojas01,2002,32,2-56,DET,NFL,16,0,Jason Hanson,JasonHanson32DET2002,4,65,29-32
+1022,Nick Harris\HarrNi20,2010,32,4-120,DET,NFL,16,0,Nick Harris,NickHarris32DET2010,6,7,29-32
+1023,Steven Hauschka\HausSt00,2017,32,NA,BUF,NFL,16,0,Steven Hauschka,StevenHauschka32BUF2017,Undrafted,Undrafted,29-32
+1024,Craig Hentrich\hentrcra01,2003,32,8-200,TEN,NFL,16,0,Craig Hentrich,CraigHentrich32TEN2003,10,39,29-32
+1025,Kevin Huber\HubeKe20,2017,32,5-142,CIN,NFL,16,0,Kevin Huber,KevinHuber32CIN2017,7,11,29-32
+1026,Michael Husted\hustemic01,2002,32,NA,KAN,NFL,6,0,Michael Husted,MichaelHusted32KAN2002,Undrafted,Undrafted,29-32
+1027,Sebastian Janikowski\janikseb01,2010,32,1-17,OAK,NFL,16,0,Sebastian Janikowski,SebastianJanikowski32OAK2010,1,24,29-32
+1028,John Jett\JettJo21,2000,32,NA,DET,NFL,16,0,John Jett,JohnJett32DET2000,Undrafted,Undrafted,29-32
+1029,Dirk Johnson\JohnDi20,2007,32,NA,CHI,NFL,1,0,Dirk Johnson,DirkJohnson32CHI2007,Undrafted,Undrafted,29-32
+1030,Donnie Jones\JoneDo21,2012,32,7-224,HOU,NFL,16,0,Donnie Jones,DonnieJones32HOU2012,9,50,29-32
+1031,John Kasay\kasayjoh01,2001,32,4-98,CAR,NFL,16,0,John Kasay,JohnKasay32CAR2001,6,81,29-32
+1032,Brett Kern\KernBr20,2018,32,NA,TEN,NFL,7,0,Brett Kern,BrettKern32TEN2018,Undrafted,Undrafted,29-32
+1033,Ola Kimrin\kimriola01,2004,32,NA,WAS,NFL,5,0,Ola Kimrin,OlaKimrin32WAS2004,Undrafted,Undrafted,29-32
+1034,Sam Koch\KochSa20,2014,32,6-203,BAL,NFL,16,0,Sam Koch,SamKoch32BAL2014,8,42,29-32
+1035,Michael Koenen\koenemic01,2014,32,NA,TAM,NFL,16,0,Michael Koenen,MichaelKoenen32TAM2014,Undrafted,Undrafted,29-32
+1036,Shane Lechler\LechSh20,2008,32,5-142,OAK,NFL,16,0,Shane Lechler,ShaneLechler32OAK2008,7,11,29-32
+1037,Andy Lee\LeexAn20,2014,32,6-188,SFO,NFL,16,0,Andy Lee,AndyLee32SFO2014,8,34,29-32
+1038,Rian Lindell\linderia01,2009,32,NA,BUF,NFL,16,0,Rian Lindell,RianLindell32BUF2009,Undrafted,Undrafted,29-32
+1039,Ryan Longwell\longwrya01,2006,32,NA,MIN,NFL,16,0,Ryan Longwell,RyanLongwell32MIN2006,Undrafted,Undrafted,29-32
+1040,Olindo Mare\marexoli01,2005,32,NA,MIA,NFL,16,0,Olindo Mare,OlindoMare32MIA2005,Undrafted,Undrafted,29-32
+1041,Brad Maynard\MaynBr20,2006,32,3-95,CHI,NFL,16,0,Brad Maynard,BradMaynard32CHI2006,5,79,29-32
+1042,Mat McBriar\McBrMa20,2011,32,NA,DAL,NFL,14,0,Mat McBriar,MatMcBriar32DAL2011,Undrafted,Undrafted,29-32
+1043,Josh Miller\MillJo25,2002,32,NA,PIT,NFL,14,0,Josh Miller,JoshMiller32PIT2002,Undrafted,Undrafted,29-32
+1044,Brian Moorman\MoorBr24,2008,32,NA,BUF,NFL,16,0,Brian Moorman,BrianMoorman32BUF2008,Undrafted,Undrafted,29-32
+1045,Thomas Morstead\MorsTh00,2018,32,5-164,NOR,NFL,7,0,Thomas Morstead,ThomasMorstead32NOR2018,7,19,29-32
+1046,Joe Nedney\nednejoe01,2005,32,NA,SFO,NFL,15,0,Joe Nedney,JoeNedney32SFO2005,Undrafted,Undrafted,29-32
+1047,Nick Novak\novaknic01,2013,32,NA,SDG,NFL,16,0,Nick Novak,NickNovak32SDG2013,Undrafted,Undrafted,29-32
+1048,Mike Nugent\nugenmik01,2014,32,2-47,CIN,NFL,16,0,Mike Nugent,MikeNugent32CIN2014,4,64,29-32
+1049,Todd Peterson\petertod01,2002,32,7-177,PIT,NFL,10,0,Todd Peterson,ToddPeterson32PIT2002,9,29,29-32
+1050,Scott Player\PlaySc20,2001,32,NA,ARI,NFL,12,0,Scott Player,ScottPlayer32ARI2001,Undrafted,Undrafted,29-32
+1051,Matt Prater\PratMa20,2016,32,NA,DET,NFL,16,0,Matt Prater,MattPrater32DET2016,Undrafted,Undrafted,29-32
+1052,Neil Rackers\rackenei01,2008,32,6-169,ARI,NFL,16,0,Neil Rackers,NeilRackers32ARI2008,8,23,29-32
+1053,Kyle Richardson\RichKy20,2005,32,NA,CLE,NFL,16,0,Kyle Richardson,KyleRichardson32CLE2005,Undrafted,Undrafted,29-32
+1054,Tom Rouen\rouentom01,2000,32,NA,DEN,NFL,16,0,Tom Rouen,TomRouen32DEN2000,Undrafted,Undrafted,29-32
+1055,Jon Ryan\RyanJo21,2013,32,NA,SEA,NFL,16,0,Jon Ryan,JonRyan32SEA2013,Undrafted,Undrafted,29-32
+1056,Todd Sauerbrun\SaueTo20,2005,32,2-56,DEN,NFL,16,0,Todd Sauerbrun,ToddSauerbrun32DEN2005,4,65,29-32
+1057,Mike Scifres\ScifMi20,2012,32,5-149,SDG,NFL,16,0,Mike Scifres,MikeScifres32SDG2012,7,13,29-32
+1058,Josh Scobee\scobejos01,2014,32,5-137,JAX,NFL,16,0,Josh Scobee,JoshScobee32JAX2014,7,9,29-32
+1059,Hunter Smith\SmitHu21,2009,32,7-210,WAS,NFL,13,0,Hunter Smith,HunterSmith32WAS2009,9,44,29-32
+1060,Matt Stover\stovemat01,2000,32,12-329,BAL,NFL,16,0,Matt Stover,MattStover32BAL2000,3,63,29-32
+1061,Ryan Succop\SuccRy44,2018,32,7-256,TEN,NFL,7,0,Ryan Succop,RyanSuccop32TEN2018,9,61,29-32
+1062,Shaun Suisham\suishsha01,2013,32,NA,PIT,NFL,16,0,Shaun Suisham,ShaunSuisham32PIT2013,Undrafted,Undrafted,29-32
+1063,Matt Turk\TurkMa20,2000,32,NA,MIA,NFL,16,0,Matt Turk,MattTurk32MIA2000,Undrafted,Undrafted,29-32
+1064,Lawrence Tynes\tyneslaw01,2010,32,NA,NYG,NFL,15,0,Lawrence Tynes,LawrenceTynes32NYG2010,Undrafted,Undrafted,29-32
+1065,Mike Vanderjagt\vandemik01,2002,32,NA,IND,NFL,16,0,Mike Vanderjagt,MikeVanderjagt32IND2002,Undrafted,Undrafted,29-32
+1066,Adam Vinatieri\vinatada01,2004,32,NA,NWE,NFL,16,0,Adam Vinatieri,AdamVinatieri32NWE2004,Undrafted,Undrafted,29-32
+1067,Ken Walter\WaltKe20,2004,32,NA,SEA,NFL,6,0,Ken Walter,KenWalter32SEA2004,Undrafted,Undrafted,29-32
+1068,Steve Weatherford\WeatSt20,2014,32,NA,NYG,NFL,16,0,Steve Weatherford,SteveWeatherford32NYG2014,Undrafted,Undrafted,29-32
+1069,Jeff Wilkins\wilkijef01,2004,32,NA,STL,NFL,16,0,Jeff Wilkins,JeffWilkins32STL2004,Undrafted,Undrafted,29-32
+1070,David Akers\akersdav01,2007,33,NA,PHI,NFL,16,0,David Akers,DavidAkers33PHI2007,Undrafted,Undrafted,32+
+1071,Leo Araguz\AragLe20,2003,33,NA,MIN,NFL,2,0,Leo Araguz,LeoAraguz33MIN2003,Undrafted,Undrafted,32+
+1072,Jason Baker\BakeJa20,2011,33,NA,CAR,NFL,16,0,Jason Baker,JasonBaker33CAR2011,Undrafted,Undrafted,32+
+1073,Mitch Berger\BergMi20,2005,33,6-193,NOR,NFL,16,0,Mitch Berger,MitchBerger33NOR2005,8,37,32+
+1074,Rob Bironas\bironrob01,2011,33,NA,TEN,NFL,16,0,Rob Bironas,RobBironas33TEN2011,Undrafted,Undrafted,32+
+1075,Doug Brien\briendou01,2003,33,3-85,NYJ,NFL,16,0,Doug Brien,DougBrien33NYJ2003,5,75,32+
+1076,Josh Brown\brownjos01,2012,33,7-222,CIN,NFL,4,0,Josh Brown,JoshBrown33CIN2012,9,48,32+
+1077,Kris Brown\brownkri01,2009,33,7-228,HOU,NFL,16,0,Kris Brown,KrisBrown33HOU2009,9,52,32+
+1078,Matt Bryant\bryanmat01,2008,33,NA,TAM,NFL,16,0,Matt Bryant,MattBryant33TAM2008,Undrafted,Undrafted,32+
+1079,Steve Christie\chrisste01,2000,33,NA,BUF,NFL,16,0,Steve Christie,SteveChristie33BUF2000,Undrafted,Undrafted,32+
+1080,Britton Colquitt\ColqBr00,2018,33,NA,CLE,NFL,8,0,Britton Colquitt,BrittonColquitt33CLE2018,Undrafted,Undrafted,32+
+1081,Dustin Colquitt\ColqDu20,2015,33,3-99,KAN,NFL,16,0,Dustin Colquitt,DustinColquitt33KAN2015,5,82,32+
+1082,Mason Crosby\CrosMa20,2017,33,6-193,GNB,NFL,16,0,Mason Crosby,MasonCrosby33GNB2017,8,37,32+
+1083,Billy Cundiff\cundibil01,2013,33,NA,CLE,NFL,16,0,Billy Cundiff,BillyCundiff33CLE2013,Undrafted,Undrafted,32+
+1084,Brad Daluiso\daluibra01,2000,33,NA,NYG,NFL,14,0,Brad Daluiso,BradDaluiso33NYG2000,Undrafted,Undrafted,32+
+1085,Phil Dawson\dawsophi01,2008,33,NA,CLE,NFL,16,0,Phil Dawson,PhilDawson33CLE2008,Undrafted,Undrafted,32+
+1086,Jason Elam\elamxjas01,2003,33,3-70,DEN,NFL,16,0,Jason Elam,JasonElam33DEN2003,5,71,32+
+1087,Jay Feely\feelyjay01,2009,33,NA,NYJ,NFL,16,0,Jay Feely,JayFeely33NYJ2009,Undrafted,Undrafted,32+
+1088,Nick Folk\FolkNi20,2017,33,6-178,TAM,NFL,4,0,Nick Folk,NickFolk33TAM2017,8,30,32+
+1089,Chris Gardocki\GardCh20,2003,33,3-78,CLE,NFL,16,0,Chris Gardocki,ChrisGardocki33CLE2003,5,73,32+
+1090,Stephen Gostkowski\GostSt20,2017,33,4-118,NWE,NFL,16,0,Stephen Gostkowski,StephenGostkowski33NWE2017,6,6,32+
+1091,Robbie Gould\gouldrob01,2014,33,NA,CHI,NFL,12,0,Robbie Gould,RobbieGould33CHI2014,Undrafted,Undrafted,32+
+1092,Ben Graham\GrahBe20,2006,33,NA,NYJ,NFL,16,0,Ben Graham,BenGraham33NYJ2006,Undrafted,Undrafted,32+
+1093,Shayne Graham\grahasha01,2010,33,NA,2TM,NFL,9,0,Shayne Graham,ShayneGraham332TM2010,Undrafted,Undrafted,32+
+1094,Martin Gramatica\gramamar01,2008,33,3-80,NOR,NFL,5,0,Martin Gramatica,MartinGramatica33NOR2008,5,74,32+
+1095,Chris Hanson\HansCh20,2009,33,NA,NWE,NFL,16,0,Chris Hanson,ChrisHanson33NWE2009,Undrafted,Undrafted,32+
+1096,Jason Hanson\hansojas01,2003,33,2-56,DET,NFL,16,0,Jason Hanson,JasonHanson33DET2003,4,65,32+
+1097,Nick Harris\HarrNi20,2011,33,4-120,JAX,NFL,11,0,Nick Harris,NickHarris33JAX2011,6,7,32+
+1098,Steven Hauschka\HausSt00,2018,33,NA,BUF,NFL,8,0,Steven Hauschka,StevenHauschka33BUF2018,Undrafted,Undrafted,32+
+1099,Craig Hentrich\hentrcra01,2004,33,8-200,TEN,NFL,16,0,Craig Hentrich,CraigHentrich33TEN2004,10,39,32+
+1100,Kevin Huber\HubeKe20,2018,33,5-142,CIN,NFL,8,0,Kevin Huber,KevinHuber33CIN2018,7,11,32+
+1101,Sebastian Janikowski\janikseb01,2011,33,1-17,OAK,NFL,15,0,Sebastian Janikowski,SebastianJanikowski33OAK2011,1,24,32+
+1102,John Jett\JettJo21,2001,33,NA,DET,NFL,13,0,John Jett,JohnJett33DET2001,Undrafted,Undrafted,32+
+1103,Dirk Johnson\JohnDi20,2008,33,NA,ARI,NFL,12,0,Dirk Johnson,DirkJohnson33ARI2008,Undrafted,Undrafted,32+
+1104,Donnie Jones\JoneDo21,2013,33,7-224,PHI,NFL,16,0,Donnie Jones,DonnieJones33PHI2013,9,50,32+
+1105,John Kasay\kasayjoh01,2002,33,4-98,CAR,NFL,2,0,John Kasay,JohnKasay33CAR2002,6,81,32+
+1106,Sam Koch\KochSa20,2015,33,6-203,BAL,NFL,16,0,Sam Koch,SamKoch33BAL2015,8,42,32+
+1107,Shane Lechler\LechSh20,2009,33,5-142,OAK,NFL,16,0,Shane Lechler,ShaneLechler33OAK2009,7,11,32+
+1108,Andy Lee\LeexAn20,2015,33,6-188,CLE,NFL,16,0,Andy Lee,AndyLee33CLE2015,8,34,32+
+1109,Rian Lindell\linderia01,2010,33,NA,BUF,NFL,16,0,Rian Lindell,RianLindell33BUF2010,Undrafted,Undrafted,32+
+1110,Ryan Longwell\longwrya01,2007,33,NA,MIN,NFL,16,0,Ryan Longwell,RyanLongwell33MIN2007,Undrafted,Undrafted,32+
+1111,Olindo Mare\marexoli01,2006,33,NA,MIA,NFL,16,0,Olindo Mare,OlindoMare33MIA2006,Undrafted,Undrafted,32+
+1112,Brad Maynard\MaynBr20,2007,33,3-95,CHI,NFL,15,0,Brad Maynard,BradMaynard33CHI2007,5,79,32+
+1113,Mat McBriar\McBrMa20,2012,33,NA,PHI,NFL,13,0,Mat McBriar,MatMcBriar33PHI2012,Undrafted,Undrafted,32+
+1114,Josh Miller\MillJo25,2003,33,NA,PIT,NFL,16,0,Josh Miller,JoshMiller33PIT2003,Undrafted,Undrafted,32+
+1115,Brian Moorman\MoorBr24,2009,33,NA,BUF,NFL,16,0,Brian Moorman,BrianMoorman33BUF2009,Undrafted,Undrafted,32+
+1116,Joe Nedney\nednejoe01,2006,33,NA,SFO,NFL,16,0,Joe Nedney,JoeNedney33SFO2006,Undrafted,Undrafted,32+
+1117,Nick Novak\novaknic01,2014,33,NA,SDG,NFL,16,0,Nick Novak,NickNovak33SDG2014,Undrafted,Undrafted,32+
+1118,Mike Nugent\nugenmik01,2015,33,2-47,CIN,NFL,16,0,Mike Nugent,MikeNugent33CIN2015,4,64,32+
+1119,Tommy Parks\ParkTo20,2001,33,NA,NYJ,NFL,1,0,Tommy Parks,TommyParks33NYJ2001,Undrafted,Undrafted,32+
+1120,Todd Peterson\petertod01,2003,33,7-177,SFO,NFL,8,0,Todd Peterson,ToddPeterson33SFO2003,9,29,32+
+1121,Scott Player\PlaySc20,2002,33,NA,ARI,NFL,16,0,Scott Player,ScottPlayer33ARI2002,Undrafted,Undrafted,32+
+1122,Matt Prater\PratMa20,2017,33,NA,DET,NFL,16,0,Matt Prater,MattPrater33DET2017,Undrafted,Undrafted,32+
+1123,Neil Rackers\rackenei01,2009,33,6-169,ARI,NFL,14,0,Neil Rackers,NeilRackers33ARI2009,8,23,32+
+1124,Tom Rouen\rouentom01,2001,33,NA,DEN,NFL,16,0,Tom Rouen,TomRouen33DEN2001,Undrafted,Undrafted,32+
+1125,Jon Ryan\RyanJo21,2014,33,NA,SEA,NFL,16,0,Jon Ryan,JonRyan33SEA2014,Undrafted,Undrafted,32+
+1126,Todd Sauerbrun\SaueTo20,2006,33,2-56,NWE,NFL,2,0,Todd Sauerbrun,ToddSauerbrun33NWE2006,4,65,32+
+1127,Mike Scifres\ScifMi20,2013,33,5-149,SDG,NFL,16,0,Mike Scifres,MikeScifres33SDG2013,7,13,32+
+1128,Josh Scobee\scobejos01,2015,33,5-137,PIT,NFL,4,0,Josh Scobee,JoshScobee33PIT2015,7,9,32+
+1129,Hunter Smith\SmitHu21,2010,33,7-210,WAS,NFL,9,0,Hunter Smith,HunterSmith33WAS2010,9,44,32+
+1130,Matt Stover\stovemat01,2001,33,12-329,BAL,NFL,16,0,Matt Stover,MattStover33BAL2001,3,63,32+
+1131,Pete Stoyanovich\stoyapet01,2000,33,8-203,2TM,NFL,8,0,Pete Stoyanovich,PeteStoyanovich332TM2000,10,42,32+
+1132,Shaun Suisham\suishsha01,2014,33,NA,PIT,NFL,16,0,Shaun Suisham,ShaunSuisham33PIT2014,Undrafted,Undrafted,32+
+1133,Matt Turk\TurkMa20,2001,33,NA,MIA,NFL,16,0,Matt Turk,MattTurk33MIA2001,Undrafted,Undrafted,32+
+1134,Lawrence Tynes\tyneslaw01,2011,33,NA,NYG,NFL,16,0,Lawrence Tynes,LawrenceTynes33NYG2011,Undrafted,Undrafted,32+
+1135,Mike Vanderjagt\vandemik01,2003,33,NA,IND,NFL,16,0,Mike Vanderjagt,MikeVanderjagt33IND2003,Undrafted,Undrafted,32+
+1136,Adam Vinatieri\vinatada01,2005,33,NA,NWE,NFL,16,0,Adam Vinatieri,AdamVinatieri33NWE2005,Undrafted,Undrafted,32+
+1137,Jeff Wilkins\wilkijef01,2005,33,NA,STL,NFL,16,0,Jeff Wilkins,JeffWilkins33STL2005,Undrafted,Undrafted,32+
+1138,Dave Zastudil\ZastDa20,2011,33,4-112,ARI,NFL,15,0,Dave Zastudil,DaveZastudil33ARI2011,6,5,32+
+1139,Louie Aguiar\aguialou01,2000,34,NA,CHI,NFL,9,0,Louie Aguiar,LouieAguiar34CHI2000,Undrafted,Undrafted,32+
+1140,David Akers\akersdav01,2008,34,NA,PHI,NFL,16,0,David Akers,DavidAkers34PHI2008,Undrafted,Undrafted,32+
+1141,Josh Bidwell\BidwJo20,2010,34,4-133,WAS,NFL,4,0,Josh Bidwell,JoshBidwell34WAS2010,6,8,32+
+1142,Rob Bironas\bironrob01,2012,34,NA,TEN,NFL,16,0,Rob Bironas,RobBironas34TEN2012,Undrafted,Undrafted,32+
+1143,Doug Brien\briendou01,2004,34,3-85,NYJ,NFL,16,0,Doug Brien,DougBrien34NYJ2004,5,75,32+
+1144,Josh Brown\brownjos01,2013,34,7-222,NYG,NFL,16,0,Josh Brown,JoshBrown34NYG2013,9,48,32+
+1145,Kris Brown\brownkri01,2010,34,7-228,SDG,NFL,3,0,Kris Brown,KrisBrown34SDG2010,9,52,32+
+1146,Matt Bryant\bryanmat01,2009,34,NA,ATL,NFL,5,0,Matt Bryant,MattBryant34ATL2009,Undrafted,Undrafted,32+
+1147,Steve Christie\chrisste01,2001,34,NA,SDG,NFL,5,0,Steve Christie,SteveChristie34SDG2001,Undrafted,Undrafted,32+
+1148,Dustin Colquitt\ColqDu20,2016,34,3-99,KAN,NFL,16,0,Dustin Colquitt,DustinColquitt34KAN2016,5,82,32+
+1149,Mason Crosby\CrosMa20,2018,34,6-193,GNB,NFL,7,0,Mason Crosby,MasonCrosby34GNB2018,8,37,32+
+1150,Billy Cundiff\cundibil01,2014,34,NA,CLE,NFL,13,0,Billy Cundiff,BillyCundiff34CLE2014,Undrafted,Undrafted,32+
+1151,Brad Daluiso\daluibra01,2001,34,NA,OAK,NFL,1,0,Brad Daluiso,BradDaluiso34OAK2001,Undrafted,Undrafted,32+
+1152,Phil Dawson\dawsophi01,2009,34,NA,CLE,NFL,11,0,Phil Dawson,PhilDawson34CLE2009,Undrafted,Undrafted,32+
+1153,Jason Elam\elamxjas01,2004,34,3-70,DEN,NFL,16,0,Jason Elam,JasonElam34DEN2004,5,71,32+
+1154,Jay Feely\feelyjay01,2010,34,NA,ARI,NFL,16,0,Jay Feely,JayFeely34ARI2010,Undrafted,Undrafted,32+
+1155,Chris Gardocki\GardCh20,2004,34,3-78,PIT,NFL,16,0,Chris Gardocki,ChrisGardocki34PIT2004,5,73,32+
+1156,Stephen Gostkowski\GostSt20,2018,34,4-118,NWE,NFL,8,0,Stephen Gostkowski,StephenGostkowski34NWE2018,6,6,32+
+1157,Robbie Gould\gouldrob01,2015,34,NA,CHI,NFL,16,0,Robbie Gould,RobbieGould34CHI2015,Undrafted,Undrafted,32+
+1158,Ben Graham\GrahBe20,2007,34,NA,NYJ,NFL,15,0,Ben Graham,BenGraham34NYJ2007,Undrafted,Undrafted,32+
+1159,Shayne Graham\grahasha01,2011,34,NA,2TM,NFL,3,0,Shayne Graham,ShayneGraham342TM2011,Undrafted,Undrafted,32+
+1160,Jason Hanson\hansojas01,2004,34,2-56,DET,NFL,16,0,Jason Hanson,JasonHanson34DET2004,4,65,32+
+1161,Nick Harris\HarrNi20,2012,34,4-120,DET,NFL,13,0,Nick Harris,NickHarris34DET2012,6,7,32+
+1162,Craig Hentrich\hentrcra01,2005,34,8-200,TEN,NFL,16,0,Craig Hentrich,CraigHentrich34TEN2005,10,39,32+
+1163,Sebastian Janikowski\janikseb01,2012,34,1-17,OAK,NFL,16,0,Sebastian Janikowski,SebastianJanikowski34OAK2012,1,24,32+
+1164,John Jett\JettJo21,2002,34,NA,DET,NFL,16,0,John Jett,JohnJett34DET2002,Undrafted,Undrafted,32+
+1165,Dirk Johnson\JohnDi20,2009,34,NA,TAM,NFL,11,0,Dirk Johnson,DirkJohnson34TAM2009,Undrafted,Undrafted,32+
+1166,Donnie Jones\JoneDo21,2014,34,7-224,PHI,NFL,16,0,Donnie Jones,DonnieJones34PHI2014,9,50,32+
+1167,John Kasay\kasayjoh01,2003,34,4-98,CAR,NFL,16,0,John Kasay,JohnKasay34CAR2003,6,81,32+
+1168,Sam Koch\KochSa20,2016,34,6-203,BAL,NFL,16,0,Sam Koch,SamKoch34BAL2016,8,42,32+
+1169,Shane Lechler\LechSh20,2010,34,5-142,OAK,NFL,16,0,Shane Lechler,ShaneLechler34OAK2010,7,11,32+
+1170,Andy Lee\LeexAn20,2016,34,6-188,CAR,NFL,9,0,Andy Lee,AndyLee34CAR2016,8,34,32+
+1171,Rian Lindell\linderia01,2011,34,NA,BUF,NFL,8,0,Rian Lindell,RianLindell34BUF2011,Undrafted,Undrafted,32+
+1172,Ryan Longwell\longwrya01,2008,34,NA,MIN,NFL,16,0,Ryan Longwell,RyanLongwell34MIN2008,Undrafted,Undrafted,32+
+1173,Olindo Mare\marexoli01,2007,34,NA,NOR,NFL,13,0,Olindo Mare,OlindoMare34NOR2007,Undrafted,Undrafted,32+
+1174,Brad Maynard\MaynBr20,2008,34,3-95,CHI,NFL,16,0,Brad Maynard,BradMaynard34CHI2008,5,79,32+
+1175,Mat McBriar\McBrMa20,2013,34,NA,PIT,NFL,9,0,Mat McBriar,MatMcBriar34PIT2013,Undrafted,Undrafted,32+
+1176,Josh Miller\MillJo25,2004,34,NA,NWE,NFL,16,0,Josh Miller,JoshMiller34NWE2004,Undrafted,Undrafted,32+
+1177,Chris Mohr\MohrCh20,2000,34,6-146,BUF,NFL,16,0,Chris Mohr,ChrisMohr34BUF2000,8,12,32+
+1178,Brian Moorman\MoorBr24,2010,34,NA,BUF,NFL,16,0,Brian Moorman,BrianMoorman34BUF2010,Undrafted,Undrafted,32+
+1179,Joe Nedney\nednejoe01,2007,34,NA,SFO,NFL,16,0,Joe Nedney,JoeNedney34SFO2007,Undrafted,Undrafted,32+
+1180,Nick Novak\novaknic01,2015,34,NA,HOU,NFL,13,0,Nick Novak,NickNovak34HOU2015,Undrafted,Undrafted,32+
+1181,Mike Nugent\nugenmik01,2016,34,2-47,CIN,NFL,13,0,Mike Nugent,MikeNugent34CIN2016,4,64,32+
+1182,Todd Peterson\petertod01,2004,34,7-177,SFO,NFL,16,0,Todd Peterson,ToddPeterson34SFO2004,9,29,32+
+1183,Scott Player\PlaySc20,2003,34,NA,ARI,NFL,16,0,Scott Player,ScottPlayer34ARI2003,Undrafted,Undrafted,32+
+1184,Matt Prater\PratMa20,2018,34,NA,DET,NFL,7,0,Matt Prater,MattPrater34DET2018,Undrafted,Undrafted,32+
+1185,Neil Rackers\rackenei01,2010,34,6-169,HOU,NFL,16,0,Neil Rackers,NeilRackers34HOU2010,8,23,32+
+1186,Saverio Rocca\RoccSa20,2007,34,NA,PHI,NFL,16,0,Saverio Rocca,SaverioRocca34PHI2007,Undrafted,Undrafted,32+
+1187,Tom Rouen\rouentom01,2002,34,NA,3TM,NFL,12,0,Tom Rouen,TomRouen343TM2002,Undrafted,Undrafted,32+
+1188,Jon Ryan\RyanJo21,2015,34,NA,SEA,NFL,16,0,Jon Ryan,JonRyan34SEA2015,Undrafted,Undrafted,32+
+1189,Todd Sauerbrun\SaueTo20,2007,34,2-56,DEN,NFL,14,0,Todd Sauerbrun,ToddSauerbrun34DEN2007,4,65,32+
+1190,Mike Scifres\ScifMi20,2014,34,5-149,SDG,NFL,13,0,Mike Scifres,MikeScifres34SDG2014,7,13,32+
+1191,Matt Stover\stovemat01,2002,34,12-329,BAL,NFL,15,0,Matt Stover,MattStover34BAL2002,3,63,32+
+1192,Tom Tupa\TupaTo20,2000,34,3-68,NYJ,NFL,16,0,Tom Tupa,TomTupa34NYJ2000,5,70,32+
+1193,Matt Turk\TurkMa20,2002,34,NA,NYJ,NFL,16,0,Matt Turk,MattTurk34NYJ2002,Undrafted,Undrafted,32+
+1194,Lawrence Tynes\tyneslaw01,2012,34,NA,NYG,NFL,16,0,Lawrence Tynes,LawrenceTynes34NYG2012,Undrafted,Undrafted,32+
+1195,Mike Vanderjagt\vandemik01,2004,34,NA,IND,NFL,15,0,Mike Vanderjagt,MikeVanderjagt34IND2004,Undrafted,Undrafted,32+
+1196,Adam Vinatieri\vinatada01,2006,34,NA,IND,NFL,13,0,Adam Vinatieri,AdamVinatieri34IND2006,Undrafted,Undrafted,32+
+1197,Ken Walter\WaltKe20,2006,34,NA,NWE,NFL,4,0,Ken Walter,KenWalter34NWE2006,Undrafted,Undrafted,32+
+1198,Jeff Wilkins\wilkijef01,2006,34,NA,STL,NFL,16,0,Jeff Wilkins,JeffWilkins34STL2006,Undrafted,Undrafted,32+
+1199,Dave Zastudil\ZastDa20,2012,34,4-112,ARI,NFL,16,0,Dave Zastudil,DaveZastudil34ARI2012,6,5,32+
+1200,David Akers\akersdav01,2009,35,NA,PHI,NFL,16,0,David Akers,DavidAkers35PHI2009,Undrafted,Undrafted,32+
+1201,Leo Araguz\AragLe20,2005,35,NA,SEA,NFL,4,0,Leo Araguz,LeoAraguz35SEA2005,Undrafted,Undrafted,32+
+1202,Darren Bennett\BennDa20,2000,35,NA,SDG,NFL,16,0,Darren Bennett,DarrenBennett35SDG2000,Undrafted,Undrafted,32+
+1203,Mitch Berger\BergMi20,2007,35,6-193,ARI,NFL,5,0,Mitch Berger,MitchBerger35ARI2007,8,37,32+
+1204,Rob Bironas\bironrob01,2013,35,NA,TEN,NFL,16,0,Rob Bironas,RobBironas35TEN2013,Undrafted,Undrafted,32+
+1205,Doug Brien\briendou01,2005,35,3-85,CHI,NFL,3,0,Doug Brien,DougBrien35CHI2005,5,75,32+
+1206,Josh Brown\brownjos01,2014,35,7-222,NYG,NFL,16,0,Josh Brown,JoshBrown35NYG2014,9,48,32+
+1207,Matt Bryant\bryanmat01,2010,35,NA,ATL,NFL,16,0,Matt Bryant,MattBryant35ATL2010,Undrafted,Undrafted,32+
+1208,Steve Christie\chrisste01,2002,35,NA,SDG,NFL,16,0,Steve Christie,SteveChristie35SDG2002,Undrafted,Undrafted,32+
+1209,Dustin Colquitt\ColqDu20,2017,35,3-99,KAN,NFL,16,0,Dustin Colquitt,DustinColquitt35KAN2017,5,82,32+
+1210,Billy Cundiff\cundibil01,2015,35,NA,BUF,NFL,1,0,Billy Cundiff,BillyCundiff35BUF2015,Undrafted,Undrafted,32+
+1211,Phil Dawson\dawsophi01,2010,35,NA,CLE,NFL,16,0,Phil Dawson,PhilDawson35CLE2010,Undrafted,Undrafted,32+
+1212,Jason Elam\elamxjas01,2005,35,3-70,DEN,NFL,16,0,Jason Elam,JasonElam35DEN2005,5,71,32+
+1213,Jeff Feagles\FeagJe20,2001,35,NA,SEA,NFL,16,0,Jeff Feagles,JeffFeagles35SEA2001,Undrafted,Undrafted,32+
+1214,Jay Feely\feelyjay01,2011,35,NA,ARI,NFL,16,0,Jay Feely,JayFeely35ARI2011,Undrafted,Undrafted,32+
+1215,Chris Gardocki\GardCh20,2005,35,3-78,PIT,NFL,16,0,Chris Gardocki,ChrisGardocki35PIT2005,5,73,32+
+1216,Robbie Gould\gouldrob01,2016,35,NA,NYG,NFL,10,0,Robbie Gould,RobbieGould35NYG2016,Undrafted,Undrafted,32+
+1217,Ben Graham\GrahBe20,2008,35,NA,3TM,NFL,9,0,Ben Graham,BenGraham353TM2008,Undrafted,Undrafted,32+
+1218,Shayne Graham\grahasha01,2012,35,NA,HOU,NFL,16,0,Shayne Graham,ShayneGraham35HOU2012,Undrafted,Undrafted,32+
+1219,Jason Hanson\hansojas01,2005,35,2-56,DET,NFL,15,0,Jason Hanson,JasonHanson35DET2005,4,65,32+
+1220,Craig Hentrich\hentrcra01,2006,35,8-200,TEN,NFL,16,0,Craig Hentrich,CraigHentrich35TEN2006,10,39,32+
+1221,Sebastian Janikowski\janikseb01,2013,35,1-17,OAK,NFL,16,0,Sebastian Janikowski,SebastianJanikowski35OAK2013,1,24,32+
+1222,John Jett\JettJo21,2003,35,NA,DET,NFL,4,0,John Jett,JohnJett35DET2003,Undrafted,Undrafted,32+
+1223,Donnie Jones\JoneDo21,2015,35,7-224,PHI,NFL,16,0,Donnie Jones,DonnieJones35PHI2015,9,50,32+
+1224,John Kasay\kasayjoh01,2004,35,4-98,CAR,NFL,14,0,John Kasay,JohnKasay35CAR2004,6,81,32+
+1225,Sam Koch\KochSa20,2017,35,6-203,BAL,NFL,16,0,Sam Koch,SamKoch35BAL2017,8,42,32+
+1226,Shane Lechler\LechSh20,2011,35,5-142,OAK,NFL,16,0,Shane Lechler,ShaneLechler35OAK2011,7,11,32+
+1227,Andy Lee\LeexAn20,2017,35,6-188,ARI,NFL,16,0,Andy Lee,AndyLee35ARI2017,8,34,32+
+1228,Rian Lindell\linderia01,2012,35,NA,BUF,NFL,16,0,Rian Lindell,RianLindell35BUF2012,Undrafted,Undrafted,32+
+1229,Ryan Longwell\longwrya01,2009,35,NA,MIN,NFL,16,0,Ryan Longwell,RyanLongwell35MIN2009,Undrafted,Undrafted,32+
+1230,Olindo Mare\marexoli01,2008,35,NA,SEA,NFL,16,0,Olindo Mare,OlindoMare35SEA2008,Undrafted,Undrafted,32+
+1231,Brad Maynard\MaynBr20,2009,35,3-95,CHI,NFL,16,0,Brad Maynard,BradMaynard35CHI2009,5,79,32+
+1232,Mat McBriar\McBrMa20,2014,35,NA,SDG,NFL,3,0,Mat McBriar,MatMcBriar35SDG2014,Undrafted,Undrafted,32+
+1233,Josh Miller\MillJo25,2005,35,NA,NWE,NFL,16,0,Josh Miller,JoshMiller35NWE2005,Undrafted,Undrafted,32+
+1234,Chris Mohr\MohrCh20,2001,35,6-146,ATL,NFL,16,0,Chris Mohr,ChrisMohr35ATL2001,8,12,32+
+1235,Brian Moorman\MoorBr24,2011,35,NA,BUF,NFL,16,0,Brian Moorman,BrianMoorman35BUF2011,Undrafted,Undrafted,32+
+1236,Joe Nedney\nednejoe01,2008,35,NA,SFO,NFL,16,0,Joe Nedney,JoeNedney35SFO2008,Undrafted,Undrafted,32+
+1237,Nick Novak\novaknic01,2016,35,NA,HOU,NFL,16,0,Nick Novak,NickNovak35HOU2016,Undrafted,Undrafted,32+
+1238,Mike Nugent\nugenmik01,2017,35,2-47,2TM,NFL,8,0,Mike Nugent,MikeNugent352TM2017,4,64,32+
+1239,Todd Peterson\petertod01,2005,35,7-177,ATL,NFL,16,0,Todd Peterson,ToddPeterson35ATL2005,9,29,32+
+1240,Scott Player\PlaySc20,2004,35,NA,ARI,NFL,16,0,Scott Player,ScottPlayer35ARI2004,Undrafted,Undrafted,32+
+1241,Neil Rackers\rackenei01,2011,35,6-169,HOU,NFL,16,0,Neil Rackers,NeilRackers35HOU2011,8,23,32+
+1242,Saverio Rocca\RoccSa20,2008,35,NA,PHI,NFL,16,0,Saverio Rocca,SaverioRocca35PHI2008,Undrafted,Undrafted,32+
+1243,Tom Rouen\rouentom01,2003,35,NA,SEA,NFL,16,0,Tom Rouen,TomRouen35SEA2003,Undrafted,Undrafted,32+
+1244,Mark Royals\RoyaMa20,2000,35,NA,TAM,NFL,16,0,Mark Royals,MarkRoyals35TAM2000,Undrafted,Undrafted,32+
+1245,Jon Ryan\RyanJo21,2016,35,NA,SEA,NFL,16,0,Jon Ryan,JonRyan35SEA2016,Undrafted,Undrafted,32+
+1246,Mike Scifres\ScifMi20,2015,35,5-149,SDG,NFL,16,0,Mike Scifres,MikeScifres35SDG2015,7,13,32+
+1247,Matt Stover\stovemat01,2003,35,12-329,BAL,NFL,16,0,Matt Stover,MattStover35BAL2003,3,63,32+
+1248,Dan Stryzinski\StryDa20,2000,35,NA,ATL,NFL,16,0,Dan Stryzinski,DanStryzinski35ATL2000,Undrafted,Undrafted,32+
+1249,Matt Turk\TurkMa20,2003,35,NA,MIA,NFL,13,0,Matt Turk,MattTurk35MIA2003,Undrafted,Undrafted,32+
+1250,Mike Vanderjagt\vandemik01,2005,35,NA,IND,NFL,16,0,Mike Vanderjagt,MikeVanderjagt35IND2005,Undrafted,Undrafted,32+
+1251,Adam Vinatieri\vinatada01,2007,35,NA,IND,NFL,16,0,Adam Vinatieri,AdamVinatieri35IND2007,Undrafted,Undrafted,32+
+1252,Jeff Wilkins\wilkijef01,2007,35,NA,STL,NFL,16,0,Jeff Wilkins,JeffWilkins35STL2007,Undrafted,Undrafted,32+
+1253,Dave Zastudil\ZastDa20,2013,35,4-112,ARI,NFL,16,0,Dave Zastudil,DaveZastudil35ARI2013,6,5,32+
+1254,David Akers\akersdav01,2010,36,NA,PHI,NFL,16,0,David Akers,DavidAkers36PHI2010,Undrafted,Undrafted,32+
+1255,Bryan Barker\BarkBr20,2000,36,NA,JAX,NFL,16,0,Bryan Barker,BryanBarker36JAX2000,Undrafted,Undrafted,32+
+1256,Darren Bennett\BennDa20,2001,36,NA,SDG,NFL,16,0,Darren Bennett,DarrenBennett36SDG2001,Undrafted,Undrafted,32+
+1257,Mitch Berger\BergMi20,2008,36,6-193,PIT,NFL,13,0,Mitch Berger,MitchBerger36PIT2008,8,37,32+
+1258,Josh Brown\brownjos01,2015,36,7-222,NYG,NFL,16,0,Josh Brown,JoshBrown36NYG2015,9,48,32+
+1259,Matt Bryant\bryanmat01,2011,36,NA,ATL,NFL,16,0,Matt Bryant,MattBryant36ATL2011,Undrafted,Undrafted,32+
+1260,John Carney\carnejoh01,2000,36,NA,SDG,NFL,16,0,John Carney,JohnCarney36SDG2000,Undrafted,Undrafted,32+
+1261,Steve Christie\chrisste01,2003,36,NA,SDG,NFL,16,0,Steve Christie,SteveChristie36SDG2003,Undrafted,Undrafted,32+
+1262,Dustin Colquitt\ColqDu20,2018,36,3-99,KAN,NFL,8,0,Dustin Colquitt,DustinColquitt36KAN2018,5,82,32+
+1263,Phil Dawson\dawsophi01,2011,36,NA,CLE,NFL,16,0,Phil Dawson,PhilDawson36CLE2011,Undrafted,Undrafted,32+
+1264,Jason Elam\elamxjas01,2006,36,3-70,DEN,NFL,16,0,Jason Elam,JasonElam36DEN2006,5,71,32+
+1265,Jeff Feagles\FeagJe20,2002,36,NA,SEA,NFL,16,0,Jeff Feagles,JeffFeagles36SEA2002,Undrafted,Undrafted,32+
+1266,Jay Feely\feelyjay01,2012,36,NA,ARI,NFL,16,0,Jay Feely,JayFeely36ARI2012,Undrafted,Undrafted,32+
+1267,Chris Gardocki\GardCh20,2006,36,3-78,PIT,NFL,16,0,Chris Gardocki,ChrisGardocki36PIT2006,5,73,32+
+1268,Robbie Gould\gouldrob01,2017,36,NA,SFO,NFL,16,0,Robbie Gould,RobbieGould36SFO2017,Undrafted,Undrafted,32+
+1269,Ben Graham\GrahBe20,2009,36,NA,ARI,NFL,16,0,Ben Graham,BenGraham36ARI2009,Undrafted,Undrafted,32+
+1270,Shayne Graham\grahasha01,2013,36,NA,NOR,NFL,2,0,Shayne Graham,ShayneGraham36NOR2013,Undrafted,Undrafted,32+
+1271,Jason Hanson\hansojas01,2006,36,2-56,DET,NFL,16,0,Jason Hanson,JasonHanson36DET2006,4,65,32+
+1272,Craig Hentrich\hentrcra01,2007,36,8-200,TEN,NFL,15,0,Craig Hentrich,CraigHentrich36TEN2007,10,39,32+
+1273,Sebastian Janikowski\janikseb01,2014,36,1-17,OAK,NFL,16,0,Sebastian Janikowski,SebastianJanikowski36OAK2014,1,24,32+
+1274,Donnie Jones\JoneDo21,2016,36,7-224,PHI,NFL,16,0,Donnie Jones,DonnieJones36PHI2016,9,50,32+
+1275,John Kasay\kasayjoh01,2005,36,4-98,CAR,NFL,16,0,John Kasay,JohnKasay36CAR2005,6,81,32+
+1276,Sam Koch\KochSa20,2018,36,6-203,BAL,NFL,8,0,Sam Koch,SamKoch36BAL2018,8,42,32+
+1277,Shane Lechler\LechSh20,2012,36,5-142,OAK,NFL,16,0,Shane Lechler,ShaneLechler36OAK2012,7,11,32+
+1278,Andy Lee\LeexAn20,2018,36,6-188,ARI,NFL,8,0,Andy Lee,AndyLee36ARI2018,8,34,32+
+1279,Rian Lindell\linderia01,2013,36,NA,TAM,NFL,16,0,Rian Lindell,RianLindell36TAM2013,Undrafted,Undrafted,32+
+1280,Ryan Longwell\longwrya01,2010,36,NA,MIN,NFL,16,0,Ryan Longwell,RyanLongwell36MIN2010,Undrafted,Undrafted,32+
+1281,Olindo Mare\marexoli01,2009,36,NA,SEA,NFL,16,0,Olindo Mare,OlindoMare36SEA2009,Undrafted,Undrafted,32+
+1282,Brad Maynard\MaynBr20,2010,36,3-95,CHI,NFL,16,0,Brad Maynard,BradMaynard36CHI2010,5,79,32+
+1283,Josh Miller\MillJo25,2006,36,NA,NWE,NFL,10,0,Josh Miller,JoshMiller36NWE2006,Undrafted,Undrafted,32+
+1284,Chris Mohr\MohrCh20,2002,36,6-146,ATL,NFL,16,0,Chris Mohr,ChrisMohr36ATL2002,8,12,32+
+1285,Brian Moorman\MoorBr24,2012,36,NA,2TM,NFL,15,0,Brian Moorman,BrianMoorman362TM2012,Undrafted,Undrafted,32+
+1286,Joe Nedney\nednejoe01,2009,36,NA,SFO,NFL,14,0,Joe Nedney,JoeNedney36SFO2009,Undrafted,Undrafted,32+
+1287,Nick Novak\novaknic01,2017,36,NA,LAC,NFL,7,0,Nick Novak,NickNovak36LAC2017,Undrafted,Undrafted,32+
+1288,Mike Nugent\nugenmik01,2018,36,2-47,OAK,NFL,3,0,Mike Nugent,MikeNugent36OAK2018,4,64,32+
+1289,Scott Player\PlaySc20,2005,36,NA,ARI,NFL,16,0,Scott Player,ScottPlayer36ARI2005,Undrafted,Undrafted,32+
+1290,Saverio Rocca\RoccSa20,2009,36,NA,PHI,NFL,16,0,Saverio Rocca,SaverioRocca36PHI2009,Undrafted,Undrafted,32+
+1291,Tom Rouen\rouentom01,2004,36,NA,SEA,NFL,4,0,Tom Rouen,TomRouen36SEA2004,Undrafted,Undrafted,32+
+1292,Mark Royals\RoyaMa20,2001,36,NA,TAM,NFL,16,0,Mark Royals,MarkRoyals36TAM2001,Undrafted,Undrafted,32+
+1293,Jon Ryan\RyanJo21,2017,36,NA,SEA,NFL,16,0,Jon Ryan,JonRyan36SEA2017,Undrafted,Undrafted,32+
+1294,Matt Stover\stovemat01,2004,36,12-329,BAL,NFL,16,0,Matt Stover,MattStover36BAL2004,3,63,32+
+1295,Dan Stryzinski\StryDa20,2001,36,NA,KAN,NFL,16,0,Dan Stryzinski,DanStryzinski36KAN2001,Undrafted,Undrafted,32+
+1296,Tom Tupa\TupaTo20,2002,36,3-68,TAM,NFL,16,0,Tom Tupa,TomTupa36TAM2002,5,70,32+
+1297,Matt Turk\TurkMa20,2004,36,NA,MIA,NFL,16,0,Matt Turk,MattTurk36MIA2004,Undrafted,Undrafted,32+
+1298,Mike Vanderjagt\vandemik01,2006,36,NA,DAL,NFL,10,0,Mike Vanderjagt,MikeVanderjagt36DAL2006,Undrafted,Undrafted,32+
+1299,Adam Vinatieri\vinatada01,2008,36,NA,IND,NFL,16,0,Adam Vinatieri,AdamVinatieri36IND2008,Undrafted,Undrafted,32+
+1300,Dave Zastudil\ZastDa20,2014,36,4-112,ARI,NFL,2,0,Dave Zastudil,DaveZastudil36ARI2014,6,5,32+
+1301,David Akers\akersdav01,2011,37,NA,SFO,NFL,16,0,David Akers,DavidAkers37SFO2011,Undrafted,Undrafted,32+
+1302,Bryan Barker\BarkBr20,2001,37,NA,WAS,NFL,16,0,Bryan Barker,BryanBarker37WAS2001,Undrafted,Undrafted,32+
+1303,Tommy Barnhardt\BarnTo22,2000,37,9-223,WAS,NFL,16,0,Tommy Barnhardt,TommyBarnhardt37WAS2000,11,49,32+
+1304,Darren Bennett\BennDa20,2002,37,NA,SDG,NFL,16,0,Darren Bennett,DarrenBennett37SDG2002,Undrafted,Undrafted,32+
+1305,Mitch Berger\BergMi20,2009,37,6-193,DEN,NFL,10,0,Mitch Berger,MitchBerger37DEN2009,8,37,32+
+1306,Josh Brown\brownjos01,2016,37,7-222,NYG,NFL,5,0,Josh Brown,JoshBrown37NYG2016,9,48,32+
+1307,Matt Bryant\bryanmat01,2012,37,NA,ATL,NFL,16,0,Matt Bryant,MattBryant37ATL2012,Undrafted,Undrafted,32+
+1308,John Carney\carnejoh01,2001,37,NA,NOR,NFL,15,0,John Carney,JohnCarney37NOR2001,Undrafted,Undrafted,32+
+1309,Steve Christie\chrisste01,2004,37,NA,NYG,NFL,16,0,Steve Christie,SteveChristie37NYG2004,Undrafted,Undrafted,32+
+1310,Phil Dawson\dawsophi01,2012,37,NA,CLE,NFL,16,0,Phil Dawson,PhilDawson37CLE2012,Undrafted,Undrafted,32+
+1311,Jason Elam\elamxjas01,2007,37,3-70,DEN,NFL,16,0,Jason Elam,JasonElam37DEN2007,5,71,32+
+1312,Jeff Feagles\FeagJe20,2003,37,NA,NYG,NFL,16,0,Jeff Feagles,JeffFeagles37NYG2003,Undrafted,Undrafted,32+
+1313,Jay Feely\feelyjay01,2013,37,NA,ARI,NFL,16,0,Jay Feely,JayFeely37ARI2013,Undrafted,Undrafted,32+
+1314,Robbie Gould\gouldrob01,2018,37,NA,SFO,NFL,9,0,Robbie Gould,RobbieGould37SFO2018,Undrafted,Undrafted,32+
+1315,Ben Graham\GrahBe20,2010,37,NA,ARI,NFL,16,0,Ben Graham,BenGraham37ARI2010,Undrafted,Undrafted,32+
+1316,Shayne Graham\grahasha01,2014,37,NA,NOR,NFL,16,0,Shayne Graham,ShayneGraham37NOR2014,Undrafted,Undrafted,32+
+1317,Jason Hanson\hansojas01,2007,37,2-56,DET,NFL,16,0,Jason Hanson,JasonHanson37DET2007,4,65,32+
+1318,Craig Hentrich\hentrcra01,2008,37,8-200,TEN,NFL,16,0,Craig Hentrich,CraigHentrich37TEN2008,10,39,32+
+1319,Sebastian Janikowski\janikseb01,2015,37,1-17,OAK,NFL,16,0,Sebastian Janikowski,SebastianJanikowski37OAK2015,1,24,32+
+1320,Donnie Jones\JoneDo21,2017,37,7-224,PHI,NFL,16,0,Donnie Jones,DonnieJones37PHI2017,9,50,32+
+1321,John Kasay\kasayjoh01,2006,37,4-98,CAR,NFL,16,0,John Kasay,JohnKasay37CAR2006,6,81,32+
+1322,Shane Lechler\LechSh20,2013,37,5-142,HOU,NFL,16,0,Shane Lechler,ShaneLechler37HOU2013,7,11,32+
+1323,Ryan Longwell\longwrya01,2011,37,NA,MIN,NFL,16,0,Ryan Longwell,RyanLongwell37MIN2011,Undrafted,Undrafted,32+
+1324,Olindo Mare\marexoli01,2010,37,NA,SEA,NFL,16,0,Olindo Mare,OlindoMare37SEA2010,Undrafted,Undrafted,32+
+1325,Brad Maynard\MaynBr20,2011,37,3-95,CLE,NFL,15,0,Brad Maynard,BradMaynard37CLE2011,5,79,32+
+1326,Josh Miller\MillJo25,2007,37,NA,TEN,NFL,1,0,Josh Miller,JoshMiller37TEN2007,Undrafted,Undrafted,32+
+1327,Chris Mohr\MohrCh20,2003,37,6-146,ATL,NFL,16,0,Chris Mohr,ChrisMohr37ATL2003,8,12,32+
+1328,Brian Moorman\MoorBr24,2013,37,NA,BUF,NFL,11,0,Brian Moorman,BrianMoorman37BUF2013,Undrafted,Undrafted,32+
+1329,Joe Nedney\nednejoe01,2010,37,NA,SFO,NFL,9,0,Joe Nedney,JoeNedney37SFO2010,Undrafted,Undrafted,32+
+1330,Scott Player\PlaySc20,2006,37,NA,ARI,NFL,16,0,Scott Player,ScottPlayer37ARI2006,Undrafted,Undrafted,32+
+1331,Saverio Rocca\RoccSa20,2010,37,NA,PHI,NFL,16,0,Saverio Rocca,SaverioRocca37PHI2010,Undrafted,Undrafted,32+
+1332,Tom Rouen\rouentom01,2005,37,NA,SEA,NFL,12,0,Tom Rouen,TomRouen37SEA2005,Undrafted,Undrafted,32+
+1333,Mark Royals\RoyaMa20,2002,37,NA,MIA,NFL,16,0,Mark Royals,MarkRoyals37MIA2002,Undrafted,Undrafted,32+
+1334,Matt Stover\stovemat01,2005,37,12-329,BAL,NFL,16,0,Matt Stover,MattStover37BAL2005,3,63,32+
+1335,Dan Stryzinski\StryDa20,2002,37,NA,KAN,NFL,16,0,Dan Stryzinski,DanStryzinski37KAN2002,Undrafted,Undrafted,32+
+1336,Tom Tupa\TupaTo20,2003,37,3-68,TAM,NFL,16,0,Tom Tupa,TomTupa37TAM2003,5,70,32+
+1337,Adam Vinatieri\vinatada01,2009,37,NA,IND,NFL,6,0,Adam Vinatieri,AdamVinatieri37IND2009,Undrafted,Undrafted,32+
+1338,David Akers\akersdav01,2012,38,NA,SFO,NFL,16,0,David Akers,DavidAkers38SFO2012,Undrafted,Undrafted,32+
+1339,Bryan Barker\BarkBr20,2002,38,NA,WAS,NFL,12,0,Bryan Barker,BryanBarker38WAS2002,Undrafted,Undrafted,32+
+1340,Darren Bennett\BennDa20,2003,38,NA,SDG,NFL,16,0,Darren Bennett,DarrenBennett38SDG2003,Undrafted,Undrafted,32+
+1341,Matt Bryant\bryanmat01,2013,38,NA,ATL,NFL,16,0,Matt Bryant,MattBryant38ATL2013,Undrafted,Undrafted,32+
+1342,John Carney\carnejoh01,2002,38,NA,NOR,NFL,16,0,John Carney,JohnCarney38NOR2002,Undrafted,Undrafted,32+
+1343,Phil Dawson\dawsophi01,2013,38,NA,SFO,NFL,16,0,Phil Dawson,PhilDawson38SFO2013,Undrafted,Undrafted,32+
+1344,Al Del Greco\delgralx01,2000,38,NA,TEN,NFL,16,0,Al Del Greco,AlDel Greco38TEN2000,Undrafted,Undrafted,32+
+1345,Jason Elam\elamxjas01,2008,38,3-70,ATL,NFL,16,0,Jason Elam,JasonElam38ATL2008,5,71,32+
+1346,Jeff Feagles\FeagJe20,2004,38,NA,NYG,NFL,16,0,Jeff Feagles,JeffFeagles38NYG2004,Undrafted,Undrafted,32+
+1347,Jay Feely\feelyjay01,2014,38,NA,CHI,NFL,4,0,Jay Feely,JayFeely38CHI2014,Undrafted,Undrafted,32+
+1348,Ben Graham\GrahBe20,2011,38,NA,2TM,NFL,8,0,Ben Graham,BenGraham382TM2011,Undrafted,Undrafted,32+
+1349,Shayne Graham\grahasha01,2015,38,NA,ATL,NFL,5,0,Shayne Graham,ShayneGraham38ATL2015,Undrafted,Undrafted,32+
+1350,Jason Hanson\hansojas01,2008,38,2-56,DET,NFL,16,0,Jason Hanson,JasonHanson38DET2008,4,65,32+
+1351,Craig Hentrich\hentrcra01,2009,38,8-200,TEN,NFL,2,0,Craig Hentrich,CraigHentrich38TEN2009,10,39,32+
+1352,Sebastian Janikowski\janikseb01,2016,38,1-17,OAK,NFL,16,0,Sebastian Janikowski,SebastianJanikowski38OAK2016,1,24,32+
+1353,Donnie Jones\JoneDo21,2018,38,7-224,LAC,NFL,3,0,Donnie Jones,DonnieJones38LAC2018,9,50,32+
+1354,John Kasay\kasayjoh01,2007,38,4-98,CAR,NFL,16,0,John Kasay,JohnKasay38CAR2007,6,81,32+
+1355,Sean Landeta\LandSe20,2000,38,NA,PHI,NFL,16,0,Sean Landeta,SeanLandeta38PHI2000,Undrafted,Undrafted,32+
+1356,Shane Lechler\LechSh20,2014,38,5-142,HOU,NFL,16,0,Shane Lechler,ShaneLechler38HOU2014,7,11,32+
+1357,Olindo Mare\marexoli01,2011,38,NA,CAR,NFL,16,0,Olindo Mare,OlindoMare38CAR2011,Undrafted,Undrafted,32+
+1358,Chris Mohr\MohrCh20,2004,38,6-146,ATL,NFL,16,0,Chris Mohr,ChrisMohr38ATL2004,8,12,32+
+1359,Scott Player\PlaySc20,2007,38,NA,CLE,NFL,3,0,Scott Player,ScottPlayer38CLE2007,Undrafted,Undrafted,32+
+1360,Saverio Rocca\RoccSa20,2011,38,NA,WAS,NFL,16,0,Saverio Rocca,SaverioRocca38WAS2011,Undrafted,Undrafted,32+
+1361,Mark Royals\RoyaMa20,2003,38,NA,2TM,NFL,14,0,Mark Royals,MarkRoyals382TM2003,Undrafted,Undrafted,32+
+1362,Matt Stover\stovemat01,2006,38,12-329,BAL,NFL,16,0,Matt Stover,MattStover38BAL2006,3,63,32+
+1363,Dan Stryzinski\StryDa20,2003,38,NA,NYJ,NFL,16,0,Dan Stryzinski,DanStryzinski38NYJ2003,Undrafted,Undrafted,32+
+1364,Tom Tupa\TupaTo20,2004,38,3-68,WAS,NFL,16,0,Tom Tupa,TomTupa38WAS2004,5,70,32+
+1365,Matt Turk\TurkMa20,2006,38,NA,STL,NFL,16,0,Matt Turk,MattTurk38STL2006,Undrafted,Undrafted,32+
+1366,Adam Vinatieri\vinatada01,2010,38,NA,IND,NFL,16,0,Adam Vinatieri,AdamVinatieri38IND2010,Undrafted,Undrafted,32+
+1367,David Akers\akersdav01,2013,39,NA,DET,NFL,16,0,David Akers,DavidAkers39DET2013,Undrafted,Undrafted,32+
+1368,Bryan Barker\BarkBr20,2003,39,NA,WAS,NFL,16,0,Bryan Barker,BryanBarker39WAS2003,Undrafted,Undrafted,32+
+1369,Darren Bennett\BennDa20,2004,39,NA,MIN,NFL,15,0,Darren Bennett,DarrenBennett39MIN2004,Undrafted,Undrafted,32+
+1370,Matt Bryant\bryanmat01,2014,39,NA,ATL,NFL,16,0,Matt Bryant,MattBryant39ATL2014,Undrafted,Undrafted,32+
+1371,John Carney\carnejoh01,2003,39,NA,NOR,NFL,16,0,John Carney,JohnCarney39NOR2003,Undrafted,Undrafted,32+
+1372,Phil Dawson\dawsophi01,2014,39,NA,SFO,NFL,16,0,Phil Dawson,PhilDawson39SFO2014,Undrafted,Undrafted,32+
+1373,Jason Elam\elamxjas01,2009,39,3-70,ATL,NFL,11,0,Jason Elam,JasonElam39ATL2009,5,71,32+
+1374,Jeff Feagles\FeagJe20,2005,39,NA,NYG,NFL,16,0,Jeff Feagles,JeffFeagles39NYG2005,Undrafted,Undrafted,32+
+1375,Ben Graham\GrahBe20,2012,39,NA,DET,NFL,3,0,Ben Graham,BenGraham39DET2012,Undrafted,Undrafted,32+
+1376,Jason Hanson\hansojas01,2009,39,2-56,DET,NFL,16,0,Jason Hanson,JasonHanson39DET2009,4,65,32+
+1377,Lee Johnson\johnslee01,2000,39,5-138,NWE,NFL,16,0,Lee Johnson,LeeJohnson39NWE2000,7,10,32+
+1378,John Kasay\kasayjoh01,2008,39,4-98,CAR,NFL,16,0,John Kasay,JohnKasay39CAR2008,6,81,32+
+1379,Sean Landeta\LandSe20,2001,39,NA,PHI,NFL,16,0,Sean Landeta,SeanLandeta39PHI2001,Undrafted,Undrafted,32+
+1380,Shane Lechler\LechSh20,2015,39,5-142,HOU,NFL,16,0,Shane Lechler,ShaneLechler39HOU2015,7,11,32+
+1381,Olindo Mare\marexoli01,2012,39,NA,CHI,NFL,3,0,Olindo Mare,OlindoMare39CHI2012,Undrafted,Undrafted,32+
+1382,Saverio Rocca\RoccSa20,2012,39,NA,WAS,NFL,16,0,Saverio Rocca,SaverioRocca39WAS2012,Undrafted,Undrafted,32+
+1383,Matt Stover\stovemat01,2007,39,12-329,BAL,NFL,16,0,Matt Stover,MattStover39BAL2007,3,63,32+
+1384,Matt Turk\TurkMa20,2007,39,NA,HOU,NFL,16,0,Matt Turk,MattTurk39HOU2007,Undrafted,Undrafted,32+
+1385,Adam Vinatieri\vinatada01,2011,39,NA,IND,NFL,16,0,Adam Vinatieri,AdamVinatieri39IND2011,Undrafted,Undrafted,32+
+1386,Morten Andersen*\andermor01,2000,40,4-86,ATL,NFL,16,0,Morten Andersen*,MortenAndersen*40ATL2000,6,76,32+
+1387,Bryan Barker\BarkBr20,2004,40,NA,GNB,NFL,16,0,Bryan Barker,BryanBarker40GNB2004,Undrafted,Undrafted,32+
+1388,Darren Bennett\BennDa20,2005,40,NA,MIN,NFL,1,0,Darren Bennett,DarrenBennett40MIN2005,Undrafted,Undrafted,32+
+1389,Matt Bryant\bryanmat01,2015,40,NA,ATL,NFL,11,0,Matt Bryant,MattBryant40ATL2015,Undrafted,Undrafted,32+
+1390,John Carney\carnejoh01,2004,40,NA,NOR,NFL,16,0,John Carney,JohnCarney40NOR2004,Undrafted,Undrafted,32+
+1391,Phil Dawson\dawsophi01,2015,40,NA,SFO,NFL,16,0,Phil Dawson,PhilDawson40SFO2015,Undrafted,Undrafted,32+
+1392,Jeff Feagles\FeagJe20,2006,40,NA,NYG,NFL,16,0,Jeff Feagles,JeffFeagles40NYG2006,Undrafted,Undrafted,32+
+1393,Jason Hanson\hansojas01,2010,40,2-56,DET,NFL,8,0,Jason Hanson,JasonHanson40DET2010,4,65,32+
+1394,Sebastian Janikowski\janikseb01,2018,40,1-17,SEA,NFL,7,0,Sebastian Janikowski,SebastianJanikowski40SEA2018,1,24,32+
+1395,Lee Johnson\johnslee01,2001,40,5-138,2TM,NFL,9,0,Lee Johnson,LeeJohnson402TM2001,7,10,32+
+1396,John Kasay\kasayjoh01,2009,40,4-98,CAR,NFL,16,0,John Kasay,JohnKasay40CAR2009,6,81,32+
+1397,Sean Landeta\LandSe20,2002,40,NA,PHI,NFL,12,0,Sean Landeta,SeanLandeta40PHI2002,Undrafted,Undrafted,32+
+1398,Shane Lechler\LechSh20,2016,40,5-142,HOU,NFL,16,0,Shane Lechler,ShaneLechler40HOU2016,7,11,32+
+1399,Saverio Rocca\RoccSa20,2013,40,NA,WAS,NFL,16,0,Saverio Rocca,SaverioRocca40WAS2013,Undrafted,Undrafted,32+
+1400,Matt Stover\stovemat01,2008,40,12-329,BAL,NFL,16,0,Matt Stover,MattStover40BAL2008,3,63,32+
+1401,Matt Turk\TurkMa20,2008,40,NA,HOU,NFL,16,0,Matt Turk,MattTurk40HOU2008,Undrafted,Undrafted,32+
+1402,Adam Vinatieri\vinatada01,2012,40,NA,IND,NFL,16,0,Adam Vinatieri,AdamVinatieri40IND2012,Undrafted,Undrafted,32+
+1403,Morten Andersen*\andermor01,2001,41,4-86,NYG,NFL,16,0,Morten Andersen*,MortenAndersen*41NYG2001,6,76,32+
+1404,Gary Anderson\andergar02,2000,41,7-171,MIN,NFL,16,0,Gary Anderson,GaryAnderson41MIN2000,9,25,32+
+1405,Bryan Barker\BarkBr20,2005,41,NA,STL,NFL,11,0,Bryan Barker,BryanBarker41STL2005,Undrafted,Undrafted,32+
+1406,Matt Bryant\bryanmat01,2016,41,NA,ATL,NFL,16,0,Matt Bryant,MattBryant41ATL2016,Undrafted,Undrafted,32+
+1407,John Carney\carnejoh01,2005,41,NA,NOR,NFL,16,0,John Carney,JohnCarney41NOR2005,Undrafted,Undrafted,32+
+1408,Phil Dawson\dawsophi01,2016,41,NA,SFO,NFL,16,0,Phil Dawson,PhilDawson41SFO2016,Undrafted,Undrafted,32+
+1409,Jeff Feagles\FeagJe20,2007,41,NA,NYG,NFL,16,0,Jeff Feagles,JeffFeagles41NYG2007,Undrafted,Undrafted,32+
+1410,Jason Hanson\hansojas01,2011,41,2-56,DET,NFL,16,0,Jason Hanson,JasonHanson41DET2011,4,65,32+
+1411,Lee Johnson\johnslee01,2002,41,5-138,PHI,NFL,2,0,Lee Johnson,LeeJohnson41PHI2002,7,10,32+
+1412,John Kasay\kasayjoh01,2010,41,4-98,CAR,NFL,16,0,John Kasay,JohnKasay41CAR2010,6,81,32+
+1413,Sean Landeta\LandSe20,2003,41,NA,STL,NFL,16,0,Sean Landeta,SeanLandeta41STL2003,Undrafted,Undrafted,32+
+1414,Shane Lechler\LechSh20,2017,41,5-142,HOU,NFL,16,0,Shane Lechler,ShaneLechler41HOU2017,7,11,32+
+1415,Matt Stover\stovemat01,2009,41,12-329,IND,NFL,10,0,Matt Stover,MattStover41IND2009,3,63,32+
+1416,Matt Turk\TurkMa20,2009,41,NA,HOU,NFL,16,0,Matt Turk,MattTurk41HOU2009,Undrafted,Undrafted,32+
+1417,Adam Vinatieri\vinatada01,2013,41,NA,IND,NFL,15,0,Adam Vinatieri,AdamVinatieri41IND2013,Undrafted,Undrafted,32+
+1418,Morten Andersen*\andermor01,2002,42,4-86,KAN,NFL,14,0,Morten Andersen*,MortenAndersen*42KAN2002,6,76,32+
+1419,Gary Anderson\andergar02,2001,42,7-171,MIN,NFL,16,0,Gary Anderson,GaryAnderson42MIN2001,9,25,32+
+1420,Matt Bryant\bryanmat01,2017,42,NA,ATL,NFL,16,0,Matt Bryant,MattBryant42ATL2017,Undrafted,Undrafted,32+
+1421,John Carney\carnejoh01,2006,42,NA,NOR,NFL,16,0,John Carney,JohnCarney42NOR2006,Undrafted,Undrafted,32+
+1422,Phil Dawson\dawsophi01,2017,42,NA,ARI,NFL,16,0,Phil Dawson,PhilDawson42ARI2017,Undrafted,Undrafted,32+
+1423,Jeff Feagles\FeagJe20,2008,42,NA,NYG,NFL,16,0,Jeff Feagles,JeffFeagles42NYG2008,Undrafted,Undrafted,32+
+1424,Jason Hanson\hansojas01,2012,42,2-56,DET,NFL,16,0,Jason Hanson,JasonHanson42DET2012,4,65,32+
+1425,John Kasay\kasayjoh01,2011,42,4-98,NOR,NFL,16,0,John Kasay,JohnKasay42NOR2011,6,81,32+
+1426,Sean Landeta\LandSe20,2004,42,NA,STL,NFL,10,0,Sean Landeta,SeanLandeta42STL2004,Undrafted,Undrafted,32+
+1427,Matt Turk\TurkMa20,2010,42,NA,HOU,NFL,16,0,Matt Turk,MattTurk42HOU2010,Undrafted,Undrafted,32+
+1428,Adam Vinatieri\vinatada01,2014,42,NA,IND,NFL,16,0,Adam Vinatieri,AdamVinatieri42IND2014,Undrafted,Undrafted,32+
+1429,Morten Andersen*\andermor01,2003,43,4-86,KAN,NFL,16,0,Morten Andersen*,MortenAndersen*43KAN2003,6,76,32+
+1430,Gary Anderson\andergar02,2002,43,7-171,MIN,NFL,14,0,Gary Anderson,GaryAnderson43MIN2002,9,25,32+
+1431,Matt Bryant\bryanmat01,2018,43,NA,ATL,NFL,6,0,Matt Bryant,MattBryant43ATL2018,Undrafted,Undrafted,32+
+1432,John Carney\carnejoh01,2007,43,NA,2TM,NFL,13,0,John Carney,JohnCarney432TM2007,Undrafted,Undrafted,32+
+1433,Phil Dawson\dawsophi01,2018,43,NA,ARI,NFL,8,0,Phil Dawson,PhilDawson43ARI2018,Undrafted,Undrafted,32+
+1434,Jeff Feagles\FeagJe20,2009,43,NA,NYG,NFL,16,0,Jeff Feagles,JeffFeagles43NYG2009,Undrafted,Undrafted,32+
+1435,Doug Flutie\FlutDo00,2005,43,11-285,NWE,NFL,5,0,Doug Flutie,DougFlutie43NWE2005,2,62,32+
+1436,Sean Landeta\LandSe20,2005,43,NA,PHI,NFL,5,0,Sean Landeta,SeanLandeta43PHI2005,Undrafted,Undrafted,32+
+1437,Matt Turk\TurkMa20,2011,43,NA,2TM,NFL,9,0,Matt Turk,MattTurk432TM2011,Undrafted,Undrafted,32+
+1438,Adam Vinatieri\vinatada01,2015,43,NA,IND,NFL,16,0,Adam Vinatieri,AdamVinatieri43IND2015,Undrafted,Undrafted,32+
+1439,Morten Andersen*\andermor01,2004,44,4-86,MIN,NFL,16,0,Morten Andersen*,MortenAndersen*44MIN2004,6,76,32+
+1440,Gary Anderson\andergar02,2003,44,7-171,TEN,NFL,15,0,Gary Anderson,GaryAnderson44TEN2003,9,25,32+
+1441,John Carney\carnejoh01,2008,44,NA,NYG,NFL,15,0,John Carney,JohnCarney44NYG2008,Undrafted,Undrafted,32+
+1442,Eddie Murray\murraedd01,2000,44,7-166,WAS,NFL,6,0,Eddie Murray,EddieMurray44WAS2000,9,21,32+
+1443,Adam Vinatieri\vinatada01,2016,44,NA,IND,NFL,16,0,Adam Vinatieri,AdamVinatieri44IND2016,Undrafted,Undrafted,32+
+1444,Gary Anderson\andergar02,2004,45,7-171,TEN,NFL,15,0,Gary Anderson,GaryAnderson45TEN2004,9,25,32+
+1445,John Carney\carnejoh01,2009,45,NA,NOR,NFL,11,0,John Carney,JohnCarney45NOR2009,Undrafted,Undrafted,32+
+1446,Adam Vinatieri\vinatada01,2017,45,NA,IND,NFL,15,0,Adam Vinatieri,AdamVinatieri45IND2017,Undrafted,Undrafted,32+
+1447,Morten Andersen*\andermor01,2006,46,4-86,ATL,NFL,14,0,Morten Andersen*,MortenAndersen*46ATL2006,6,76,32+
+1448,John Carney\carnejoh01,2010,46,NA,NOR,NFL,2,0,John Carney,JohnCarney46NOR2010,Undrafted,Undrafted,32+
+1449,Adam Vinatieri\vinatada01,2018,46,NA,IND,NFL,8,0,Adam Vinatieri,AdamVinatieri46IND2018,Undrafted,Undrafted,32+
+1450,Morten Andersen*\andermor01,2007,47,4-86,ATL,NFL,14,0,Morten Andersen*,MortenAndersen*47ATL2007,6,76,32+
